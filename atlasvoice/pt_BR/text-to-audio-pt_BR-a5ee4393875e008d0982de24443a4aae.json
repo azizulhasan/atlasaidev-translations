@@ -1,0 +1,233 @@
+{
+  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-settings.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Click To Know How It Works?": [
+        "Clique Para Saber Como Funciona?"
+      ],
+      "Loading...": [
+        "Carregando..."
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Exibir botão em múltiplos posts não é suportado na versão gratuita."
+      ],
+      "Select Items...": [
+        "Selecionar Itens..."
+      ],
+      "Preview on Your Site": [
+        "Visualizar no Seu Site"
+      ],
+      "Help information about this setting": [
+        "Informações de ajuda sobre esta configuração"
+      ],
+      "Configure Settings": [
+        "Definir Configurações"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "Configure o comportamento do player de texto para fala e a seleção de conteúdo"
+      ],
+      "Run Setup Wizard": [
+        "Executar Assistente de Configuração"
+      ],
+      "All cache deleted": [
+        "Todo o cache excluído"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "Salvo com Sucesso. Agora vá ao menu \"Personalização\"."
+      ],
+      "Add Button or Player Automatically": [
+        "Adicionar Botão ou Player Automaticamente"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "O recurso \"Adicionar Botão ou Player Automaticamente\" permite que o AtlasVoice insira automaticamente um botão de reprodução ou player de áudio nos seus posts ou páginas — sem necessidade de configuração manual."
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "Continuar Leitura Após Mudar Para Outra Aba"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "Quando ativado, o texto para fala continuará reproduzindo mesmo se você navegar para outra aba"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "Parar Reprodução Automática Após Voltar à Aba TTS"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "Pausar automaticamente a reprodução ao voltar para a aba TTS de outra aba"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "Ao Rolar Para Baixo Parar Player Flutuante"
+      ],
+      "Automatically pause the floating player when users scroll down the page": [
+        "Pausar automaticamente o player flutuante quando os usuários rolarem a página para baixo"
+      ],
+      "Apply number format": [
+        "Aplicar formato de número"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "Converter números em palavras faladas (ex.: '123' vira 'cento e vinte e três')"
+      ],
+      "Read Content From Dom": [
+        "Ler Conteúdo do DOM"
+      ],
+      "Use Old Player UI": [
+        "Usar Interface Antiga do Player"
+      ],
+      "Add Post Title To Read": [
+        "Adicionar Título do Post à Leitura"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "Incluir o título do post na reprodução de áudio antes de ler o conteúdo principal"
+      ],
+      "Add Post Excerpt To Read": [
+        "Adicionar Resumo do Post à Leitura"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "Incluir o resumo do post na reprodução de áudio antes de ler o conteúdo principal"
+      ],
+      "Enable TTS Status": [
+        "Ativar Status TTS"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "Ativar Status TTS na Página do Post."
+      ],
+      "Add Text Before Content(intro)": [
+        "Adicionar Texto Antes do Conteúdo (intro)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "Texto personalizado que será lido em voz alta antes do conteúdo principal começar"
+      ],
+      "Add Text Before Content": [
+        "Adicionar Texto Antes do Conteúdo"
+      ],
+      "Add Text After Content(outro)": [
+        "Adicionar Texto Após o Conteúdo (outro)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "Texto personalizado que será lido em voz alta após o conteúdo principal terminar"
+      ],
+      "Add Text After Content": [
+        "Adicionar Texto Após o Conteúdo"
+      ],
+      "Allow Listening For Post Type": [
+        "Permitir Escuta Para Tipo de Post"
+      ],
+      "Allow Listening For Post Status": [
+        "Permitir Escuta Para Status do Post"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "Na Versão Gratuita Você Pode Selecionar Apenas 1 tipo de post."
+      ],
+      "Include Content By CSS Selectors": [
+        "Incluir Conteúdo por Seletores CSS"
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "O recurso Incluir Conteúdo por Seletores CSS está disponível na versão pro"
+      ],
+      "Multiple selector will be multiline.": [
+        "Múltiplos seletores serão em várias linhas."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Algum conteúdo pode estar faltando, pode ser encontrado por seletores CSS"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Excluir Conteúdo por Seletores CSS"
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "O recurso Excluir Conteúdo por Seletores CSS está disponível na versão pro"
+      ],
+      "Exclude content by CSS selectors": [
+        "Excluir conteúdo por seletores CSS"
+      ],
+      "You can add \".atlasvoice_no_read\" class to exclude content.": [
+        "Você pode adicionar a classe \".atlasvoice_no_read\" para excluir conteúdo."
+      ],
+      "Exclude HTML Tags To Speak": [
+        "Excluir Tags HTML da Fala"
+      ],
+      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Excluir Tags. Para que seu conteúdo seja ignorado. Como (Subscrito, Sobrescrito etc.) Este é um recurso pro."
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Múltiplas Tags Serão Separadas por Pipe(|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Excluir tags é um recurso pro."
+      ],
+      "Exclude Texts To Speak": [
+        "Excluir Textos da Fala"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Excluir textos da fala é um recurso pro."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Múltiplos Textos Serão Separados por Pipe(|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Excluir textos é um recurso pro."
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "Excluir Posts por IDs da Fala"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "Excluir mais de 5 IDs é um recurso pro"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "Múltiplos IDs Serão Separados por Vírgula(,)."
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "Excluir mais de 5 IDs é um recurso pro. Múltiplos IDs Serão Separados por Vírgula(,)."
+      ],
+      "Exclude Categories To Speak": [
+        "Excluir Categorias da Fala"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "Excluir mais de 1 categoria é um recurso pro"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "Na Versão Gratuita Você Pode Selecionar Apenas 1 Categoria."
+      ],
+      "Exclude Tags To Speak": [
+        "Excluir Tags da Fala"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "Excluir mais de 1 tag é um recurso pro"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "Na Versão Gratuita Você Pode Selecionar Apenas 1 Tag."
+      ],
+      "Enable Button Icon": [
+        "Ativar Ícone do Botão"
+      ],
+      "Show admin bar toggle": [
+        "Mostrar alternância na barra de administração"
+      ],
+      "Show AtlasVoice on/off toggle in the WordPress admin bar on front-end pages.": [
+        "Mostrar alternância ligar/desligar do AtlasVoice na barra de administração do WordPress nas páginas do frontend."
+      ],
+      "Clear all cache": [
+        "Limpar todo o cache"
+      ],
+      "Delete all data on uninstall": [
+        "Excluir todos os dados ao desinstalar"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "Quando ativado, todos os dados do plugin (configurações, análises, arquivos de áudio gerados) serão permanentemente excluídos quando o plugin for desinstalado. Mantenha DESATIVADO se planeja reinstalar ou está depurando."
+      ],
+      "⚠ Warning:": [
+        "⚠ Aviso:"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "Todos os dados do plugin serão permanentemente excluídos ao desinstalar. Desative isso se planeja reinstalar, depurar ou trocar de versão."
+      ],
+      "Save All": [
+        "Salvar Tudo"
+      ]
+    }
+  }
+}

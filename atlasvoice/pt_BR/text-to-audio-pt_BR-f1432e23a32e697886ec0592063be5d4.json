@@ -1,0 +1,50 @@
+{
+  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepCustomize.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Listen": [
+        "Ouvir"
+      ],
+      "Background Color": [
+        "Cor de Fundo"
+      ],
+      "Text Color": [
+        "Cor do Texto"
+      ],
+      "Border Color": [
+        "Cor da Borda"
+      ],
+      "Border Radius": [
+        "Raio da Borda"
+      ],
+      "Customize the player to match your theme": [
+        "Personalize o player para combinar com seu tema"
+      ],
+      "Pick colors and shape for the audio player button. Changes are previewed in real time below.": [
+        "Escolha cores e formato para o botão do player de áudio. As alterações são visualizadas em tempo real abaixo."
+      ],
+      "Live Preview": [
+        "Visualização ao Vivo"
+      ],
+      "Welcome to your site. Your visitors can now listen to your content with one click.": [
+        "Bem-vindo ao seu site. Seus visitantes agora podem ouvir seu conteúdo com um clique."
+      ],
+      "You can fully customize the player anytime from the Customize tab — including size, position, margins, and custom CSS.": [
+        "Você pode personalizar totalmente o player a qualquer momento na aba Personalizar — incluindo tamanho, posição, margens e CSS personalizado."
+      ],
+      "AtlasVoice Pro unlocks additional player designs, floating player positions, and MP3 downloads for visitors.": [
+        "O AtlasVoice Pro desbloqueia designs adicionais de player, posições de player flutuante e downloads de MP3 para visitantes."
+      ],
+      "See Pro Player Designs": [
+        "Ver Designs de Player Pro"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/bulk-mp3-file/generate-bulk-mp3-file.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Are you sure? You want to regenerate all MP3 files ?": [
+        "Tem certeza? Deseja regenerar todos os arquivos MP3?"
+      ],
+      "All MP3 File Generated": [
+        "Todos os Arquivos MP3 Gerados"
+      ]
+    }
+  }
+}

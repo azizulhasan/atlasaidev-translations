@@ -1,0 +1,302 @@
+{
+  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-customize.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Salvar"
+      ],
+      "Click To Know How It Works?": [
+        "Clique Para Saber Como Funciona?"
+      ],
+      "Settings": [
+        "Configurações"
+      ],
+      "Background Color": [
+        "Cor de Fundo"
+      ],
+      "Text Color": [
+        "Cor do Texto"
+      ],
+      "Custom CSS": [
+        "CSS Personalizado"
+      ],
+      "Loading...": [
+        "Carregando..."
+      ],
+      "Buy Now": [
+        "Comprar Agora"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Exibir botão em múltiplos posts não é suportado na versão gratuita."
+      ],
+      "Select Items...": [
+        "Selecionar Itens..."
+      ],
+      "Click to seek": [
+        "Clique para avançar"
+      ],
+      "Player Settings": [
+        "Configurações do Player"
+      ],
+      "Close": [
+        "Fechar"
+      ],
+      "Language": [
+        "Idioma"
+      ],
+      "Voice": [
+        "Voz"
+      ],
+      "Speed": [
+        "Velocidade"
+      ],
+      "Pitch": [
+        "Tom"
+      ],
+      "Volume": [
+        "Volume"
+      ],
+      "Unmute": [
+        "Ativar Som"
+      ],
+      "Mute": [
+        "Silenciar"
+      ],
+      "Before Content": [
+        "Antes do Conteúdo"
+      ],
+      "After Content": [
+        "Após o Conteúdo"
+      ],
+      "Bottom Fixed (Pro)": [
+        "Fixo na Parte Inferior (Pro)"
+      ],
+      "Bottom Left (Pro)": [
+        "Inferior Esquerdo (Pro)"
+      ],
+      "Bottom Right (Pro)": [
+        "Inferior Direito (Pro)"
+      ],
+      "Bottom Center (Pro)": [
+        "Inferior Central (Pro)"
+      ],
+      "Select Player": [
+        "Selecionar Player"
+      ],
+      "Select Button Position": [
+        "Selecionar Posição do Botão"
+      ],
+      "Select where to display the player button": [
+        "Selecione onde exibir o botão do player"
+      ],
+      "Display Player To": [
+        "Exibir Player Para"
+      ],
+      "Choose who can see the player": [
+        "Escolha quem pode ver o player"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "A restrição de exibição do player para múltiplos tipos de usuário está disponível na versão pro"
+      ],
+      "Who Can Download MP3 File": [
+        "Quem Pode Baixar o Arquivo MP3"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "Geração de MP3 a Partir da Data de Publicação do Post"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Comece a gerar arquivo MP3 a partir de uma data de publicação específica do post. Selecione isto apenas se quiser gerar arquivo mp3 baseado em intervalo de datas."
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "Gerar Arquivo MP3 a Partir da Data"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "Geração de MP3 Até a Data de Publicação do Post"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Comece a gerar arquivo MP3 até uma data de publicação específica do post. Selecione isto apenas se quiser gerar arquivo mp3 baseado em intervalo de datas."
+      ],
+      "Generate MP3 File Date To": [
+        "Gerar Arquivo MP3 Até a Data"
+      ],
+      "Player Customization": [
+        "Personalização do Player"
+      ],
+      "Choose player background color": [
+        "Escolha a cor de fundo do player"
+      ],
+      "Choose your color": [
+        "Escolha sua cor"
+      ],
+      "Hover BG Color": [
+        "Cor de Fundo ao Passar o Mouse"
+      ],
+      "Choose your hover background color": [
+        "Escolha a cor de fundo ao passar o mouse"
+      ],
+      "Hover Text Color": [
+        "Cor do Texto ao Passar o Mouse"
+      ],
+      "Choose your hover text color": [
+        "Escolha a cor do texto ao passar o mouse"
+      ],
+      "Margin Size (Px)": [
+        "Tamanho da Margem (Px)"
+      ],
+      "Top": [
+        "Superior"
+      ],
+      "Margin Top": [
+        "Margem Superior"
+      ],
+      "Bottom": [
+        "Inferior"
+      ],
+      "Margin Bottom": [
+        "Margem Inferior"
+      ],
+      "Left": [
+        "Esquerda"
+      ],
+      "Margin Left": [
+        "Margem Esquerda"
+      ],
+      "Right": [
+        "Direita"
+      ],
+      "Margin Right": [
+        "Margem Direita"
+      ],
+      "Button Style": [
+        "Estilo do Botão"
+      ],
+      "Height": [
+        "Altura"
+      ],
+      "Button Height": [
+        "Altura do Botão"
+      ],
+      "Border": [
+        "Borda"
+      ],
+      "Button Border": [
+        "Borda do Botão"
+      ],
+      "Border Color": [
+        "Cor da Borda"
+      ],
+      "Font Size": [
+        "Tamanho da Fonte"
+      ],
+      "Radius": [
+        "Raio"
+      ],
+      "Border Radius": [
+        "Raio da Borda"
+      ],
+      "Button Properties": [
+        "Propriedades do Botão"
+      ],
+      "Width": [
+        "Largura"
+      ],
+      "Button Width": [
+        "Largura do Botão"
+      ],
+      "Enter Custom CSS here": [
+        "Insira CSS Personalizado aqui"
+      ],
+      "Value should be between 0-100": [
+        "O valor deve estar entre 0-100"
+      ],
+      "This option is only available for the pro version.": [
+        "Esta opção está disponível apenas na versão pro."
+      ],
+      "Default": [
+        "Padrão"
+      ],
+      "Default Pro": [
+        "Padrão Pro"
+      ],
+      "Customization": [
+        "Personalização"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "Personalize o player e o design para combinar com sua marca e preferências."
+      ],
+      "Preview on Your Site": [
+        "Visualizar no Seu Site"
+      ],
+      "Please fill the  field : ": [
+        "Por favor, preencha o campo: "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "Para selecionar este player, você deve autenticar primeiro no menu Integração"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "O player Google Cloud TTS está disponível apenas na versão pro."
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "Para selecionar este player você deve autenticar primeiro no menu Integração"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "O player ChatGPT TTS está disponível apenas na versão pro."
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "O player ElevenLabs TTS está disponível apenas na versão pro."
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "O player Padrão Pro está disponível apenas na versão pro."
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "O AtlasVoice armazena conteúdo sintetizado na pasta de uploads. Sua pasta de uploads não permite escrita. Por favor, torne a pasta de uploads gravável para aproveitar todos os recursos do plugin."
+      ],
+      "Customization saved.": [
+        "Personalização salva."
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "Agora vá ao menu \"Audição\" para selecionar o idioma e a voz adequados."
+      ],
+      "Write here something and click listen button": [
+        "Escreva algo aqui e clique no botão ouvir"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " Digite seu texto aqui e clique no botão ouvir para ouvi-lo em voz alta."
+      ],
+      "Watch Tutorial": [
+        "Assistir Tutorial"
+      ],
+      "Write here something and click listen button.": [
+        "Escreva algo aqui e clique no botão ouvir."
+      ],
+      "Text To Audio:  Tap to listen post.": [
+        "Texto para Áudio: Toque para ouvir o post."
+      ],
+      "Design Customization": [
+        "Personalização de Design"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "Short Code | Os valores dos atributos devem ser envolvidos com aspas duplas ( \" )"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "ShortCode Copiado"
+      ],
+      "Copy Shortcode": [
+        "Copiar Shortcode"
+      ]
+    }
+  }
+}

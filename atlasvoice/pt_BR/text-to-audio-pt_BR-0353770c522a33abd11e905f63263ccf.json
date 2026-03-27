@@ -1,0 +1,86 @@
+{
+  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepFinish.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Learn More": [
+        "Saiba Mais"
+      ],
+      "Analytics": [
+        "Análises"
+      ],
+      "Voice": [
+        "Voz"
+      ],
+      "Default": [
+        "Padrão"
+      ],
+      "%d %s": [
+        "%d %s"
+      ],
+      "Off": [
+        "Desativado"
+      ],
+      "AtlasVoice is ready!": [
+        "AtlasVoice está pronto!"
+      ],
+      "Your audio player is now live on all your %s.": [
+        "Seu player de áudio agora está ativo em todos os seus %s."
+      ],
+      "View Player on Your Site": [
+        "Ver Player no Seu Site"
+      ],
+      "Go to Dashboard": [
+        "Ir para o Painel"
+      ],
+      "Your Setup": [
+        "Sua Configuração"
+      ],
+      "Player": [
+        "Player"
+      ],
+      "Customized": [
+        "Personalizado"
+      ],
+      "Take it further with Pro": [
+        "Vá além com o Pro"
+      ],
+      "Upgrade to unlock premium features that enhance your visitors' experience.": [
+        "Atualize para desbloquear recursos premium que melhoram a experiência dos seus visitantes."
+      ],
+      "AI Voices": [
+        "Vozes IA"
+      ],
+      "200+ natural voices from Google Cloud, ElevenLabs & OpenAI. Consistent quality for every visitor.": [
+        "Mais de 200 vozes naturais do Google Cloud, ElevenLabs e OpenAI. Qualidade consistente para cada visitante."
+      ],
+      "Bulk MP3 Export": [
+        "Exportação MP3 em Massa"
+      ],
+      "Auto-generate MP3 for every post. Loads instantly, works offline, boosts SEO.": [
+        "Gere MP3 automaticamente para cada post. Carrega instantaneamente, funciona offline, melhora o SEO."
+      ],
+      "Deep Analytics": [
+        "Análises Detalhadas"
+      ],
+      "Listening time, top posts, device breakdown, geographic insights & CSV export.": [
+        "Tempo de escuta, posts populares, detalhamento por dispositivo, insights geográficos e exportação CSV."
+      ],
+      "Explore Pro Plans": [
+        "Explorar Planos Pro"
+      ],
+      "AI Workflow Automation — AI Agent Hub": [
+        "Automação de Fluxo de Trabalho com IA — AI Agent Hub"
+      ],
+      "Turn your WordPress into an AI-powered hub with 80+ abilities, MCP server, workflow builder & WooCommerce automation.": [
+        "Transforme seu WordPress em um hub com IA com mais de 80 habilidades, servidor MCP, construtor de fluxos de trabalho e automação WooCommerce."
+      ]
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-listening.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Salvar"
+      ],
+      "Low": [
+        "Baixo"
+      ],
+      "Speed": [
+        "Velocidade"
+      ],
+      "Please fill the  field : ": [
+        "Por favor, preencha o campo: "
+      ],
+      "TTS-1": [
+        "TTS-1"
+      ],
+      "Standard quality, low latency": [
+        "Qualidade padrão, baixa latência"
+      ],
+      "$15.00 / 1M characters": [
+        "$15,00 / 1M caracteres"
+      ],
+      "TTS-1 HD": [
+        "TTS-1 HD"
+      ],
+      "High definition audio quality": [
+        "Qualidade de áudio em alta definição"
+      ],
+      "$30.00 / 1M characters": [
+        "$30,00 / 1M caracteres"
+      ],
+      "GPT-4o Mini TTS": [
+        "GPT-4o Mini TTS"
+      ],
+      "Best quality with voice instructions support": [
+        "Melhor qualidade com suporte a instruções de voz"
+      ],
+      "~$0.60 / 1M input tokens + $12.00 / 1M output tokens": [
+        "~$0,60 / 1M tokens de entrada + $12,00 / 1M tokens de saída"
+      ],
+      "Voice Model": [
+        "Modelo de Voz"
+      ],
+      "Voice Language": [
+        "Idioma da Voz"
+      ],
+      "Default Listening Language": [
+        "Idioma de Escuta Padrão"
+      ],
+      "Voice to Speak": [
+        "Voz para Falar"
+      ],
+      "Default Listening Voice": [
+        "Voz de Escuta Padrão"
+      ],
+      "Voice Instructions": [
+        "Instruções de Voz"
+      ],
+      "Guide how the voice should sound. Instructions are sent to the AI model to control accent, tone, and speaking style.": [
+        "Guie como a voz deve soar. As instruções são enviadas ao modelo de IA para controlar sotaque, tom e estilo de fala."
+      ],
+      "Instruction Preset": [
+        "Predefinição de Instrução"
+      ],
+      "Instructions": [
+        "Instruções"
+      ],
+      "Enter custom instructions for the voice...": [
+        "Insira instruções personalizadas para a voz..."
+      ],
+      "Voice Speed": [
+        "Velocidade da Voz"
+      ],
+      "Your browser does not support the audio element.": [
+        "Seu navegador não suporta o elemento de áudio."
+      ],
+      "Listening Preferences": [
+        "Preferências de Escuta"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Defina suas preferências de escuta com diferentes vozes e idiomas."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Configurações de escuta salvas. Toda a configuração está concluída. Aproveite"
+      ],
+      "Voice to speak": [
+        "Voz para falar"
+      ],
+      "Voice Volume": [
+        "Volume da Voz"
+      ],
+      "Voice Pitch": [
+        "Tom da Voz"
+      ],
+      "Default Listening Pitch": [
+        "Tom de Escuta Padrão"
+      ],
+      "Model": [
+        "Modelo"
+      ],
+      "Multilingual v2": [
+        "Multilíngue v2"
+      ],
+      "Turbo v2.5": [
+        "Turbo v2.5"
+      ],
+      "Flash v2.5": [
+        "Flash v2.5"
+      ],
+      "Eleven v3": [
+        "Eleven v3"
+      ],
+      "Output Format": [
+        "Formato de Saída"
+      ],
+      "MP3 44100Hz 128kbps (Default)": [
+        "MP3 44100Hz 128kbps (Padrão)"
+      ],
+      "MP3 44100Hz 192kbps": [
+        "MP3 44100Hz 192kbps"
+      ],
+      "MP3 44100Hz 96kbps": [
+        "MP3 44100Hz 96kbps"
+      ],
+      "MP3 44100Hz 64kbps": [
+        "MP3 44100Hz 64kbps"
+      ],
+      "MP3 22050Hz 32kbps": [
+        "MP3 22050Hz 32kbps"
+      ],
+      "Stability": [
+        "Estabilidade"
+      ],
+      "More variable": [
+        "Mais variável"
+      ],
+      "More stable": [
+        "Mais estável"
+      ],
+      "Similarity Boost": [
+        "Aumento de Similaridade"
+      ],
+      "High": [
+        "Alto"
+      ],
+      "Style Exaggeration": [
+        "Exagero de Estilo"
+      ],
+      "None": [
+        "Nenhum"
+      ],
+      "Exaggerated": [
+        "Exagerado"
+      ],
+      "Speaker Boost": [
+        "Aumento do Alto-falante"
+      ],
+      "Language mapping for WPML, GTranslate plugin is available in the pro version.": [
+        "O mapeamento de idiomas para os plugins WPML e GTranslate está disponível na versão pro."
+      ],
+      "Select Language For{\" \"}": [
+        "Selecionar Idioma Para{\" \"}"
+      ],
+      "Select Voice For{\" \"}": [
+        "Selecionar Voz Para{\" \"}"
+      ],
+      "Current Player Voice": [
+        "Voz Atual do Player"
+      ]
+    }
+  }
+}

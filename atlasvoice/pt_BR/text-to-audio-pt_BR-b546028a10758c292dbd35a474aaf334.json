@@ -1,0 +1,47 @@
+{
+  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepAnalytics.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Track your audio player performance": [
+        "Acompanhe o desempenho do seu player de áudio"
+      ],
+      "See how visitors interact with your audio content. Analytics helps you understand what works.": [
+        "Veja como os visitantes interagem com seu conteúdo de áudio. As análises ajudam você a entender o que funciona."
+      ],
+      "Enable Analytics": [
+        "Ativar Análises"
+      ],
+      "No published posts found. Analytics will start tracking once you publish content.": [
+        "Nenhum post publicado encontrado. As análises começarão a rastrear assim que você publicar conteúdo."
+      ],
+      "Select posts to track (up to %d in free version):": [
+        "Selecione posts para rastrear (até %d na versão gratuita):"
+      ],
+      "Select All": [
+        "Selecionar Todos"
+      ],
+      "Deselect All": [
+        "Desmarcar Todos"
+      ],
+      "Posts to track": [
+        "Posts para rastrear"
+      ],
+      "of %d selected": [
+        "de %d selecionados"
+      ],
+      "AtlasVoice Pro unlocks unlimited post tracking, geographic insights, device analytics, and CSV exports.": [
+        "O AtlasVoice Pro desbloqueia rastreamento ilimitado de posts, insights geográficos, análises de dispositivos e exportações CSV."
+      ],
+      "Learn about Pro Analytics": [
+        "Saiba mais sobre Análises Pro"
+      ]
+    }
+  }
+}

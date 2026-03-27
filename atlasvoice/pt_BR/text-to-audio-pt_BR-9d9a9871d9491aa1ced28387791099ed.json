@@ -1,0 +1,80 @@
+{
+  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/css-selectors/CSSSelectorsForPosts.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Salvar"
+      ],
+      "Click To Know How It Works?": [
+        "Clique Para Saber Como Funciona?"
+      ],
+      "Loading": [
+        "Carregando"
+      ],
+      "Include Content By CSS Selectors": [
+        "Incluir Conteúdo por Seletores CSS"
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "O recurso Incluir Conteúdo por Seletores CSS está disponível na versão pro"
+      ],
+      "Multiple selector will be multiline.": [
+        "Múltiplos seletores serão em várias linhas."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Algum conteúdo pode estar faltando, pode ser encontrado por seletores CSS"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Excluir Conteúdo por Seletores CSS"
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "O recurso Excluir Conteúdo por Seletores CSS está disponível na versão pro"
+      ],
+      "Exclude content by CSS selectors": [
+        "Excluir conteúdo por seletores CSS"
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Múltiplas Tags Serão Separadas por Pipe(|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Excluir tags é um recurso pro."
+      ],
+      "Exclude Texts To Speak": [
+        "Excluir Textos da Fala"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Excluir textos da fala é um recurso pro."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Múltiplos Textos Serão Separados por Pipe(|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Excluir textos é um recurso pro."
+      ],
+      "Exclude Tags To Speak": [
+        "Excluir Tags da Fala"
+      ],
+      "Please save the post then try to add custom CSS selectors.": [
+        "Por favor, salve o post e depois tente adicionar seletores CSS personalizados."
+      ],
+      "Empty value can not be saved. You can uncheck the \"Use Own CSS Selectors\" Option.": [
+        "Valor vazio não pode ser salvo. Você pode desmarcar a opção \"Usar Seletores CSS Próprios\"."
+      ],
+      "Settings Data Saved": [
+        "Dados de Configurações Salvos"
+      ],
+      "Use Own CSS Selectors": [
+        "Usar Seletores CSS Próprios"
+      ],
+      "Exclude Tags. So that its content skiped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Excluir Tags. Para que seu conteúdo seja ignorado. Como (Subscrito, Sobrescrito etc.) Este é um recurso pro."
+      ]
+    }
+  }
+}

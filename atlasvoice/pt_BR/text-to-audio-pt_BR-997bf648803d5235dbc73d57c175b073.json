@@ -1,0 +1,503 @@
+{
+  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-analytics.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Last 7 Days": [
+        "Últimos 7 Dias"
+      ],
+      "Upgrade to Pro": [
+        "Atualizar para Pro"
+      ],
+      "Device Types": [
+        "Tipos de Dispositivo"
+      ],
+      "Browser": [
+        "Navegador"
+      ],
+      "OS": [
+        "SO"
+      ],
+      "Top Countries": [
+        "Principais Países"
+      ],
+      "Post Title": [
+        "Título do Post"
+      ],
+      "Pause": [
+        "Pausar"
+      ],
+      "Save": [
+        "Salvar"
+      ],
+      "Successfully Saved.": [
+        "Salvo com Sucesso."
+      ],
+      "Buy Pro version": [
+        "Comprar versão Pro"
+      ],
+      "Loading...": [
+        "Carregando..."
+      ],
+      "Pro Feature": [
+        "Recurso Pro"
+      ],
+      "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
+        "Atualize para o Pro para desbloquear este recurso e obter acesso a análises avançadas."
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Total Posts": [
+        "Total de Posts"
+      ],
+      "Total posts with TTS player": [
+        "Total de posts com player TTS"
+      ],
+      "Init": [
+        "Início"
+      ],
+      "Player initialization count": [
+        "Contagem de inicialização do player"
+      ],
+      "Play": [
+        "Reproduzir"
+      ],
+      "Total play button clicks": [
+        "Total de cliques no botão reproduzir"
+      ],
+      "Time (Min)": [
+        "Tempo (Min)"
+      ],
+      "Total listening time": [
+        "Tempo total de escuta"
+      ],
+      "Total pause actions": [
+        "Total de ações de pausa"
+      ],
+      "Download": [
+        "Download"
+      ],
+      "Total MP3 downloads": [
+        "Total de downloads MP3"
+      ],
+      "End": [
+        "Fim"
+      ],
+      "Total completions": [
+        "Total de conclusões"
+      ],
+      "Bounce Rate": [
+        "Taxa de Rejeição"
+      ],
+      "Users who didn't complete the audio": [
+        "Usuários que não completaram o áudio"
+      ],
+      "TTS Player Analytics Summary": [
+        "Resumo de Análises do Player TTS"
+      ],
+      "Total Interactions:": [
+        "Total de Interações:"
+      ],
+      "Last 30 Days": [
+        "Últimos 30 Dias"
+      ],
+      "Last 90 Days": [
+        "Últimos 90 Dias"
+      ],
+      "25%": [
+        "25%"
+      ],
+      "50%": [
+        "50%"
+      ],
+      "75%": [
+        "75%"
+      ],
+      "Engagement Funnel": [
+        "Funil de Engajamento"
+      ],
+      "Play Rate:": [
+        "Taxa de Reprodução:"
+      ],
+      "Completion Rate:": [
+        "Taxa de Conclusão:"
+      ],
+      "Biggest Drop:": [
+        "Maior Queda:"
+      ],
+      "50% → 75%": [
+        "50% → 75%"
+      ],
+      "New Listeners": [
+        "Novos Ouvintes"
+      ],
+      "Returning": [
+        "Recorrentes"
+      ],
+      "Listener Segments": [
+        "Segmentos de Ouvintes"
+      ],
+      "New:": [
+        "Novos:"
+      ],
+      "Returning:": [
+        "Recorrentes:"
+      ],
+      "New Listeners:": [
+        "Novos Ouvintes:"
+      ],
+      "Avg Sessions/User:": [
+        "Média de Sessões/Usuário:"
+      ],
+      "Yesterday": [
+        "Ontem"
+      ],
+      "more": [
+        "mais"
+      ],
+      "Browser Analytics": [
+        "Análises de Navegador"
+      ],
+      "Location": [
+        "Localização"
+      ],
+      "Top Cities": [
+        "Principais Cidades"
+      ],
+      "Unlock city-level analytics": [
+        "Desbloqueie análises por cidade"
+      ],
+      "Custom Range": [
+        "Período Personalizado"
+      ],
+      "Playing Quantity": [
+        "Quantidade de Reproduções"
+      ],
+      "Playing Time (min)": [
+        "Tempo de Reprodução (min)"
+      ],
+      "Previous Period": [
+        "Período Anterior"
+      ],
+      "Playing Trend Analysis": [
+        "Análise de Tendência de Reprodução"
+      ],
+      "Compare with Previous Period": [
+        "Comparar com Período Anterior"
+      ],
+      "Enable comparison with previous period": [
+        "Ativar comparação com período anterior"
+      ],
+      "Quantity vs Date": [
+        "Quantidade vs Data"
+      ],
+      "Playing Time(min)": [
+        "Tempo de Reprodução(min)"
+      ],
+      "Mon": [
+        "Seg"
+      ],
+      "Tue": [
+        "Ter"
+      ],
+      "Wed": [
+        "Qua"
+      ],
+      "Thu": [
+        "Qui"
+      ],
+      "Fri": [
+        "Sex"
+      ],
+      "Sat": [
+        "Sáb"
+      ],
+      "Sun": [
+        "Dom"
+      ],
+      "Peak Listening Hours": [
+        "Horários de Pico de Escuta"
+      ],
+      "Low": [
+        "Baixo"
+      ],
+      "Peak": [
+        "Pico"
+      ],
+      "Insight:": [
+        "Insight:"
+      ],
+      "Your peak listening time is": [
+        "Seu horário de pico de escuta é"
+      ],
+      "Peak Hours Heatmap": [
+        "Mapa de Calor de Horários de Pico"
+      ],
+      "Date Range is only available in Pro version": [
+        "O intervalo de datas está disponível apenas na versão Pro"
+      ],
+      "Buy Now": [
+        "Comprar Agora"
+      ],
+      "Please enable analytics first.": [
+        "Por favor, ative as análises primeiro."
+      ],
+      "Track Post IDs": [
+        "Rastrear IDs de Posts"
+      ],
+      "Tracking more than 20 post IDs is a Pro feature": [
+        "Rastrear mais de 20 IDs de posts é um recurso Pro"
+      ],
+      "Post ID": [
+        "ID do Post"
+      ],
+      "Please provide a Post ID or date range.": [
+        "Por favor, forneça um ID de Post ou intervalo de datas."
+      ],
+      "Search": [
+        "Buscar"
+      ],
+      "Clear": [
+        "Limpar"
+      ],
+      "Showing results for:": [
+        "Mostrando resultados para:"
+      ],
+      "Post ID:": [
+        "ID do Post:"
+      ],
+      "From:": [
+        "De:"
+      ],
+      "To:": [
+        "Até:"
+      ],
+      "Metric": [
+        "Métrica"
+      ],
+      "Value": [
+        "Valor"
+      ],
+      "Unlock 10+ more metrics with Pro": [
+        "Desbloqueie mais de 10 métricas com o Pro"
+      ],
+      "Popular Post": [
+        "Post Popular"
+      ],
+      "Rank": [
+        "Posição"
+      ],
+      "Total Interactions": [
+        "Total de Interações"
+      ],
+      "No data available yet. Start tracking posts to see analytics.": [
+        "Nenhum dado disponível ainda. Comece a rastrear posts para ver as análises."
+      ],
+      "View all": [
+        "Ver todos"
+      ],
+      "posts": [
+        "posts"
+      ],
+      "View All Posts": [
+        "Ver Todos os Posts"
+      ],
+      "CSV export initiated. Check your downloads.": [
+        "Exportação CSV iniciada. Verifique seus downloads."
+      ],
+      "Export failed. Please try again.": [
+        "Falha na exportação. Por favor, tente novamente."
+      ],
+      "PDF export initiated. Check your downloads.": [
+        "Exportação PDF iniciada. Verifique seus downloads."
+      ],
+      "Please enter at least one recipient email address.": [
+        "Por favor, insira pelo menos um endereço de e-mail de destinatário."
+      ],
+      "Report schedule saved successfully.": [
+        "Agendamento de relatório salvo com sucesso."
+      ],
+      "Failed to save schedule settings.": [
+        "Falha ao salvar configurações de agendamento."
+      ],
+      "Please enter recipient email addresses first.": [
+        "Por favor, insira os endereços de e-mail dos destinatários primeiro."
+      ],
+      "Test report sent successfully! Check your inbox.": [
+        "Relatório de teste enviado com sucesso! Verifique sua caixa de entrada."
+      ],
+      "Failed to send test report.": [
+        "Falha ao enviar relatório de teste."
+      ],
+      "Failed to send test report. Please check your network connection.": [
+        "Falha ao enviar relatório de teste. Por favor, verifique sua conexão de rede."
+      ],
+      "CSV": [
+        "CSV"
+      ],
+      "PDF": [
+        "PDF"
+      ],
+      "Schedule Report": [
+        "Agendar Relatório"
+      ],
+      "Schedule Email Reports": [
+        "Agendar Relatórios por E-mail"
+      ],
+      "Enable automated reports": [
+        "Ativar relatórios automatizados"
+      ],
+      "Recipients (comma separated)": [
+        "Destinatários (separados por vírgula)"
+      ],
+      "Frequency": [
+        "Frequência"
+      ],
+      "Daily": [
+        "Diário"
+      ],
+      "Weekly": [
+        "Semanal"
+      ],
+      "Monthly": [
+        "Mensal"
+      ],
+      "Day": [
+        "Dia"
+      ],
+      "Monday": [
+        "Segunda-feira"
+      ],
+      "Tuesday": [
+        "Terça-feira"
+      ],
+      "Wednesday": [
+        "Quarta-feira"
+      ],
+      "Thursday": [
+        "Quinta-feira"
+      ],
+      "Friday": [
+        "Sexta-feira"
+      ],
+      "Saturday": [
+        "Sábado"
+      ],
+      "Sunday": [
+        "Domingo"
+      ],
+      "Time": [
+        "Hora"
+      ],
+      "Include in report:": [
+        "Incluir no relatório:"
+      ],
+      "Summary statistics": [
+        "Estatísticas resumidas"
+      ],
+      "Top 10 posts": [
+        "Top 10 posts"
+      ],
+      "Geographic breakdown": [
+        "Distribuição geográfica"
+      ],
+      "Trend chart": [
+        "Gráfico de tendência"
+      ],
+      "Device stats": [
+        "Estatísticas de dispositivos"
+      ],
+      "Next scheduled report:": [
+        "Próximo relatório agendado:"
+      ],
+      "Sending...": [
+        "Enviando..."
+      ],
+      "Send Test Report": [
+        "Enviar Relatório de Teste"
+      ],
+      "Saving...": [
+        "Salvando..."
+      ],
+      "Save Settings": [
+        "Salvar Configurações"
+      ],
+      "Export & Reports": [
+        "Exportação e Relatórios"
+      ],
+      "Last 14 Days": [
+        "Últimos 14 Dias"
+      ],
+      "All Time": [
+        "Todo o Período"
+      ],
+      "Getting more than 30 days data is pro feature. Please ": [
+        "Obter dados de mais de 30 dias é um recurso pro. Por favor "
+      ],
+      "Quick Select": [
+        "Seleção Rápida"
+      ],
+      "From": [
+        "De"
+      ],
+      "To": [
+        "Até"
+      ],
+      "Custom date select is only available in pro version. Please ": [
+        "A seleção de data personalizada está disponível apenas na versão pro. Por favor "
+      ],
+      "Apply": [
+        "Aplicar"
+      ],
+      "CSV exported successfully!": [
+        "CSV exportado com sucesso!"
+      ],
+      "Error exporting CSV": [
+        "Erro ao exportar CSV"
+      ],
+      "PDF report opened. Use 'Save as PDF' in the print dialog.": [
+        "Relatório PDF aberto. Use 'Salvar como PDF' na caixa de diálogo de impressão."
+      ],
+      "Report downloaded as HTML. Open in browser and print to save as PDF.": [
+        "Relatório baixado como HTML. Abra no navegador e imprima para salvar como PDF."
+      ],
+      "Failed to generate PDF report.": [
+        "Falha ao gerar relatório PDF."
+      ],
+      "Error exporting PDF": [
+        "Erro ao exportar PDF"
+      ],
+      "Analytics": [
+        "Análises"
+      ],
+      "Track and analyze your TTS player engagement to understand listener behavior.": [
+        "Rastreie e analise o engajamento do seu player TTS para entender o comportamento dos ouvintes."
+      ],
+      "Export & Schedule Reports": [
+        "Exportar e Agendar Relatórios"
+      ],
+      "Export CSV/PDF reports and schedule automated email digests.": [
+        "Exporte relatórios CSV/PDF e agende resumos automatizados por e-mail."
+      ],
+      "Analytics is Currently Disabled": [
+        "As Análises Estão Desativadas"
+      ],
+      "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
+        "Ative as análises usando o botão acima para começar a rastrear as interações do seu player TTS e ver métricas detalhadas."
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Exibir botão em múltiplos posts não é suportado na versão gratuita."
+      ],
+      "Select Items...": [
+        "Selecionar Itens..."
+      ]
+    }
+  }
+}

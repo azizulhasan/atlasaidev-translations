@@ -1,0 +1,314 @@
+{
+  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-integrations.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Salvar"
+      ],
+      "Network error. Please try again.": [
+        "Erro de rede. Por favor, tente novamente."
+      ],
+      "Learn More": [
+        "Saiba Mais"
+      ],
+      "Loading...": [
+        "Carregando..."
+      ],
+      "Buy Now": [
+        "Comprar Agora"
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "O AtlasVoice armazena conteúdo sintetizado na pasta de uploads. Sua pasta de uploads não permite escrita. Por favor, torne a pasta de uploads gravável para aproveitar todos os recursos do plugin."
+      ],
+      "Backup MP3 Files To Google Cloud Storage Can Be Enabled If Google Cloud TTS Is Authenticated.": [
+        "O Backup de Arquivos MP3 para o Google Cloud Storage pode ser ativado se o Google Cloud TTS estiver autenticado."
+      ],
+      "Settings saved successfully.": [
+        "Configurações salvas com sucesso."
+      ],
+      "Something went wrong": [
+        "Algo deu errado"
+      ],
+      "This is not a service account file. The \"type\" field must be \"service_account\". You may have downloaded the wrong file type.": [
+        "Este não é um arquivo de conta de serviço. O campo \"type\" deve ser \"service_account\". Você pode ter baixado o tipo de arquivo errado."
+      ],
+      "Invalid service account file. Missing required fields: %s": [
+        "Arquivo de conta de serviço inválido. Campos obrigatórios ausentes: %s"
+      ],
+      "The uploaded file is not valid JSON. Please make sure you downloaded the correct service account key file.": [
+        "O arquivo enviado não é um JSON válido. Por favor, certifique-se de que baixou o arquivo de chave de conta de serviço correto."
+      ],
+      "Could not read the file. Please try again.": [
+        "Não foi possível ler o arquivo. Por favor, tente novamente."
+      ],
+      "File uploaded successfully. You can now test the connection below.": [
+        "Arquivo enviado com sucesso. Agora você pode testar a conexão abaixo."
+      ],
+      "Please select a service account JSON file first.": [
+        "Por favor, selecione primeiro um arquivo JSON de conta de serviço."
+      ],
+      "Please create a valid bucket name first": [
+        "Por favor, crie um nome de bucket válido primeiro"
+      ],
+      "Google cloud text to speech feature is only in pro version.": [
+        "O recurso Google Cloud texto para fala está disponível apenas na versão pro."
+      ],
+      "BCMath extension is not enabled. Please enable this extension. Learn more how to enable.": [
+        "A extensão BCMath não está habilitada. Por favor, habilite esta extensão. Saiba mais como habilitar."
+      ],
+      "BCMath Extension Missing": [
+        "Extensão BCMath Ausente"
+      ],
+      "The BCMath PHP extension is required for Google Cloud TTS. ": [
+        "A extensão PHP BCMath é necessária para o Google Cloud TTS. "
+      ],
+      "Learn how to enable it": [
+        "Saiba como habilitá-la"
+      ],
+      "Uploads Folder Not Writable": [
+        "Pasta de Uploads Sem Permissão de Escrita"
+      ],
+      "The uploads folder must be writable to store generated audio files. Please check your server file permissions.": [
+        "A pasta de uploads deve ter permissão de escrita para armazenar arquivos de áudio gerados. Por favor, verifique as permissões de arquivo do seu servidor."
+      ],
+      "Setup Guide": [
+        "Guia de Configuração"
+      ],
+      "Hide": [
+        "Ocultar"
+      ],
+      "Show": [
+        "Mostrar"
+      ],
+      "Go to": [
+        "Ir para"
+      ],
+      "Google Cloud Console": [
+        "Google Cloud Console"
+      ],
+      "and create a project (or select an existing one).": [
+        "e crie um projeto (ou selecione um existente)."
+      ],
+      "Enable the": [
+        "Habilite o"
+      ],
+      "Cloud Text-to-Speech API": [
+        "Cloud Text-to-Speech API"
+      ],
+      "Optional, for Cloud Storage backup": [
+        "Opcional, para backup no Cloud Storage"
+      ],
+      "Cloud Storage API": [
+        "Cloud Storage API"
+      ],
+      "IAM & Admin > Service Accounts": [
+        "IAM e Admin > Contas de Serviço"
+      ],
+      "and create a new service account.": [
+        "e crie uma nova conta de serviço."
+      ],
+      "Assign roles:": [
+        "Atribuir funções:"
+      ],
+      "Cloud Text-to-Speech User": [
+        "Usuário Cloud Text-to-Speech"
+      ],
+      "(required)": [
+        "(obrigatório)"
+      ],
+      "Storage Admin": [
+        "Storage Admin"
+      ],
+      "only if using Cloud Storage backup": [
+        "apenas se usar backup no Cloud Storage"
+      ],
+      "Click on the service account > \"Keys\" tab > \"Add Key\" > \"Create new key\" > select \"JSON\".": [
+        "Clique na conta de serviço > aba \"Keys\" > \"Add Key\" > \"Create new key\" > selecione \"JSON\"."
+      ],
+      "Upload the downloaded JSON file below.": [
+        "Envie o arquivo JSON baixado abaixo."
+      ],
+      "Video Tutorial": [
+        "Tutorial em Vídeo"
+      ],
+      "Learn How To Integrate Google Cloud TTS With AtlasVoice Pro Plugin?": [
+        "Aprenda Como Integrar o Google Cloud TTS Com o Plugin AtlasVoice Pro?"
+      ],
+      "Authentication": [
+        "Autenticação"
+      ],
+      "Click here to Upload": [
+        "Clique aqui para Enviar"
+      ],
+      "Upload service account JSON file": [
+        "Enviar arquivo JSON da conta de serviço"
+      ],
+      "Service Account:": [
+        "Conta de Serviço:"
+      ],
+      "Project:": [
+        "Projeto:"
+      ],
+      "IAM Console": [
+        "Console IAM"
+      ],
+      "Connection Test": [
+        "Teste de Conexão"
+      ],
+      "Verify that your service account can connect to Google Cloud Text-to-Speech API.": [
+        "Verifique se sua conta de serviço pode se conectar à API Google Cloud Text-to-Speech."
+      ],
+      "Testing...": [
+        "Testando..."
+      ],
+      "Test TTS Connection": [
+        "Testar Conexão TTS"
+      ],
+      "Storage Configuration": [
+        "Configuração de Armazenamento"
+      ],
+      "Store MP3 Files To Google Cloud Storage": [
+        "Armazenar Arquivos MP3 no Google Cloud Storage"
+      ],
+      "Click To Know How To Enable Automatic Store To Google Cloud Storage": [
+        "Clique Para Saber Como Habilitar o Armazenamento Automático no Google Cloud Storage"
+      ],
+      "Automatically sync generated audio files in cloud storage for store & easy access.": [
+        "Sincronize automaticamente os arquivos de áudio gerados no armazenamento em nuvem para guardar e acesso fácil."
+      ],
+      "Required:": [
+        "Obrigatório:"
+      ],
+      "Your service account needs the \"Storage Admin\" role to use Cloud Storage.": [
+        "Sua conta de serviço precisa da função \"Storage Admin\" para usar o Cloud Storage."
+      ],
+      "Assign it to": [
+        "Atribua a"
+      ],
+      "in": [
+        "em"
+      ],
+      "Open IAM Console": [
+        "Abrir Console IAM"
+      ],
+      "Test Storage Access": [
+        "Testar Acesso ao Armazenamento"
+      ],
+      "Google Cloud Storage Bucket Name": [
+        "Nome do Bucket do Google Cloud Storage"
+      ],
+      "Click Here To Know Bucket Name Rules": [
+        "Clique Aqui Para Saber as Regras de Nome do Bucket"
+      ],
+      "Are you sure you want to create a bucket named \"%1$s\"? You already have a bucket named \"%2$s\". If you create a new bucket, all MP3 files will be generated again. Please decide carefully.": [
+        "Tem certeza de que deseja criar um bucket chamado \"%1$s\"? Você já possui um bucket chamado \"%2$s\". Se criar um novo bucket, todos os arquivos MP3 serão gerados novamente. Por favor, decida com cuidado."
+      ],
+      "This bucket is already have to your cloud storage.": [
+        "Este bucket já existe no seu armazenamento em nuvem."
+      ],
+      "Create": [
+        "Criar"
+      ],
+      "Do you want to revoke access and delete the file uploaded during authentication. If you delete the file you have to upload the file again. Make sure you have a backup otherwise, you have to crete another auth file from Google Cloud text to speech.": [
+        "Deseja revogar o acesso e excluir o arquivo enviado durante a autenticação. Se você excluir o arquivo, terá que enviá-lo novamente. Certifique-se de ter um backup, caso contrário, terá que criar outro arquivo de autenticação no Google Cloud Text-to-Speech."
+      ],
+      "Authentication removed.": [
+        "Autenticação removida."
+      ],
+      "You have to be authenticated to revoke.": [
+        "Você precisa estar autenticado para revogar."
+      ],
+      "Remove Authentication": [
+        "Remover Autenticação"
+      ],
+      "Set ChatGPT API key": [
+        "Definir chave API do ChatGPT"
+      ],
+      "API key is saved successfully": [
+        "Chave API salva com sucesso"
+      ],
+      "ChatGPT text to speech feature is only in pro version.": [
+        "O recurso ChatGPT texto para fala está disponível apenas na versão pro."
+      ],
+      "ChatGPT TTS feature is only in pro version.": [
+        "O recurso ChatGPT TTS está disponível apenas na versão pro."
+      ],
+      "paste here chatgpt_tts_api_key": [
+        "cole aqui chatgpt_tts_api_key"
+      ],
+      "Submit": [
+        "Enviar"
+      ],
+      "How to get chatGPT API key?": [
+        "Como obter a chave API do ChatGPT?"
+      ],
+      "Click here": [
+        "Clique aqui"
+      ],
+      "Set ElevenLabs API key": [
+        "Definir chave API do ElevenLabs"
+      ],
+      "ElevenLabs text to speech feature is only in pro version.": [
+        "O recurso ElevenLabs texto para fala está disponível apenas na versão pro."
+      ],
+      "ElevenLabs TTS feature is only in pro version.": [
+        "O recurso ElevenLabs TTS está disponível apenas na versão pro."
+      ],
+      "paste here elevenlabs_api_key": [
+        "cole aqui elevenlabs_api_key"
+      ],
+      "How to get ElevenLabs API key?": [
+        "Como obter a chave API do ElevenLabs?"
+      ],
+      "Integration Setup": [
+        "Configuração de Integração"
+      ],
+      "AtlasVoice Pro works fully fine even without Google TTS/ChatGPT integration.": [
+        "O AtlasVoice Pro funciona perfeitamente mesmo sem a integração Google TTS/ChatGPT."
+      ],
+      "Select Voice Service": [
+        "Selecionar Serviço de Voz"
+      ],
+      "-- Select a service --": [
+        "-- Selecione um serviço --"
+      ],
+      "Google Cloud TTS": [
+        "Google Cloud TTS"
+      ],
+      "ChatGPT TTS": [
+        "ChatGPT TTS"
+      ],
+      "ElevenLabs TTS": [
+        "ElevenLabs TTS"
+      ],
+      "ElevenLabs Usage": [
+        "Uso do ElevenLabs"
+      ],
+      "characters": [
+        "caracteres"
+      ],
+      "Plan:": [
+        "Plano:"
+      ],
+      "Resets:": [
+        "Renovação:"
+      ],
+      "View detailed usage and billing at": [
+        "Veja o uso detalhado e faturamento em"
+      ],
+      "OpenAI TTS Usage": [
+        "Uso do OpenAI TTS"
+      ],
+      "Google Cloud TTS Usage": [
+        "Uso do Google Cloud TTS"
+      ]
+    }
+  }
+}

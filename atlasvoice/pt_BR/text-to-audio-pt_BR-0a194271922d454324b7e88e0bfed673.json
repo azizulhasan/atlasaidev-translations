@@ -1,0 +1,44 @@
+{
+  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "generator": "generate-translations.js",
+  "source": "build/blocks.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Listen": [
+        "Ouvir"
+      ],
+      "Color Settings": [
+        "Configurações de Cor"
+      ],
+      "Background Color": [
+        "Cor de Fundo"
+      ],
+      "Text Color": [
+        "Cor do Texto"
+      ],
+      "Button Settings": [
+        "Configurações do Botão"
+      ],
+      "Button Width (%)": [
+        "Largura do Botão (%)"
+      ],
+      "Custom CSS": [
+        "CSS Personalizado"
+      ],
+      "class selector .tta__listen_content": [
+        "seletor de classe .tta__listen_content"
+      ],
+      "Text To Audio: Tap to listen post.": [
+        "Texto para Áudio: Toque para ouvir o post."
+      ],
+      "Text to audio customize button.": [
+        "Botão de personalização texto para áudio."
+      ]
+    }
+  }
+}
