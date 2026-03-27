@@ -5,6 +5,7 @@
     "locales": [
         "es_ES",
         "it_IT",
-        "pt_PT"
+        "pt_PT",
+        "pt_BR"
     ]
 }
