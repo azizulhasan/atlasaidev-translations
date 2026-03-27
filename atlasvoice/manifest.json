@@ -1,0 +1,10 @@
+{
+    "plugin": "text-to-audio",
+    "text_domain": "text-to-audio",
+    "version": "1.0.0",
+    "locales": [
+        "es_ES",
+        "it_IT",
+        "pt_PT"
+    ]
+}
