@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/chunks/tab-settings.chunk.js",
   "domain": "messages",
@@ -21,6 +21,9 @@
       "Select Items...": [
         "Sélectionner des éléments..."
       ],
+      "Preview on Your Site": [
+        "Aperçu sur votre site"
+      ],
       "Help information about this setting": [
         "Informations d'aide sur ce paramètre"
       ],
@@ -30,6 +33,9 @@
       "Configure text-to-speech player behavior and content selection": [
         "Configurer le comportement du lecteur de synthèse vocale et la sélection du contenu"
       ],
+      "Run Setup Wizard": [
+        "Lancer l'assistant de configuration"
+      ],
       "All cache deleted": [
         "Tout le cache supprimé"
       ],
@@ -38,6 +44,9 @@
       ],
       "Add Button or Player Automatically": [
         "Ajouter le bouton ou le lecteur automatiquement"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "La fonctionnalité \"Ajouter le bouton ou le lecteur automatiquement\" permet à AtlasVoice d'insérer automatiquement un bouton de lecture ou un lecteur audio dans vos articles ou pages — sans aucune configuration manuelle."
       ],
       "Continue Reading After Switching To Another Tab": [
         "Continuer la lecture après avoir changé d'onglet"
@@ -195,8 +204,26 @@
       "Enable Button Icon": [
         "Activer l'icône du bouton"
       ],
+      "Show admin bar toggle": [
+        "Afficher le bouton dans la barre d'administration"
+      ],
+      "Show AtlasVoice on/off toggle in the WordPress admin bar on front-end pages.": [
+        "Afficher le bouton d'activation/désactivation AtlasVoice dans la barre d'administration WordPress sur les pages publiques."
+      ],
       "Clear all cache": [
         "Vider tout le cache"
+      ],
+      "Delete all data on uninstall": [
+        "Supprimer toutes les données lors de la désinstallation"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "Lorsqu'elle est activée, toutes les données du plugin (paramètres, analyses, fichiers audio générés) seront définitivement supprimées lors de la désinstallation du plugin. Gardez cette option désactivée si vous prévoyez de réinstaller ou si vous déboguez."
+      ],
+      "⚠ Warning:": [
+        "⚠ Avertissement :"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "Toutes les données du plugin seront définitivement supprimées lors de la désinstallation. Désactivez cette option si vous prévoyez de réinstaller, déboguer ou changer de version."
       ],
       "Save All": [
         "Tout enregistrer"

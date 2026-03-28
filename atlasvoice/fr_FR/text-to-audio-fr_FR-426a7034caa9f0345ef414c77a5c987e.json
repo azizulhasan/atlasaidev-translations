@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-dashboard-ui.js",
   "domain": "messages",
@@ -297,6 +297,9 @@
       "Track Post IDs": [
         "Suivre les IDs d'articles"
       ],
+      "Tracking more than 20 post IDs is a Pro feature": [
+        "Le suivi de plus de 20 ID d'articles est une fonctionnalité Pro"
+      ],
       "Post ID": [
         "ID d'article"
       ],
@@ -522,6 +525,12 @@
       "Track and analyze your TTS player engagement to understand listener behavior.": [
         "Suivez et analysez l'engagement de votre lecteur TTS pour comprendre le comportement des auditeurs."
       ],
+      "Export & Schedule Reports": [
+        "Exporter et planifier des rapports"
+      ],
+      "Export CSV/PDF reports and schedule automated email digests.": [
+        "Exportez des rapports CSV/PDF et planifiez des résumés automatiques par e-mail."
+      ],
       "Analytics is Currently Disabled": [
         "Les analyses sont actuellement désactivées"
       ],
@@ -533,6 +542,24 @@
       ],
       "Select Items...": [
         "Sélectionner des éléments..."
+      ],
+      "Compatibility Status": [
+        "Statut de compatibilité"
+      ],
+      "AtlasVoice automatically excludes its scripts from caching and optimization plugins to prevent conflicts.": [
+        "AtlasVoice exclut automatiquement ses scripts des plugins de mise en cache et d'optimisation pour éviter les conflits."
+      ],
+      "JS exclusion active": [
+        "Exclusion JS active"
+      ],
+      "Detected but not handled — may cause conflicts": [
+        "Détecté mais non géré — peut causer des conflits"
+      ],
+      "Installed but not active": [
+        "Installé mais non actif"
+      ],
+      "Not installed": [
+        "Non installé"
       ],
       "Add ACF Fields To Posts": [
         "Ajouter des champs ACF aux articles"
@@ -711,6 +738,9 @@
       "Customize the player & design to match your brand and preferences.": [
         "Personnalisez le lecteur et le design pour correspondre à votre marque et vos préférences."
       ],
+      "Preview on Your Site": [
+        "Aperçu sur votre site"
+      ],
       "Please fill the  field : ": [
         "Veuillez remplir le champ : "
       ],
@@ -731,6 +761,9 @@
       ],
       "Default Pro player is only available in the pro version.": [
         "Le lecteur Pro par défaut n'est disponible que dans la version pro."
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "AtlasVoice stocke le contenu synthétisé dans le dossier des téléversements. Votre dossier de téléversements n'est pas accessible en écriture. Veuillez rendre le dossier de téléversements accessible en écriture pour profiter de toutes les fonctionnalités du plugin."
       ],
       "Customization saved.": [
         "Personnalisation enregistrée."
@@ -830,6 +863,9 @@
       ],
       "Arguments": [
         "Arguments"
+      ],
+      "Backup MP3 Files To Google Cloud Storage Can Be Enabled If Google Cloud TTS Is Authenticated.": [
+        "La sauvegarde des fichiers MP3 vers Google Cloud Storage peut être activée si Google Cloud TTS est authentifié."
       ],
       "Settings saved successfully.": [
         "Paramètres enregistrés avec succès."
@@ -938,6 +974,9 @@
       ],
       "Video Tutorial": [
         "Tutoriel vidéo"
+      ],
+      "Learn How To Integrate Google Cloud TTS With AtlasVoice Pro Plugin?": [
+        "Comment intégrer Google Cloud TTS avec le plugin AtlasVoice Pro ?"
       ],
       "Authentication": [
         "Authentification"
@@ -1071,6 +1110,9 @@
       "AtlasVoice Pro works fully fine even without Google TTS/ChatGPT integration.": [
         "AtlasVoice Pro fonctionne parfaitement même sans intégration Google TTS/ChatGPT."
       ],
+      "Select Voice Service": [
+        "Sélectionner le service vocal"
+      ],
       "-- Select a service --": [
         "-- Sélectionner un service --"
       ],
@@ -1107,8 +1149,29 @@
       "TTS-1": [
         "TTS-1"
       ],
+      "Standard quality, low latency": [
+        "Qualité standard, faible latence"
+      ],
+      "$15.00 / 1M characters": [
+        "$15.00 / 1M caractères"
+      ],
       "TTS-1 HD": [
         "TTS-1 HD"
+      ],
+      "High definition audio quality": [
+        "Qualité audio haute définition"
+      ],
+      "$30.00 / 1M characters": [
+        "$30.00 / 1M caractères"
+      ],
+      "GPT-4o Mini TTS": [
+        "GPT-4o Mini TTS"
+      ],
+      "Best quality with voice instructions support": [
+        "Meilleure qualité avec prise en charge des instructions vocales"
+      ],
+      "~$0.60 / 1M input tokens + $12.00 / 1M output tokens": [
+        "~$0.60 / 1M jetons d'entrée + $12.00 / 1M jetons de sortie"
       ],
       "Voice Model": [
         "Modèle de voix"
@@ -1119,8 +1182,26 @@
       "Default Listening Language": [
         "Langue d'écoute par défaut"
       ],
+      "Voice to Speak": [
+        "Voix à utiliser"
+      ],
       "Default Listening Voice": [
         "Voix d'écoute par défaut"
+      ],
+      "Voice Instructions": [
+        "Instructions vocales"
+      ],
+      "Guide how the voice should sound. Instructions are sent to the AI model to control accent, tone, and speaking style.": [
+        "Guidez le rendu de la voix. Les instructions sont envoyées au modèle IA pour contrôler l'accent, le ton et le style de parole."
+      ],
+      "Instruction Preset": [
+        "Préréglage d'instructions"
+      ],
+      "Instructions": [
+        "Instructions"
+      ],
+      "Enter custom instructions for the voice...": [
+        "Saisissez des instructions personnalisées pour la voix..."
       ],
       "Voice Speed": [
         "Vitesse de la voix"
@@ -1230,6 +1311,9 @@
       "Configure text-to-speech player behavior and content selection": [
         "Configurer le comportement du lecteur de synthèse vocale et la sélection du contenu"
       ],
+      "Run Setup Wizard": [
+        "Lancer l'assistant de configuration"
+      ],
       "All cache deleted": [
         "Tout le cache supprimé"
       ],
@@ -1238,6 +1322,9 @@
       ],
       "Add Button or Player Automatically": [
         "Ajouter le bouton ou le lecteur automatiquement"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "La fonctionnalité \"Ajouter le bouton ou le lecteur automatiquement\" permet à AtlasVoice d'insérer automatiquement un bouton de lecture ou un lecteur audio dans vos articles ou pages — sans aucune configuration manuelle."
       ],
       "Continue Reading After Switching To Another Tab": [
         "Continuer la lecture après avoir changé d'onglet"
@@ -1395,8 +1482,26 @@
       "Enable Button Icon": [
         "Activer l'icône du bouton"
       ],
+      "Show admin bar toggle": [
+        "Afficher le bouton dans la barre d'administration"
+      ],
+      "Show AtlasVoice on/off toggle in the WordPress admin bar on front-end pages.": [
+        "Afficher le bouton d'activation/désactivation AtlasVoice dans la barre d'administration WordPress sur les pages publiques."
+      ],
       "Clear all cache": [
         "Vider tout le cache"
+      ],
+      "Delete all data on uninstall": [
+        "Supprimer toutes les données lors de la désinstallation"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "Lorsqu'elle est activée, toutes les données du plugin (paramètres, analyses, fichiers audio générés) seront définitivement supprimées lors de la désinstallation du plugin. Gardez cette option désactivée si vous prévoyez de réinstaller ou si vous déboguez."
+      ],
+      "⚠ Warning:": [
+        "⚠ Avertissement :"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "Toutes les données du plugin seront définitivement supprimées lors de la désinstallation. Désactivez cette option si vous prévoyez de réinstaller, déboguer ou changer de version."
       ],
       "Save All": [
         "Tout enregistrer"
@@ -1406,6 +1511,24 @@
       ],
       "Select IDs": [
         "Sélectionner des IDs"
+      ],
+      "Native speaker": [
+        "Locuteur natif"
+      ],
+      "Slow and clear": [
+        "Lent et clair"
+      ],
+      "Warm and friendly": [
+        "Chaleureux et amical"
+      ],
+      "Professional newsreader": [
+        "Présentateur professionnel"
+      ],
+      "Storyteller": [
+        "Conteur"
+      ],
+      "Custom": [
+        "Personnalisé"
       ],
       "You are already authenticated": [
         "Vous êtes déjà authentifié"

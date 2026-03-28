@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepCustomize.js",
   "domain": "messages",
@@ -23,6 +23,27 @@
       ],
       "Border Radius": [
         "Randradius"
+      ],
+      "Customize the player to match your theme": [
+        "Pas de speler aan bij uw thema"
+      ],
+      "Pick colors and shape for the audio player button. Changes are previewed in real time below.": [
+        "Kies kleuren en vorm voor de audiospelerknop. Wijzigingen worden hieronder in realtime voorbekeken."
+      ],
+      "Live Preview": [
+        "Live voorbeeld"
+      ],
+      "Welcome to your site. Your visitors can now listen to your content with one click.": [
+        "Welkom op uw site. Uw bezoekers kunnen nu met één klik naar uw inhoud luisteren."
+      ],
+      "You can fully customize the player anytime from the Customize tab — including size, position, margins, and custom CSS.": [
+        "U kunt de speler altijd volledig aanpassen via het tabblad Aanpassen — inclusief grootte, positie, marges en aangepaste CSS."
+      ],
+      "AtlasVoice Pro unlocks additional player designs, floating player positions, and MP3 downloads for visitors.": [
+        "AtlasVoice Pro ontgrendelt extra spelerontwerpen, zwevende spelerposities en MP3-downloads voor bezoekers."
+      ],
+      "See Pro Player Designs": [
+        "Pro-spelerontwerpen bekijken"
       ]
     }
   }

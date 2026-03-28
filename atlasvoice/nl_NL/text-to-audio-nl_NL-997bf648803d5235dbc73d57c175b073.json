@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/chunks/tab-analytics.chunk.js",
   "domain": "messages",
@@ -252,6 +252,9 @@
       "Track Post IDs": [
         "Bericht-ID's volgen"
       ],
+      "Tracking more than 20 post IDs is a Pro feature": [
+        "Het volgen van meer dan 20 bericht-ID's is een Pro-functie"
+      ],
       "Post ID": [
         "Bericht-ID"
       ],
@@ -476,6 +479,12 @@
       ],
       "Track and analyze your TTS player engagement to understand listener behavior.": [
         "Volg en analyseer de betrokkenheid van uw TTS-speler om luistergedrag te begrijpen."
+      ],
+      "Export & Schedule Reports": [
+        "Rapporten exporteren & plannen"
+      ],
+      "Export CSV/PDF reports and schedule automated email digests.": [
+        "Exporteer CSV/PDF-rapporten en plan geautomatiseerde e-mailsamenvattingen."
       ],
       "Analytics is Currently Disabled": [
         "Analyses zijn momenteel uitgeschakeld"

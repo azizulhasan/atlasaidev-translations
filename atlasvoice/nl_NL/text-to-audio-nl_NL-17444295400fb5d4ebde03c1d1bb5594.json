@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/WelcomeWizard.js",
   "domain": "messages",
@@ -11,6 +11,42 @@
       },
       "Saving...": [
         "Opslaan..."
+      ],
+      "There was an error saving your settings. Please try again.": [
+        "Er is een fout opgetreden bij het opslaan van uw instellingen. Probeer het opnieuw."
+      ],
+      "Finish Setup": [
+        "Installatie voltooien"
+      ],
+      "Next: Choose Voice": [
+        "Volgende: Kies een stem"
+      ],
+      "Next: Hear the Difference": [
+        "Volgende: Hoor het verschil"
+      ],
+      "Next: Customize": [
+        "Volgende: Aanpassen"
+      ],
+      "Next: Analytics": [
+        "Volgende: Analyses"
+      ],
+      "Next": [
+        "Volgende"
+      ],
+      "AtlasVoice Setup": [
+        "AtlasVoice-installatie"
+      ],
+      "Step": [
+        "Stap"
+      ],
+      "of": [
+        "van"
+      ],
+      "Skip Setup": [
+        "Installatie overslaan"
+      ],
+      "Back": [
+        "Terug"
       ]
     }
   }

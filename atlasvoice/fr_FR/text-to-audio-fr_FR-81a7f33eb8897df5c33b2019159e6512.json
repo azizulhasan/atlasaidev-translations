@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/chunks/tab-listening.chunk.js",
   "domain": "messages",
@@ -24,8 +24,29 @@
       "TTS-1": [
         "TTS-1"
       ],
+      "Standard quality, low latency": [
+        "Qualité standard, faible latence"
+      ],
+      "$15.00 / 1M characters": [
+        "$15.00 / 1M caractères"
+      ],
       "TTS-1 HD": [
         "TTS-1 HD"
+      ],
+      "High definition audio quality": [
+        "Qualité audio haute définition"
+      ],
+      "$30.00 / 1M characters": [
+        "$30.00 / 1M caractères"
+      ],
+      "GPT-4o Mini TTS": [
+        "GPT-4o Mini TTS"
+      ],
+      "Best quality with voice instructions support": [
+        "Meilleure qualité avec prise en charge des instructions vocales"
+      ],
+      "~$0.60 / 1M input tokens + $12.00 / 1M output tokens": [
+        "~$0.60 / 1M jetons d'entrée + $12.00 / 1M jetons de sortie"
       ],
       "Voice Model": [
         "Modèle de voix"
@@ -36,8 +57,26 @@
       "Default Listening Language": [
         "Langue d'écoute par défaut"
       ],
+      "Voice to Speak": [
+        "Voix à utiliser"
+      ],
       "Default Listening Voice": [
         "Voix d'écoute par défaut"
+      ],
+      "Voice Instructions": [
+        "Instructions vocales"
+      ],
+      "Guide how the voice should sound. Instructions are sent to the AI model to control accent, tone, and speaking style.": [
+        "Guidez le rendu de la voix. Les instructions sont envoyées au modèle IA pour contrôler l'accent, le ton et le style de parole."
+      ],
+      "Instruction Preset": [
+        "Préréglage d'instructions"
+      ],
+      "Instructions": [
+        "Instructions"
+      ],
+      "Enter custom instructions for the voice...": [
+        "Saisissez des instructions personnalisées pour la voix..."
       ],
       "Voice Speed": [
         "Vitesse de la voix"

@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:53+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/WelcomeWizard.js",
   "domain": "messages",
@@ -11,6 +11,42 @@
       },
       "Saving...": [
         "Wird gespeichert..."
+      ],
+      "There was an error saving your settings. Please try again.": [
+        "Beim Speichern Ihrer Einstellungen ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+      ],
+      "Finish Setup": [
+        "Einrichtung abschliessen"
+      ],
+      "Next: Choose Voice": [
+        "Weiter: Stimme waehlen"
+      ],
+      "Next: Hear the Difference": [
+        "Weiter: Den Unterschied hoeren"
+      ],
+      "Next: Customize": [
+        "Weiter: Anpassen"
+      ],
+      "Next: Analytics": [
+        "Weiter: Analysen"
+      ],
+      "Next": [
+        "Weiter"
+      ],
+      "AtlasVoice Setup": [
+        "AtlasVoice-Einrichtung"
+      ],
+      "Step": [
+        "Schritt"
+      ],
+      "of": [
+        "von"
+      ],
+      "Skip Setup": [
+        "Einrichtung ueberspringen"
+      ],
+      "Back": [
+        "Zurueck"
       ]
     }
   }

@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepFinish.js",
   "domain": "messages",
@@ -20,6 +20,66 @@
       ],
       "Default": [
         "Par défaut"
+      ],
+      "%d %s": [
+        "%d %s"
+      ],
+      "Off": [
+        "Désactivé"
+      ],
+      "AtlasVoice is ready!": [
+        "AtlasVoice est prêt !"
+      ],
+      "Your audio player is now live on all your %s.": [
+        "Votre lecteur audio est maintenant actif sur tous vos %s."
+      ],
+      "View Player on Your Site": [
+        "Voir le lecteur sur votre site"
+      ],
+      "Go to Dashboard": [
+        "Aller au tableau de bord"
+      ],
+      "Your Setup": [
+        "Votre configuration"
+      ],
+      "Player": [
+        "Lecteur"
+      ],
+      "Customized": [
+        "Personnalisé"
+      ],
+      "Take it further with Pro": [
+        "Allez plus loin avec Pro"
+      ],
+      "Upgrade to unlock premium features that enhance your visitors' experience.": [
+        "Passez à la version supérieure pour débloquer des fonctionnalités premium qui améliorent l'expérience de vos visiteurs."
+      ],
+      "AI Voices": [
+        "Voix IA"
+      ],
+      "200+ natural voices from Google Cloud, ElevenLabs & OpenAI. Consistent quality for every visitor.": [
+        "Plus de 200 voix naturelles de Google Cloud, ElevenLabs et OpenAI. Une qualité constante pour chaque visiteur."
+      ],
+      "Bulk MP3 Export": [
+        "Export MP3 en masse"
+      ],
+      "Auto-generate MP3 for every post. Loads instantly, works offline, boosts SEO.": [
+        "Générez automatiquement des MP3 pour chaque article. Chargement instantané, fonctionne hors ligne, améliore le SEO."
+      ],
+      "Deep Analytics": [
+        "Analyses approfondies"
+      ],
+      "Listening time, top posts, device breakdown, geographic insights & CSV export.": [
+        "Temps d'écoute, meilleurs articles, répartition par appareil, informations géographiques et export CSV."
+      ],
+      "Explore Pro Plans": [
+        "Explorer les offres Pro"
+      ],
+      "AI Workflow Automation — AI Agent Hub": [
+        "Automatisation de flux de travail IA — AI Agent Hub"
+      ],
+      "Turn your WordPress into an AI-powered hub with 80+ abilities, MCP server, workflow builder & WooCommerce automation.": [
+        "Transformez votre WordPress en un hub alimenté par l'IA avec plus de 80 capacités, un serveur MCP, un constructeur de flux de travail et l'automatisation WooCommerce."
       ]
     }
   }

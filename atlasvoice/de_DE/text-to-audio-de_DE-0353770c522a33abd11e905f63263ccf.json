@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:53+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepFinish.js",
   "domain": "messages",
@@ -20,6 +20,66 @@
       ],
       "Default": [
         "Standard"
+      ],
+      "%d %s": [
+        "%d %s"
+      ],
+      "Off": [
+        "Aus"
+      ],
+      "AtlasVoice is ready!": [
+        "AtlasVoice ist bereit!"
+      ],
+      "Your audio player is now live on all your %s.": [
+        "Ihr Audio-Player ist jetzt auf allen Ihren %s aktiv."
+      ],
+      "View Player on Your Site": [
+        "Player auf Ihrer Website ansehen"
+      ],
+      "Go to Dashboard": [
+        "Zum Dashboard gehen"
+      ],
+      "Your Setup": [
+        "Ihre Einrichtung"
+      ],
+      "Player": [
+        "Player"
+      ],
+      "Customized": [
+        "Angepasst"
+      ],
+      "Take it further with Pro": [
+        "Gehen Sie weiter mit Pro"
+      ],
+      "Upgrade to unlock premium features that enhance your visitors' experience.": [
+        "Upgraden Sie, um Premium-Funktionen freizuschalten, die das Erlebnis Ihrer Besucher verbessern."
+      ],
+      "AI Voices": [
+        "AI-Stimmen"
+      ],
+      "200+ natural voices from Google Cloud, ElevenLabs & OpenAI. Consistent quality for every visitor.": [
+        "200+ natuerliche Stimmen von Google Cloud, ElevenLabs & OpenAI. Konsistente Qualitaet fuer jeden Besucher."
+      ],
+      "Bulk MP3 Export": [
+        "Massen-MP3-Export"
+      ],
+      "Auto-generate MP3 for every post. Loads instantly, works offline, boosts SEO.": [
+        "MP3 fuer jeden Beitrag automatisch generieren. Laedt sofort, funktioniert offline, verbessert SEO."
+      ],
+      "Deep Analytics": [
+        "Tiefgehende Analysen"
+      ],
+      "Listening time, top posts, device breakdown, geographic insights & CSV export.": [
+        "Hoerzeit, Top-Beitraege, Geraeteaufschluesselung, geografische Einblicke & CSV-Export."
+      ],
+      "Explore Pro Plans": [
+        "Pro-Plaene erkunden"
+      ],
+      "AI Workflow Automation — AI Agent Hub": [
+        "AI-Workflow-Automatisierung — AI Agent Hub"
+      ],
+      "Turn your WordPress into an AI-powered hub with 80+ abilities, MCP server, workflow builder & WooCommerce automation.": [
+        "Verwandeln Sie Ihr WordPress in einen AI-gesteuerten Hub mit 80+ Faehigkeiten, MCP-Server, Workflow-Builder & WooCommerce-Automatisierung."
       ]
     }
   }

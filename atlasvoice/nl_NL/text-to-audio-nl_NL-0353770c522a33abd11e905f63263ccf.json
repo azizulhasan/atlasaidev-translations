@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepFinish.js",
   "domain": "messages",
@@ -20,6 +20,66 @@
       ],
       "Default": [
         "Standaard"
+      ],
+      "%d %s": [
+        "%d %s"
+      ],
+      "Off": [
+        "Uit"
+      ],
+      "AtlasVoice is ready!": [
+        "AtlasVoice is klaar!"
+      ],
+      "Your audio player is now live on all your %s.": [
+        "Uw audiospeler is nu actief op al uw %s."
+      ],
+      "View Player on Your Site": [
+        "Speler op uw site bekijken"
+      ],
+      "Go to Dashboard": [
+        "Naar dashboard"
+      ],
+      "Your Setup": [
+        "Uw instellingen"
+      ],
+      "Player": [
+        "Speler"
+      ],
+      "Customized": [
+        "Aangepast"
+      ],
+      "Take it further with Pro": [
+        "Ga verder met Pro"
+      ],
+      "Upgrade to unlock premium features that enhance your visitors' experience.": [
+        "Upgrade om premiumfuncties te ontgrendelen die de ervaring van uw bezoekers verbeteren."
+      ],
+      "AI Voices": [
+        "AI-stemmen"
+      ],
+      "200+ natural voices from Google Cloud, ElevenLabs & OpenAI. Consistent quality for every visitor.": [
+        "200+ natuurlijke stemmen van Google Cloud, ElevenLabs & OpenAI. Consistente kwaliteit voor elke bezoeker."
+      ],
+      "Bulk MP3 Export": [
+        "Bulk MP3-export"
+      ],
+      "Auto-generate MP3 for every post. Loads instantly, works offline, boosts SEO.": [
+        "Genereer automatisch MP3 voor elk bericht. Laadt direct, werkt offline, verbetert SEO."
+      ],
+      "Deep Analytics": [
+        "Uitgebreide analyses"
+      ],
+      "Listening time, top posts, device breakdown, geographic insights & CSV export.": [
+        "Luistertijd, topberichten, apparaatverdeling, geografische inzichten & CSV-export."
+      ],
+      "Explore Pro Plans": [
+        "Pro-abonnementen bekijken"
+      ],
+      "AI Workflow Automation — AI Agent Hub": [
+        "AI Workflow Automatisering — AI Agent Hub"
+      ],
+      "Turn your WordPress into an AI-powered hub with 80+ abilities, MCP server, workflow builder & WooCommerce automation.": [
+        "Maak van uw WordPress een AI-aangedreven hub met 80+ mogelijkheden, MCP-server, workflowbouwer & WooCommerce-automatisering."
       ]
     }
   }

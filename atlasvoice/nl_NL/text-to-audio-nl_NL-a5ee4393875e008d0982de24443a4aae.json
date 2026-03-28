@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/chunks/tab-settings.chunk.js",
   "domain": "messages",
@@ -21,6 +21,9 @@
       "Select Items...": [
         "Selecteer items..."
       ],
+      "Preview on Your Site": [
+        "Voorbeeld op uw site"
+      ],
       "Help information about this setting": [
         "Hulpinformatie over deze instelling"
       ],
@@ -30,6 +33,9 @@
       "Configure text-to-speech player behavior and content selection": [
         "Configureer het gedrag van de tekst-naar-spraak speler en inhoudsselectie"
       ],
+      "Run Setup Wizard": [
+        "Installatiewizard starten"
+      ],
       "All cache deleted": [
         "Alle cache verwijderd"
       ],
@@ -38,6 +44,9 @@
       ],
       "Add Button or Player Automatically": [
         "Knop of speler automatisch toevoegen"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "De functie \"Knop of speler automatisch toevoegen\" stelt AtlasVoice in staat om automatisch een afspeelknop of audiospeler in uw berichten of pagina's in te voegen — zonder handmatige configuratie."
       ],
       "Continue Reading After Switching To Another Tab": [
         "Doorgaan met lezen na wisselen naar een ander tabblad"
@@ -195,8 +204,26 @@
       "Enable Button Icon": [
         "Knoppictogram inschakelen"
       ],
+      "Show admin bar toggle": [
+        "Admin-balk schakelaar tonen"
+      ],
+      "Show AtlasVoice on/off toggle in the WordPress admin bar on front-end pages.": [
+        "AtlasVoice aan/uit-schakelaar tonen in de WordPress admin-balk op front-endpagina's."
+      ],
       "Clear all cache": [
         "Alle cache wissen"
+      ],
+      "Delete all data on uninstall": [
+        "Alle gegevens verwijderen bij deïnstallatie"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "Wanneer ingeschakeld, worden alle plugingegevens (instellingen, analyses, gegenereerde audiobestanden) permanent verwijderd wanneer de plugin wordt verwijderd. Houd dit UIT als u van plan bent opnieuw te installeren of aan het debuggen bent."
+      ],
+      "⚠ Warning:": [
+        "⚠ Waarschuwing:"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "Alle plugingegevens worden permanent verwijderd wanneer u de plugin verwijdert. Zet dit UIT als u van plan bent opnieuw te installeren, te debuggen of van versie te wisselen."
       ],
       "Save All": [
         "Alles opslaan"

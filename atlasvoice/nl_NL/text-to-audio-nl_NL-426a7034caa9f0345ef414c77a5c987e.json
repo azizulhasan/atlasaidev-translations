@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-dashboard-ui.js",
   "domain": "messages",
@@ -297,6 +297,9 @@
       "Track Post IDs": [
         "Bericht-ID's volgen"
       ],
+      "Tracking more than 20 post IDs is a Pro feature": [
+        "Het volgen van meer dan 20 bericht-ID's is een Pro-functie"
+      ],
       "Post ID": [
         "Bericht-ID"
       ],
@@ -522,6 +525,12 @@
       "Track and analyze your TTS player engagement to understand listener behavior.": [
         "Volg en analyseer de betrokkenheid van uw TTS-speler om luistergedrag te begrijpen."
       ],
+      "Export & Schedule Reports": [
+        "Rapporten exporteren & plannen"
+      ],
+      "Export CSV/PDF reports and schedule automated email digests.": [
+        "Exporteer CSV/PDF-rapporten en plan geautomatiseerde e-mailsamenvattingen."
+      ],
       "Analytics is Currently Disabled": [
         "Analyses zijn momenteel uitgeschakeld"
       ],
@@ -533,6 +542,24 @@
       ],
       "Select Items...": [
         "Selecteer items..."
+      ],
+      "Compatibility Status": [
+        "Compatibiliteitsstatus"
+      ],
+      "AtlasVoice automatically excludes its scripts from caching and optimization plugins to prevent conflicts.": [
+        "AtlasVoice sluit automatisch zijn scripts uit van caching- en optimalisatieplugins om conflicten te voorkomen."
+      ],
+      "JS exclusion active": [
+        "JS-uitsluiting actief"
+      ],
+      "Detected but not handled — may cause conflicts": [
+        "Gedetecteerd maar niet afgehandeld — kan conflicten veroorzaken"
+      ],
+      "Installed but not active": [
+        "Geïnstalleerd maar niet actief"
+      ],
+      "Not installed": [
+        "Niet geïnstalleerd"
       ],
       "Add ACF Fields To Posts": [
         "ACF-velden toevoegen aan berichten"
@@ -711,6 +738,9 @@
       "Customize the player & design to match your brand and preferences.": [
         "Pas de speler & het ontwerp aan zodat het past bij uw merk en voorkeuren."
       ],
+      "Preview on Your Site": [
+        "Voorbeeld op uw site"
+      ],
       "Please fill the  field : ": [
         "Vul het veld in: "
       ],
@@ -731,6 +761,9 @@
       ],
       "Default Pro player is only available in the pro version.": [
         "Standaard Pro-speler is alleen beschikbaar in de Pro-versie."
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "AtlasVoice slaat gesynthetiseerde inhoud op in de uploads-map. Uw uploads-map is niet beschrijfbaar. Maak de uploads-map beschrijfbaar om alle functies van de plugin te gebruiken."
       ],
       "Customization saved.": [
         "Aanpassing opgeslagen."
@@ -830,6 +863,9 @@
       ],
       "Arguments": [
         "Argumenten"
+      ],
+      "Backup MP3 Files To Google Cloud Storage Can Be Enabled If Google Cloud TTS Is Authenticated.": [
+        "Back-up van MP3-bestanden naar Google Cloud Storage kan worden ingeschakeld als Google Cloud TTS is geverifieerd."
       ],
       "Settings saved successfully.": [
         "Instellingen succesvol opgeslagen."
@@ -938,6 +974,9 @@
       ],
       "Video Tutorial": [
         "Video-tutorial"
+      ],
+      "Learn How To Integrate Google Cloud TTS With AtlasVoice Pro Plugin?": [
+        "Hoe Google Cloud TTS integreren met AtlasVoice Pro Plugin?"
       ],
       "Authentication": [
         "Verificatie"
@@ -1071,6 +1110,9 @@
       "AtlasVoice Pro works fully fine even without Google TTS/ChatGPT integration.": [
         "AtlasVoice Pro werkt prima, zelfs zonder Google TTS/ChatGPT-integratie."
       ],
+      "Select Voice Service": [
+        "Stemservice selecteren"
+      ],
       "-- Select a service --": [
         "-- Selecteer een service --"
       ],
@@ -1107,8 +1149,29 @@
       "TTS-1": [
         "TTS-1"
       ],
+      "Standard quality, low latency": [
+        "Standaardkwaliteit, lage latentie"
+      ],
+      "$15.00 / 1M characters": [
+        "$15.00 / 1M tekens"
+      ],
       "TTS-1 HD": [
         "TTS-1 HD"
+      ],
+      "High definition audio quality": [
+        "High-definition audiokwaliteit"
+      ],
+      "$30.00 / 1M characters": [
+        "$30.00 / 1M tekens"
+      ],
+      "GPT-4o Mini TTS": [
+        "GPT-4o Mini TTS"
+      ],
+      "Best quality with voice instructions support": [
+        "Beste kwaliteit met ondersteuning voor steminstructies"
+      ],
+      "~$0.60 / 1M input tokens + $12.00 / 1M output tokens": [
+        "~$0.60 / 1M invoertokens + $12.00 / 1M uitvoertokens"
       ],
       "Voice Model": [
         "Stemmodel"
@@ -1119,8 +1182,26 @@
       "Default Listening Language": [
         "Standaard luistertaal"
       ],
+      "Voice to Speak": [
+        "Stem om te spreken"
+      ],
       "Default Listening Voice": [
         "Standaard luisterstem"
+      ],
+      "Voice Instructions": [
+        "Steminstructies"
+      ],
+      "Guide how the voice should sound. Instructions are sent to the AI model to control accent, tone, and speaking style.": [
+        "Geef aan hoe de stem moet klinken. Instructies worden naar het AI-model gestuurd om accent, toon en spreekstijl te regelen."
+      ],
+      "Instruction Preset": [
+        "Instructie-preset"
+      ],
+      "Instructions": [
+        "Instructies"
+      ],
+      "Enter custom instructions for the voice...": [
+        "Voer aangepaste instructies in voor de stem..."
       ],
       "Voice Speed": [
         "Stemsnelheid"
@@ -1230,6 +1311,9 @@
       "Configure text-to-speech player behavior and content selection": [
         "Configureer het gedrag van de tekst-naar-spraak speler en inhoudsselectie"
       ],
+      "Run Setup Wizard": [
+        "Installatiewizard starten"
+      ],
       "All cache deleted": [
         "Alle cache verwijderd"
       ],
@@ -1238,6 +1322,9 @@
       ],
       "Add Button or Player Automatically": [
         "Knop of speler automatisch toevoegen"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "De functie \"Knop of speler automatisch toevoegen\" stelt AtlasVoice in staat om automatisch een afspeelknop of audiospeler in uw berichten of pagina's in te voegen — zonder handmatige configuratie."
       ],
       "Continue Reading After Switching To Another Tab": [
         "Doorgaan met lezen na wisselen naar een ander tabblad"
@@ -1395,8 +1482,26 @@
       "Enable Button Icon": [
         "Knoppictogram inschakelen"
       ],
+      "Show admin bar toggle": [
+        "Admin-balk schakelaar tonen"
+      ],
+      "Show AtlasVoice on/off toggle in the WordPress admin bar on front-end pages.": [
+        "AtlasVoice aan/uit-schakelaar tonen in de WordPress admin-balk op front-endpagina's."
+      ],
       "Clear all cache": [
         "Alle cache wissen"
+      ],
+      "Delete all data on uninstall": [
+        "Alle gegevens verwijderen bij deïnstallatie"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "Wanneer ingeschakeld, worden alle plugingegevens (instellingen, analyses, gegenereerde audiobestanden) permanent verwijderd wanneer de plugin wordt verwijderd. Houd dit UIT als u van plan bent opnieuw te installeren of aan het debuggen bent."
+      ],
+      "⚠ Warning:": [
+        "⚠ Waarschuwing:"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "Alle plugingegevens worden permanent verwijderd wanneer u de plugin verwijdert. Zet dit UIT als u van plan bent opnieuw te installeren, te debuggen of van versie te wisselen."
       ],
       "Save All": [
         "Alles opslaan"
@@ -1406,6 +1511,24 @@
       ],
       "Select IDs": [
         "Selecteer ID's"
+      ],
+      "Native speaker": [
+        "Moedertaalspreker"
+      ],
+      "Slow and clear": [
+        "Langzaam en duidelijk"
+      ],
+      "Warm and friendly": [
+        "Warm en vriendelijk"
+      ],
+      "Professional newsreader": [
+        "Professionele nieuwslezer"
+      ],
+      "Storyteller": [
+        "Verteller"
+      ],
+      "Custom": [
+        "Aangepast"
       ],
       "You are already authenticated": [
         "U bent al geverifieerd"

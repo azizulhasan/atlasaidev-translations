@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/chunks/tab-customize.chunk.js",
   "domain": "messages",
@@ -234,6 +234,9 @@
       "Customize the player & design to match your brand and preferences.": [
         "Personnalisez le lecteur et le design pour correspondre à votre marque et vos préférences."
       ],
+      "Preview on Your Site": [
+        "Aperçu sur votre site"
+      ],
       "Please fill the  field : ": [
         "Veuillez remplir le champ : "
       ],
@@ -254,6 +257,9 @@
       ],
       "Default Pro player is only available in the pro version.": [
         "Le lecteur Pro par défaut n'est disponible que dans la version pro."
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "AtlasVoice stocke le contenu synthétisé dans le dossier des téléversements. Votre dossier de téléversements n'est pas accessible en écriture. Veuillez rendre le dossier de téléversements accessible en écriture pour profiter de toutes les fonctionnalités du plugin."
       ],
       "Customization saved.": [
         "Personnalisation enregistrée."

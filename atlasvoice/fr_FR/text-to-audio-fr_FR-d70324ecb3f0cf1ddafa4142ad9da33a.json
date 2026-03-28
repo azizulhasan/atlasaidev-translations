@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/atlas-plugins.js",
   "domain": "messages",
@@ -11,6 +11,9 @@
       },
       "Features": [
         "Fonctionnalités"
+      ],
+      "The most user-friendly text-to-speech accessibility plugin for WordPress. Automatically adds an audio player with no API required.": [
+        "Le plugin d'accessibilité de synthèse vocale le plus convivial pour WordPress. Ajoute automatiquement un lecteur audio sans API requise."
       ],
       "Unlimited text-to-speech conversion": [
         "Conversion texte-en-voix illimitée"

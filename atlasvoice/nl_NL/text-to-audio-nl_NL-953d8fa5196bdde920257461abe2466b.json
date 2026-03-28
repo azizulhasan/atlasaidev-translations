@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepVoice.js",
   "domain": "messages",
@@ -20,6 +20,39 @@
       ],
       "Voice": [
         "Stem"
+      ],
+      "Choose your voice and language": [
+        "Kies uw stem en taal"
+      ],
+      "Select a browser voice for your audio player. Visitors will hear content read aloud using the Web Speech API.": [
+        "Selecteer een browserstem voor uw audiospeler. Bezoekers horen inhoud voorgelezen via de Web Speech API."
+      ],
+      "All Languages": [
+        "Alle talen"
+      ],
+      "Loading voices...": [
+        "Stemmen laden..."
+      ],
+      "Stop Preview": [
+        "Voorbeeld stoppen"
+      ],
+      "Preview Voice": [
+        "Stem beluisteren"
+      ],
+      "Currently Active": [
+        "Momenteel actief"
+      ],
+      "Browser Voices (Free)": [
+        "Browserstemmen (gratis)"
+      ],
+      "Good for basic accessibility. Quality depends on visitor's browser and device.": [
+        "Goed voor basistoegang. Kwaliteit hangt af van de browser en het apparaat van de bezoeker."
+      ],
+      "AI Voices — Natural & Consistent": [
+        "AI-stemmen — Natuurlijk & consistent"
+      ],
+      "Google Cloud TTS, ElevenLabs, ChatGPT TTS. 200+ premium voices. Same quality for every visitor.": [
+        "Google Cloud TTS, ElevenLabs, ChatGPT TTS. 200+ premiumstemmen. Dezelfde kwaliteit voor elke bezoeker."
       ]
     }
   }

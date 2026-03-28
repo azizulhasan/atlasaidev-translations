@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:53+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepHearDifference.js",
   "domain": "messages",
@@ -11,6 +11,39 @@
       },
       "Default": [
         "Standard"
+      ],
+      "Explore Pro Plans": [
+        "Pro-Plaene erkunden"
+      ],
+      "Hear the Difference": [
+        "Hoeren Sie den Unterschied"
+      ],
+      "Compare your free browser voice with Pro AI voices. Same text, dramatically different quality.": [
+        "Vergleichen Sie Ihre kostenlose Browser-Stimme mit Pro-AI-Stimmen. Gleicher Text, dramatisch unterschiedliche Qualitaet."
+      ],
+      "Your Current Voice": [
+        "Ihre aktuelle Stimme"
+      ],
+      "Browser TTS": [
+        "Browser TTS"
+      ],
+      "FREE": [
+        "KOSTENLOS"
+      ],
+      "VS": [
+        "VS"
+      ],
+      "PRO": [
+        "PRO"
+      ],
+      "Preview unavailable": [
+        "Vorschau nicht verfuegbar"
+      ],
+      "Unlock 200+ premium AI voices with Pro": [
+        "Schalten Sie 200+ Premium-AI-Stimmen mit Pro frei"
+      ],
+      "Every visitor hears the same high-quality audio. No browser dependency, consistent across all devices.": [
+        "Jeder Besucher hoert das gleiche hochwertige Audio. Keine Browser-Abhaengigkeit, konsistent auf allen Geraeten."
       ]
     }
   }

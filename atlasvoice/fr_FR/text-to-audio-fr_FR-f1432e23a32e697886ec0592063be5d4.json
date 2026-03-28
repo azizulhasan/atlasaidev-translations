@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepCustomize.js",
   "domain": "messages",
@@ -23,6 +23,27 @@
       ],
       "Border Radius": [
         "Rayon de bordure"
+      ],
+      "Customize the player to match your theme": [
+        "Personnalisez le lecteur pour correspondre à votre thème"
+      ],
+      "Pick colors and shape for the audio player button. Changes are previewed in real time below.": [
+        "Choisissez les couleurs et la forme du bouton du lecteur audio. Les modifications sont prévisualisées en temps réel ci-dessous."
+      ],
+      "Live Preview": [
+        "Aperçu en direct"
+      ],
+      "Welcome to your site. Your visitors can now listen to your content with one click.": [
+        "Bienvenue sur votre site. Vos visiteurs peuvent désormais écouter votre contenu en un clic."
+      ],
+      "You can fully customize the player anytime from the Customize tab — including size, position, margins, and custom CSS.": [
+        "Vous pouvez entièrement personnaliser le lecteur à tout moment depuis l'onglet Personnalisation — y compris la taille, la position, les marges et le CSS personnalisé."
+      ],
+      "AtlasVoice Pro unlocks additional player designs, floating player positions, and MP3 downloads for visitors.": [
+        "AtlasVoice Pro débloque des designs de lecteur supplémentaires, des positions de lecteur flottant et les téléchargements MP3 pour les visiteurs."
+      ],
+      "See Pro Player Designs": [
+        "Voir les designs de lecteur Pro"
       ]
     }
   }

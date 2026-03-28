@@ -1,0 +1,47 @@
+{
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepAnalytics.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Track your audio player performance": [
+        "Volg de prestaties van uw audiospeler"
+      ],
+      "See how visitors interact with your audio content. Analytics helps you understand what works.": [
+        "Bekijk hoe bezoekers met uw audio-inhoud omgaan. Analyses helpen u te begrijpen wat werkt."
+      ],
+      "Enable Analytics": [
+        "Analyses inschakelen"
+      ],
+      "No published posts found. Analytics will start tracking once you publish content.": [
+        "Geen gepubliceerde berichten gevonden. Analyses beginnen met volgen zodra u inhoud publiceert."
+      ],
+      "Select posts to track (up to %d in free version):": [
+        "Selecteer berichten om te volgen (maximaal %d in de gratis versie):"
+      ],
+      "Select All": [
+        "Alles selecteren"
+      ],
+      "Deselect All": [
+        "Alles deselecteren"
+      ],
+      "Posts to track": [
+        "Berichten om te volgen"
+      ],
+      "of %d selected": [
+        "van %d geselecteerd"
+      ],
+      "AtlasVoice Pro unlocks unlimited post tracking, geographic insights, device analytics, and CSV exports.": [
+        "AtlasVoice Pro ontgrendelt onbeperkt berichten volgen, geografische inzichten, apparaatanalyses en CSV-exports."
+      ],
+      "Learn about Pro Analytics": [
+        "Meer over Pro Analyses"
+      ]
+    }
+  }
+}

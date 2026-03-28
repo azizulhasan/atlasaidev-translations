@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "translation-revision-date": "2026-03-28T11:43:09+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepHearDifference.js",
   "domain": "messages",
@@ -11,6 +11,39 @@
       },
       "Default": [
         "Standaard"
+      ],
+      "Explore Pro Plans": [
+        "Pro-abonnementen bekijken"
+      ],
+      "Hear the Difference": [
+        "Hoor het verschil"
+      ],
+      "Compare your free browser voice with Pro AI voices. Same text, dramatically different quality.": [
+        "Vergelijk uw gratis browserstem met Pro AI-stemmen. Dezelfde tekst, dramatisch andere kwaliteit."
+      ],
+      "Your Current Voice": [
+        "Uw huidige stem"
+      ],
+      "Browser TTS": [
+        "Browser TTS"
+      ],
+      "FREE": [
+        "GRATIS"
+      ],
+      "VS": [
+        "VS"
+      ],
+      "PRO": [
+        "PRO"
+      ],
+      "Preview unavailable": [
+        "Voorbeeld niet beschikbaar"
+      ],
+      "Unlock 200+ premium AI voices with Pro": [
+        "Ontgrendel 200+ premium AI-stemmen met Pro"
+      ],
+      "Every visitor hears the same high-quality audio. No browser dependency, consistent across all devices.": [
+        "Elke bezoeker hoort dezelfde hoogwaardige audio. Geen browserafhankelijkheid, consistent op alle apparaten."
       ]
     }
   }
