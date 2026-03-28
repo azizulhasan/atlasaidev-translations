@@ -1,0 +1,302 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-integrations.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Opslaan"
+      ],
+      "Network error. Please try again.": [
+        "Netwerkfout. Probeer het opnieuw."
+      ],
+      "Learn More": [
+        "Meer informatie"
+      ],
+      "Loading...": [
+        "Laden..."
+      ],
+      "Buy Now": [
+        "Nu kopen"
+      ],
+      "Settings saved successfully.": [
+        "Instellingen succesvol opgeslagen."
+      ],
+      "Something went wrong": [
+        "Er is iets misgegaan"
+      ],
+      "This is not a service account file. The \"type\" field must be \"service_account\". You may have downloaded the wrong file type.": [
+        "Dit is geen serviceaccountbestand. Het veld \"type\" moet \"service_account\" zijn. Mogelijk heeft u het verkeerde bestandstype gedownload."
+      ],
+      "Invalid service account file. Missing required fields: %s": [
+        "Ongeldig serviceaccountbestand. Ontbrekende verplichte velden: %s"
+      ],
+      "The uploaded file is not valid JSON. Please make sure you downloaded the correct service account key file.": [
+        "Het geüploade bestand is geen geldig JSON. Zorg ervoor dat u het juiste serviceaccountsleutelbestand heeft gedownload."
+      ],
+      "Could not read the file. Please try again.": [
+        "Kan het bestand niet lezen. Probeer het opnieuw."
+      ],
+      "File uploaded successfully. You can now test the connection below.": [
+        "Bestand succesvol geüpload. U kunt nu de verbinding hieronder testen."
+      ],
+      "Please select a service account JSON file first.": [
+        "Selecteer eerst een serviceaccount JSON-bestand."
+      ],
+      "Please create a valid bucket name first": [
+        "Maak eerst een geldige bucketnaam aan"
+      ],
+      "Google cloud text to speech feature is only in pro version.": [
+        "Google Cloud tekst-naar-spraak functie is alleen beschikbaar in de Pro-versie."
+      ],
+      "BCMath extension is not enabled. Please enable this extension. Learn more how to enable.": [
+        "BCMath-extensie is niet ingeschakeld. Schakel deze extensie in. Lees meer over het inschakelen."
+      ],
+      "BCMath Extension Missing": [
+        "BCMath-extensie ontbreekt"
+      ],
+      "The BCMath PHP extension is required for Google Cloud TTS. ": [
+        "De BCMath PHP-extensie is vereist voor Google Cloud TTS. "
+      ],
+      "Learn how to enable it": [
+        "Leer hoe u het inschakelt"
+      ],
+      "Uploads Folder Not Writable": [
+        "Uploads-map niet beschrijfbaar"
+      ],
+      "The uploads folder must be writable to store generated audio files. Please check your server file permissions.": [
+        "De uploads-map moet beschrijfbaar zijn om gegenereerde audiobestanden op te slaan. Controleer de bestandsrechten van uw server."
+      ],
+      "Setup Guide": [
+        "Installatiehandleiding"
+      ],
+      "Hide": [
+        "Verbergen"
+      ],
+      "Show": [
+        "Tonen"
+      ],
+      "Go to": [
+        "Ga naar"
+      ],
+      "Google Cloud Console": [
+        "Google Cloud Console"
+      ],
+      "and create a project (or select an existing one).": [
+        "en maak een project aan (of selecteer een bestaand project)."
+      ],
+      "Enable the": [
+        "Schakel de"
+      ],
+      "Cloud Text-to-Speech API": [
+        "Cloud Text-to-Speech API"
+      ],
+      "Optional, for Cloud Storage backup": [
+        "Optioneel, voor Cloud Storage back-up"
+      ],
+      "Cloud Storage API": [
+        "Cloud Storage API"
+      ],
+      "IAM & Admin > Service Accounts": [
+        "IAM & Admin > Serviceaccounts"
+      ],
+      "and create a new service account.": [
+        "en maak een nieuw serviceaccount aan."
+      ],
+      "Assign roles:": [
+        "Rollen toewijzen:"
+      ],
+      "Cloud Text-to-Speech User": [
+        "Cloud Text-to-Speech gebruiker"
+      ],
+      "(required)": [
+        "(vereist)"
+      ],
+      "Storage Admin": [
+        "Storage Admin"
+      ],
+      "only if using Cloud Storage backup": [
+        "alleen als u Cloud Storage back-up gebruikt"
+      ],
+      "Click on the service account > \"Keys\" tab > \"Add Key\" > \"Create new key\" > select \"JSON\".": [
+        "Klik op het serviceaccount > tabblad \"Keys\" > \"Add Key\" > \"Create new key\" > selecteer \"JSON\"."
+      ],
+      "Upload the downloaded JSON file below.": [
+        "Upload het gedownloade JSON-bestand hieronder."
+      ],
+      "Video Tutorial": [
+        "Video-tutorial"
+      ],
+      "Authentication": [
+        "Verificatie"
+      ],
+      "Click here to Upload": [
+        "Klik hier om te uploaden"
+      ],
+      "Upload service account JSON file": [
+        "Serviceaccount JSON-bestand uploaden"
+      ],
+      "Service Account:": [
+        "Serviceaccount:"
+      ],
+      "Project:": [
+        "Project:"
+      ],
+      "IAM Console": [
+        "IAM Console"
+      ],
+      "Connection Test": [
+        "Verbindingstest"
+      ],
+      "Verify that your service account can connect to Google Cloud Text-to-Speech API.": [
+        "Verifieer dat uw serviceaccount verbinding kan maken met de Google Cloud Text-to-Speech API."
+      ],
+      "Testing...": [
+        "Testen..."
+      ],
+      "Test TTS Connection": [
+        "TTS-verbinding testen"
+      ],
+      "Storage Configuration": [
+        "Opslagconfiguratie"
+      ],
+      "Store MP3 Files To Google Cloud Storage": [
+        "MP3-bestanden opslaan in Google Cloud Storage"
+      ],
+      "Click To Know How To Enable Automatic Store To Google Cloud Storage": [
+        "Klik om te weten hoe u automatische opslag naar Google Cloud Storage inschakelt"
+      ],
+      "Automatically sync generated audio files in cloud storage for store & easy access.": [
+        "Synchroniseer automatisch gegenereerde audiobestanden in cloudopslag voor opslag en eenvoudige toegang."
+      ],
+      "Required:": [
+        "Vereist:"
+      ],
+      "Your service account needs the \"Storage Admin\" role to use Cloud Storage.": [
+        "Uw serviceaccount heeft de rol \"Storage Admin\" nodig om Cloud Storage te gebruiken."
+      ],
+      "Assign it to": [
+        "Wijs het toe aan"
+      ],
+      "in": [
+        "in"
+      ],
+      "Open IAM Console": [
+        "IAM Console openen"
+      ],
+      "Test Storage Access": [
+        "Opslagtoegang testen"
+      ],
+      "Google Cloud Storage Bucket Name": [
+        "Google Cloud Storage Bucketnaam"
+      ],
+      "Click Here To Know Bucket Name Rules": [
+        "Klik hier voor de regels voor bucketnamen"
+      ],
+      "Are you sure you want to create a bucket named \"%1$s\"? You already have a bucket named \"%2$s\". If you create a new bucket, all MP3 files will be generated again. Please decide carefully.": [
+        "Weet u zeker dat u een bucket wilt aanmaken met de naam \"%1$s\"? U heeft al een bucket met de naam \"%2$s\". Als u een nieuwe bucket aanmaakt, worden alle MP3-bestanden opnieuw gegenereerd. Beslis zorgvuldig."
+      ],
+      "This bucket is already have to your cloud storage.": [
+        "Deze bucket bestaat al in uw cloudopslag."
+      ],
+      "Create": [
+        "Aanmaken"
+      ],
+      "Do you want to revoke access and delete the file uploaded during authentication. If you delete the file you have to upload the file again. Make sure you have a backup otherwise, you have to crete another auth file from Google Cloud text to speech.": [
+        "Wilt u de toegang intrekken en het bestand verwijderen dat tijdens de verificatie is geüpload? Als u het bestand verwijdert, moet u het opnieuw uploaden. Zorg ervoor dat u een back-up heeft, anders moet u een nieuw verificatiebestand aanmaken vanuit Google Cloud tekst naar spraak."
+      ],
+      "Authentication removed.": [
+        "Verificatie verwijderd."
+      ],
+      "You have to be authenticated to revoke.": [
+        "U moet geverifieerd zijn om in te trekken."
+      ],
+      "Remove Authentication": [
+        "Verificatie verwijderen"
+      ],
+      "Set ChatGPT API key": [
+        "ChatGPT API-sleutel instellen"
+      ],
+      "API key is saved successfully": [
+        "API-sleutel is succesvol opgeslagen"
+      ],
+      "ChatGPT text to speech feature is only in pro version.": [
+        "ChatGPT tekst-naar-spraak functie is alleen beschikbaar in de Pro-versie."
+      ],
+      "ChatGPT TTS feature is only in pro version.": [
+        "ChatGPT TTS-functie is alleen beschikbaar in de Pro-versie."
+      ],
+      "paste here chatgpt_tts_api_key": [
+        "plak hier chatgpt_tts_api_key"
+      ],
+      "Submit": [
+        "Verzenden"
+      ],
+      "How to get chatGPT API key?": [
+        "Hoe verkrijg ik een ChatGPT API-sleutel?"
+      ],
+      "Click here": [
+        "Klik hier"
+      ],
+      "Set ElevenLabs API key": [
+        "ElevenLabs API-sleutel instellen"
+      ],
+      "ElevenLabs text to speech feature is only in pro version.": [
+        "ElevenLabs tekst-naar-spraak functie is alleen beschikbaar in de Pro-versie."
+      ],
+      "ElevenLabs TTS feature is only in pro version.": [
+        "ElevenLabs TTS-functie is alleen beschikbaar in de Pro-versie."
+      ],
+      "paste here elevenlabs_api_key": [
+        "plak hier elevenlabs_api_key"
+      ],
+      "How to get ElevenLabs API key?": [
+        "Hoe verkrijg ik een ElevenLabs API-sleutel?"
+      ],
+      "Integration Setup": [
+        "Integratie-instelling"
+      ],
+      "AtlasVoice Pro works fully fine even without Google TTS/ChatGPT integration.": [
+        "AtlasVoice Pro werkt prima, zelfs zonder Google TTS/ChatGPT-integratie."
+      ],
+      "-- Select a service --": [
+        "-- Selecteer een service --"
+      ],
+      "Google Cloud TTS": [
+        "Google Cloud TTS"
+      ],
+      "ChatGPT TTS": [
+        "ChatGPT TTS"
+      ],
+      "ElevenLabs TTS": [
+        "ElevenLabs TTS"
+      ],
+      "ElevenLabs Usage": [
+        "ElevenLabs-gebruik"
+      ],
+      "characters": [
+        "tekens"
+      ],
+      "Plan:": [
+        "Abonnement:"
+      ],
+      "Resets:": [
+        "Wordt gereset op:"
+      ],
+      "View detailed usage and billing at": [
+        "Bekijk gedetailleerd gebruik en facturering op"
+      ],
+      "OpenAI TTS Usage": [
+        "OpenAI TTS-gebruik"
+      ],
+      "Google Cloud TTS Usage": [
+        "Google Cloud TTS-gebruik"
+      ]
+    }
+  }
+}

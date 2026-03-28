@@ -1,0 +1,206 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-settings.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Click To Know How It Works?": [
+        "Cliquez pour savoir comment ça fonctionne ?"
+      ],
+      "Loading...": [
+        "Chargement..."
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "L'affichage du bouton sur plusieurs articles n'est pas pris en charge dans la version gratuite."
+      ],
+      "Select Items...": [
+        "Sélectionner des éléments..."
+      ],
+      "Help information about this setting": [
+        "Informations d'aide sur ce paramètre"
+      ],
+      "Configure Settings": [
+        "Configurer les paramètres"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "Configurer le comportement du lecteur de synthèse vocale et la sélection du contenu"
+      ],
+      "All cache deleted": [
+        "Tout le cache supprimé"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "Enregistré avec succès. Allez maintenant au menu \"Personnalisation\"."
+      ],
+      "Add Button or Player Automatically": [
+        "Ajouter le bouton ou le lecteur automatiquement"
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "Continuer la lecture après avoir changé d'onglet"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "Lorsqu'activé, la synthèse vocale continuera de jouer même si vous quittez l'onglet actuel"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "Arrêter la lecture automatique après avoir basculé vers l'onglet TTS"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "Mettre automatiquement en pause la lecture lorsque vous revenez à l'onglet TTS depuis un autre onglet"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "Arrêter le lecteur flottant lors du défilement vers le bas"
+      ],
+      "Automatically pause the floating player when users scroll down the page": [
+        "Mettre automatiquement en pause le lecteur flottant lorsque les utilisateurs font défiler la page vers le bas"
+      ],
+      "Apply number format": [
+        "Appliquer le format numérique"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "Convertir les nombres en mots parlés (ex. : « 123 » devient « cent vingt-trois »)"
+      ],
+      "Read Content From Dom": [
+        "Lire le contenu depuis le DOM"
+      ],
+      "Use Old Player UI": [
+        "Utiliser l'ancienne interface du lecteur"
+      ],
+      "Add Post Title To Read": [
+        "Ajouter le titre de l'article à la lecture"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "Inclure le titre de l'article dans la lecture audio avant le contenu principal"
+      ],
+      "Add Post Excerpt To Read": [
+        "Ajouter l'extrait de l'article à la lecture"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "Inclure l'extrait/résumé de l'article dans la lecture audio avant le contenu principal"
+      ],
+      "Enable TTS Status": [
+        "Activer le statut TTS"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "Activer le statut TTS dans la page de l'article."
+      ],
+      "Add Text Before Content(intro)": [
+        "Ajouter du texte avant le contenu (introduction)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "Texte personnalisé qui sera lu à voix haute avant le début du contenu principal"
+      ],
+      "Add Text Before Content": [
+        "Ajouter du texte avant le contenu"
+      ],
+      "Add Text After Content(outro)": [
+        "Ajouter du texte après le contenu (conclusion)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "Texte personnalisé qui sera lu à voix haute après la fin du contenu principal"
+      ],
+      "Add Text After Content": [
+        "Ajouter du texte après le contenu"
+      ],
+      "Allow Listening For Post Type": [
+        "Autoriser l'écoute pour le type de publication"
+      ],
+      "Allow Listening For Post Status": [
+        "Autoriser l'écoute pour le statut de publication"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "Dans la version gratuite, vous ne pouvez sélectionner qu'un seul type de publication."
+      ],
+      "Include Content By CSS Selectors": [
+        "Inclure le contenu par sélecteurs CSS"
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "La fonctionnalité Inclure le contenu par sélecteurs CSS est disponible dans la version pro"
+      ],
+      "Multiple selector will be multiline.": [
+        "Les sélecteurs multiples seront sur plusieurs lignes."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Du contenu peut manquer, il peut être trouvé par des sélecteurs CSS"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Exclure le contenu par sélecteurs CSS"
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "La fonctionnalité Exclure le contenu par sélecteurs CSS est disponible dans la version pro"
+      ],
+      "Exclude content by CSS selectors": [
+        "Exclure le contenu par sélecteurs CSS"
+      ],
+      "You can add \".atlasvoice_no_read\" class to exclude content.": [
+        "Vous pouvez ajouter la classe \".atlasvoice_no_read\" pour exclure du contenu."
+      ],
+      "Exclude HTML Tags To Speak": [
+        "Exclure les balises HTML de la lecture"
+      ],
+      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Exclure les balises. Pour que leur contenu soit ignoré. Comme (Subscript, Superscript, etc.) Ceci est une fonctionnalité pro."
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Les balises multiples seront séparées par un pipe (|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "L'exclusion de balises est une fonctionnalité pro."
+      ],
+      "Exclude Texts To Speak": [
+        "Exclure des textes de la lecture"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "L'exclusion de textes à lire est une fonctionnalité pro."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Les textes multiples seront séparés par un pipe (|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "L'exclusion de textes est une fonctionnalité pro."
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "Exclure des articles par IDs de la lecture"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "L'exclusion de plus de 5 IDs est une fonctionnalité pro"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "Les IDs multiples seront séparés par des virgules (,)."
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "L'exclusion de plus de 5 IDs est une fonctionnalité pro. Les IDs multiples seront séparés par des virgules (,)."
+      ],
+      "Exclude Categories To Speak": [
+        "Exclure des catégories de la lecture"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "L'exclusion de plus d'une catégorie est une fonctionnalité pro"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "Dans la version gratuite, vous ne pouvez sélectionner qu'une seule catégorie."
+      ],
+      "Exclude Tags To Speak": [
+        "Exclure des étiquettes de la lecture"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "L'exclusion de plus d'une étiquette est une fonctionnalité pro"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "Dans la version gratuite, vous ne pouvez sélectionner qu'une seule étiquette."
+      ],
+      "Enable Button Icon": [
+        "Activer l'icône du bouton"
+      ],
+      "Clear all cache": [
+        "Vider tout le cache"
+      ],
+      "Save All": [
+        "Tout enregistrer"
+      ]
+    }
+  }
+}

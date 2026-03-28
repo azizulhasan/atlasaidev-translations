@@ -1,0 +1,47 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/buttons/components/TextToSpeech.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Settings": [
+        "Paramètres"
+      ],
+      "Click to seek": [
+        "Cliquez pour naviguer"
+      ],
+      "Player Settings": [
+        "Paramètres du lecteur"
+      ],
+      "Close": [
+        "Fermer"
+      ],
+      "Language": [
+        "Langue"
+      ],
+      "Voice": [
+        "Voix"
+      ],
+      "Speed": [
+        "Vitesse"
+      ],
+      "Pitch": [
+        "Tonalité"
+      ],
+      "Volume": [
+        "Volume"
+      ],
+      "Unmute": [
+        "Réactiver le son"
+      ],
+      "Mute": [
+        "Couper le son"
+      ]
+    }
+  }
+}

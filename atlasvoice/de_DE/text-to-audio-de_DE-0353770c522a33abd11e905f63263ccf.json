@@ -1,0 +1,26 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:53+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepFinish.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Learn More": [
+        "Mehr erfahren"
+      ],
+      "Analytics": [
+        "Analysen"
+      ],
+      "Voice": [
+        "Stimme"
+      ],
+      "Default": [
+        "Standard"
+      ]
+    }
+  }
+}

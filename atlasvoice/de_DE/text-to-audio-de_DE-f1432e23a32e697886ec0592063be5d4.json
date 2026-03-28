@@ -1,0 +1,29 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:53+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepCustomize.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Listen": [
+        "Anhoeren"
+      ],
+      "Background Color": [
+        "Hintergrundfarbe"
+      ],
+      "Text Color": [
+        "Textfarbe"
+      ],
+      "Border Color": [
+        "Rahmenfarbe"
+      ],
+      "Border Radius": [
+        "Rahmenradius"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1418 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/text-to-audio-dashboard-ui.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Last 7 Days": [
+        "Laatste 7 dagen"
+      ],
+      "Upgrade to Pro": [
+        "Upgraden naar Pro"
+      ],
+      "Device Types": [
+        "Apparaattypen"
+      ],
+      "Browser": [
+        "Browser"
+      ],
+      "OS": [
+        "OS"
+      ],
+      "Top Countries": [
+        "Toplanden"
+      ],
+      "Post Title": [
+        "Berichttitel"
+      ],
+      "Pause": [
+        "Pauze"
+      ],
+      "Save": [
+        "Opslaan"
+      ],
+      "Text to Speech Aliases": [
+        "Tekst naar Spraak Aliassen"
+      ],
+      "Actual Text": [
+        "Werkelijke tekst"
+      ],
+      "To Read": [
+        "Voor te lezen"
+      ],
+      "All fields must be filled!": [
+        "Alle velden moeten ingevuld zijn!"
+      ],
+      "Successfully Saved.": [
+        "Succesvol opgeslagen."
+      ],
+      "Buy Pro version": [
+        "Pro-versie kopen"
+      ],
+      "Click To Know How It Works?": [
+        "Klik om te weten hoe het werkt?"
+      ],
+      "Network error. Please try again.": [
+        "Netwerkfout. Probeer het opnieuw."
+      ],
+      "Learn More": [
+        "Meer informatie"
+      ],
+      "Background Color": [
+        "Achtergrondkleur"
+      ],
+      "Text Color": [
+        "Tekstkleur"
+      ],
+      "Custom CSS": [
+        "Aangepaste CSS"
+      ],
+      "Here a short text have to write to inform the user about this feature purpose": [
+        "Hier moet een korte tekst geschreven worden om de gebruiker te informeren over het doel van deze functie"
+      ],
+      "Write actual text": [
+        "Schrijf de werkelijke tekst"
+      ],
+      "Write read aloud text": [
+        "Schrijf de voor te lezen tekst"
+      ],
+      "More than 1 alias is available in the pro version. Please ": [
+        "Meer dan 1 alias is beschikbaar in de Pro-versie. Gelieve "
+      ],
+      "Add New": [
+        "Nieuwe toevoegen"
+      ],
+      "Loading...": [
+        "Laden..."
+      ],
+      "Pro Feature": [
+        "Pro-functie"
+      ],
+      "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
+        "Upgrade naar Pro om deze functie te ontgrendelen en toegang te krijgen tot geavanceerde analyses."
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Total Posts": [
+        "Totaal berichten"
+      ],
+      "Total posts with TTS player": [
+        "Totaal berichten met TTS-speler"
+      ],
+      "Init": [
+        "Init"
+      ],
+      "Player initialization count": [
+        "Aantal speler-initialisaties"
+      ],
+      "Play": [
+        "Afspelen"
+      ],
+      "Total play button clicks": [
+        "Totaal klikken op afspeelknop"
+      ],
+      "Time (Min)": [
+        "Tijd (min)"
+      ],
+      "Total listening time": [
+        "Totale luistertijd"
+      ],
+      "Total pause actions": [
+        "Totaal pauzeacties"
+      ],
+      "Download": [
+        "Downloaden"
+      ],
+      "Total MP3 downloads": [
+        "Totaal MP3-downloads"
+      ],
+      "End": [
+        "Einde"
+      ],
+      "Total completions": [
+        "Totaal voltooiingen"
+      ],
+      "Bounce Rate": [
+        "Bouncepercentage"
+      ],
+      "Users who didn't complete the audio": [
+        "Gebruikers die de audio niet hebben voltooid"
+      ],
+      "TTS Player Analytics Summary": [
+        "TTS-speler analysesamenvatting"
+      ],
+      "Total Interactions:": [
+        "Totaal interacties:"
+      ],
+      "Last 30 Days": [
+        "Laatste 30 dagen"
+      ],
+      "Last 90 Days": [
+        "Laatste 90 dagen"
+      ],
+      "25%": [
+        "25%"
+      ],
+      "50%": [
+        "50%"
+      ],
+      "75%": [
+        "75%"
+      ],
+      "Engagement Funnel": [
+        "Betrokkenheidstrechter"
+      ],
+      "Play Rate:": [
+        "Afspeelpercentage:"
+      ],
+      "Completion Rate:": [
+        "Voltooiingspercentage:"
+      ],
+      "Biggest Drop:": [
+        "Grootste afname:"
+      ],
+      "50% → 75%": [
+        "50% → 75%"
+      ],
+      "New Listeners": [
+        "Nieuwe luisteraars"
+      ],
+      "Returning": [
+        "Terugkerend"
+      ],
+      "Listener Segments": [
+        "Luisteraarsegmenten"
+      ],
+      "New:": [
+        "Nieuw:"
+      ],
+      "Returning:": [
+        "Terugkerend:"
+      ],
+      "New Listeners:": [
+        "Nieuwe luisteraars:"
+      ],
+      "Avg Sessions/User:": [
+        "Gem. sessies/gebruiker:"
+      ],
+      "Yesterday": [
+        "Gisteren"
+      ],
+      "more": [
+        "meer"
+      ],
+      "Browser Analytics": [
+        "Browseranalyses"
+      ],
+      "Location": [
+        "Locatie"
+      ],
+      "Top Cities": [
+        "Topsteden"
+      ],
+      "Unlock city-level analytics": [
+        "Ontgrendel analyses op stadsniveau"
+      ],
+      "Custom Range": [
+        "Aangepast bereik"
+      ],
+      "Playing Quantity": [
+        "Afspeelaantal"
+      ],
+      "Playing Time (min)": [
+        "Afspeeltijd (min)"
+      ],
+      "Previous Period": [
+        "Vorige periode"
+      ],
+      "Playing Trend Analysis": [
+        "Afspeeltrendanalyse"
+      ],
+      "Compare with Previous Period": [
+        "Vergelijk met vorige periode"
+      ],
+      "Enable comparison with previous period": [
+        "Vergelijking met vorige periode inschakelen"
+      ],
+      "Quantity vs Date": [
+        "Aantal vs datum"
+      ],
+      "Playing Time(min)": [
+        "Afspeeltijd(min)"
+      ],
+      "Mon": [
+        "Ma"
+      ],
+      "Tue": [
+        "Di"
+      ],
+      "Wed": [
+        "Wo"
+      ],
+      "Thu": [
+        "Do"
+      ],
+      "Fri": [
+        "Vr"
+      ],
+      "Sat": [
+        "Za"
+      ],
+      "Sun": [
+        "Zo"
+      ],
+      "Peak Listening Hours": [
+        "Piekluisteruren"
+      ],
+      "Low": [
+        "Laag"
+      ],
+      "Peak": [
+        "Piek"
+      ],
+      "Insight:": [
+        "Inzicht:"
+      ],
+      "Your peak listening time is": [
+        "Uw piekluistertijd is"
+      ],
+      "Peak Hours Heatmap": [
+        "Piekuren heatmap"
+      ],
+      "Date Range is only available in Pro version": [
+        "Datumbereik is alleen beschikbaar in de Pro-versie"
+      ],
+      "Buy Now": [
+        "Nu kopen"
+      ],
+      "Please enable analytics first.": [
+        "Schakel eerst analyses in."
+      ],
+      "Track Post IDs": [
+        "Bericht-ID's volgen"
+      ],
+      "Post ID": [
+        "Bericht-ID"
+      ],
+      "Please provide a Post ID or date range.": [
+        "Geef een bericht-ID of datumbereik op."
+      ],
+      "Search": [
+        "Zoeken"
+      ],
+      "Clear": [
+        "Wissen"
+      ],
+      "Showing results for:": [
+        "Resultaten tonen voor:"
+      ],
+      "Post ID:": [
+        "Bericht-ID:"
+      ],
+      "From:": [
+        "Van:"
+      ],
+      "To:": [
+        "Tot:"
+      ],
+      "Metric": [
+        "Metriek"
+      ],
+      "Value": [
+        "Waarde"
+      ],
+      "Unlock 10+ more metrics with Pro": [
+        "Ontgrendel 10+ meer metrieken met Pro"
+      ],
+      "Popular Post": [
+        "Populair bericht"
+      ],
+      "Rank": [
+        "Rang"
+      ],
+      "Total Interactions": [
+        "Totaal interacties"
+      ],
+      "No data available yet. Start tracking posts to see analytics.": [
+        "Nog geen gegevens beschikbaar. Begin met het volgen van berichten om analyses te zien."
+      ],
+      "View all": [
+        "Alles bekijken"
+      ],
+      "posts": [
+        "berichten"
+      ],
+      "View All Posts": [
+        "Alle berichten bekijken"
+      ],
+      "CSV export initiated. Check your downloads.": [
+        "CSV-export gestart. Controleer uw downloads."
+      ],
+      "Export failed. Please try again.": [
+        "Export mislukt. Probeer het opnieuw."
+      ],
+      "PDF export initiated. Check your downloads.": [
+        "PDF-export gestart. Controleer uw downloads."
+      ],
+      "Please enter at least one recipient email address.": [
+        "Voer ten minste één e-mailadres van een ontvanger in."
+      ],
+      "Report schedule saved successfully.": [
+        "Rapportschema succesvol opgeslagen."
+      ],
+      "Failed to save schedule settings.": [
+        "Opslaan van schema-instellingen mislukt."
+      ],
+      "Please enter recipient email addresses first.": [
+        "Voer eerst e-mailadressen van ontvangers in."
+      ],
+      "Test report sent successfully! Check your inbox.": [
+        "Testrapport succesvol verzonden! Controleer uw inbox."
+      ],
+      "Failed to send test report.": [
+        "Testrapport verzenden mislukt."
+      ],
+      "Failed to send test report. Please check your network connection.": [
+        "Testrapport verzenden mislukt. Controleer uw netwerkverbinding."
+      ],
+      "CSV": [
+        "CSV"
+      ],
+      "PDF": [
+        "PDF"
+      ],
+      "Schedule Report": [
+        "Rapport plannen"
+      ],
+      "Schedule Email Reports": [
+        "E-mailrapporten plannen"
+      ],
+      "Enable automated reports": [
+        "Automatische rapporten inschakelen"
+      ],
+      "Recipients (comma separated)": [
+        "Ontvangers (komma gescheiden)"
+      ],
+      "Frequency": [
+        "Frequentie"
+      ],
+      "Daily": [
+        "Dagelijks"
+      ],
+      "Weekly": [
+        "Wekelijks"
+      ],
+      "Monthly": [
+        "Maandelijks"
+      ],
+      "Day": [
+        "Dag"
+      ],
+      "Monday": [
+        "Maandag"
+      ],
+      "Tuesday": [
+        "Dinsdag"
+      ],
+      "Wednesday": [
+        "Woensdag"
+      ],
+      "Thursday": [
+        "Donderdag"
+      ],
+      "Friday": [
+        "Vrijdag"
+      ],
+      "Saturday": [
+        "Zaterdag"
+      ],
+      "Sunday": [
+        "Zondag"
+      ],
+      "Time": [
+        "Tijd"
+      ],
+      "Include in report:": [
+        "Opnemen in rapport:"
+      ],
+      "Summary statistics": [
+        "Samenvattingsstatistieken"
+      ],
+      "Top 10 posts": [
+        "Top 10 berichten"
+      ],
+      "Geographic breakdown": [
+        "Geografisch overzicht"
+      ],
+      "Trend chart": [
+        "Trendgrafiek"
+      ],
+      "Device stats": [
+        "Apparaatstatistieken"
+      ],
+      "Next scheduled report:": [
+        "Volgend gepland rapport:"
+      ],
+      "Sending...": [
+        "Verzenden..."
+      ],
+      "Send Test Report": [
+        "Testrapport verzenden"
+      ],
+      "Saving...": [
+        "Opslaan..."
+      ],
+      "Save Settings": [
+        "Instellingen opslaan"
+      ],
+      "Export & Reports": [
+        "Export & Rapporten"
+      ],
+      "Last 14 Days": [
+        "Laatste 14 dagen"
+      ],
+      "All Time": [
+        "Alle tijd"
+      ],
+      "Getting more than 30 days data is pro feature. Please ": [
+        "Gegevens van meer dan 30 dagen ophalen is een Pro-functie. Gelieve "
+      ],
+      "Quick Select": [
+        "Snelle selectie"
+      ],
+      "From": [
+        "Van"
+      ],
+      "To": [
+        "Tot"
+      ],
+      "Custom date select is only available in pro version. Please ": [
+        "Aangepaste datumselectie is alleen beschikbaar in de Pro-versie. Gelieve "
+      ],
+      "Apply": [
+        "Toepassen"
+      ],
+      "CSV exported successfully!": [
+        "CSV succesvol geëxporteerd!"
+      ],
+      "Error exporting CSV": [
+        "Fout bij exporteren van CSV"
+      ],
+      "PDF report opened. Use 'Save as PDF' in the print dialog.": [
+        "PDF-rapport geopend. Gebruik 'Opslaan als PDF' in het afdrukvenster."
+      ],
+      "Report downloaded as HTML. Open in browser and print to save as PDF.": [
+        "Rapport gedownload als HTML. Open in browser en druk af om als PDF op te slaan."
+      ],
+      "Failed to generate PDF report.": [
+        "PDF-rapport genereren mislukt."
+      ],
+      "Error exporting PDF": [
+        "Fout bij exporteren van PDF"
+      ],
+      "Analytics": [
+        "Analyses"
+      ],
+      "Track and analyze your TTS player engagement to understand listener behavior.": [
+        "Volg en analyseer de betrokkenheid van uw TTS-speler om luistergedrag te begrijpen."
+      ],
+      "Analytics is Currently Disabled": [
+        "Analyses zijn momenteel uitgeschakeld"
+      ],
+      "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
+        "Schakel analyses in met de schakelaar hierboven om de interacties van uw TTS-speler te volgen en gedetailleerde statistieken te bekijken."
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Knop tonen bij meerdere berichten wordt niet ondersteund in de gratis versie."
+      ],
+      "Select Items...": [
+        "Selecteer items..."
+      ],
+      "Add ACF Fields To Posts": [
+        "ACF-velden toevoegen aan berichten"
+      ],
+      "Adding more than 1  ACF field is a pro feature": [
+        "Meer dan 1 ACF-veld toevoegen is een Pro-functie"
+      ],
+      "Loading": [
+        "Laden"
+      ],
+      "Speed": [
+        "Snelheid"
+      ],
+      "Before Content": [
+        "Vóór inhoud"
+      ],
+      "After Content": [
+        "Na inhoud"
+      ],
+      "Bottom Fixed (Pro)": [
+        "Onderaan vast (Pro)"
+      ],
+      "Bottom Left (Pro)": [
+        "Linksonder (Pro)"
+      ],
+      "Bottom Right (Pro)": [
+        "Rechtsonder (Pro)"
+      ],
+      "Bottom Center (Pro)": [
+        "Onderaan midden (Pro)"
+      ],
+      "Select Player": [
+        "Selecteer speler"
+      ],
+      "Select Button Position": [
+        "Selecteer knoppositie"
+      ],
+      "Select where to display the player button": [
+        "Selecteer waar de spelerknop weergegeven moet worden"
+      ],
+      "Display Player To": [
+        "Speler weergeven aan"
+      ],
+      "Choose who can see the player": [
+        "Kies wie de speler kan zien"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "Spelerweergavebeperking voor meerdere gebruikerstypen is beschikbaar in de Pro-versie"
+      ],
+      "Who Can Download MP3 File": [
+        "Wie kan het MP3-bestand downloaden"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "MP3-generatie vanaf publicatiedatum van bericht"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Begin MP3-bestanden te genereren vanaf een specifieke publicatiedatum. Selecteer dit alleen als u MP3-bestanden wilt genereren op basis van een datumbereik."
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "MP3-bestand genereren datum vanaf"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "MP3-generatie tot publicatiedatum van bericht"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Genereer MP3-bestanden tot een specifieke publicatiedatum. Selecteer dit alleen als u MP3-bestanden wilt genereren op basis van een datumbereik."
+      ],
+      "Generate MP3 File Date To": [
+        "MP3-bestand genereren datum tot"
+      ],
+      "Player Customization": [
+        "Speleraanpassing"
+      ],
+      "Choose player background color": [
+        "Kies achtergrondkleur van de speler"
+      ],
+      "Choose your color": [
+        "Kies uw kleur"
+      ],
+      "Hover BG Color": [
+        "Hover achtergrondkleur"
+      ],
+      "Choose your hover background color": [
+        "Kies uw hover achtergrondkleur"
+      ],
+      "Hover Text Color": [
+        "Hover tekstkleur"
+      ],
+      "Choose your hover text color": [
+        "Kies uw hover tekstkleur"
+      ],
+      "Margin Size (Px)": [
+        "Margegrootte (Px)"
+      ],
+      "Top": [
+        "Boven"
+      ],
+      "Margin Top": [
+        "Marge boven"
+      ],
+      "Bottom": [
+        "Onder"
+      ],
+      "Margin Bottom": [
+        "Marge onder"
+      ],
+      "Left": [
+        "Links"
+      ],
+      "Margin Left": [
+        "Marge links"
+      ],
+      "Right": [
+        "Rechts"
+      ],
+      "Margin Right": [
+        "Marge rechts"
+      ],
+      "Button Style": [
+        "Knopstijl"
+      ],
+      "Height": [
+        "Hoogte"
+      ],
+      "Button Height": [
+        "Knophoogte"
+      ],
+      "Border": [
+        "Rand"
+      ],
+      "Button Border": [
+        "Knoprand"
+      ],
+      "Border Color": [
+        "Randkleur"
+      ],
+      "Font Size": [
+        "Lettergrootte"
+      ],
+      "Radius": [
+        "Radius"
+      ],
+      "Border Radius": [
+        "Randradius"
+      ],
+      "Button Properties": [
+        "Knopeigenschappen"
+      ],
+      "Width": [
+        "Breedte"
+      ],
+      "Button Width": [
+        "Knopbreedte"
+      ],
+      "Enter Custom CSS here": [
+        "Voer hier aangepaste CSS in"
+      ],
+      "Value should be between 0-100": [
+        "Waarde moet tussen 0-100 liggen"
+      ],
+      "This option is only available for the pro version.": [
+        "Deze optie is alleen beschikbaar in de Pro-versie."
+      ],
+      "Default": [
+        "Standaard"
+      ],
+      "Default Pro": [
+        "Standaard Pro"
+      ],
+      "Customization": [
+        "Aanpassing"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "Pas de speler & het ontwerp aan zodat het past bij uw merk en voorkeuren."
+      ],
+      "Please fill the  field : ": [
+        "Vul het veld in: "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "Om deze speler te selecteren, moet u eerst verifiëren via het Integratiemenu"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "Google Cloud TTS-speler is alleen beschikbaar in de Pro-versie."
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "Om deze speler te selecteren moet u eerst verifiëren via het Integratiemenu"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "ChatGPT TTS-speler is alleen beschikbaar in de Pro-versie."
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "ElevenLabs TTS-speler is alleen beschikbaar in de Pro-versie."
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "Standaard Pro-speler is alleen beschikbaar in de Pro-versie."
+      ],
+      "Customization saved.": [
+        "Aanpassing opgeslagen."
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "Ga nu naar het menu \"Luisteren\" om de juiste taal en stem te selecteren."
+      ],
+      "Write here something and click listen button": [
+        "Schrijf hier iets en klik op de luisterknop"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " Voer hier uw tekst in en klik op de luisterknop om het hardop voorgelezen te horen."
+      ],
+      "Watch Tutorial": [
+        "Tutorial bekijken"
+      ],
+      "Write here something and click listen button.": [
+        "Schrijf hier iets en klik op de luisterknop."
+      ],
+      "Text To Audio:  Tap to listen post.": [
+        "Tekst Naar Audio: Tik om naar bericht te luisteren."
+      ],
+      "Design Customization": [
+        "Ontwerpaanpassing"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "Shortcode | Attribuutwaarden moeten tussen dubbele aanhalingstekens staan ( \" )"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "Shortcode gekopieerd"
+      ],
+      "Copy Shortcode": [
+        "Shortcode kopiëren"
+      ],
+      "1. Browser support issues on Android and desktop": [
+        "1. Problemen met browserondersteuning op Android en desktop"
+      ],
+      "This plugin is built using the browser SpeechSynthesis API. No external API is used.": [
+        "Deze plugin is gebouwd met de browser SpeechSynthesis API. Er wordt geen externe API gebruikt."
+      ],
+      "View SpeechSynthesis documentation": [
+        "SpeechSynthesis-documentatie bekijken"
+      ],
+      "Browser and device support varies, so available voices and languages may differ between desktop and mobile devices.": [
+        "Browser- en apparaatondersteuning verschilt, dus beschikbare stemmen en talen kunnen verschillen tussen desktop en mobiele apparaten."
+      ],
+      "Submit a support ticket": [
+        "Een ondersteuningsticket indienen"
+      ],
+      "There are no browser limitations in the Pro version.": [
+        "Er zijn geen browserbeperkingen in de Pro-versie."
+      ],
+      "2. Different voices or languages on mobile": [
+        "2. Verschillende stemmen of talen op mobiel"
+      ],
+      "SpeechSynthesis support varies between browsers and devices. Some voices may be available on desktop but not on mobile.": [
+        "SpeechSynthesis-ondersteuning verschilt tussen browsers en apparaten. Sommige stemmen zijn mogelijk beschikbaar op desktop maar niet op mobiel."
+      ],
+      "The Pro version does not have these limitations.": [
+        "De Pro-versie heeft deze beperkingen niet."
+      ],
+      "3. Can I exclude certain words from playback?": [
+        "3. Kan ik bepaalde woorden uitsluiten van afspelen?"
+      ],
+      "Yes. You can exclude specific words or phrases in the Pro version.": [
+        "Ja. U kunt specifieke woorden of zinnen uitsluiten in de Pro-versie."
+      ],
+      "Use the pipe (|) symbol to separate multiple words or phrases.": [
+        "Gebruik het pipe-symbool (|) om meerdere woorden of zinnen te scheiden."
+      ],
+      "4. Can I exclude specific HTML tags from playback?": [
+        "4. Kan ik specifieke HTML-tags uitsluiten van afspelen?"
+      ],
+      "The Pro version allows excluding content wrapped in specific HTML tags.": [
+        "De Pro-versie maakt het mogelijk om inhoud in specifieke HTML-tags uit te sluiten."
+      ],
+      "Use the pipe (|) symbol to exclude multiple tags.": [
+        "Gebruik het pipe-symbool (|) om meerdere tags uit te sluiten."
+      ],
+      "5. How can I change button text?": [
+        "5. Hoe kan ik de knoptekst wijzigen?"
+      ],
+      "Button text can be changed using shortcode attributes or filters. Filters always override shortcode values.": [
+        "Knoptekst kan gewijzigd worden met shortcode-attributen of filters. Filters overschrijven altijd shortcode-waarden."
+      ],
+      "6. How do I add a custom CSS class to the button?": [
+        "6. Hoe voeg ik een aangepaste CSS-klasse toe aan de knop?"
+      ],
+      "7. Backend filters (Free version)": [
+        "7. Backend-filters (gratis versie)"
+      ],
+      "Filter": [
+        "Filter"
+      ],
+      "Arguments": [
+        "Argumenten"
+      ],
+      "Settings saved successfully.": [
+        "Instellingen succesvol opgeslagen."
+      ],
+      "Something went wrong": [
+        "Er is iets misgegaan"
+      ],
+      "This is not a service account file. The \"type\" field must be \"service_account\". You may have downloaded the wrong file type.": [
+        "Dit is geen serviceaccountbestand. Het veld \"type\" moet \"service_account\" zijn. Mogelijk heeft u het verkeerde bestandstype gedownload."
+      ],
+      "Invalid service account file. Missing required fields: %s": [
+        "Ongeldig serviceaccountbestand. Ontbrekende verplichte velden: %s"
+      ],
+      "The uploaded file is not valid JSON. Please make sure you downloaded the correct service account key file.": [
+        "Het geüploade bestand is geen geldig JSON. Zorg ervoor dat u het juiste serviceaccountsleutelbestand heeft gedownload."
+      ],
+      "Could not read the file. Please try again.": [
+        "Kan het bestand niet lezen. Probeer het opnieuw."
+      ],
+      "File uploaded successfully. You can now test the connection below.": [
+        "Bestand succesvol geüpload. U kunt nu de verbinding hieronder testen."
+      ],
+      "Please select a service account JSON file first.": [
+        "Selecteer eerst een serviceaccount JSON-bestand."
+      ],
+      "Please create a valid bucket name first": [
+        "Maak eerst een geldige bucketnaam aan"
+      ],
+      "Google cloud text to speech feature is only in pro version.": [
+        "Google Cloud tekst-naar-spraak functie is alleen beschikbaar in de Pro-versie."
+      ],
+      "BCMath extension is not enabled. Please enable this extension. Learn more how to enable.": [
+        "BCMath-extensie is niet ingeschakeld. Schakel deze extensie in. Lees meer over het inschakelen."
+      ],
+      "BCMath Extension Missing": [
+        "BCMath-extensie ontbreekt"
+      ],
+      "The BCMath PHP extension is required for Google Cloud TTS. ": [
+        "De BCMath PHP-extensie is vereist voor Google Cloud TTS. "
+      ],
+      "Learn how to enable it": [
+        "Leer hoe u het inschakelt"
+      ],
+      "Uploads Folder Not Writable": [
+        "Uploads-map niet beschrijfbaar"
+      ],
+      "The uploads folder must be writable to store generated audio files. Please check your server file permissions.": [
+        "De uploads-map moet beschrijfbaar zijn om gegenereerde audiobestanden op te slaan. Controleer de bestandsrechten van uw server."
+      ],
+      "Setup Guide": [
+        "Installatiehandleiding"
+      ],
+      "Hide": [
+        "Verbergen"
+      ],
+      "Show": [
+        "Tonen"
+      ],
+      "Go to": [
+        "Ga naar"
+      ],
+      "Google Cloud Console": [
+        "Google Cloud Console"
+      ],
+      "and create a project (or select an existing one).": [
+        "en maak een project aan (of selecteer een bestaand project)."
+      ],
+      "Enable the": [
+        "Schakel de"
+      ],
+      "Cloud Text-to-Speech API": [
+        "Cloud Text-to-Speech API"
+      ],
+      "Optional, for Cloud Storage backup": [
+        "Optioneel, voor Cloud Storage back-up"
+      ],
+      "Cloud Storage API": [
+        "Cloud Storage API"
+      ],
+      "IAM & Admin > Service Accounts": [
+        "IAM & Admin > Serviceaccounts"
+      ],
+      "and create a new service account.": [
+        "en maak een nieuw serviceaccount aan."
+      ],
+      "Assign roles:": [
+        "Rollen toewijzen:"
+      ],
+      "Cloud Text-to-Speech User": [
+        "Cloud Text-to-Speech gebruiker"
+      ],
+      "(required)": [
+        "(vereist)"
+      ],
+      "Storage Admin": [
+        "Storage Admin"
+      ],
+      "only if using Cloud Storage backup": [
+        "alleen als u Cloud Storage back-up gebruikt"
+      ],
+      "Click on the service account > \"Keys\" tab > \"Add Key\" > \"Create new key\" > select \"JSON\".": [
+        "Klik op het serviceaccount > tabblad \"Keys\" > \"Add Key\" > \"Create new key\" > selecteer \"JSON\"."
+      ],
+      "Upload the downloaded JSON file below.": [
+        "Upload het gedownloade JSON-bestand hieronder."
+      ],
+      "Video Tutorial": [
+        "Video-tutorial"
+      ],
+      "Authentication": [
+        "Verificatie"
+      ],
+      "Click here to Upload": [
+        "Klik hier om te uploaden"
+      ],
+      "Upload service account JSON file": [
+        "Serviceaccount JSON-bestand uploaden"
+      ],
+      "Service Account:": [
+        "Serviceaccount:"
+      ],
+      "Project:": [
+        "Project:"
+      ],
+      "IAM Console": [
+        "IAM Console"
+      ],
+      "Connection Test": [
+        "Verbindingstest"
+      ],
+      "Verify that your service account can connect to Google Cloud Text-to-Speech API.": [
+        "Verifieer dat uw serviceaccount verbinding kan maken met de Google Cloud Text-to-Speech API."
+      ],
+      "Testing...": [
+        "Testen..."
+      ],
+      "Test TTS Connection": [
+        "TTS-verbinding testen"
+      ],
+      "Storage Configuration": [
+        "Opslagconfiguratie"
+      ],
+      "Store MP3 Files To Google Cloud Storage": [
+        "MP3-bestanden opslaan in Google Cloud Storage"
+      ],
+      "Click To Know How To Enable Automatic Store To Google Cloud Storage": [
+        "Klik om te weten hoe u automatische opslag naar Google Cloud Storage inschakelt"
+      ],
+      "Automatically sync generated audio files in cloud storage for store & easy access.": [
+        "Synchroniseer automatisch gegenereerde audiobestanden in cloudopslag voor opslag en eenvoudige toegang."
+      ],
+      "Required:": [
+        "Vereist:"
+      ],
+      "Your service account needs the \"Storage Admin\" role to use Cloud Storage.": [
+        "Uw serviceaccount heeft de rol \"Storage Admin\" nodig om Cloud Storage te gebruiken."
+      ],
+      "Assign it to": [
+        "Wijs het toe aan"
+      ],
+      "in": [
+        "in"
+      ],
+      "Open IAM Console": [
+        "IAM Console openen"
+      ],
+      "Test Storage Access": [
+        "Opslagtoegang testen"
+      ],
+      "Google Cloud Storage Bucket Name": [
+        "Google Cloud Storage Bucketnaam"
+      ],
+      "Click Here To Know Bucket Name Rules": [
+        "Klik hier voor de regels voor bucketnamen"
+      ],
+      "Are you sure you want to create a bucket named \"%1$s\"? You already have a bucket named \"%2$s\". If you create a new bucket, all MP3 files will be generated again. Please decide carefully.": [
+        "Weet u zeker dat u een bucket wilt aanmaken met de naam \"%1$s\"? U heeft al een bucket met de naam \"%2$s\". Als u een nieuwe bucket aanmaakt, worden alle MP3-bestanden opnieuw gegenereerd. Beslis zorgvuldig."
+      ],
+      "This bucket is already have to your cloud storage.": [
+        "Deze bucket bestaat al in uw cloudopslag."
+      ],
+      "Create": [
+        "Aanmaken"
+      ],
+      "Do you want to revoke access and delete the file uploaded during authentication. If you delete the file you have to upload the file again. Make sure you have a backup otherwise, you have to crete another auth file from Google Cloud text to speech.": [
+        "Wilt u de toegang intrekken en het bestand verwijderen dat tijdens de verificatie is geüpload? Als u het bestand verwijdert, moet u het opnieuw uploaden. Zorg ervoor dat u een back-up heeft, anders moet u een nieuw verificatiebestand aanmaken vanuit Google Cloud tekst naar spraak."
+      ],
+      "Authentication removed.": [
+        "Verificatie verwijderd."
+      ],
+      "You have to be authenticated to revoke.": [
+        "U moet geverifieerd zijn om in te trekken."
+      ],
+      "Remove Authentication": [
+        "Verificatie verwijderen"
+      ],
+      "Set ChatGPT API key": [
+        "ChatGPT API-sleutel instellen"
+      ],
+      "API key is saved successfully": [
+        "API-sleutel is succesvol opgeslagen"
+      ],
+      "ChatGPT text to speech feature is only in pro version.": [
+        "ChatGPT tekst-naar-spraak functie is alleen beschikbaar in de Pro-versie."
+      ],
+      "ChatGPT TTS feature is only in pro version.": [
+        "ChatGPT TTS-functie is alleen beschikbaar in de Pro-versie."
+      ],
+      "paste here chatgpt_tts_api_key": [
+        "plak hier chatgpt_tts_api_key"
+      ],
+      "Submit": [
+        "Verzenden"
+      ],
+      "How to get chatGPT API key?": [
+        "Hoe verkrijg ik een ChatGPT API-sleutel?"
+      ],
+      "Click here": [
+        "Klik hier"
+      ],
+      "Set ElevenLabs API key": [
+        "ElevenLabs API-sleutel instellen"
+      ],
+      "ElevenLabs text to speech feature is only in pro version.": [
+        "ElevenLabs tekst-naar-spraak functie is alleen beschikbaar in de Pro-versie."
+      ],
+      "ElevenLabs TTS feature is only in pro version.": [
+        "ElevenLabs TTS-functie is alleen beschikbaar in de Pro-versie."
+      ],
+      "paste here elevenlabs_api_key": [
+        "plak hier elevenlabs_api_key"
+      ],
+      "How to get ElevenLabs API key?": [
+        "Hoe verkrijg ik een ElevenLabs API-sleutel?"
+      ],
+      "Integration Setup": [
+        "Integratie-instelling"
+      ],
+      "AtlasVoice Pro works fully fine even without Google TTS/ChatGPT integration.": [
+        "AtlasVoice Pro werkt prima, zelfs zonder Google TTS/ChatGPT-integratie."
+      ],
+      "-- Select a service --": [
+        "-- Selecteer een service --"
+      ],
+      "Google Cloud TTS": [
+        "Google Cloud TTS"
+      ],
+      "ChatGPT TTS": [
+        "ChatGPT TTS"
+      ],
+      "ElevenLabs TTS": [
+        "ElevenLabs TTS"
+      ],
+      "ElevenLabs Usage": [
+        "ElevenLabs-gebruik"
+      ],
+      "characters": [
+        "tekens"
+      ],
+      "Plan:": [
+        "Abonnement:"
+      ],
+      "Resets:": [
+        "Wordt gereset op:"
+      ],
+      "View detailed usage and billing at": [
+        "Bekijk gedetailleerd gebruik en facturering op"
+      ],
+      "OpenAI TTS Usage": [
+        "OpenAI TTS-gebruik"
+      ],
+      "Google Cloud TTS Usage": [
+        "Google Cloud TTS-gebruik"
+      ],
+      "TTS-1": [
+        "TTS-1"
+      ],
+      "TTS-1 HD": [
+        "TTS-1 HD"
+      ],
+      "Voice Model": [
+        "Stemmodel"
+      ],
+      "Voice Language": [
+        "Stemtaal"
+      ],
+      "Default Listening Language": [
+        "Standaard luistertaal"
+      ],
+      "Default Listening Voice": [
+        "Standaard luisterstem"
+      ],
+      "Voice Speed": [
+        "Stemsnelheid"
+      ],
+      "Your browser does not support the audio element.": [
+        "Uw browser ondersteunt het audio-element niet."
+      ],
+      "Listening Preferences": [
+        "Luistervoorkeuren"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Stel uw luistervoorkeuren in met verschillende stemmen en talen."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Luisterinstellingen opgeslagen. Nu is alles ingesteld. Geniet ervan"
+      ],
+      "Voice to speak": [
+        "Stem om te spreken"
+      ],
+      "Voice Volume": [
+        "Stemvolume"
+      ],
+      "Voice Pitch": [
+        "Stemtoonhoogte"
+      ],
+      "Default Listening Pitch": [
+        "Standaard luistertoonhoogte"
+      ],
+      "Model": [
+        "Model"
+      ],
+      "Multilingual v2": [
+        "Meertalig v2"
+      ],
+      "Turbo v2.5": [
+        "Turbo v2.5"
+      ],
+      "Flash v2.5": [
+        "Flash v2.5"
+      ],
+      "Eleven v3": [
+        "Eleven v3"
+      ],
+      "Output Format": [
+        "Uitvoerformaat"
+      ],
+      "MP3 44100Hz 128kbps (Default)": [
+        "MP3 44100Hz 128kbps (Standaard)"
+      ],
+      "MP3 44100Hz 192kbps": [
+        "MP3 44100Hz 192kbps"
+      ],
+      "MP3 44100Hz 96kbps": [
+        "MP3 44100Hz 96kbps"
+      ],
+      "MP3 44100Hz 64kbps": [
+        "MP3 44100Hz 64kbps"
+      ],
+      "MP3 22050Hz 32kbps": [
+        "MP3 22050Hz 32kbps"
+      ],
+      "Stability": [
+        "Stabiliteit"
+      ],
+      "More variable": [
+        "Meer variabel"
+      ],
+      "More stable": [
+        "Meer stabiel"
+      ],
+      "Similarity Boost": [
+        "Gelijkenisversterking"
+      ],
+      "High": [
+        "Hoog"
+      ],
+      "Style Exaggeration": [
+        "Stijloverdrijving"
+      ],
+      "None": [
+        "Geen"
+      ],
+      "Exaggerated": [
+        "Overdreven"
+      ],
+      "Speaker Boost": [
+        "Sprekerversterking"
+      ],
+      "Language mapping for WPML, GTranslate plugin is available in the pro version.": [
+        "Taalmapping voor WPML, GTranslate plugin is beschikbaar in de Pro-versie."
+      ],
+      "Select Language For{\" \"}": [
+        "Selecteer taal voor{\" \"}"
+      ],
+      "Select Voice For{\" \"}": [
+        "Selecteer stem voor{\" \"}"
+      ],
+      "Current Player Voice": [
+        "Huidige spelerstem"
+      ],
+      "Help information about this setting": [
+        "Hulpinformatie over deze instelling"
+      ],
+      "Configure Settings": [
+        "Instellingen configureren"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "Configureer het gedrag van de tekst-naar-spraak speler en inhoudsselectie"
+      ],
+      "All cache deleted": [
+        "Alle cache verwijderd"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "Succesvol opgeslagen. Ga nu naar het menu \"Aanpassing\"."
+      ],
+      "Add Button or Player Automatically": [
+        "Knop of speler automatisch toevoegen"
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "Doorgaan met lezen na wisselen naar een ander tabblad"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "Wanneer ingeschakeld, blijft tekst-naar-spraak afspelen, zelfs als u weg navigeert van het huidige tabblad"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "Automatisch afspelen stoppen na terugkeer naar TTS-tabblad"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "Afspelen automatisch pauzeren bij terugkeer naar het TTS-tabblad vanuit een ander tabblad"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "Bij scrollen naar beneden zwevende speler stoppen"
+      ],
+      "Automatically pause the floating player when users scroll down the page": [
+        "De zwevende speler automatisch pauzeren wanneer gebruikers naar beneden scrollen"
+      ],
+      "Apply number format": [
+        "Nummerformaat toepassen"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "Nummers omzetten naar gesproken woorden (bijv. '123' wordt 'honderddrieentwintig')"
+      ],
+      "Read Content From Dom": [
+        "Inhoud lezen vanuit DOM"
+      ],
+      "Use Old Player UI": [
+        "Oude speler-interface gebruiken"
+      ],
+      "Add Post Title To Read": [
+        "Berichttitel toevoegen om voor te lezen"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "Neem de berichttitel op in het afspelen vóór het voorlezen van de hoofdinhoud"
+      ],
+      "Add Post Excerpt To Read": [
+        "Berichtsamenvatting toevoegen om voor te lezen"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "Neem de berichtsamenvatting op in het afspelen vóór het voorlezen van de hoofdinhoud"
+      ],
+      "Enable TTS Status": [
+        "TTS-status inschakelen"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "TTS-status inschakelen op de berichtpagina."
+      ],
+      "Add Text Before Content(intro)": [
+        "Tekst toevoegen vóór inhoud (intro)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "Aangepaste tekst die hardop wordt voorgelezen vóór de hoofdinhoud begint"
+      ],
+      "Add Text Before Content": [
+        "Tekst toevoegen vóór inhoud"
+      ],
+      "Add Text After Content(outro)": [
+        "Tekst toevoegen na inhoud (outro)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "Aangepaste tekst die hardop wordt voorgelezen nadat de hoofdinhoud is afgelopen"
+      ],
+      "Add Text After Content": [
+        "Tekst toevoegen na inhoud"
+      ],
+      "Allow Listening For Post Type": [
+        "Luisteren toestaan voor berichttype"
+      ],
+      "Allow Listening For Post Status": [
+        "Luisteren toestaan voor berichtstatus"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "In de gratis versie kunt u slechts 1 berichttype selecteren."
+      ],
+      "Include Content By CSS Selectors": [
+        "Inhoud opnemen met CSS-selectors"
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "De functie Inhoud opnemen met CSS-selectors is beschikbaar in de Pro-versie"
+      ],
+      "Multiple selector will be multiline.": [
+        "Meerdere selectors worden op aparte regels geplaatst."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Sommige inhoud kan ontbreken, deze kan gevonden worden met CSS-selectors"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Inhoud uitsluiten met CSS-selectors"
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "De functie Inhoud uitsluiten met CSS-selectors is beschikbaar in de Pro-versie"
+      ],
+      "Exclude content by CSS selectors": [
+        "Inhoud uitsluiten met CSS-selectors"
+      ],
+      "You can add \".atlasvoice_no_read\" class to exclude content.": [
+        "U kunt de klasse \".atlasvoice_no_read\" toevoegen om inhoud uit te sluiten."
+      ],
+      "Exclude HTML Tags To Speak": [
+        "HTML-tags uitsluiten van voorlezen"
+      ],
+      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Tags uitsluiten. Zodat de inhoud ervan wordt overgeslagen. Zoals (Subscript, Superscript enz.) Dit is een Pro-functie."
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Meerdere tags worden gescheiden door Pipe(|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Tags uitsluiten is een Pro-functie."
+      ],
+      "Exclude Texts To Speak": [
+        "Teksten uitsluiten van voorlezen"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Teksten uitsluiten van voorlezen is een Pro-functie."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Meerdere teksten worden gescheiden door Pipe(|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Teksten uitsluiten is een Pro-functie."
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "Berichten uitsluiten op ID van voorlezen"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "Meer dan 5 ID's uitsluiten is een Pro-functie"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "Meerdere ID's worden gescheiden door komma(,)."
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "Meer dan 5 ID's uitsluiten is een Pro-functie. Meerdere ID's worden gescheiden door komma(,)."
+      ],
+      "Exclude Categories To Speak": [
+        "Categorieën uitsluiten van voorlezen"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "Meer dan 1 categorie uitsluiten is een Pro-functie"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "In de gratis versie kunt u slechts 1 categorie selecteren."
+      ],
+      "Exclude Tags To Speak": [
+        "Tags uitsluiten van voorlezen"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "Meer dan 1 tag uitsluiten is een Pro-functie"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "In de gratis versie kunt u slechts 1 tag selecteren."
+      ],
+      "Enable Button Icon": [
+        "Knoppictogram inschakelen"
+      ],
+      "Clear all cache": [
+        "Alle cache wissen"
+      ],
+      "Save All": [
+        "Alles opslaan"
+      ],
+      "No IDs selected": [
+        "Geen ID's geselecteerd"
+      ],
+      "Select IDs": [
+        "Selecteer ID's"
+      ],
+      "You are already authenticated": [
+        "U bent al geverifieerd"
+      ],
+      "Recording Data Saved": [
+        "Opnamegegevens opgeslagen"
+      ]
+    }
+  }
+}

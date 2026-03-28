@@ -1,0 +1,206 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:53+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-settings.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Click To Know How It Works?": [
+        "Klicken Sie, um zu erfahren, wie es funktioniert?"
+      ],
+      "Loading...": [
+        "Wird geladen..."
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Die Anzeige des Buttons fuer mehrere Beitraege wird in der kostenlosen Version nicht unterstuetzt."
+      ],
+      "Select Items...": [
+        "Elemente auswaehlen..."
+      ],
+      "Help information about this setting": [
+        "Hilfeinformationen zu dieser Einstellung"
+      ],
+      "Configure Settings": [
+        "Einstellungen konfigurieren"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "Konfigurieren Sie das Verhalten des Text-to-Speech-Players und die Inhaltsauswahl"
+      ],
+      "All cache deleted": [
+        "Gesamter Cache geloescht"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "Erfolgreich gespeichert. Gehen Sie jetzt zum Menue \"Anpassung\"."
+      ],
+      "Add Button or Player Automatically": [
+        "Button oder Player automatisch hinzufuegen"
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "Weiterlesen nach Wechsel zu einem anderen Tab"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "Wenn aktiviert, wird Text-to-Speech weiter abgespielt, auch wenn Sie den aktuellen Tab verlassen"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "Automatische Wiedergabe stoppen nach Wechsel zum TTS-Tab"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "Wiedergabe automatisch pausieren, wenn Sie von einem anderen Tab zum TTS-Tab zurueckwechseln"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "Beim Scrollen den schwebenden Player stoppen"
+      ],
+      "Automatically pause the floating player when users scroll down the page": [
+        "Den schwebenden Player automatisch pausieren, wenn Benutzer auf der Seite nach unten scrollen"
+      ],
+      "Apply number format": [
+        "Zahlenformat anwenden"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "Zahlen in gesprochene Woerter umwandeln (z.B. '123' wird zu 'einhundertdreiundzwanzig')"
+      ],
+      "Read Content From Dom": [
+        "Inhalt aus dem DOM lesen"
+      ],
+      "Use Old Player UI": [
+        "Alte Player-Oberflaeche verwenden"
+      ],
+      "Add Post Title To Read": [
+        "Beitragstitel zum Vorlesen hinzufuegen"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "Den Beitragstitel in die Audiowiedergabe einbeziehen, bevor der Hauptinhalt vorgelesen wird"
+      ],
+      "Add Post Excerpt To Read": [
+        "Beitragsauszug zum Vorlesen hinzufuegen"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "Den Beitragsauszug/die Zusammenfassung in die Audiowiedergabe einbeziehen, bevor der Hauptinhalt vorgelesen wird"
+      ],
+      "Enable TTS Status": [
+        "TTS-Status aktivieren"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "TTS-Status auf der Beitragsseite aktivieren."
+      ],
+      "Add Text Before Content(intro)": [
+        "Text vor dem Inhalt hinzufuegen (Intro)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "Benutzerdefinierter Text, der vor dem Hauptinhalt laut vorgelesen wird"
+      ],
+      "Add Text Before Content": [
+        "Text vor dem Inhalt hinzufuegen"
+      ],
+      "Add Text After Content(outro)": [
+        "Text nach dem Inhalt hinzufuegen (Outro)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "Benutzerdefinierter Text, der nach dem Hauptinhalt laut vorgelesen wird"
+      ],
+      "Add Text After Content": [
+        "Text nach dem Inhalt hinzufuegen"
+      ],
+      "Allow Listening For Post Type": [
+        "Wiedergabe fuer Beitragstyp erlauben"
+      ],
+      "Allow Listening For Post Status": [
+        "Wiedergabe fuer Beitragsstatus erlauben"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "In der kostenlosen Version koennen Sie nur 1 Beitragstyp auswaehlen."
+      ],
+      "Include Content By CSS Selectors": [
+        "Inhalt nach CSS-Selektoren einschliessen"
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "Die Funktion Inhalt nach CSS-Selektoren einschliessen ist in der Pro-Version verfuegbar"
+      ],
+      "Multiple selector will be multiline.": [
+        "Mehrere Selektoren werden mehrzeilig sein."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Einige Inhalte koennten fehlen, sie koennen ueber CSS-Selektoren gefunden werden"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Inhalt nach CSS-Selektoren ausschliessen"
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "Die Funktion Inhalt nach CSS-Selektoren ausschliessen ist in der Pro-Version verfuegbar"
+      ],
+      "Exclude content by CSS selectors": [
+        "Inhalt nach CSS-Selektoren ausschliessen"
+      ],
+      "You can add \".atlasvoice_no_read\" class to exclude content.": [
+        "Sie koennen die Klasse \".atlasvoice_no_read\" hinzufuegen, um Inhalte auszuschliessen."
+      ],
+      "Exclude HTML Tags To Speak": [
+        "HTML-Tags vom Vorlesen ausschliessen"
+      ],
+      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Tags ausschliessen. Damit deren Inhalt uebersprungen wird. Wie (Subscript, Superscript usw.) Dies ist eine Pro-Funktion."
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Mehrere Tags werden durch Pipe(|) getrennt."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Tags ausschliessen ist eine Pro-Funktion."
+      ],
+      "Exclude Texts To Speak": [
+        "Texte vom Vorlesen ausschliessen"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Das Ausschliessen von vorzulesenden Texten ist eine Pro-Funktion."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Mehrere Texte werden durch Pipe(|) getrennt."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Texte ausschliessen ist eine Pro-Funktion."
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "Beitraege nach IDs vom Vorlesen ausschliessen"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "Mehr als 5 IDs ausschliessen ist eine Pro-Funktion"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "Mehrere IDs werden durch Komma(,) getrennt."
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "Das Ausschliessen von mehr als 5 IDs ist eine Pro-Funktion. Mehrere IDs werden durch Komma(,) getrennt."
+      ],
+      "Exclude Categories To Speak": [
+        "Kategorien vom Vorlesen ausschliessen"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "Mehr als 1 Kategorie ausschliessen ist eine Pro-Funktion"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "In der kostenlosen Version koennen Sie nur 1 Kategorie auswaehlen."
+      ],
+      "Exclude Tags To Speak": [
+        "Tags vom Vorlesen ausschliessen"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "Mehr als 1 Tag ausschliessen ist eine Pro-Funktion"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "In der kostenlosen Version koennen Sie nur 1 Tag auswaehlen."
+      ],
+      "Enable Button Icon": [
+        "Button-Symbol aktivieren"
+      ],
+      "Clear all cache": [
+        "Gesamten Cache leeren"
+      ],
+      "Save All": [
+        "Alles speichern"
+      ]
+    }
+  }
+}

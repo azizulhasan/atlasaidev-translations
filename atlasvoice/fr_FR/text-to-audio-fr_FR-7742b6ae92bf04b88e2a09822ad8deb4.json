@@ -1,0 +1,77 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-docs.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "1. Browser support issues on Android and desktop": [
+        "1. Problèmes de compatibilité navigateur sur Android et ordinateur"
+      ],
+      "This plugin is built using the browser SpeechSynthesis API. No external API is used.": [
+        "Ce plugin est construit avec l'API SpeechSynthesis du navigateur. Aucune API externe n'est utilisée."
+      ],
+      "View SpeechSynthesis documentation": [
+        "Voir la documentation SpeechSynthesis"
+      ],
+      "Browser and device support varies, so available voices and languages may differ between desktop and mobile devices.": [
+        "La prise en charge des navigateurs et appareils varie, donc les voix et langues disponibles peuvent différer entre les ordinateurs et les appareils mobiles."
+      ],
+      "Submit a support ticket": [
+        "Soumettre un ticket de support"
+      ],
+      "There are no browser limitations in the Pro version.": [
+        "Il n'y a aucune limitation de navigateur dans la version Pro."
+      ],
+      "2. Different voices or languages on mobile": [
+        "2. Voix ou langues différentes sur mobile"
+      ],
+      "SpeechSynthesis support varies between browsers and devices. Some voices may be available on desktop but not on mobile.": [
+        "La prise en charge de SpeechSynthesis varie selon les navigateurs et les appareils. Certaines voix peuvent être disponibles sur ordinateur mais pas sur mobile."
+      ],
+      "The Pro version does not have these limitations.": [
+        "La version Pro n'a pas ces limitations."
+      ],
+      "3. Can I exclude certain words from playback?": [
+        "3. Puis-je exclure certains mots de la lecture ?"
+      ],
+      "Yes. You can exclude specific words or phrases in the Pro version.": [
+        "Oui. Vous pouvez exclure des mots ou des phrases spécifiques dans la version Pro."
+      ],
+      "Use the pipe (|) symbol to separate multiple words or phrases.": [
+        "Utilisez le symbole pipe (|) pour séparer plusieurs mots ou phrases."
+      ],
+      "4. Can I exclude specific HTML tags from playback?": [
+        "4. Puis-je exclure des balises HTML spécifiques de la lecture ?"
+      ],
+      "The Pro version allows excluding content wrapped in specific HTML tags.": [
+        "La version Pro permet d'exclure le contenu enveloppé dans des balises HTML spécifiques."
+      ],
+      "Use the pipe (|) symbol to exclude multiple tags.": [
+        "Utilisez le symbole pipe (|) pour exclure plusieurs balises."
+      ],
+      "5. How can I change button text?": [
+        "5. Comment puis-je changer le texte du bouton ?"
+      ],
+      "Button text can be changed using shortcode attributes or filters. Filters always override shortcode values.": [
+        "Le texte du bouton peut être modifié à l'aide d'attributs de shortcode ou de filtres. Les filtres remplacent toujours les valeurs de shortcode."
+      ],
+      "6. How do I add a custom CSS class to the button?": [
+        "6. Comment ajouter une classe CSS personnalisée au bouton ?"
+      ],
+      "7. Backend filters (Free version)": [
+        "7. Filtres backend (version gratuite)"
+      ],
+      "Filter": [
+        "Filtre"
+      ],
+      "Arguments": [
+        "Arguments"
+      ]
+    }
+  }
+}

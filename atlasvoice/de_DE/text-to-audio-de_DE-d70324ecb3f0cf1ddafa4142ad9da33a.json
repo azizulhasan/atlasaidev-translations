@@ -1,0 +1,113 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:53+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/atlas-plugins.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Features": [
+        "Funktionen"
+      ],
+      "Unlimited text-to-speech conversion": [
+        "Unbegrenzte Text-to-Speech-Konvertierung"
+      ],
+      "51+ languages, 20-300+ voices": [
+        "51+ Sprachen, 20-300+ Stimmen"
+      ],
+      "Customizable player design": [
+        "Anpassbares Player-Design"
+      ],
+      "Shortcode support with flexible attributes": [
+        "Shortcode-Unterstuetzung mit flexiblen Attributen"
+      ],
+      "Custom Post Type & ACF compatibility": [
+        "Custom Post Type & ACF-Kompatibilitaet"
+      ],
+      "No external API required (browser SpeechSynthesis)": [
+        "Keine externe API erforderlich (Browser SpeechSynthesis)"
+      ],
+      "Multilingual support (WPML, GTranslate)": [
+        "Mehrsprachige Unterstuetzung (WPML, GTranslate)"
+      ],
+      "Analytics & engagement tracking": [
+        "Analyse- & Engagement-Tracking"
+      ],
+      "Display interactive 3D models and augmented reality on your WordPress & WooCommerce site for enhanced product visualization.": [
+        "Zeigen Sie interaktive 3D-Modelle und Augmented Reality auf Ihrer WordPress- & WooCommerce-Seite fuer verbesserte Produktvisualisierung an."
+      ],
+      "Interactive 3D model display": [
+        "Interaktive 3D-Modellanzeige"
+      ],
+      "Augmented Reality (AR) support": [
+        "Augmented Reality (AR) Unterstuetzung"
+      ],
+      "WordPress & WooCommerce integration": [
+        "WordPress- & WooCommerce-Integration"
+      ],
+      "Mobile-optimized viewing": [
+        "Fuer Mobilgeraete optimierte Anzeige"
+      ],
+      "Customizable display options": [
+        "Anpassbare Anzeigeoptionen"
+      ],
+      "Reduces return rates with realistic visualization": [
+        "Reduziert Rueckgabequoten durch realistische Visualisierung"
+      ],
+      "Easy product page embedding": [
+        "Einfache Einbettung auf Produktseiten"
+      ],
+      "Transform WordPress into an AI-powered control center with 70+ abilities, MCP server support, and workflow builder.": [
+        "Verwandeln Sie WordPress in ein KI-gestuetztes Kontrollzentrum mit 70+ Faehigkeiten, MCP-Server-Unterstuetzung und Workflow-Builder."
+      ],
+      "70+ abilities across 9 modules": [
+        "70+ Faehigkeiten in 9 Modulen"
+      ],
+      "Built-in MCP Server (JSON-RPC 2.0)": [
+        "Integrierter MCP-Server (JSON-RPC 2.0)"
+      ],
+      "JWT authentication": [
+        "JWT-Authentifizierung"
+      ],
+      "Drag-and-drop workflow builder": [
+        "Drag-and-Drop-Workflow-Builder"
+      ],
+      "Multi-provider AI support (OpenAI, Gemini, Claude)": [
+        "Multi-Anbieter-KI-Unterstuetzung (OpenAI, Gemini, Claude)"
+      ],
+      "WooCommerce AI Store Manager": [
+        "WooCommerce KI-Shop-Manager"
+      ],
+      "Post editor AI integration": [
+        "KI-Integration im Beitragseditor"
+      ],
+      "Active": [
+        "Aktiv"
+      ],
+      "Activate": [
+        "Aktivieren"
+      ],
+      "Learn More": [
+        "Mehr erfahren"
+      ],
+      "Install Now": [
+        "Jetzt installieren"
+      ],
+      "Installing...": [
+        "Wird installiert..."
+      ],
+      "Installation failed. Please try again.": [
+        "Installation fehlgeschlagen. Bitte versuchen Sie es erneut."
+      ],
+      "AtlasAiDev Plugins": [
+        "AtlasAiDev-Plugins"
+      ],
+      "Discover and install plugins by AtlasAiDev to enhance your WordPress site.": [
+        "Entdecken und installieren Sie Plugins von AtlasAiDev, um Ihre WordPress-Seite zu verbessern."
+      ]
+    }
+  }
+}

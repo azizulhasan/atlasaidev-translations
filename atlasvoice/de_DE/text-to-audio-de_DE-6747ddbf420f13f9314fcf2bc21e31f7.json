@@ -1,0 +1,44 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:53+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/blocks/customize-button/customize-button.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Listen": [
+        "Anhoeren"
+      ],
+      "Color Settings": [
+        "Farbeinstellungen"
+      ],
+      "Background Color": [
+        "Hintergrundfarbe"
+      ],
+      "Text Color": [
+        "Textfarbe"
+      ],
+      "Button Settings": [
+        "Button-Einstellungen"
+      ],
+      "Button Width (%)": [
+        "Button-Breite (%)"
+      ],
+      "Custom CSS": [
+        "Benutzerdefiniertes CSS"
+      ],
+      "class selector .tta__listen_content": [
+        "Klassen-Selektor .tta__listen_content"
+      ],
+      "Text To Audio: Tap to listen post.": [
+        "Text-zu-Audio: Tippen Sie, um den Beitrag anzuhoeren."
+      ],
+      "Text to audio customize button.": [
+        "Text-zu-Audio Button anpassen."
+      ]
+    }
+  }
+}

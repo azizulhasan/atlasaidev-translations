@@ -1,0 +1,206 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-settings.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Click To Know How It Works?": [
+        "Klik om te weten hoe het werkt?"
+      ],
+      "Loading...": [
+        "Laden..."
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Knop tonen bij meerdere berichten wordt niet ondersteund in de gratis versie."
+      ],
+      "Select Items...": [
+        "Selecteer items..."
+      ],
+      "Help information about this setting": [
+        "Hulpinformatie over deze instelling"
+      ],
+      "Configure Settings": [
+        "Instellingen configureren"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "Configureer het gedrag van de tekst-naar-spraak speler en inhoudsselectie"
+      ],
+      "All cache deleted": [
+        "Alle cache verwijderd"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "Succesvol opgeslagen. Ga nu naar het menu \"Aanpassing\"."
+      ],
+      "Add Button or Player Automatically": [
+        "Knop of speler automatisch toevoegen"
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "Doorgaan met lezen na wisselen naar een ander tabblad"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "Wanneer ingeschakeld, blijft tekst-naar-spraak afspelen, zelfs als u weg navigeert van het huidige tabblad"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "Automatisch afspelen stoppen na terugkeer naar TTS-tabblad"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "Afspelen automatisch pauzeren bij terugkeer naar het TTS-tabblad vanuit een ander tabblad"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "Bij scrollen naar beneden zwevende speler stoppen"
+      ],
+      "Automatically pause the floating player when users scroll down the page": [
+        "De zwevende speler automatisch pauzeren wanneer gebruikers naar beneden scrollen"
+      ],
+      "Apply number format": [
+        "Nummerformaat toepassen"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "Nummers omzetten naar gesproken woorden (bijv. '123' wordt 'honderddrieentwintig')"
+      ],
+      "Read Content From Dom": [
+        "Inhoud lezen vanuit DOM"
+      ],
+      "Use Old Player UI": [
+        "Oude speler-interface gebruiken"
+      ],
+      "Add Post Title To Read": [
+        "Berichttitel toevoegen om voor te lezen"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "Neem de berichttitel op in het afspelen vóór het voorlezen van de hoofdinhoud"
+      ],
+      "Add Post Excerpt To Read": [
+        "Berichtsamenvatting toevoegen om voor te lezen"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "Neem de berichtsamenvatting op in het afspelen vóór het voorlezen van de hoofdinhoud"
+      ],
+      "Enable TTS Status": [
+        "TTS-status inschakelen"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "TTS-status inschakelen op de berichtpagina."
+      ],
+      "Add Text Before Content(intro)": [
+        "Tekst toevoegen vóór inhoud (intro)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "Aangepaste tekst die hardop wordt voorgelezen vóór de hoofdinhoud begint"
+      ],
+      "Add Text Before Content": [
+        "Tekst toevoegen vóór inhoud"
+      ],
+      "Add Text After Content(outro)": [
+        "Tekst toevoegen na inhoud (outro)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "Aangepaste tekst die hardop wordt voorgelezen nadat de hoofdinhoud is afgelopen"
+      ],
+      "Add Text After Content": [
+        "Tekst toevoegen na inhoud"
+      ],
+      "Allow Listening For Post Type": [
+        "Luisteren toestaan voor berichttype"
+      ],
+      "Allow Listening For Post Status": [
+        "Luisteren toestaan voor berichtstatus"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "In de gratis versie kunt u slechts 1 berichttype selecteren."
+      ],
+      "Include Content By CSS Selectors": [
+        "Inhoud opnemen met CSS-selectors"
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "De functie Inhoud opnemen met CSS-selectors is beschikbaar in de Pro-versie"
+      ],
+      "Multiple selector will be multiline.": [
+        "Meerdere selectors worden op aparte regels geplaatst."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Sommige inhoud kan ontbreken, deze kan gevonden worden met CSS-selectors"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Inhoud uitsluiten met CSS-selectors"
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "De functie Inhoud uitsluiten met CSS-selectors is beschikbaar in de Pro-versie"
+      ],
+      "Exclude content by CSS selectors": [
+        "Inhoud uitsluiten met CSS-selectors"
+      ],
+      "You can add \".atlasvoice_no_read\" class to exclude content.": [
+        "U kunt de klasse \".atlasvoice_no_read\" toevoegen om inhoud uit te sluiten."
+      ],
+      "Exclude HTML Tags To Speak": [
+        "HTML-tags uitsluiten van voorlezen"
+      ],
+      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Tags uitsluiten. Zodat de inhoud ervan wordt overgeslagen. Zoals (Subscript, Superscript enz.) Dit is een Pro-functie."
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Meerdere tags worden gescheiden door Pipe(|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Tags uitsluiten is een Pro-functie."
+      ],
+      "Exclude Texts To Speak": [
+        "Teksten uitsluiten van voorlezen"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Teksten uitsluiten van voorlezen is een Pro-functie."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Meerdere teksten worden gescheiden door Pipe(|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Teksten uitsluiten is een Pro-functie."
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "Berichten uitsluiten op ID van voorlezen"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "Meer dan 5 ID's uitsluiten is een Pro-functie"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "Meerdere ID's worden gescheiden door komma(,)."
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "Meer dan 5 ID's uitsluiten is een Pro-functie. Meerdere ID's worden gescheiden door komma(,)."
+      ],
+      "Exclude Categories To Speak": [
+        "Categorieën uitsluiten van voorlezen"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "Meer dan 1 categorie uitsluiten is een Pro-functie"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "In de gratis versie kunt u slechts 1 categorie selecteren."
+      ],
+      "Exclude Tags To Speak": [
+        "Tags uitsluiten van voorlezen"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "Meer dan 1 tag uitsluiten is een Pro-functie"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "In de gratis versie kunt u slechts 1 tag selecteren."
+      ],
+      "Enable Button Icon": [
+        "Knoppictogram inschakelen"
+      ],
+      "Clear all cache": [
+        "Alle cache wissen"
+      ],
+      "Save All": [
+        "Alles opslaan"
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/blocks/customize-button/customize-button.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Listen": [
+        "Luisteren"
+      ],
+      "Color Settings": [
+        "Kleurinstellingen"
+      ],
+      "Background Color": [
+        "Achtergrondkleur"
+      ],
+      "Text Color": [
+        "Tekstkleur"
+      ],
+      "Button Settings": [
+        "Knopinstellingen"
+      ],
+      "Button Width (%)": [
+        "Knopbreedte (%)"
+      ],
+      "Custom CSS": [
+        "Aangepaste CSS"
+      ],
+      "class selector .tta__listen_content": [
+        "class selector .tta__listen_content"
+      ],
+      "Text To Audio: Tap to listen post.": [
+        "Tekst Naar Audio: Tik om naar bericht te luisteren."
+      ],
+      "Text to audio customize button.": [
+        "Tekst naar audio knop aanpassen."
+      ]
+    }
+  }
+}

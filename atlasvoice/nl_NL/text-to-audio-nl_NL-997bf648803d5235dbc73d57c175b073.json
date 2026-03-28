@@ -1,0 +1,494 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-analytics.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Last 7 Days": [
+        "Laatste 7 dagen"
+      ],
+      "Upgrade to Pro": [
+        "Upgraden naar Pro"
+      ],
+      "Device Types": [
+        "Apparaattypen"
+      ],
+      "Browser": [
+        "Browser"
+      ],
+      "OS": [
+        "OS"
+      ],
+      "Top Countries": [
+        "Toplanden"
+      ],
+      "Post Title": [
+        "Berichttitel"
+      ],
+      "Pause": [
+        "Pauze"
+      ],
+      "Save": [
+        "Opslaan"
+      ],
+      "Successfully Saved.": [
+        "Succesvol opgeslagen."
+      ],
+      "Buy Pro version": [
+        "Pro-versie kopen"
+      ],
+      "Loading...": [
+        "Laden..."
+      ],
+      "Pro Feature": [
+        "Pro-functie"
+      ],
+      "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
+        "Upgrade naar Pro om deze functie te ontgrendelen en toegang te krijgen tot geavanceerde analyses."
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Total Posts": [
+        "Totaal berichten"
+      ],
+      "Total posts with TTS player": [
+        "Totaal berichten met TTS-speler"
+      ],
+      "Init": [
+        "Init"
+      ],
+      "Player initialization count": [
+        "Aantal speler-initialisaties"
+      ],
+      "Play": [
+        "Afspelen"
+      ],
+      "Total play button clicks": [
+        "Totaal klikken op afspeelknop"
+      ],
+      "Time (Min)": [
+        "Tijd (min)"
+      ],
+      "Total listening time": [
+        "Totale luistertijd"
+      ],
+      "Total pause actions": [
+        "Totaal pauzeacties"
+      ],
+      "Download": [
+        "Downloaden"
+      ],
+      "Total MP3 downloads": [
+        "Totaal MP3-downloads"
+      ],
+      "End": [
+        "Einde"
+      ],
+      "Total completions": [
+        "Totaal voltooiingen"
+      ],
+      "Bounce Rate": [
+        "Bouncepercentage"
+      ],
+      "Users who didn't complete the audio": [
+        "Gebruikers die de audio niet hebben voltooid"
+      ],
+      "TTS Player Analytics Summary": [
+        "TTS-speler analysesamenvatting"
+      ],
+      "Total Interactions:": [
+        "Totaal interacties:"
+      ],
+      "Last 30 Days": [
+        "Laatste 30 dagen"
+      ],
+      "Last 90 Days": [
+        "Laatste 90 dagen"
+      ],
+      "25%": [
+        "25%"
+      ],
+      "50%": [
+        "50%"
+      ],
+      "75%": [
+        "75%"
+      ],
+      "Engagement Funnel": [
+        "Betrokkenheidstrechter"
+      ],
+      "Play Rate:": [
+        "Afspeelpercentage:"
+      ],
+      "Completion Rate:": [
+        "Voltooiingspercentage:"
+      ],
+      "Biggest Drop:": [
+        "Grootste afname:"
+      ],
+      "50% → 75%": [
+        "50% → 75%"
+      ],
+      "New Listeners": [
+        "Nieuwe luisteraars"
+      ],
+      "Returning": [
+        "Terugkerend"
+      ],
+      "Listener Segments": [
+        "Luisteraarsegmenten"
+      ],
+      "New:": [
+        "Nieuw:"
+      ],
+      "Returning:": [
+        "Terugkerend:"
+      ],
+      "New Listeners:": [
+        "Nieuwe luisteraars:"
+      ],
+      "Avg Sessions/User:": [
+        "Gem. sessies/gebruiker:"
+      ],
+      "Yesterday": [
+        "Gisteren"
+      ],
+      "more": [
+        "meer"
+      ],
+      "Browser Analytics": [
+        "Browseranalyses"
+      ],
+      "Location": [
+        "Locatie"
+      ],
+      "Top Cities": [
+        "Topsteden"
+      ],
+      "Unlock city-level analytics": [
+        "Ontgrendel analyses op stadsniveau"
+      ],
+      "Custom Range": [
+        "Aangepast bereik"
+      ],
+      "Playing Quantity": [
+        "Afspeelaantal"
+      ],
+      "Playing Time (min)": [
+        "Afspeeltijd (min)"
+      ],
+      "Previous Period": [
+        "Vorige periode"
+      ],
+      "Playing Trend Analysis": [
+        "Afspeeltrendanalyse"
+      ],
+      "Compare with Previous Period": [
+        "Vergelijk met vorige periode"
+      ],
+      "Enable comparison with previous period": [
+        "Vergelijking met vorige periode inschakelen"
+      ],
+      "Quantity vs Date": [
+        "Aantal vs datum"
+      ],
+      "Playing Time(min)": [
+        "Afspeeltijd(min)"
+      ],
+      "Mon": [
+        "Ma"
+      ],
+      "Tue": [
+        "Di"
+      ],
+      "Wed": [
+        "Wo"
+      ],
+      "Thu": [
+        "Do"
+      ],
+      "Fri": [
+        "Vr"
+      ],
+      "Sat": [
+        "Za"
+      ],
+      "Sun": [
+        "Zo"
+      ],
+      "Peak Listening Hours": [
+        "Piekluisteruren"
+      ],
+      "Low": [
+        "Laag"
+      ],
+      "Peak": [
+        "Piek"
+      ],
+      "Insight:": [
+        "Inzicht:"
+      ],
+      "Your peak listening time is": [
+        "Uw piekluistertijd is"
+      ],
+      "Peak Hours Heatmap": [
+        "Piekuren heatmap"
+      ],
+      "Date Range is only available in Pro version": [
+        "Datumbereik is alleen beschikbaar in de Pro-versie"
+      ],
+      "Buy Now": [
+        "Nu kopen"
+      ],
+      "Please enable analytics first.": [
+        "Schakel eerst analyses in."
+      ],
+      "Track Post IDs": [
+        "Bericht-ID's volgen"
+      ],
+      "Post ID": [
+        "Bericht-ID"
+      ],
+      "Please provide a Post ID or date range.": [
+        "Geef een bericht-ID of datumbereik op."
+      ],
+      "Search": [
+        "Zoeken"
+      ],
+      "Clear": [
+        "Wissen"
+      ],
+      "Showing results for:": [
+        "Resultaten tonen voor:"
+      ],
+      "Post ID:": [
+        "Bericht-ID:"
+      ],
+      "From:": [
+        "Van:"
+      ],
+      "To:": [
+        "Tot:"
+      ],
+      "Metric": [
+        "Metriek"
+      ],
+      "Value": [
+        "Waarde"
+      ],
+      "Unlock 10+ more metrics with Pro": [
+        "Ontgrendel 10+ meer metrieken met Pro"
+      ],
+      "Popular Post": [
+        "Populair bericht"
+      ],
+      "Rank": [
+        "Rang"
+      ],
+      "Total Interactions": [
+        "Totaal interacties"
+      ],
+      "No data available yet. Start tracking posts to see analytics.": [
+        "Nog geen gegevens beschikbaar. Begin met het volgen van berichten om analyses te zien."
+      ],
+      "View all": [
+        "Alles bekijken"
+      ],
+      "posts": [
+        "berichten"
+      ],
+      "View All Posts": [
+        "Alle berichten bekijken"
+      ],
+      "CSV export initiated. Check your downloads.": [
+        "CSV-export gestart. Controleer uw downloads."
+      ],
+      "Export failed. Please try again.": [
+        "Export mislukt. Probeer het opnieuw."
+      ],
+      "PDF export initiated. Check your downloads.": [
+        "PDF-export gestart. Controleer uw downloads."
+      ],
+      "Please enter at least one recipient email address.": [
+        "Voer ten minste één e-mailadres van een ontvanger in."
+      ],
+      "Report schedule saved successfully.": [
+        "Rapportschema succesvol opgeslagen."
+      ],
+      "Failed to save schedule settings.": [
+        "Opslaan van schema-instellingen mislukt."
+      ],
+      "Please enter recipient email addresses first.": [
+        "Voer eerst e-mailadressen van ontvangers in."
+      ],
+      "Test report sent successfully! Check your inbox.": [
+        "Testrapport succesvol verzonden! Controleer uw inbox."
+      ],
+      "Failed to send test report.": [
+        "Testrapport verzenden mislukt."
+      ],
+      "Failed to send test report. Please check your network connection.": [
+        "Testrapport verzenden mislukt. Controleer uw netwerkverbinding."
+      ],
+      "CSV": [
+        "CSV"
+      ],
+      "PDF": [
+        "PDF"
+      ],
+      "Schedule Report": [
+        "Rapport plannen"
+      ],
+      "Schedule Email Reports": [
+        "E-mailrapporten plannen"
+      ],
+      "Enable automated reports": [
+        "Automatische rapporten inschakelen"
+      ],
+      "Recipients (comma separated)": [
+        "Ontvangers (komma gescheiden)"
+      ],
+      "Frequency": [
+        "Frequentie"
+      ],
+      "Daily": [
+        "Dagelijks"
+      ],
+      "Weekly": [
+        "Wekelijks"
+      ],
+      "Monthly": [
+        "Maandelijks"
+      ],
+      "Day": [
+        "Dag"
+      ],
+      "Monday": [
+        "Maandag"
+      ],
+      "Tuesday": [
+        "Dinsdag"
+      ],
+      "Wednesday": [
+        "Woensdag"
+      ],
+      "Thursday": [
+        "Donderdag"
+      ],
+      "Friday": [
+        "Vrijdag"
+      ],
+      "Saturday": [
+        "Zaterdag"
+      ],
+      "Sunday": [
+        "Zondag"
+      ],
+      "Time": [
+        "Tijd"
+      ],
+      "Include in report:": [
+        "Opnemen in rapport:"
+      ],
+      "Summary statistics": [
+        "Samenvattingsstatistieken"
+      ],
+      "Top 10 posts": [
+        "Top 10 berichten"
+      ],
+      "Geographic breakdown": [
+        "Geografisch overzicht"
+      ],
+      "Trend chart": [
+        "Trendgrafiek"
+      ],
+      "Device stats": [
+        "Apparaatstatistieken"
+      ],
+      "Next scheduled report:": [
+        "Volgend gepland rapport:"
+      ],
+      "Sending...": [
+        "Verzenden..."
+      ],
+      "Send Test Report": [
+        "Testrapport verzenden"
+      ],
+      "Saving...": [
+        "Opslaan..."
+      ],
+      "Save Settings": [
+        "Instellingen opslaan"
+      ],
+      "Export & Reports": [
+        "Export & Rapporten"
+      ],
+      "Last 14 Days": [
+        "Laatste 14 dagen"
+      ],
+      "All Time": [
+        "Alle tijd"
+      ],
+      "Getting more than 30 days data is pro feature. Please ": [
+        "Gegevens van meer dan 30 dagen ophalen is een Pro-functie. Gelieve "
+      ],
+      "Quick Select": [
+        "Snelle selectie"
+      ],
+      "From": [
+        "Van"
+      ],
+      "To": [
+        "Tot"
+      ],
+      "Custom date select is only available in pro version. Please ": [
+        "Aangepaste datumselectie is alleen beschikbaar in de Pro-versie. Gelieve "
+      ],
+      "Apply": [
+        "Toepassen"
+      ],
+      "CSV exported successfully!": [
+        "CSV succesvol geëxporteerd!"
+      ],
+      "Error exporting CSV": [
+        "Fout bij exporteren van CSV"
+      ],
+      "PDF report opened. Use 'Save as PDF' in the print dialog.": [
+        "PDF-rapport geopend. Gebruik 'Opslaan als PDF' in het afdrukvenster."
+      ],
+      "Report downloaded as HTML. Open in browser and print to save as PDF.": [
+        "Rapport gedownload als HTML. Open in browser en druk af om als PDF op te slaan."
+      ],
+      "Failed to generate PDF report.": [
+        "PDF-rapport genereren mislukt."
+      ],
+      "Error exporting PDF": [
+        "Fout bij exporteren van PDF"
+      ],
+      "Analytics": [
+        "Analyses"
+      ],
+      "Track and analyze your TTS player engagement to understand listener behavior.": [
+        "Volg en analyseer de betrokkenheid van uw TTS-speler om luistergedrag te begrijpen."
+      ],
+      "Analytics is Currently Disabled": [
+        "Analyses zijn momenteel uitgeschakeld"
+      ],
+      "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
+        "Schakel analyses in met de schakelaar hierboven om de interacties van uw TTS-speler te volgen en gedetailleerde statistieken te bekijken."
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Knop tonen bij meerdere berichten wordt niet ondersteund in de gratis versie."
+      ],
+      "Select Items...": [
+        "Selecteer items..."
+      ]
+    }
+  }
+}

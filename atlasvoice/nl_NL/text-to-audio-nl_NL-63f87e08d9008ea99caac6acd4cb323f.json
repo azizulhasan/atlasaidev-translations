@@ -1,0 +1,296 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-customize.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Opslaan"
+      ],
+      "Click To Know How It Works?": [
+        "Klik om te weten hoe het werkt?"
+      ],
+      "Settings": [
+        "Instellingen"
+      ],
+      "Background Color": [
+        "Achtergrondkleur"
+      ],
+      "Text Color": [
+        "Tekstkleur"
+      ],
+      "Custom CSS": [
+        "Aangepaste CSS"
+      ],
+      "Loading...": [
+        "Laden..."
+      ],
+      "Buy Now": [
+        "Nu kopen"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Knop tonen bij meerdere berichten wordt niet ondersteund in de gratis versie."
+      ],
+      "Select Items...": [
+        "Selecteer items..."
+      ],
+      "Click to seek": [
+        "Klik om te zoeken"
+      ],
+      "Player Settings": [
+        "Spelerinstellingen"
+      ],
+      "Close": [
+        "Sluiten"
+      ],
+      "Language": [
+        "Taal"
+      ],
+      "Voice": [
+        "Stem"
+      ],
+      "Speed": [
+        "Snelheid"
+      ],
+      "Pitch": [
+        "Toonhoogte"
+      ],
+      "Volume": [
+        "Volume"
+      ],
+      "Unmute": [
+        "Dempen opheffen"
+      ],
+      "Mute": [
+        "Dempen"
+      ],
+      "Before Content": [
+        "Vóór inhoud"
+      ],
+      "After Content": [
+        "Na inhoud"
+      ],
+      "Bottom Fixed (Pro)": [
+        "Onderaan vast (Pro)"
+      ],
+      "Bottom Left (Pro)": [
+        "Linksonder (Pro)"
+      ],
+      "Bottom Right (Pro)": [
+        "Rechtsonder (Pro)"
+      ],
+      "Bottom Center (Pro)": [
+        "Onderaan midden (Pro)"
+      ],
+      "Select Player": [
+        "Selecteer speler"
+      ],
+      "Select Button Position": [
+        "Selecteer knoppositie"
+      ],
+      "Select where to display the player button": [
+        "Selecteer waar de spelerknop weergegeven moet worden"
+      ],
+      "Display Player To": [
+        "Speler weergeven aan"
+      ],
+      "Choose who can see the player": [
+        "Kies wie de speler kan zien"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "Spelerweergavebeperking voor meerdere gebruikerstypen is beschikbaar in de Pro-versie"
+      ],
+      "Who Can Download MP3 File": [
+        "Wie kan het MP3-bestand downloaden"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "MP3-generatie vanaf publicatiedatum van bericht"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Begin MP3-bestanden te genereren vanaf een specifieke publicatiedatum. Selecteer dit alleen als u MP3-bestanden wilt genereren op basis van een datumbereik."
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "MP3-bestand genereren datum vanaf"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "MP3-generatie tot publicatiedatum van bericht"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Genereer MP3-bestanden tot een specifieke publicatiedatum. Selecteer dit alleen als u MP3-bestanden wilt genereren op basis van een datumbereik."
+      ],
+      "Generate MP3 File Date To": [
+        "MP3-bestand genereren datum tot"
+      ],
+      "Player Customization": [
+        "Speleraanpassing"
+      ],
+      "Choose player background color": [
+        "Kies achtergrondkleur van de speler"
+      ],
+      "Choose your color": [
+        "Kies uw kleur"
+      ],
+      "Hover BG Color": [
+        "Hover achtergrondkleur"
+      ],
+      "Choose your hover background color": [
+        "Kies uw hover achtergrondkleur"
+      ],
+      "Hover Text Color": [
+        "Hover tekstkleur"
+      ],
+      "Choose your hover text color": [
+        "Kies uw hover tekstkleur"
+      ],
+      "Margin Size (Px)": [
+        "Margegrootte (Px)"
+      ],
+      "Top": [
+        "Boven"
+      ],
+      "Margin Top": [
+        "Marge boven"
+      ],
+      "Bottom": [
+        "Onder"
+      ],
+      "Margin Bottom": [
+        "Marge onder"
+      ],
+      "Left": [
+        "Links"
+      ],
+      "Margin Left": [
+        "Marge links"
+      ],
+      "Right": [
+        "Rechts"
+      ],
+      "Margin Right": [
+        "Marge rechts"
+      ],
+      "Button Style": [
+        "Knopstijl"
+      ],
+      "Height": [
+        "Hoogte"
+      ],
+      "Button Height": [
+        "Knophoogte"
+      ],
+      "Border": [
+        "Rand"
+      ],
+      "Button Border": [
+        "Knoprand"
+      ],
+      "Border Color": [
+        "Randkleur"
+      ],
+      "Font Size": [
+        "Lettergrootte"
+      ],
+      "Radius": [
+        "Radius"
+      ],
+      "Border Radius": [
+        "Randradius"
+      ],
+      "Button Properties": [
+        "Knopeigenschappen"
+      ],
+      "Width": [
+        "Breedte"
+      ],
+      "Button Width": [
+        "Knopbreedte"
+      ],
+      "Enter Custom CSS here": [
+        "Voer hier aangepaste CSS in"
+      ],
+      "Value should be between 0-100": [
+        "Waarde moet tussen 0-100 liggen"
+      ],
+      "This option is only available for the pro version.": [
+        "Deze optie is alleen beschikbaar in de Pro-versie."
+      ],
+      "Default": [
+        "Standaard"
+      ],
+      "Default Pro": [
+        "Standaard Pro"
+      ],
+      "Customization": [
+        "Aanpassing"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "Pas de speler & het ontwerp aan zodat het past bij uw merk en voorkeuren."
+      ],
+      "Please fill the  field : ": [
+        "Vul het veld in: "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "Om deze speler te selecteren, moet u eerst verifiëren via het Integratiemenu"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "Google Cloud TTS-speler is alleen beschikbaar in de Pro-versie."
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "Om deze speler te selecteren moet u eerst verifiëren via het Integratiemenu"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "ChatGPT TTS-speler is alleen beschikbaar in de Pro-versie."
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "ElevenLabs TTS-speler is alleen beschikbaar in de Pro-versie."
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "Standaard Pro-speler is alleen beschikbaar in de Pro-versie."
+      ],
+      "Customization saved.": [
+        "Aanpassing opgeslagen."
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "Ga nu naar het menu \"Luisteren\" om de juiste taal en stem te selecteren."
+      ],
+      "Write here something and click listen button": [
+        "Schrijf hier iets en klik op de luisterknop"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " Voer hier uw tekst in en klik op de luisterknop om het hardop voorgelezen te horen."
+      ],
+      "Watch Tutorial": [
+        "Tutorial bekijken"
+      ],
+      "Write here something and click listen button.": [
+        "Schrijf hier iets en klik op de luisterknop."
+      ],
+      "Text To Audio:  Tap to listen post.": [
+        "Tekst Naar Audio: Tik om naar bericht te luisteren."
+      ],
+      "Design Customization": [
+        "Ontwerpaanpassing"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "Shortcode | Attribuutwaarden moeten tussen dubbele aanhalingstekens staan ( \" )"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "Shortcode gekopieerd"
+      ],
+      "Copy Shortcode": [
+        "Shortcode kopiëren"
+      ]
+    }
+  }
+}

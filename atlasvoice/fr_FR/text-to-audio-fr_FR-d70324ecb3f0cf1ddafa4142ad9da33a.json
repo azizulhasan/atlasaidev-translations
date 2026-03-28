@@ -1,0 +1,113 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/atlas-plugins.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Features": [
+        "Fonctionnalités"
+      ],
+      "Unlimited text-to-speech conversion": [
+        "Conversion texte-en-voix illimitée"
+      ],
+      "51+ languages, 20-300+ voices": [
+        "Plus de 51 langues, 20 à 300+ voix"
+      ],
+      "Customizable player design": [
+        "Design du lecteur personnalisable"
+      ],
+      "Shortcode support with flexible attributes": [
+        "Prise en charge des shortcodes avec des attributs flexibles"
+      ],
+      "Custom Post Type & ACF compatibility": [
+        "Compatibilité avec les types de publication personnalisés et ACF"
+      ],
+      "No external API required (browser SpeechSynthesis)": [
+        "Aucune API externe requise (SpeechSynthesis du navigateur)"
+      ],
+      "Multilingual support (WPML, GTranslate)": [
+        "Prise en charge multilingue (WPML, GTranslate)"
+      ],
+      "Analytics & engagement tracking": [
+        "Suivi analytique et de l'engagement"
+      ],
+      "Display interactive 3D models and augmented reality on your WordPress & WooCommerce site for enhanced product visualization.": [
+        "Affichez des modèles 3D interactifs et la réalité augmentée sur votre site WordPress et WooCommerce pour une visualisation améliorée des produits."
+      ],
+      "Interactive 3D model display": [
+        "Affichage de modèles 3D interactifs"
+      ],
+      "Augmented Reality (AR) support": [
+        "Prise en charge de la réalité augmentée (AR)"
+      ],
+      "WordPress & WooCommerce integration": [
+        "Intégration WordPress et WooCommerce"
+      ],
+      "Mobile-optimized viewing": [
+        "Affichage optimisé pour mobile"
+      ],
+      "Customizable display options": [
+        "Options d'affichage personnalisables"
+      ],
+      "Reduces return rates with realistic visualization": [
+        "Réduit les taux de retour grâce à une visualisation réaliste"
+      ],
+      "Easy product page embedding": [
+        "Intégration facile dans les pages produits"
+      ],
+      "Transform WordPress into an AI-powered control center with 70+ abilities, MCP server support, and workflow builder.": [
+        "Transformez WordPress en un centre de contrôle alimenté par l'IA avec plus de 70 capacités, le support de serveur MCP et un constructeur de flux de travail."
+      ],
+      "70+ abilities across 9 modules": [
+        "Plus de 70 capacités réparties sur 9 modules"
+      ],
+      "Built-in MCP Server (JSON-RPC 2.0)": [
+        "Serveur MCP intégré (JSON-RPC 2.0)"
+      ],
+      "JWT authentication": [
+        "Authentification JWT"
+      ],
+      "Drag-and-drop workflow builder": [
+        "Constructeur de flux de travail par glisser-déposer"
+      ],
+      "Multi-provider AI support (OpenAI, Gemini, Claude)": [
+        "Prise en charge multi-fournisseur IA (OpenAI, Gemini, Claude)"
+      ],
+      "WooCommerce AI Store Manager": [
+        "Gestionnaire de boutique IA WooCommerce"
+      ],
+      "Post editor AI integration": [
+        "Intégration IA dans l'éditeur d'articles"
+      ],
+      "Active": [
+        "Actif"
+      ],
+      "Activate": [
+        "Activer"
+      ],
+      "Learn More": [
+        "En savoir plus"
+      ],
+      "Install Now": [
+        "Installer maintenant"
+      ],
+      "Installing...": [
+        "Installation en cours..."
+      ],
+      "Installation failed. Please try again.": [
+        "L'installation a échoué. Veuillez réessayer."
+      ],
+      "AtlasAiDev Plugins": [
+        "Extensions AtlasAiDev"
+      ],
+      "Discover and install plugins by AtlasAiDev to enhance your WordPress site.": [
+        "Découvrez et installez les extensions AtlasAiDev pour améliorer votre site WordPress."
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/css-selectors/CSSSelectorsForPosts.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Opslaan"
+      ],
+      "Click To Know How It Works?": [
+        "Klik om te weten hoe het werkt?"
+      ],
+      "Loading": [
+        "Laden"
+      ],
+      "Include Content By CSS Selectors": [
+        "Inhoud opnemen met CSS-selectors"
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "De functie Inhoud opnemen met CSS-selectors is beschikbaar in de Pro-versie"
+      ],
+      "Multiple selector will be multiline.": [
+        "Meerdere selectors worden op aparte regels geplaatst."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Sommige inhoud kan ontbreken, deze kan gevonden worden met CSS-selectors"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Inhoud uitsluiten met CSS-selectors"
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "De functie Inhoud uitsluiten met CSS-selectors is beschikbaar in de Pro-versie"
+      ],
+      "Exclude content by CSS selectors": [
+        "Inhoud uitsluiten met CSS-selectors"
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Meerdere tags worden gescheiden door Pipe(|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Tags uitsluiten is een Pro-functie."
+      ],
+      "Exclude Texts To Speak": [
+        "Teksten uitsluiten van voorlezen"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Teksten uitsluiten van voorlezen is een Pro-functie."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Meerdere teksten worden gescheiden door Pipe(|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Teksten uitsluiten is een Pro-functie."
+      ],
+      "Exclude Tags To Speak": [
+        "Tags uitsluiten van voorlezen"
+      ],
+      "Please save the post then try to add custom CSS selectors.": [
+        "Sla het bericht eerst op en probeer dan aangepaste CSS-selectors toe te voegen."
+      ],
+      "Empty value can not be saved. You can uncheck the \"Use Own CSS Selectors\" Option.": [
+        "Lege waarde kan niet worden opgeslagen. U kunt de optie \"Eigen CSS-selectors gebruiken\" uitvinken."
+      ],
+      "Settings Data Saved": [
+        "Instellingsgegevens opgeslagen"
+      ],
+      "Use Own CSS Selectors": [
+        "Eigen CSS-selectors gebruiken"
+      ],
+      "Exclude Tags. So that its content skiped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Tags uitsluiten. Zodat de inhoud ervan wordt overgeslagen. Zoals (Subscript, Superscript enz.) Dit is een Pro-functie."
+      ]
+    }
+  }
+}

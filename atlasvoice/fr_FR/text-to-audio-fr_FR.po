@@ -1,0 +1,4178 @@
+# Translation of Text To Speech TTS Accessibility into French
+# This file is distributed under the GPL-3.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Text To Speech TTS Accessibility 2.1.12\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/text-to-audio\n"
+"Last-Translator: AtlasAiDev <support@atlasaidev.com>\n"
+"Language-Team: French <support@atlasaidev.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"POT-Creation-Date: 2026-03-27T11:51:40+01:00\n"
+"PO-Revision-Date: 2026-03-28 12:00+0000\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: text-to-audio\n"
+
+#. Plugin Name of the plugin
+#: text-to-audio.php
+msgid "Text To Speech TTS Accessibility"
+msgstr "Accessibilité Synthese Vocale TTS"
+
+#. Plugin URI of the plugin
+#: text-to-audio.php
+msgid "https://atlasaidev.com/"
+msgstr "https://atlasaidev.com/"
+
+#. Description of the plugin
+#: text-to-audio.php
+msgid "The most user-friendly Text-to-Speech Accessibility plugin. Just install and automatically add a Text to Audio player to your WordPress site!"
+msgstr "Le plugin d'accessibilité de synthèse vocale le plus convivial. Installez-le simplement et ajoutez automatiquement un lecteur audio à votre site WordPress !"
+
+#. Author of the plugin
+#: text-to-audio.php
+msgid "AtlasAiDev"
+msgstr "AtlasAiDev"
+
+#. Author URI of the plugin
+#: text-to-audio.php
+msgid "http://atlasaidev.com/"
+msgstr "http://atlasaidev.com/"
+
+#: admin/TTA_Admin.php:452
+#: admin/TTA_Admin.php:453
+#: admin/TTA_Admin.php:460
+#: includes/TTA_Hooks.php:277
+#: includes/TTA_Notices.php:192
+#: includes/TTA_Notices.php:357
+#: includes/TTA_Notices.php:1068
+#: includes/TTA_Notices.php:1260
+msgid "AtlasVoice"
+msgstr ""
+
+#: admin/TTA_Admin.php:575
+#: admin/TTA_Admin.php:576
+msgid "Plugins"
+msgstr "Extensions"
+
+#: admin/TTA_Admin.php:618
+#: admin/TTA_Admin.php:731
+msgid "AtlasVoice: On"
+msgstr ""
+
+#: admin/TTA_Admin.php:619
+#: admin/TTA_Admin.php:734
+msgid "AtlasVoice: Off"
+msgstr ""
+
+#: admin/TTA_Admin.php:629
+msgid "Toggle AtlasVoice audio player for this post"
+msgstr ""
+
+#: admin/TTA_Admin.php:766
+msgid "Having trouble? We can help!"
+msgstr ""
+
+#: admin/TTA_Admin.php:769
+msgid "Many issues can be fixed in under 2 minutes:"
+msgstr ""
+
+#: admin/TTA_Admin.php:773
+msgid "Voice not working"
+msgstr ""
+
+#: admin/TTA_Admin.php:775
+msgid "Quick Fix Guide"
+msgstr ""
+
+#: admin/TTA_Admin.php:779
+msgid "Player not showing"
+msgstr ""
+
+#: admin/TTA_Admin.php:781
+msgid "Troubleshoot"
+msgstr ""
+
+#: admin/TTA_Admin.php:785
+msgid "Need better voices"
+msgstr ""
+
+#: admin/TTA_Admin.php:787
+msgid "See AI Voices"
+msgstr ""
+
+#: admin/TTA_Admin.php:795
+msgid "Contact Support"
+msgstr ""
+
+#: admin/TTA_Admin.php:798
+msgid "Continue to Deactivate"
+msgstr ""
+
+#: admin/TTA_Admin.php:864
+#: includes/TTA_Notices.php:1562
+msgid "Permission denied."
+msgstr ""
+
+#: admin/TTA_Admin.php:869
+msgid "Invalid post."
+msgstr ""
+
+#: admin/TTA_Dashboard_Widget.php:44
+msgid "AtlasVoice — Quick Stats"
+msgstr ""
+
+#: admin/TTA_Dashboard_Widget.php:54
+msgid "Analytics data is not available yet. Start using the player to see stats here."
+msgstr ""
+
+#: admin/TTA_Dashboard_Widget.php:76
+msgid "Plays Today"
+msgstr ""
+
+#: admin/TTA_Dashboard_Widget.php:80
+msgid "Views Today"
+msgstr ""
+
+#: admin/TTA_Dashboard_Widget.php:85
+msgid "Min Listened"
+msgstr ""
+
+#: admin/TTA_Dashboard_Widget.php:92
+msgid "Top Post Today"
+msgstr ""
+
+#: admin/TTA_Dashboard_Widget.php:99
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/BrowserAnalytics.js:79
+#: src/dashboard/components/dashboard/analitics/DeviceTypes.js:67
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:61
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:30
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:173
+#: src/dashboard/components/dashboard/analitics/ListenerSegments.js:30
+#: src/dashboard/components/dashboard/analitics/LocationAnalytics.js:90
+#: src/dashboard/components/dashboard/analitics/OSAnalytics.js:67
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:45
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:36
+#: src/dashboard/components/dashboard/analitics/PopularPosts.js:32
+msgid "Last 7 Days"
+msgstr "7 derniers jours"
+
+#: admin/TTA_Dashboard_Widget.php:106
+msgid "plays"
+msgstr ""
+
+#: admin/TTA_Dashboard_Widget.php:120
+#: includes/TTA_Notices.php:1285
+msgid "View Analytics"
+msgstr ""
+
+#: admin/TTA_Dashboard_Widget.php:123
+msgid "Customize Player"
+msgstr ""
+
+#. translators: %s: link to Pro pricing page
+#: admin/TTA_Dashboard_Widget.php:133
+#, php-format
+msgid "Unlock listening time, top posts, device analytics — %s"
+msgstr ""
+
+#: admin/TTA_Dashboard_Widget.php:134
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:870
+#: src/dashboard/components/dashboard/analitics/ProFeatureOverlay.js:45
+#: src/dashboard/welcome/steps/StepVoice.js:360
+msgid "Upgrade to Pro"
+msgstr "Passer à la version Pro"
+
+#: admin/TTA_Posts_List.php:184
+msgid "Audio Status"
+msgstr "Statut audio"
+
+#: admin/TTA_Posts_List.php:184
+msgid "TTS Status"
+msgstr "Statut TTS"
+
+#: admin/TTA_Posts_List.php:185
+msgid "All Posts"
+msgstr "Tous les articles"
+
+#: admin/TTA_Posts_List.php:186
+msgid "Audio Generated"
+msgstr "Audio généré"
+
+#: admin/TTA_Posts_List.php:186
+msgid "TTS Enabled"
+msgstr "TTS activé"
+
+#: admin/TTA_Posts_List.php:187
+msgid "Audio Not Generated"
+msgstr "Audio non généré"
+
+#: admin/TTA_Posts_List.php:187
+msgid "TTS Not Enabled"
+msgstr "TTS non activé"
+
+#: api/AtlasVoice_Analytics.php:201
+msgid "Post ID or User ID is missing"
+msgstr "L'ID de l'article ou l'ID de l'utilisateur est manquant"
+
+#: api/AtlasVoice_Analytics.php:1019
+#: api/AtlasVoice_Analytics.php:1115
+#: api/AtlasVoice_Analytics.php:1290
+#: api/AtlasVoice_Analytics.php:1384
+#: api/AtlasVoice_Analytics.php:1697
+msgid "This feature requires Pro version."
+msgstr "Cette fonctionnalité nécessite la version Pro."
+
+#: api/AtlasVoice_Analytics.php:1255
+msgid "WP Mail SMTP is using default PHP mail. Consider configuring an SMTP server for reliable email delivery."
+msgstr "WP Mail SMTP utilise le PHP mail par défaut. Envisagez de configurer un serveur SMTP pour une livraison fiable des e-mails."
+
+#: api/AtlasVoice_Analytics.php:1269
+msgid "Email sending may not work on localhost. Please install an SMTP plugin (like WP Mail SMTP) and configure it with a real email service (Gmail, SendGrid, Mailgun, etc.) for reliable email delivery."
+msgstr "L'envoi d'e-mails peut ne pas fonctionner en localhost. Veuillez installer un plugin SMTP (comme WP Mail SMTP) et le configurer avec un vrai service de messagerie (Gmail, SendGrid, Mailgun, etc.) pour une livraison fiable."
+
+#: api/AtlasVoice_Analytics.php:1274
+msgid "No SMTP plugin detected. Emails will be sent using PHP mail() which may be unreliable. Consider installing WP Mail SMTP for better deliverability."
+msgstr "Aucun plugin SMTP détecté. Les e-mails seront envoyés via PHP mail() qui peut être peu fiable. Envisagez d'installer WP Mail SMTP pour une meilleure délivrabilité."
+
+#: api/AtlasVoice_Analytics.php:1300
+msgid "Invalid settings data."
+msgstr "Données de paramètres invalides."
+
+#: api/AtlasVoice_Analytics.php:1333
+msgid "Please provide at least one valid email address."
+msgstr "Veuillez fournir au moins une adresse e-mail valide."
+
+#: api/AtlasVoice_Analytics.php:1357
+msgid "Schedule report settings saved successfully."
+msgstr "Paramètres du rapport planifié enregistrés avec succès."
+
+#: api/AtlasVoice_Analytics.php:1420
+msgid "This feature requires Pro version. Please use the Pro API endpoint."
+msgstr ""
+
+#: api/AtlasVoice_Analytics.php:1570
+msgid "TEST REPORT"
+msgstr "RAPPORT DE TEST"
+
+#. translators: %s: Date range for the analytics report
+#: api/AtlasVoice_Analytics.php:1574
+#: api/AtlasVoice_Analytics.php:1804
+#, php-format
+msgid "TTS Analytics Report - %s"
+msgstr "Rapport d'analyse TTS - %s"
+
+#: api/AtlasVoice_Analytics.php:1580
+msgid "Summary"
+msgstr "Résumé"
+
+#: api/AtlasVoice_Analytics.php:1584
+#: api/AtlasVoice_Analytics.php:1815
+msgid "Total Plays"
+msgstr "Total des lectures"
+
+#: api/AtlasVoice_Analytics.php:1588
+#: api/AtlasVoice_Analytics.php:1819
+msgid "Unique Listeners"
+msgstr "Auditeurs uniques"
+
+#: api/AtlasVoice_Analytics.php:1592
+#: api/AtlasVoice_Analytics.php:1823
+msgid "Completions"
+msgstr "Complétions"
+
+#: api/AtlasVoice_Analytics.php:1596
+#: api/AtlasVoice_Analytics.php:1827
+msgid "Minutes Played"
+msgstr "Minutes écoutées"
+
+#: api/AtlasVoice_Analytics.php:1604
+msgid "Top 10 Posts"
+msgstr "Top 10 des articles"
+
+#. translators: %d: Number of plays
+#: api/AtlasVoice_Analytics.php:1615
+#, php-format
+msgid "%d plays"
+msgstr "%d lectures"
+
+#: api/AtlasVoice_Analytics.php:1624
+msgid "Device & Browser Stats"
+msgstr "Statistiques appareils et navigateurs"
+
+#: api/AtlasVoice_Analytics.php:1626
+msgid "Devices"
+msgstr "Appareils"
+
+#: api/AtlasVoice_Analytics.php:1641
+#: api/AtlasVoice_Analytics.php:1908
+msgid "Browsers"
+msgstr "Navigateurs"
+
+#: api/AtlasVoice_Analytics.php:1659
+msgid "Geographic Distribution"
+msgstr "Répartition géographique"
+
+#. translators: %s: Site name
+#: api/AtlasVoice_Analytics.php:1677
+#, php-format
+msgid "This report was generated by AtlasVoice on %s"
+msgstr ""
+
+#: api/AtlasVoice_Analytics.php:1678
+msgid "View full analytics dashboard"
+msgstr "Voir le tableau de bord analytique complet"
+
+#. translators: %s: Generated date and time
+#: api/AtlasVoice_Analytics.php:1806
+#, php-format
+msgid "Generated on %s"
+msgstr "Généré le %s"
+
+#: api/AtlasVoice_Analytics.php:1811
+msgid "Summary Overview"
+msgstr "Aperçu général"
+
+#: api/AtlasVoice_Analytics.php:1831
+msgid "Initializations"
+msgstr "Initialisations"
+
+#: api/AtlasVoice_Analytics.php:1835
+msgid "Pauses"
+msgstr "Pauses"
+
+#: api/AtlasVoice_Analytics.php:1839
+msgid "Downloads"
+msgstr "Téléchargements"
+
+#: api/AtlasVoice_Analytics.php:1843
+msgid "Posts Tracked"
+msgstr "Articles suivis"
+
+#: api/AtlasVoice_Analytics.php:1850
+msgid "Engagement Milestones"
+msgstr "Jalons d'engagement"
+
+#: api/AtlasVoice_Analytics.php:1864
+msgid "Reached"
+msgstr "Atteint"
+
+#: api/AtlasVoice_Analytics.php:1879
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/DeviceTypes.js:131
+msgid "Device Types"
+msgstr "Types d'appareils"
+
+#: api/AtlasVoice_Analytics.php:1883
+msgid "Device"
+msgstr "Appareil"
+
+#: api/AtlasVoice_Analytics.php:1884
+#: api/AtlasVoice_Analytics.php:1913
+#: api/AtlasVoice_Analytics.php:1947
+#: api/AtlasVoice_Analytics.php:1976
+msgid "Count"
+msgstr "Nombre"
+
+#: api/AtlasVoice_Analytics.php:1900
+#: api/AtlasVoice_Analytics.php:1929
+#: api/AtlasVoice_Analytics.php:1963
+#: api/AtlasVoice_Analytics.php:1992
+#: api/AtlasVoice_Analytics.php:2029
+msgid "No data available"
+msgstr "Aucune donnée disponible"
+
+#: api/AtlasVoice_Analytics.php:1912
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/BrowserAnalytics.js:145
+msgid "Browser"
+msgstr "Navigateur"
+
+#: api/AtlasVoice_Analytics.php:1942
+msgid "Operating Systems"
+msgstr "Systèmes d'exploitation"
+
+#: api/AtlasVoice_Analytics.php:1946
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/OSAnalytics.js:134
+msgid "OS"
+msgstr "SE"
+
+#: api/AtlasVoice_Analytics.php:1971
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/LocationAnalytics.js:200
+msgid "Top Countries"
+msgstr "Principaux pays"
+
+#: api/AtlasVoice_Analytics.php:1975
+msgid "Country"
+msgstr "Pays"
+
+#: api/AtlasVoice_Analytics.php:2002
+msgid "Top 20 Posts by Interactions"
+msgstr "Top 20 des articles par interactions"
+
+#: api/AtlasVoice_Analytics.php:2007
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PopularPosts.js:137
+msgid "Post Title"
+msgstr "Titre de l'article"
+
+#: api/AtlasVoice_Analytics.php:2008
+msgid "Plays"
+msgstr "Lectures"
+
+#: api/AtlasVoice_Analytics.php:2009
+msgid "Time (sec)"
+msgstr "Durée (sec)"
+
+#: api/AtlasVoice_Analytics.php:2010
+msgid "Interactions"
+msgstr "Interactions"
+
+#. translators: %s: Site name
+#: api/AtlasVoice_Analytics.php:2037
+#, php-format
+msgid "Generated by AtlasVoice for %s"
+msgstr ""
+
+#: api/TTA_Api_Routes.php:841
+#: api/TTA_Api_Routes.php:917
+msgid "You do not have permission to access this resource."
+msgstr "Vous n'avez pas la permission d'accéder à cette ressource."
+
+#: api/TTA_Api_Routes.php:872
+#: api/TTA_Api_Routes.php:953
+msgid "Invalid nonce or insufficient permissions."
+msgstr "Nonce invalide ou permissions insuffisantes."
+
+#: api/TTA_Api_Routes.php:945
+msgid "Invalid or missing nonce for frontend POST request."
+msgstr "Nonce invalide ou manquant pour la requête POST du frontend."
+
+#: includes/helpers.php:256
+msgid "Text to speech player"
+msgstr ""
+
+#: includes/helpers.php:806
+#: includes/TTA_Activator.php:168
+#: admin/js/blocks/customize-button/customize-button.js:83
+#: build/blocks.js:1
+#: src/dashboard/welcome/steps/StepCustomize.js:260
+msgid "Listen"
+msgstr "Écouter"
+
+#: includes/helpers.php:807
+#: includes/TTA_Activator.php:169
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:160
+msgid "Pause"
+msgstr "Pause"
+
+#: includes/helpers.php:808
+#: includes/TTA_Activator.php:170
+msgid "Resume"
+msgstr "Reprendre"
+
+#: includes/helpers.php:809
+#: includes/TTA_Activator.php:171
+msgid "Replay"
+msgstr "Rejouer"
+
+#: includes/helpers.php:810
+#: includes/TTA_Activator.php:172
+msgid "Start"
+msgstr "Démarrer"
+
+#: includes/helpers.php:811
+#: includes/TTA_Activator.php:173
+msgid "Stop"
+msgstr "Arrêter"
+
+#: includes/TTA_Helper.php:1706
+msgid "Autoptimize"
+msgstr ""
+
+#: includes/TTA_Helper.php:1712
+msgid "LiteSpeed Cache"
+msgstr ""
+
+#: includes/TTA_Helper.php:1718
+msgid "WP Rocket"
+msgstr ""
+
+#: includes/TTA_Helper.php:1724
+msgid "W3 Total Cache"
+msgstr ""
+
+#: includes/TTA_Helper.php:1730
+msgid "WP-Optimize"
+msgstr ""
+
+#: includes/TTA_Helper.php:1736
+msgid "SG Optimizer"
+msgstr ""
+
+#: includes/TTA_Hooks.php:279
+#: includes/TTA_Notices.php:237
+msgid "AtlasVoice Pro"
+msgstr ""
+
+#: includes/TTA_i18n.php:49
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:154
+#: src/dashboard/components/dashboard/analitics/Analitics.js:1030
+#: src/dashboard/components/dashboard/analitics/Analitics.js:1054
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:230
+#: src/dashboard/components/dashboard/customize/Customize.js:891
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:932
+#: src/dashboard/components/dashboard/listening/Listening.js:1475
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:372
+msgid "Save"
+msgstr "Enregistrer"
+
+#: includes/TTA_i18n.php:52
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:96
+msgid "Text to Speech Aliases"
+msgstr "Alias de synthèse vocale"
+
+#: includes/TTA_i18n.php:53
+msgid "Add New Row"
+msgstr "Ajouter une nouvelle ligne"
+
+#: includes/TTA_i18n.php:54
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:107
+msgid "Actual Text"
+msgstr "Texte réel"
+
+#: includes/TTA_i18n.php:55
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:108
+msgid "To Read"
+msgstr "À lire"
+
+#: includes/TTA_i18n.php:56
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:65
+msgid "All fields must be filled!"
+msgstr "Tous les champs doivent être remplis !"
+
+#: includes/TTA_i18n.php:57
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:79
+#: src/dashboard/components/dashboard/analitics/Analitics.js:735
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:99
+msgid "Successfully Saved."
+msgstr "Enregistré avec succès."
+
+#: includes/TTA_i18n.php:58
+msgid "More than 1 alias is available in the pro version. Please"
+msgstr "Plus d'un alias est disponible dans la version pro. Veuillez"
+
+#: includes/TTA_i18n.php:59
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:39
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:121
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:148
+msgid "Buy Pro version"
+msgstr "Acheter la version Pro"
+
+#: includes/TTA_i18n.php:60
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:218
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:53
+#: src/dashboard/components/dashboard/customize/Customize.js:731
+#: src/dashboard/components/dashboard/settings/Settings.js:218
+#: src/dashboard/components/dashboard/settings/Settings.js:577
+#: src/dashboard/components/dashboard/settings/Settings.js:627
+#: src/dashboard/components/dashboard/settings/Settings.js:688
+#: src/dashboard/components/dashboard/settings/Settings.js:738
+#: src/dashboard/components/dashboard/settings/Settings.js:788
+#: src/dashboard/components/dashboard/settings/Settings.js:837
+#: src/dashboard/components/dashboard/settings/Settings.js:884
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:201
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:254
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:307
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:360
+msgid "Click To Know How It Works?"
+msgstr "Cliquez pour savoir comment ça fonctionne ?"
+
+#: includes/TTA_Notices.php:165
+msgid "AtlasVoice is Active — Let's Set It Up!"
+msgstr ""
+
+#: includes/TTA_Notices.php:166
+msgid "Your text-to-speech player is ready. Choose which posts to add audio to, pick a voice, and customize the player style. Takes under 2 minutes."
+msgstr ""
+
+#: includes/TTA_Notices.php:175
+msgid "Configure Now"
+msgstr ""
+
+#: includes/TTA_Notices.php:180
+msgid "View Docs"
+msgstr ""
+
+#: includes/TTA_Notices.php:199
+msgid "Translate Here"
+msgstr "Traduire ici"
+
+#: includes/TTA_Notices.php:214
+msgid "AtlasVoice: Voice & Language Compatibility"
+msgstr ""
+
+#: includes/TTA_Notices.php:215
+msgid "The free version uses the browser's built-in speechSynthesis API. Voice and language support varies by browser and device, so some combinations may not work as expected. The Pro version uses server-side audio generation for consistent results across all browsers."
+msgstr ""
+
+#: includes/TTA_Notices.php:215
+msgid "Check browser compatibility"
+msgstr ""
+
+#: includes/TTA_Notices.php:224
+msgid "Learn About Pro"
+msgstr ""
+
+#: includes/TTA_Notices.php:237
+#: admin/js/atlas-plugins.js:210
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#: includes/TTA_Notices.php:247
+msgid "View Pro Features"
+msgstr ""
+
+#. translators: %1$s: emoji, %2$s: play count, %3$s: plugin name
+#: includes/TTA_Notices.php:354
+#, php-format
+msgid "%1$s Your audio player has reached %2$s plays! If you're enjoying %3$s, would you consider leaving a quick review? It really helps us improve and reach more users."
+msgstr ""
+
+#: includes/TTA_Notices.php:362
+msgid "AtlasVoice — Your Listeners Love It!"
+msgstr ""
+
+#: includes/TTA_Notices.php:392
+msgid "⭐ Leave a Review"
+msgstr ""
+
+#: includes/TTA_Notices.php:398
+msgid "Remind Me Later"
+msgstr "Me le rappeler plus tard"
+
+#: includes/TTA_Notices.php:404
+msgid "Already Done!"
+msgstr "Déjà fait !"
+
+#: includes/TTA_Notices.php:410
+msgid "Never Ask Again"
+msgstr "Ne plus demander"
+
+#: includes/TTA_Notices.php:648
+#: includes/TTA_Notices.php:1031
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/TTA_Notices.php:675
+msgid "You have already responded to this notice."
+msgstr ""
+
+#: includes/TTA_Notices.php:708
+msgid "Click Here"
+msgstr ""
+
+#: includes/TTA_Notices.php:861
+#: includes/TTA_Notices.php:937
+msgid "Invalid notice ID."
+msgstr ""
+
+#: includes/TTA_Notices.php:886
+msgid "Notice dismissed."
+msgstr ""
+
+#: includes/TTA_Notices.php:917
+msgid "Invalid Request."
+msgstr "Requête invalide."
+
+#: includes/TTA_Notices.php:949
+msgid "This action is no longer available."
+msgstr ""
+
+#: includes/TTA_Notices.php:974
+msgid "Action tracked."
+msgstr ""
+
+#: includes/TTA_Notices.php:999
+msgid "AtlasVoice:"
+msgstr ""
+
+#: includes/TTA_Notices.php:1000
+msgid "This browser does not support the speechSynthesis API. Please use Chrome, Firefox, Safari, Samsung, Edge, or Opera. The Pro version works in all browsers."
+msgstr ""
+
+#: includes/TTA_Notices.php:1035
+msgid "AtlasVoice Pro — Limited-Time Discount"
+msgstr ""
+
+#: includes/TTA_Notices.php:1038
+msgid "Save 30% on AtlasVoice Pro with the coupon code below."
+msgstr ""
+
+#: includes/TTA_Notices.php:1046
+msgid "View Pricing"
+msgstr ""
+
+#: includes/TTA_Notices.php:1065
+msgid "your local language"
+msgstr ""
+
+#: includes/TTA_Notices.php:1067
+msgid "here"
+msgstr ""
+
+#. translators: 1: Language string, 2: Contact link, 3: Plugin name
+#: includes/TTA_Notices.php:1072
+#, php-format
+msgid "We are seeking contributors to help translate this plugin into %1$s. If you're interested in assisting, we'd love to hear from you! Please reach out to us %2$s, and we'll provide all the necessary guidance. Thank you for choosing %3$s."
+msgstr ""
+
+#: includes/TTA_Notices.php:1086
+msgid "Convert unlimited characters to MP3 in bulk."
+msgstr "Convertir un nombre illimité de caractères en MP3 en masse."
+
+#: includes/TTA_Notices.php:1087
+msgid "WPML, GTranslate, TranslatePress Plugins Support"
+msgstr "Prise en charge des plugins WPML, GTranslate, TranslatePress"
+
+#: includes/TTA_Notices.php:1088
+msgid "Works with ACF, SCF, and other popular plugins."
+msgstr "Fonctionne avec ACF, SCF et d'autres plugins populaires."
+
+#: includes/TTA_Notices.php:1089
+msgid "Google Cloud Text-to-Speech & ChatGPT Text-to-Speech (usage fees apply)"
+msgstr "Google Cloud Text-to-Speech et ChatGPT Text-to-Speech (des frais d'utilisation s'appliquent)"
+
+#: includes/TTA_Notices.php:1090
+msgid "Live integration support + 14-day money-back guarantee (conditions apply)."
+msgstr "Support d'intégration en direct + garantie de remboursement de 14 jours (conditions applicables)."
+
+#: includes/TTA_Notices.php:1091
+msgid "50+ languages support in pro version."
+msgstr "Prise en charge de plus de 50 langues dans la version pro."
+
+#: includes/TTA_Notices.php:1092
+msgid "Download the audio file for offline listening."
+msgstr "Téléchargez le fichier audio pour une écoute hors ligne."
+
+#: includes/TTA_Notices.php:1093
+msgid "Improved UI and Responsive of the button."
+msgstr "Interface améliorée et bouton responsive."
+
+#: includes/TTA_Notices.php:1094
+msgid "Multiple Audio Player Support."
+msgstr "Prise en charge de plusieurs lecteurs audio."
+
+#: includes/TTA_Notices.php:1095
+msgid "Customizable content selection with CSS selectors"
+msgstr "Sélection de contenu personnalisable avec des sélecteurs CSS"
+
+#: includes/TTA_Notices.php:1096
+msgid "Exclude content by categories, tags, IDs"
+msgstr "Exclure du contenu par catégories, étiquettes, IDs"
+
+#: includes/TTA_Notices.php:1097
+msgid "Unlimited Download MP3 files"
+msgstr "Téléchargement illimité de fichiers MP3"
+
+#: includes/TTA_Notices.php:1098
+msgid "200+ Voices with Google Cloud TTS"
+msgstr ""
+
+#: includes/TTA_Notices.php:1099
+msgid "Advance analytics & Text Aliases support."
+msgstr "Analyses avancées et prise en charge des alias textuels."
+
+#: includes/TTA_Notices.php:1120
+msgid "Number of times the MP3 file downloaded."
+msgstr ""
+
+#: includes/TTA_Notices.php:1121
+msgid "Number of times the player reached the end."
+msgstr ""
+
+#: includes/TTA_Notices.php:1122
+msgid "Percentage of times the play button was clicked after initiation."
+msgstr ""
+
+#: includes/TTA_Notices.php:1123
+msgid "Percentage of times users listened till the end."
+msgstr ""
+
+#: includes/TTA_Notices.php:1124
+msgid "Average listening time per play."
+msgstr ""
+
+#: includes/TTA_Notices.php:1125
+msgid "Average number of pauses per play."
+msgstr ""
+
+#: includes/TTA_Notices.php:1230
+msgid "100 plays! Your accessibility efforts are paying off. Your visitors love listening."
+msgstr ""
+
+#: includes/TTA_Notices.php:1234
+msgid "500 plays! Your audio content is making a real difference for your audience."
+msgstr ""
+
+#: includes/TTA_Notices.php:1238
+msgid "1,000 plays! You're making a real impact with audio content."
+msgstr ""
+
+#: includes/TTA_Notices.php:1242
+msgid "5,000 plays! Your content is reaching thousands of listeners. Amazing!"
+msgstr ""
+
+#: includes/TTA_Notices.php:1246
+msgid "10,000 plays! You're a true audio content champion. Incredible milestone!"
+msgstr ""
+
+#: includes/TTA_Notices.php:1369
+msgid "Invalid milestone ID."
+msgstr ""
+
+#: includes/TTA_Notices.php:1383
+msgid "Milestone dismissed."
+msgstr ""
+
+#: includes/TTA_Notices.php:1489
+msgid "AtlasVoice — Translation Available"
+msgstr ""
+
+#. translators: %s: language name with locale code
+#: includes/TTA_Notices.php:1495
+#, php-format
+msgid "Your site language is set to %s. A translation pack is available for AtlasVoice. Click the button below to download and activate it."
+msgstr ""
+
+#. translators: %s: language name
+#: includes/TTA_Notices.php:1504
+#, php-format
+msgid "Download %s Translation"
+msgstr ""
+
+#: includes/TTA_Notices.php:1521
+msgid "Downloading..."
+msgstr ""
+
+#: includes/TTA_Notices.php:1534
+msgid "Downloaded! Reloading..."
+msgstr ""
+
+#: includes/TTA_Notices.php:1535
+msgid "Downloaded!"
+msgstr ""
+
+#: includes/TTA_Notices.php:1541
+#: includes/TTA_Notices.php:1546
+msgid "Retry Download"
+msgstr ""
+
+#: includes/TTA_Notices.php:1545
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:445
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:462
+msgid "Network error. Please try again."
+msgstr "Erreur réseau. Veuillez réessayer."
+
+#: includes/TTA_Notices.php:1568
+msgid "Invalid locale."
+msgstr ""
+
+#. translators: %s: locale code
+#: includes/TTA_Notices.php:1580
+#, php-format
+msgid "Translation files for %s downloaded successfully."
+msgstr ""
+
+#: includes/TTA_Notices.php:1586
+msgid "Failed to download translation files. Please try again later."
+msgstr ""
+
+#. translators: %d: total number of audio plays
+#: text-to-audio.php:193
+#, php-format
+msgid "Your audio player has been used %d times by your visitors. "
+msgstr ""
+
+#. translators: %d: number of posts with audio players
+#: text-to-audio.php:197
+#, php-format
+msgid "%d of your posts currently have audio players. "
+msgstr ""
+
+#: text-to-audio.php:199
+msgid "Deactivating will remove audio from all posts immediately."
+msgstr ""
+
+#: text-to-audio.php:213
+msgid "Voice quality is not good enough"
+msgstr ""
+
+#: text-to-audio.php:219
+msgid "My visitors are not using the audio player"
+msgstr ""
+
+#: text-to-audio.php:225
+msgid "Too difficult to set up or configure"
+msgstr ""
+
+#: text-to-audio.php:231
+msgid "My language is not supported well"
+msgstr ""
+
+#: text-to-audio.php:233
+msgid "Which language do you need?"
+msgstr ""
+
+#: text-to-audio.php:237
+msgid "It slowed down my website"
+msgstr ""
+
+#: text-to-audio.php:243
+msgid "I found a better alternative"
+msgstr ""
+
+#: text-to-audio.php:245
+msgid "Which plugin?"
+msgstr ""
+
+#: text-to-audio.php:249
+msgid "Temporary deactivation, I plan to reactivate"
+msgstr ""
+
+#: text-to-audio.php:255
+msgid "Pro version is too expensive"
+msgstr ""
+
+#: text-to-audio.php:261
+msgid "Other"
+msgstr ""
+
+#: text-to-audio.php:263
+msgid "Please share the reason..."
+msgstr ""
+
+#: text-to-audio.php:485
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/buttons/components/TextToSpeech.js:1055
+msgid "Settings"
+msgstr "Paramètres"
+
+#: text-to-audio.php:486
+msgid "Docs"
+msgstr "Documentation"
+
+#: text-to-audio.php:487
+msgid "Support"
+msgstr "Support"
+
+#: text-to-audio.php:488
+msgid "Write a Review"
+msgstr "Écrire un avis"
+
+#: admin/js/atlas-plugins.js:12
+msgid "The most user-friendly text-to-speech accessibility plugin for WordPress. Automatically adds an audio player with no API required."
+msgstr ""
+
+#: admin/js/atlas-plugins.js:14
+msgid "Unlimited text-to-speech conversion"
+msgstr "Conversion texte-en-voix illimitée"
+
+#: admin/js/atlas-plugins.js:15
+msgid "51+ languages, 20-300+ voices"
+msgstr "Plus de 51 langues, 20 à 300+ voix"
+
+#: admin/js/atlas-plugins.js:16
+msgid "Customizable player design"
+msgstr "Design du lecteur personnalisable"
+
+#: admin/js/atlas-plugins.js:17
+msgid "Shortcode support with flexible attributes"
+msgstr "Prise en charge des shortcodes avec des attributs flexibles"
+
+#: admin/js/atlas-plugins.js:18
+msgid "Custom Post Type & ACF compatibility"
+msgstr "Compatibilité avec les types de publication personnalisés et ACF"
+
+#: admin/js/atlas-plugins.js:19
+msgid "No external API required (browser SpeechSynthesis)"
+msgstr "Aucune API externe requise (SpeechSynthesis du navigateur)"
+
+#: admin/js/atlas-plugins.js:20
+msgid "Multilingual support (WPML, GTranslate)"
+msgstr "Prise en charge multilingue (WPML, GTranslate)"
+
+#: admin/js/atlas-plugins.js:21
+msgid "Analytics & engagement tracking"
+msgstr "Suivi analytique et de l'engagement"
+
+#: admin/js/atlas-plugins.js:29
+msgid "Display interactive 3D models and augmented reality on your WordPress & WooCommerce site for enhanced product visualization."
+msgstr "Affichez des modèles 3D interactifs et la réalité augmentée sur votre site WordPress et WooCommerce pour une visualisation améliorée des produits."
+
+#: admin/js/atlas-plugins.js:31
+msgid "Interactive 3D model display"
+msgstr "Affichage de modèles 3D interactifs"
+
+#: admin/js/atlas-plugins.js:32
+msgid "Augmented Reality (AR) support"
+msgstr "Prise en charge de la réalité augmentée (AR)"
+
+#: admin/js/atlas-plugins.js:33
+msgid "WordPress & WooCommerce integration"
+msgstr "Intégration WordPress et WooCommerce"
+
+#: admin/js/atlas-plugins.js:34
+msgid "Mobile-optimized viewing"
+msgstr "Affichage optimisé pour mobile"
+
+#: admin/js/atlas-plugins.js:35
+msgid "Customizable display options"
+msgstr "Options d'affichage personnalisables"
+
+#: admin/js/atlas-plugins.js:36
+msgid "Reduces return rates with realistic visualization"
+msgstr "Réduit les taux de retour grâce à une visualisation réaliste"
+
+#: admin/js/atlas-plugins.js:37
+msgid "Easy product page embedding"
+msgstr "Intégration facile dans les pages produits"
+
+#: admin/js/atlas-plugins.js:45
+msgid "Transform WordPress into an AI-powered control center with 70+ abilities, MCP server support, and workflow builder."
+msgstr "Transformez WordPress en un centre de contrôle alimenté par l'IA avec plus de 70 capacités, le support de serveur MCP et un constructeur de flux de travail."
+
+#: admin/js/atlas-plugins.js:47
+msgid "70+ abilities across 9 modules"
+msgstr "Plus de 70 capacités réparties sur 9 modules"
+
+#: admin/js/atlas-plugins.js:48
+msgid "Built-in MCP Server (JSON-RPC 2.0)"
+msgstr "Serveur MCP intégré (JSON-RPC 2.0)"
+
+#: admin/js/atlas-plugins.js:49
+msgid "JWT authentication"
+msgstr "Authentification JWT"
+
+#: admin/js/atlas-plugins.js:50
+msgid "Drag-and-drop workflow builder"
+msgstr "Constructeur de flux de travail par glisser-déposer"
+
+#: admin/js/atlas-plugins.js:51
+msgid "Multi-provider AI support (OpenAI, Gemini, Claude)"
+msgstr "Prise en charge multi-fournisseur IA (OpenAI, Gemini, Claude)"
+
+#: admin/js/atlas-plugins.js:52
+msgid "WooCommerce AI Store Manager"
+msgstr "Gestionnaire de boutique IA WooCommerce"
+
+#: admin/js/atlas-plugins.js:53
+msgid "Post editor AI integration"
+msgstr "Intégration IA dans l'éditeur d'articles"
+
+#: admin/js/atlas-plugins.js:144
+msgid "Active"
+msgstr "Actif"
+
+#: admin/js/atlas-plugins.js:157
+msgid "Activate"
+msgstr "Activer"
+
+#: admin/js/atlas-plugins.js:176
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ChatGPTTTS/ChatGPTTTS.js:26
+#: src/dashboard/components/dashboard/integrations/ElevenLabsTTS/ElevenLabsTTS.js:25
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:134
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:477
+#: src/dashboard/welcome/steps/StepFinish.js:481
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: admin/js/atlas-plugins.js:271
+#: admin/js/atlas-plugins.js:302
+msgid "Install Now"
+msgstr "Installer maintenant"
+
+#: admin/js/atlas-plugins.js:280
+msgid "Installing..."
+msgstr "Installation en cours..."
+
+#: admin/js/atlas-plugins.js:306
+msgid "Installation failed. Please try again."
+msgstr "L'installation a échoué. Veuillez réessayer."
+
+#: admin/js/atlas-plugins.js:338
+msgid "AtlasAiDev Plugins"
+msgstr "Extensions AtlasAiDev"
+
+#: admin/js/atlas-plugins.js:342
+msgid "Discover and install plugins by AtlasAiDev to enhance your WordPress site."
+msgstr "Découvrez et installez les extensions AtlasAiDev pour améliorer votre site WordPress."
+
+#: admin/js/blocks/customize-button/customize-button.js:21
+#: build/blocks.js:1
+msgid "Color Settings"
+msgstr "Paramètres de couleur"
+
+#: admin/js/blocks/customize-button/customize-button.js:29
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: build/blocks.js:1
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:14
+#: src/dashboard/welcome/steps/StepCustomize.js:173
+#: src/dashboard/welcome/steps/StepCustomize.js:183
+msgid "Background Color"
+msgstr "Couleur d'arrière-plan"
+
+#: admin/js/blocks/customize-button/customize-button.js:40
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: build/blocks.js:1
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:34
+#: src/dashboard/welcome/steps/StepCustomize.js:194
+#: src/dashboard/welcome/steps/StepCustomize.js:204
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: admin/js/blocks/customize-button/customize-button.js:44
+#: build/blocks.js:1
+msgid "Button Settings"
+msgstr "Paramètres du bouton"
+
+#: admin/js/blocks/customize-button/customize-button.js:46
+#: build/blocks.js:1
+msgid "Button Width (%)"
+msgstr "Largeur du bouton (%)"
+
+#: admin/js/blocks/customize-button/customize-button.js:55
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: build/blocks.js:1
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:322
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: admin/js/blocks/customize-button/customize-button.js:60
+#: build/blocks.js:1
+msgid "class selector .tta__listen_content"
+msgstr "sélecteur de classe .tta__listen_content"
+
+#: admin/js/blocks/customize-button/customize-button.js:78
+#: build/blocks.js:1
+msgid "Text To Audio: Tap to listen post."
+msgstr "Text To Audio : Appuyez pour écouter l'article."
+
+#: admin/js/blocks/customize-button/customize-button.js:95
+#: build/blocks.js:1
+msgid "Text to audio customize button."
+msgstr "Bouton personnalisé Text to Audio."
+
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:99
+msgid "Here a short text have to write to inform the user about this feature purpose"
+msgstr "Voici un court texte pour informer l'utilisateur de l'objectif de cette fonctionnalité"
+
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:117
+msgid "Write actual text"
+msgstr "Écrire le texte réel"
+
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:126
+msgid "Write read aloud text"
+msgstr "Écrire le texte à lire à voix haute"
+
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:37
+msgid "More than 1 alias is available in the pro version. Please "
+msgstr "Plus d'un alias est disponible dans la version pro. Veuillez "
+
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:151
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+#: admin/js/build/chunks/tab-aliases.chunk.js:2
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/aliases/Aliases.js:171
+#: src/dashboard/components/dashboard/analitics/Analitics.js:1071
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:273
+#: src/dashboard/components/dashboard/customize/Customize.js:909
+#: src/dashboard/components/dashboard/integrations/Integrations.js:357
+#: src/dashboard/components/dashboard/settings/Settings.js:999
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ProFeatureOverlay.js:34
+msgid "Pro Feature"
+msgstr "Fonctionnalité Pro"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ProFeatureOverlay.js:37
+msgid "Upgrade to Pro to unlock this feature and get access to advanced analytics."
+msgstr "Passez à la version Pro pour débloquer cette fonctionnalité et accéder aux analyses avancées."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/DeviceTypes.js:165
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:260
+#: src/dashboard/components/dashboard/analitics/LocationAnalytics.js:219
+#: src/dashboard/components/dashboard/analitics/LocationAnalytics.js:246
+#: src/dashboard/components/dashboard/analitics/OSAnalytics.js:168
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:402
+#: src/dashboard/components/dashboard/analitics/PopularPosts.js:178
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:58
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:282
+#: src/dashboard/welcome/steps/StepVoice.js:344
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:124
+msgid "Total Posts"
+msgstr "Total des articles"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:127
+msgid "Total posts with TTS player"
+msgstr "Total des articles avec lecteur TTS"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:124
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:163
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:130
+msgid "Init"
+msgstr "Init"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:135
+msgid "Player initialization count"
+msgstr "Nombre d'initialisations du lecteur"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:130
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:164
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:138
+msgid "Play"
+msgstr "Lecture"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:143
+msgid "Total play button clicks"
+msgstr "Total des clics sur le bouton de lecture"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:146
+msgid "Time (Min)"
+msgstr "Durée (Min)"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:157
+msgid "Total listening time"
+msgstr "Durée totale d'écoute"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:165
+msgid "Total pause actions"
+msgstr "Total des actions de pause"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:172
+msgid "Download"
+msgstr "Télécharger"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:177
+msgid "Total MP3 downloads"
+msgstr "Total des téléchargements MP3"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:154
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:168
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:181
+msgid "End"
+msgstr "Fin"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:186
+msgid "Total completions"
+msgstr "Total des complétions"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:190
+msgid "Bounce Rate"
+msgstr "Taux de rebond"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:195
+msgid "Users who didn't complete the audio"
+msgstr "Utilisateurs qui n'ont pas terminé l'audio"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:209
+msgid "TTS Player Analytics Summary"
+msgstr "Résumé analytique du lecteur TTS"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/SummaryCards.js:212
+msgid "Total Interactions:"
+msgstr "Total des interactions :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/BrowserAnalytics.js:80
+#: src/dashboard/components/dashboard/analitics/DeviceTypes.js:68
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:62
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:32
+#: src/dashboard/components/dashboard/analitics/ListenerSegments.js:31
+#: src/dashboard/components/dashboard/analitics/LocationAnalytics.js:91
+#: src/dashboard/components/dashboard/analitics/OSAnalytics.js:68
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:46
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:37
+#: src/dashboard/components/dashboard/analitics/PopularPosts.js:33
+msgid "Last 30 Days"
+msgstr "30 derniers jours"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:63
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:33
+#: src/dashboard/components/dashboard/analitics/ListenerSegments.js:32
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:47
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:38
+#: src/dashboard/components/dashboard/analitics/PopularPosts.js:34
+msgid "Last 90 Days"
+msgstr "90 derniers jours"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:136
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:165
+msgid "25%"
+msgstr "25%"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:142
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:166
+msgid "50%"
+msgstr "50%"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:148
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:167
+msgid "75%"
+msgstr "75%"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:176
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:229
+msgid "Engagement Funnel"
+msgstr "Entonnoir d'engagement"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:204
+msgid "Play Rate:"
+msgstr "Taux de lecture :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:210
+msgid "Completion Rate:"
+msgstr "Taux de complétion :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:216
+msgid "Biggest Drop:"
+msgstr "Plus grande chute :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/EngagementFunnel.js:218
+msgid "50% → 75%"
+msgstr "50% → 75%"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ListenerSegments.js:131
+msgid "New Listeners"
+msgstr "Nouveaux auditeurs"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ListenerSegments.js:132
+msgid "Returning"
+msgstr "Récurrents"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ListenerSegments.js:172
+#: src/dashboard/components/dashboard/analitics/ListenerSegments.js:272
+msgid "Listener Segments"
+msgstr "Segments d'auditeurs"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ListenerSegments.js:234
+msgid "New:"
+msgstr "Nouveaux :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ListenerSegments.js:239
+#: src/dashboard/components/dashboard/analitics/ListenerSegments.js:253
+msgid "Returning:"
+msgstr "Récurrents :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ListenerSegments.js:247
+msgid "New Listeners:"
+msgstr "Nouveaux auditeurs :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ListenerSegments.js:259
+msgid "Avg Sessions/User:"
+msgstr "Sessions moy./Utilisateur :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/BrowserAnalytics.js:78
+#: src/dashboard/components/dashboard/analitics/DeviceTypes.js:66
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:29
+#: src/dashboard/components/dashboard/analitics/LocationAnalytics.js:89
+#: src/dashboard/components/dashboard/analitics/OSAnalytics.js:66
+msgid "Yesterday"
+msgstr "Hier"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/DeviceTypes.js:165
+#: src/dashboard/components/dashboard/analitics/LocationAnalytics.js:219
+#: src/dashboard/components/dashboard/analitics/OSAnalytics.js:168
+msgid "more"
+msgstr "plus"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/BrowserAnalytics.js:177
+msgid "Browser Analytics"
+msgstr "Analyses du navigateur"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/LocationAnalytics.js:183
+msgid "Location"
+msgstr "Localisation"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/LocationAnalytics.js:229
+msgid "Top Cities"
+msgstr "Principales villes"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/LocationAnalytics.js:247
+msgid "Unlock city-level analytics"
+msgstr "Débloquer les analyses au niveau des villes"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:35
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:255
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:39
+msgid "Custom Range"
+msgstr "Période personnalisée"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:226
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:419
+msgid "Playing Quantity"
+msgstr "Quantité de lectures"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:240
+msgid "Playing Time (min)"
+msgstr "Durée de lecture (min)"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:258
+msgid "Previous Period"
+msgstr "Période précédente"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:368
+msgid "Playing Trend Analysis"
+msgstr "Analyse des tendances de lecture"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:376
+msgid "Compare with Previous Period"
+msgstr "Comparer avec la période précédente"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:403
+msgid "Enable comparison with previous period"
+msgstr "Activer la comparaison avec la période précédente"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:415
+msgid "Quantity vs Date"
+msgstr "Quantité par date"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PlayingTrendChart.js:423
+msgid "Playing Time(min)"
+msgstr "Durée de lecture (min)"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:65
+msgid "Mon"
+msgstr "Lun"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:66
+msgid "Tue"
+msgstr "Mar"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:67
+msgid "Wed"
+msgstr "Mer"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:68
+msgid "Thu"
+msgstr "Jeu"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:69
+msgid "Fri"
+msgstr "Ven"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:70
+msgid "Sat"
+msgstr "Sam"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:71
+msgid "Sun"
+msgstr "Dim"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:170
+msgid "Peak Listening Hours"
+msgstr "Heures de pointe d'écoute"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:219
+#: src/dashboard/components/dashboard/listening/Listening.js:1139
+msgid "Low"
+msgstr "Bas"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:227
+msgid "Peak"
+msgstr "Pointe"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:234
+msgid "Insight:"
+msgstr "Aperçu :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:234
+msgid "Your peak listening time is"
+msgstr "Votre heure de pointe d'écoute est"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PeakHoursHeatmap.js:243
+msgid "Peak Hours Heatmap"
+msgstr "Carte thermique des heures de pointe"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:70
+msgid "Date Range is only available in Pro version"
+msgstr "La plage de dates n'est disponible que dans la version Pro"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:78
+#: src/dashboard/components/dashboard/customize/Customize.js:442
+#: src/dashboard/components/dashboard/integrations/ChatGPTTTS/ChatGPTTTS.js:41
+#: src/dashboard/components/dashboard/integrations/ElevenLabsTTS/ElevenLabsTTS.js:40
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:161
+msgid "Buy Now"
+msgstr "Acheter maintenant"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:62
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:98
+msgid "Please enable analytics first."
+msgstr "Veuillez d'abord activer les analyses."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:182
+msgid "Track Post IDs"
+msgstr "Suivre les IDs d'articles"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:195
+msgid "Tracking more than 20 post IDs is a Pro feature"
+msgstr ""
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:210
+msgid "Post ID"
+msgstr "ID d'article"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:103
+msgid "Please provide a Post ID or date range."
+msgstr "Veuillez fournir un ID d'article ou une plage de dates."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:239
+msgid "Search"
+msgstr "Rechercher"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:248
+msgid "Clear"
+msgstr "Effacer"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:256
+msgid "Showing results for:"
+msgstr "Résultats pour :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:257
+msgid "Post ID:"
+msgstr "ID d'article :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:258
+msgid "From:"
+msgstr "Du :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:259
+msgid "To:"
+msgstr "Au :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:274
+msgid "Metric"
+msgstr "Métrique"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:275
+msgid "Value"
+msgstr "Valeur"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/TrackPostIds.js:299
+msgid "Unlock 10+ more metrics with Pro"
+msgstr "Débloquez plus de 10 métriques supplémentaires avec Pro"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PopularPosts.js:118
+msgid "Popular Post"
+msgstr "Article populaire"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PopularPosts.js:136
+msgid "Rank"
+msgstr "Rang"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PopularPosts.js:138
+msgid "Total Interactions"
+msgstr "Total des interactions"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PopularPosts.js:164
+msgid "No data available yet. Start tracking posts to see analytics."
+msgstr "Aucune donnée disponible pour le moment. Commencez à suivre les articles pour voir les analyses."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PopularPosts.js:178
+msgid "View all"
+msgstr "Voir tout"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PopularPosts.js:178
+msgid "posts"
+msgstr "articles"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/PopularPosts.js:190
+msgid "View All Posts"
+msgstr "Voir tous les articles"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:86
+msgid "CSV export initiated. Check your downloads."
+msgstr "Exportation CSV lancée. Vérifiez vos téléchargements."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:89
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:106
+msgid "Export failed. Please try again."
+msgstr "L'exportation a échoué. Veuillez réessayer."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:103
+msgid "PDF export initiated. Check your downloads."
+msgstr "Exportation PDF lancée. Vérifiez vos téléchargements."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:125
+msgid "Please enter at least one recipient email address."
+msgstr "Veuillez entrer au moins une adresse e-mail de destinataire."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:146
+msgid "Report schedule saved successfully."
+msgstr "Planification du rapport enregistrée avec succès."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:162
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:166
+msgid "Failed to save schedule settings."
+msgstr "Échec de l'enregistrement des paramètres de planification."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:177
+msgid "Please enter recipient email addresses first."
+msgstr "Veuillez d'abord entrer les adresses e-mail des destinataires."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:196
+msgid "Test report sent successfully! Check your inbox."
+msgstr "Rapport de test envoyé avec succès ! Vérifiez votre boîte de réception."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:206
+msgid "Failed to send test report."
+msgstr "Échec de l'envoi du rapport de test."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:210
+msgid "Failed to send test report. Please check your network connection."
+msgstr "Échec de l'envoi du rapport de test. Veuillez vérifier votre connexion réseau."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:229
+msgid "CSV"
+msgstr "CSV"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:244
+msgid "PDF"
+msgstr "PDF"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:256
+msgid "Schedule Report"
+msgstr "Planifier un rapport"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:267
+msgid "Schedule Email Reports"
+msgstr "Planifier des rapports par e-mail"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:282
+msgid "Enable automated reports"
+msgstr "Activer les rapports automatisés"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:289
+msgid "Recipients (comma separated)"
+msgstr "Destinataires (séparés par des virgules)"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:301
+msgid "Frequency"
+msgstr "Fréquence"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:307
+msgid "Daily"
+msgstr "Quotidien"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:308
+msgid "Weekly"
+msgstr "Hebdomadaire"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:309
+msgid "Monthly"
+msgstr "Mensuel"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:314
+msgid "Day"
+msgstr "Jour"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:320
+msgid "Monday"
+msgstr "Lundi"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:321
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:322
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:323
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:324
+msgid "Friday"
+msgstr "Vendredi"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:325
+msgid "Saturday"
+msgstr "Samedi"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:326
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:331
+msgid "Time"
+msgstr "Heure"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:342
+msgid "Include in report:"
+msgstr "Inclure dans le rapport :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:347
+msgid "Summary statistics"
+msgstr "Statistiques résumées"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:355
+msgid "Top 10 posts"
+msgstr "Top 10 des articles"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:363
+msgid "Geographic breakdown"
+msgstr "Répartition géographique"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:371
+msgid "Trend chart"
+msgstr "Graphique de tendance"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:379
+msgid "Device stats"
+msgstr "Statistiques des appareils"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:390
+msgid "Next scheduled report:"
+msgstr "Prochain rapport planifié :"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:407
+msgid "Sending..."
+msgstr "Envoi en cours..."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:410
+msgid "Send Test Report"
+msgstr "Envoyer un rapport de test"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:422
+#: src/dashboard/welcome/WelcomeWizard.js:220
+msgid "Saving..."
+msgstr "Enregistrement en cours..."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:425
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/ExportSection.js:436
+msgid "Export & Reports"
+msgstr "Exportation et rapports"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:31
+msgid "Last 14 Days"
+msgstr "14 derniers jours"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:34
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:78
+msgid "All Time"
+msgstr "Depuis toujours"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:119
+msgid "Getting more than 30 days data is pro feature. Please "
+msgstr "Obtenir plus de 30 jours de données est une fonctionnalité pro. Veuillez "
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:220
+msgid "Quick Select"
+msgstr "Sélection rapide"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:259
+msgid "From"
+msgstr "Du"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:268
+msgid "To"
+msgstr "Au"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:146
+msgid "Custom date select is only available in pro version. Please "
+msgstr "La sélection de date personnalisée n'est disponible que dans la version pro. Veuillez "
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/GlobalDateRangePicker.js:283
+msgid "Apply"
+msgstr "Appliquer"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:466
+msgid "CSV exported successfully!"
+msgstr "CSV exporté avec succès !"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:470
+msgid "Error exporting CSV"
+msgstr "Erreur lors de l'exportation CSV"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:519
+msgid "PDF report opened. Use 'Save as PDF' in the print dialog."
+msgstr "Rapport PDF ouvert. Utilisez « Enregistrer en PDF » dans la boîte de dialogue d'impression."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:533
+msgid "Report downloaded as HTML. Open in browser and print to save as PDF."
+msgstr "Rapport téléchargé en HTML. Ouvrez dans le navigateur et imprimez pour enregistrer en PDF."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:536
+msgid "Failed to generate PDF report."
+msgstr "Échec de la génération du rapport PDF."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:540
+msgid "Error exporting PDF"
+msgstr "Erreur lors de l'exportation PDF"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:801
+#: src/dashboard/welcome/steps/StepFinish.js:384
+msgid "Analytics"
+msgstr "Analyses"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:829
+msgid "Track and analyze your TTS player engagement to understand listener behavior."
+msgstr "Suivez et analysez l'engagement de votre lecteur TTS pour comprendre le comportement des auditeurs."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:849
+msgid "Export & Schedule Reports"
+msgstr ""
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:852
+msgid "Export CSV/PDF reports and schedule automated email digests."
+msgstr ""
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:1045
+msgid "Analytics is Currently Disabled"
+msgstr "Les analyses sont actuellement désactivées"
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: src/dashboard/components/dashboard/analitics/Analitics.js:1047
+msgid "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics."
+msgstr "Activez les analyses à l'aide du bouton ci-dessus pour commencer à suivre les interactions de votre lecteur TTS et afficher des métriques détaillées."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/context/MultiSelect.js:19
+msgid "Showing button to multiple post is not supported in free version."
+msgstr "L'affichage du bouton sur plusieurs articles n'est pas pris en charge dans la version gratuite."
+
+#: admin/js/build/chunks/tab-analytics.chunk.js:2
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/context/MultiSelect.js:383
+msgid "Select Items..."
+msgstr "Sélectionner des éléments..."
+
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:142
+msgid "Compatibility Status"
+msgstr ""
+
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:149
+msgid "AtlasVoice automatically excludes its scripts from caching and optimization plugins to prevent conflicts."
+msgstr ""
+
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:112
+msgid "JS exclusion active"
+msgstr ""
+
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:115
+msgid "Detected but not handled — may cause conflicts"
+msgstr ""
+
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:118
+msgid "Installed but not active"
+msgstr ""
+
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:120
+msgid "Not installed"
+msgstr ""
+
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:192
+msgid "Add ACF Fields To Posts"
+msgstr "Ajouter des champs ACF aux articles"
+
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:197
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:205
+msgid "Adding more than 1  ACF field is a pro feature"
+msgstr "L'ajout de plus d'un champ ACF est une fonctionnalité pro"
+
+#: admin/js/build/chunks/tab-compatibility.chunk.js:2
+#: src/dashboard/components/dashboard/compatibility/Compatibility.js:241
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:380
+msgid "Loading"
+msgstr "Chargement"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/buttons/components/TextToSpeech.js:1003
+msgid "Click to seek"
+msgstr "Cliquez pour naviguer"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/buttons/components/TextToSpeech.js:1328
+msgid "Player Settings"
+msgstr "Paramètres du lecteur"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/buttons/components/TextToSpeech.js:1332
+msgid "Close"
+msgstr "Fermer"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/buttons/components/TextToSpeech.js:1343
+#: src/dashboard/welcome/steps/StepVoice.js:256
+msgid "Language"
+msgstr "Langue"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/buttons/components/TextToSpeech.js:1376
+#: src/dashboard/welcome/steps/StepFinish.js:350
+#: src/dashboard/welcome/steps/StepVoice.js:278
+msgid "Voice"
+msgstr "Voix"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/buttons/components/TextToSpeech.js:1410
+#: src/dashboard/components/dashboard/listening/Listening.js:1176
+msgid "Speed"
+msgstr "Vitesse"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/buttons/components/TextToSpeech.js:1428
+msgid "Pitch"
+msgstr "Tonalité"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/buttons/components/TextToSpeech.js:1446
+msgid "Volume"
+msgstr "Volume"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/buttons/components/TextToSpeech.js:1461
+msgid "Unmute"
+msgstr "Réactiver le son"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/buttons/components/TextToSpeech.js:1461
+msgid "Mute"
+msgstr "Couper le son"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:22
+msgid "Before Content"
+msgstr "Avant le contenu"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:23
+msgid "After Content"
+msgstr "Après le contenu"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:24
+msgid "Bottom Fixed (Pro)"
+msgstr "Bas fixe (Pro)"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:25
+msgid "Bottom Left (Pro)"
+msgstr "Bas gauche (Pro)"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:26
+msgid "Bottom Right (Pro)"
+msgstr "Bas droit (Pro)"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:27
+msgid "Bottom Center (Pro)"
+msgstr "Bas centré (Pro)"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:48
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:71
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:74
+msgid "Select Player"
+msgstr "Sélectionner le lecteur"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:93
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:119
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:122
+msgid "Select Button Position"
+msgstr "Sélectionner la position du bouton"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:98
+msgid "Select where to display the player button"
+msgstr "Sélectionnez où afficher le bouton du lecteur"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:137
+msgid "Display Player To"
+msgstr "Afficher le lecteur à"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:142
+msgid "Choose who can see the player"
+msgstr "Choisissez qui peut voir le lecteur"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:159
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:190
+msgid "Player display restriction to multiple user type is available in the pro version"
+msgstr "La restriction d'affichage du lecteur à plusieurs types d'utilisateurs est disponible dans la version pro"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:186
+msgid "Who Can Download MP3 File"
+msgstr "Qui peut télécharger le fichier MP3"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:211
+msgid "MP3 Generation From Post's Publish Date"
+msgstr "Génération MP3 à partir de la date de publication de l'article"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:216
+msgid "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range."
+msgstr "Commencer à générer le fichier MP3 à partir d'une date de publication spécifique. Sélectionnez ceci uniquement si vous souhaitez générer des fichiers MP3 en fonction d'une plage de dates."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:222
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:254
+msgid "?"
+msgstr "?"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:235
+msgid "Generate MP3 File Date From"
+msgstr "Générer le fichier MP3 à partir de la date"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:244
+msgid "MP3 Generation Till Post's Publish Date"
+msgstr "Génération MP3 jusqu'à la date de publication de l'article"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:249
+msgid "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range."
+msgstr "Générer le fichier MP3 jusqu'à une date de publication spécifique. Sélectionnez ceci uniquement si vous souhaitez générer des fichiers MP3 en fonction d'une plage de dates."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/button/TTSCustomizationButton.js:267
+msgid "Generate MP3 File Date To"
+msgstr "Générer le fichier MP3 jusqu'à la date"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/CustomizationTabs.js:27
+msgid "Player Customization"
+msgstr "Personnalisation du lecteur"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:23
+msgid "Choose player background color"
+msgstr "Choisir la couleur d'arrière-plan du lecteur"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:43
+msgid "Choose your color"
+msgstr "Choisissez votre couleur"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:54
+msgid "Hover BG Color"
+msgstr "Couleur de fond au survol"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:63
+msgid "Choose your hover background color"
+msgstr "Choisissez votre couleur d'arrière-plan au survol"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:76
+msgid "Hover Text Color"
+msgstr "Couleur du texte au survol"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:85
+msgid "Choose your hover text color"
+msgstr "Choisissez votre couleur de texte au survol"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:97
+msgid "Margin Size (Px)"
+msgstr "Taille de la marge (Px)"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:101
+msgid "Top"
+msgstr "Haut"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:108
+msgid "Margin Top"
+msgstr "Marge haute"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:115
+msgid "Bottom"
+msgstr "Bas"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:122
+msgid "Margin Bottom"
+msgstr "Marge basse"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:129
+msgid "Left"
+msgstr "Gauche"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:136
+msgid "Margin Left"
+msgstr "Marge gauche"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:143
+msgid "Right"
+msgstr "Droite"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:150
+msgid "Margin Right"
+msgstr "Marge droite"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:156
+msgid "Button Style"
+msgstr "Style du bouton"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:160
+msgid "Height"
+msgstr "Hauteur"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:169
+msgid "Button Height"
+msgstr "Hauteur du bouton"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:176
+msgid "Border"
+msgstr "Bordure"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:186
+msgid "Button Border"
+msgstr "Bordure du bouton"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:192
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:201
+#: src/dashboard/welcome/steps/StepCustomize.js:213
+#: src/dashboard/welcome/steps/StepCustomize.js:223
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:213
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:223
+msgid "Font Size"
+msgstr "Taille de la police"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:230
+msgid "Radius"
+msgstr "Rayon"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:240
+#: src/dashboard/welcome/steps/StepCustomize.js:235
+#: src/dashboard/welcome/steps/StepCustomize.js:247
+msgid "Border Radius"
+msgstr "Rayon de bordure"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:247
+msgid "Button Properties"
+msgstr "Propriétés du bouton"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:250
+msgid "Width"
+msgstr "Largeur"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:260
+msgid "Button Width"
+msgstr "Largeur du bouton"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/design/TTSButtonDesign.js:330
+msgid "Enter Custom CSS here"
+msgstr "Entrez votre CSS personnalisé ici"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:312
+msgid "Value should be between 0-100"
+msgstr "La valeur doit être comprise entre 0 et 100"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:349
+msgid "This option is only available for the pro version."
+msgstr "Cette option n'est disponible que dans la version pro."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:629
+#: src/dashboard/welcome/steps/StepFinish.js:252
+#: src/dashboard/welcome/steps/StepHearDifference.js:95
+msgid "Default"
+msgstr "Par défaut"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:630
+msgid "Default Pro"
+msgstr "Pro par défaut"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:654
+msgid "Customization"
+msgstr "Personnalisation"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:656
+msgid "Customize the player & design to match your brand and preferences."
+msgstr "Personnalisez le lecteur et le design pour correspondre à votre marque et vos préférences."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:683
+#: src/dashboard/components/dashboard/settings/Settings.js:272
+msgid "Preview on Your Site"
+msgstr ""
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:464
+#: src/dashboard/components/dashboard/listening/Listening.js:432
+#: src/dashboard/components/dashboard/recording/Recording.js:121
+msgid "Please fill the  field : "
+msgstr "Veuillez remplir le champ : "
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:505
+msgid "To select this player, you must authenticate first from the Integration menu"
+msgstr "Pour sélectionner ce lecteur, vous devez d'abord vous authentifier depuis le menu Intégration"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:514
+msgid "Google Cloud TTS player is only available in the pro version."
+msgstr "Le lecteur Google Cloud TTS n'est disponible que dans la version pro."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:522
+#: src/dashboard/components/dashboard/customize/Customize.js:539
+msgid "To select this player you have to authenticate first from Integration menu"
+msgstr "Pour sélectionner ce lecteur, vous devez d'abord vous authentifier depuis le menu Intégration"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:531
+msgid "ChatGPT TTS player is only available in the pro version."
+msgstr "Le lecteur ChatGPT TTS n'est disponible que dans la version pro."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:548
+msgid "ElevenLabs TTS player is only available in the pro version."
+msgstr "Le lecteur ElevenLabs TTS n'est disponible que dans la version pro."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:554
+msgid "Default Pro player is only available in the pro version."
+msgstr "Le lecteur Pro par défaut n'est disponible que dans la version pro."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:565
+#: src/dashboard/components/dashboard/integrations/ChatGPTTTS/ChatGPTTTS.js:51
+#: src/dashboard/components/dashboard/integrations/ElevenLabsTTS/ElevenLabsTTS.js:50
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:179
+msgid "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin."
+msgstr ""
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:578
+msgid "Customization saved."
+msgstr "Personnalisation enregistrée."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:580
+msgid "Now go to the \"Listening\" menu to select proper language and voice."
+msgstr "Allez maintenant au menu \"\u00c9coute\" pour sélectionner la langue et la voix appropriées."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:705
+msgid "Write here something and click listen button"
+msgstr "Écrivez quelque chose ici et cliquez sur le bouton écouter"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:713
+msgid " Enter your text here and click the listen button to hear it spoken aloud."
+msgstr " Entrez votre texte ici et cliquez sur le bouton écouter pour l'entendre à voix haute."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:743
+msgid "Watch Tutorial"
+msgstr "Regarder le tutoriel"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:754
+msgid "Write here something and click listen button."
+msgstr "Écrivez quelque chose ici et cliquez sur le bouton écouter."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:832
+msgid "Text To Audio:  Tap to listen post."
+msgstr "Text To Audio : Appuyez pour écouter l'article."
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:843
+msgid "Design Customization"
+msgstr "Personnalisation du design"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:854
+msgid "Short Code | Attributes value must be wrapped with double quotation ( \" )"
+msgstr "Shortcode | Les valeurs des attributs doivent être entourées de guillemets doubles ( \" )"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:871
+msgid "tta_play_btn_shortcode"
+msgstr "tta_play_btn_shortcode"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:873
+msgid "Copied ShortCode"
+msgstr "Shortcode copié"
+
+#: admin/js/build/chunks/tab-customize.chunk.js:2
+#: src/dashboard/components/dashboard/customize/Customize.js:880
+msgid "Copy Shortcode"
+msgstr "Copier le shortcode"
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:46
+msgid "1. Browser support issues on Android and desktop"
+msgstr "1. Problèmes de compatibilité navigateur sur Android et ordinateur"
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:50
+msgid "This plugin is built using the browser SpeechSynthesis API. No external API is used."
+msgstr "Ce plugin est construit avec l'API SpeechSynthesis du navigateur. Aucune API externe n'est utilisée."
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:54
+msgid "View SpeechSynthesis documentation"
+msgstr "Voir la documentation SpeechSynthesis"
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:58
+msgid "Browser and device support varies, so available voices and languages may differ between desktop and mobile devices."
+msgstr "La prise en charge des navigateurs et appareils varie, donc les voix et langues disponibles peuvent différer entre les ordinateurs et les appareils mobiles."
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:62
+msgid "Submit a support ticket"
+msgstr "Soumettre un ticket de support"
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:66
+msgid "There are no browser limitations in the Pro version."
+msgstr "Il n'y a aucune limitation de navigateur dans la version Pro."
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:73
+msgid "2. Different voices or languages on mobile"
+msgstr "2. Voix ou langues différentes sur mobile"
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:77
+msgid "SpeechSynthesis support varies between browsers and devices. Some voices may be available on desktop but not on mobile."
+msgstr "La prise en charge de SpeechSynthesis varie selon les navigateurs et les appareils. Certaines voix peuvent être disponibles sur ordinateur mais pas sur mobile."
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:80
+msgid "The Pro version does not have these limitations."
+msgstr "La version Pro n'a pas ces limitations."
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:87
+msgid "3. Can I exclude certain words from playback?"
+msgstr "3. Puis-je exclure certains mots de la lecture ?"
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:91
+msgid "Yes. You can exclude specific words or phrases in the Pro version."
+msgstr "Oui. Vous pouvez exclure des mots ou des phrases spécifiques dans la version Pro."
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:94
+msgid "Use the pipe (|) symbol to separate multiple words or phrases."
+msgstr "Utilisez le symbole pipe (|) pour séparer plusieurs mots ou phrases."
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:101
+msgid "4. Can I exclude specific HTML tags from playback?"
+msgstr "4. Puis-je exclure des balises HTML spécifiques de la lecture ?"
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:105
+msgid "The Pro version allows excluding content wrapped in specific HTML tags."
+msgstr "La version Pro permet d'exclure le contenu enveloppé dans des balises HTML spécifiques."
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:108
+msgid "Use the pipe (|) symbol to exclude multiple tags."
+msgstr "Utilisez le symbole pipe (|) pour exclure plusieurs balises."
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:115
+msgid "5. How can I change button text?"
+msgstr "5. Comment puis-je changer le texte du bouton ?"
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:119
+msgid "Button text can be changed using shortcode attributes or filters. Filters always override shortcode values."
+msgstr "Le texte du bouton peut être modifié à l'aide d'attributs de shortcode ou de filtres. Les filtres remplacent toujours les valeurs de shortcode."
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:131
+msgid "6. How do I add a custom CSS class to the button?"
+msgstr "6. Comment ajouter une classe CSS personnalisée au bouton ?"
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:140
+msgid "7. Backend filters (Free version)"
+msgstr "7. Filtres backend (version gratuite)"
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:146
+msgid "Filter"
+msgstr "Filtre"
+
+#: admin/js/build/chunks/tab-docs.chunk.js:2
+#: src/dashboard/components/dashboard/docs/Docs.js:147
+msgid "Arguments"
+msgstr "Arguments"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:54
+msgid "Backup MP3 Files To Google Cloud Storage Can Be Enabled If Google Cloud TTS Is Authenticated."
+msgstr ""
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:204
+msgid "Settings saved successfully."
+msgstr "Paramètres enregistrés avec succès."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ChatGPTTTS/ChatGPTTTS.js:83
+#: src/dashboard/components/dashboard/integrations/ElevenLabsTTS/ElevenLabsTTS.js:82
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:218
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:282
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:374
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:419
+msgid "Something went wrong"
+msgstr "Quelque chose s'est mal passé"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:86
+msgid "This is not a service account file. The \"type\" field must be \"service_account\". You may have downloaded the wrong file type."
+msgstr "Ce n'est pas un fichier de compte de service. Le champ \"type\" doit être \"service_account\". Vous avez peut-être téléchargé le mauvais type de fichier."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:100
+#, js-format
+msgid "Invalid service account file. Missing required fields: %s"
+msgstr "Fichier de compte de service invalide. Champs obligatoires manquants : %s"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:109
+msgid "The uploaded file is not valid JSON. Please make sure you downloaded the correct service account key file."
+msgstr "Le fichier téléversé n'est pas un JSON valide. Veuillez vous assurer que vous avez téléchargé le bon fichier de clé de compte de service."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:113
+msgid "Could not read the file. Please try again."
+msgstr "Impossible de lire le fichier. Veuillez réessayer."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:250
+msgid "File uploaded successfully. You can now test the connection below."
+msgstr "Fichier téléversé avec succès. Vous pouvez maintenant tester la connexion ci-dessous."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:229
+msgid "Please select a service account JSON file first."
+msgstr "Veuillez d'abord sélectionner un fichier JSON de compte de service."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:187
+msgid "Please create a valid bucket name first"
+msgstr "Veuillez d'abord créer un nom de bucket valide"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:125
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:152
+msgid "Google cloud text to speech feature is only in pro version."
+msgstr "La fonctionnalité Google Cloud synthèse vocale n'est disponible que dans la version pro."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:472
+msgid "BCMath extension is not enabled. Please enable this extension. Learn more how to enable."
+msgstr "L'extension BCMath n'est pas activée. Veuillez activer cette extension. En savoir plus sur l'activation."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:546
+msgid "BCMath Extension Missing"
+msgstr "Extension BCMath manquante"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:548
+msgid "The BCMath PHP extension is required for Google Cloud TTS. "
+msgstr "L'extension PHP BCMath est requise pour Google Cloud TTS. "
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:550
+msgid "Learn how to enable it"
+msgstr "Apprenez comment l'activer"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:557
+msgid "Uploads Folder Not Writable"
+msgstr "Dossier uploads non accessible en écriture"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:559
+msgid "The uploads folder must be writable to store generated audio files. Please check your server file permissions."
+msgstr "Le dossier uploads doit être accessible en écriture pour stocker les fichiers audio générés. Veuillez vérifier les permissions de fichiers de votre serveur."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:567
+msgid "Setup Guide"
+msgstr "Guide d'installation"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:574
+msgid "Hide"
+msgstr "Masquer"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:574
+msgid "Show"
+msgstr "Afficher"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:582
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:602
+msgid "Go to"
+msgstr "Allez sur"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:584
+msgid "Google Cloud Console"
+msgstr "Google Cloud Console"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:586
+msgid "and create a project (or select an existing one)."
+msgstr "et créez un projet (ou sélectionnez-en un existant)."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:589
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:596
+msgid "Enable the"
+msgstr "Activez le"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:591
+msgid "Cloud Text-to-Speech API"
+msgstr "Cloud Text-to-Speech API"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:595
+msgid "Optional, for Cloud Storage backup"
+msgstr "Facultatif, pour la sauvegarde Cloud Storage"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:598
+msgid "Cloud Storage API"
+msgstr "Cloud Storage API"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:604
+msgid "IAM & Admin > Service Accounts"
+msgstr "IAM & Admin > Comptes de service"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:606
+msgid "and create a new service account."
+msgstr "et créez un nouveau compte de service."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:609
+msgid "Assign roles:"
+msgstr "Attribuer les rôles :"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:610
+msgid "Cloud Text-to-Speech User"
+msgstr "Utilisateur Cloud Text-to-Speech"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:611
+msgid "(required)"
+msgstr "(obligatoire)"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:613
+msgid "Storage Admin"
+msgstr "Administrateur de stockage"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:614
+msgid "only if using Cloud Storage backup"
+msgstr "uniquement si vous utilisez la sauvegarde Cloud Storage"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:617
+msgid "Click on the service account > \"Keys\" tab > \"Add Key\" > \"Create new key\" > select \"JSON\"."
+msgstr "Cliquez sur le compte de service > onglet \"Clés\" > \"Ajouter une clé\" > \"Créer une nouvelle clé\" > sélectionnez \"JSON\"."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:620
+msgid "Upload the downloaded JSON file below."
+msgstr "Téléversez le fichier JSON téléchargé ci-dessous."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:636
+msgid "Video Tutorial"
+msgstr "Tutoriel vidéo"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:655
+msgid "Learn How To Integrate Google Cloud TTS With AtlasVoice Pro Plugin?"
+msgstr ""
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:663
+msgid "Authentication"
+msgstr "Authentification"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:706
+msgid "Click here to Upload"
+msgstr "Cliquez ici pour téléverser"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:717
+msgid "Upload service account JSON file"
+msgstr "Téléverser le fichier JSON du compte de service"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:729
+msgid "Service Account:"
+msgstr "Compte de service :"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:734
+msgid "Project:"
+msgstr "Projet :"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:738
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:833
+msgid "IAM Console"
+msgstr "Console IAM"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:750
+msgid "Connection Test"
+msgstr "Test de connexion"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:752
+msgid "Verify that your service account can connect to Google Cloud Text-to-Speech API."
+msgstr "Vérifiez que votre compte de service peut se connecter à l'API Google Cloud Text-to-Speech."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:762
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:856
+msgid "Testing..."
+msgstr "Test en cours..."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:763
+msgid "Test TTS Connection"
+msgstr "Tester la connexion TTS"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:782
+msgid "Storage Configuration"
+msgstr "Configuration du stockage"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:788
+msgid "Store MP3 Files To Google Cloud Storage"
+msgstr "Stocker les fichiers MP3 sur Google Cloud Storage"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:794
+msgid "Click To Know How To Enable Automatic Store To Google Cloud Storage"
+msgstr "Cliquez pour savoir comment activer le stockage automatique sur Google Cloud Storage"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:818
+msgid "Automatically sync generated audio files in cloud storage for store & easy access."
+msgstr "Synchronisez automatiquement les fichiers audio générés dans le stockage cloud pour un stockage et un accès facile."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:825
+msgid "Required:"
+msgstr "Requis :"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:826
+msgid "Your service account needs the \"Storage Admin\" role to use Cloud Storage."
+msgstr "Votre compte de service a besoin du rôle \"Administrateur de stockage\" pour utiliser Cloud Storage."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:829
+msgid "Assign it to"
+msgstr "Attribuez-le à"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:831
+msgid "in"
+msgstr "dans"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:840
+msgid "Open IAM Console"
+msgstr "Ouvrir la console IAM"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:857
+msgid "Test Storage Access"
+msgstr "Tester l'accès au stockage"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:877
+msgid "Google Cloud Storage Bucket Name"
+msgstr "Nom du bucket Google Cloud Storage"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:882
+msgid "Click Here To Know Bucket Name Rules"
+msgstr "Cliquez ici pour connaître les règles de nommage des buckets"
+
+#. translators: 1: New bucket name, 2: Existing bucket name
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:495
+#, js-format
+msgid "Are you sure you want to create a bucket named \"%1$s\"? You already have a bucket named \"%2$s\". If you create a new bucket, all MP3 files will be generated again. Please decide carefully."
+msgstr "Êtes-vous sûr de vouloir créer un bucket nommé \"%1$s\" ? Vous avez déjà un bucket nommé \"%2$s\". Si vous créez un nouveau bucket, tous les fichiers MP3 seront générés à nouveau. Veuillez décider avec soin."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:487
+msgid "This bucket is already have to your cloud storage."
+msgstr "Ce bucket existe déjà dans votre stockage cloud."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:905
+msgid "Create"
+msgstr "Créer"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:391
+msgid "Do you want to revoke access and delete the file uploaded during authentication. If you delete the file you have to upload the file again. Make sure you have a backup otherwise, you have to crete another auth file from Google Cloud text to speech."
+msgstr "Voulez-vous révoquer l'accès et supprimer le fichier téléversé lors de l'authentification ? Si vous supprimez le fichier, vous devrez le téléverser à nouveau. Assurez-vous d'avoir une sauvegarde, sinon vous devrez créer un autre fichier d'authentification depuis Google Cloud Text to Speech."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:404
+msgid "Authentication removed."
+msgstr "Authentification supprimée."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:385
+msgid "You have to be authenticated to revoke."
+msgstr "Vous devez être authentifié pour révoquer."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:942
+msgid "Remove Authentication"
+msgstr "Supprimer l'authentification"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ChatGPTTTS/ChatGPTTTS.js:95
+msgid "Set ChatGPT API key"
+msgstr "Définir la clé API ChatGPT"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ChatGPTTTS/ChatGPTTTS.js:72
+#: src/dashboard/components/dashboard/integrations/ElevenLabsTTS/ElevenLabsTTS.js:71
+msgid "API key is saved successfully"
+msgstr "Clé API enregistrée avec succès"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ChatGPTTTS/ChatGPTTTS.js:37
+msgid "ChatGPT text to speech feature is only in pro version."
+msgstr "La fonctionnalité synthèse vocale ChatGPT n'est disponible que dans la version pro."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ChatGPTTTS/ChatGPTTTS.js:22
+msgid "ChatGPT TTS feature is only in pro version."
+msgstr "La fonctionnalité TTS ChatGPT n'est disponible que dans la version pro."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ChatGPTTTS/ChatGPTTTS.js:114
+msgid "paste here chatgpt_tts_api_key"
+msgstr "collez ici chatgpt_tts_api_key"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ChatGPTTTS/ChatGPTTTS.js:122
+#: src/dashboard/components/dashboard/integrations/ElevenLabsTTS/ElevenLabsTTS.js:114
+msgid "Submit"
+msgstr "Soumettre"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ChatGPTTTS/ChatGPTTTS.js:128
+msgid "How to get chatGPT API key?"
+msgstr "Comment obtenir la clé API ChatGPT ?"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ChatGPTTTS/ChatGPTTTS.js:135
+#: src/dashboard/components/dashboard/integrations/ElevenLabsTTS/ElevenLabsTTS.js:127
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ElevenLabsTTS/ElevenLabsTTS.js:94
+msgid "Set ElevenLabs API key"
+msgstr "Définir la clé API ElevenLabs"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ElevenLabsTTS/ElevenLabsTTS.js:36
+msgid "ElevenLabs text to speech feature is only in pro version."
+msgstr "La fonctionnalité synthèse vocale ElevenLabs n'est disponible que dans la version pro."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ElevenLabsTTS/ElevenLabsTTS.js:21
+msgid "ElevenLabs TTS feature is only in pro version."
+msgstr "La fonctionnalité TTS ElevenLabs n'est disponible que dans la version pro."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ElevenLabsTTS/ElevenLabsTTS.js:106
+msgid "paste here elevenlabs_api_key"
+msgstr "collez ici elevenlabs_api_key"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/ElevenLabsTTS/ElevenLabsTTS.js:120
+msgid "How to get ElevenLabs API key?"
+msgstr "Comment obtenir la clé API ElevenLabs ?"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:214
+msgid "Integration Setup"
+msgstr "Configuration de l'intégration"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:216
+msgid "AtlasVoice Pro works fully fine even without Google TTS/ChatGPT integration."
+msgstr "AtlasVoice Pro fonctionne parfaitement même sans intégration Google TTS/ChatGPT."
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:222
+msgid "Select Voice Service"
+msgstr ""
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:228
+msgid "-- Select a service --"
+msgstr "-- Sélectionner un service --"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:230
+msgid "Google Cloud TTS"
+msgstr "Google Cloud TTS"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:233
+msgid "ChatGPT TTS"
+msgstr "ChatGPT TTS"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:236
+msgid "ElevenLabs TTS"
+msgstr "ElevenLabs TTS"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:243
+msgid "ElevenLabs Usage"
+msgstr "Utilisation ElevenLabs"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:248
+msgid "characters"
+msgstr "caractères"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:272
+msgid "Plan:"
+msgstr "Forfait :"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:277
+msgid "Resets:"
+msgstr "Réinitialisation :"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:283
+#: src/dashboard/components/dashboard/integrations/Integrations.js:295
+#: src/dashboard/components/dashboard/integrations/Integrations.js:307
+msgid "View detailed usage and billing at"
+msgstr "Voir l'utilisation détaillée et la facturation sur"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:293
+msgid "OpenAI TTS Usage"
+msgstr "Utilisation OpenAI TTS"
+
+#: admin/js/build/chunks/tab-integrations.chunk.js:2
+#: src/dashboard/components/dashboard/integrations/Integrations.js:305
+msgid "Google Cloud TTS Usage"
+msgstr "Utilisation Google Cloud TTS"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:14
+msgid "TTS-1"
+msgstr "TTS-1"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:15
+msgid "Standard quality, low latency"
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:16
+msgid "$15.00 / 1M characters"
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:20
+msgid "TTS-1 HD"
+msgstr "TTS-1 HD"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:21
+msgid "High definition audio quality"
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:22
+msgid "$30.00 / 1M characters"
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:26
+msgid "GPT-4o Mini TTS"
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:27
+msgid "Best quality with voice instructions support"
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:28
+msgid "~$0.60 / 1M input tokens + $12.00 / 1M output tokens"
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:86
+msgid "Voice Model"
+msgstr "Modèle de voix"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:144
+#: src/dashboard/components/dashboard/listening/Listening.js:691
+#: src/dashboard/components/dashboard/listening/Listening.js:886
+#: src/dashboard/components/dashboard/listening/Listening.js:990
+msgid "Voice Language"
+msgstr "Langue de la voix"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:167
+#: src/dashboard/components/dashboard/listening/Listening.js:708
+#: src/dashboard/components/dashboard/listening/Listening.js:908
+#: src/dashboard/components/dashboard/listening/Listening.js:1011
+#: src/dashboard/components/dashboard/listening/Listening.js:1304
+#: src/dashboard/components/dashboard/listening/Listening.js:1355
+msgid "Default Listening Language"
+msgstr "Langue d'écoute par défaut"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:182
+msgid "Voice to Speak"
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:192
+#: src/dashboard/components/dashboard/listening/Listening.js:729
+#: src/dashboard/components/dashboard/listening/Listening.js:1032
+msgid "Default Listening Voice"
+msgstr "Voix d'écoute par défaut"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:208
+msgid "Voice Instructions"
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:211
+msgid "Guide how the voice should sound. Instructions are sent to the AI model to control accent, tone, and speaking style."
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:219
+msgid "Instruction Preset"
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:236
+msgid "Instructions"
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:245
+msgid "Enter custom instructions for the voice..."
+msgstr ""
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:260
+#: src/dashboard/components/dashboard/listening/Listening.js:749
+msgid "Voice Speed"
+msgstr "Vitesse de la voix"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/chatgpt/ChatGPTSettings.js:304
+#: src/dashboard/components/dashboard/listening/Listening.js:964
+#: src/dashboard/components/dashboard/listening/Listening.js:1242
+msgid "Your browser does not support the audio element."
+msgstr "Votre navigateur ne prend pas en charge l'élément audio."
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:677
+msgid "Listening Preferences"
+msgstr "Préférences d'écoute"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:679
+msgid "Set your listening preferences with different voices and languages."
+msgstr "Définissez vos préférences d'écoute avec différentes voix et langues."
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:477
+msgid "Listening settings saved. Now all setup done. Enjoy"
+msgstr "Paramètres d'écoute enregistrés. La configuration est terminée. Profitez-en"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:721
+#: src/dashboard/components/dashboard/listening/Listening.js:922
+#: src/dashboard/components/dashboard/listening/Listening.js:1024
+msgid "Voice to speak"
+msgstr "Voix pour parler"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:790
+msgid "Voice Volume"
+msgstr "Volume de la voix"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:831
+msgid "Voice Pitch"
+msgstr "Tonalité de la voix"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:867
+msgid "Default Listening Pitch"
+msgstr "Tonalité d'écoute par défaut"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1048
+msgid "Model"
+msgstr "Modèle"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1056
+msgid "Multilingual v2"
+msgstr "Multilingue v2"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1057
+msgid "Turbo v2.5"
+msgstr "Turbo v2.5"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1058
+msgid "Flash v2.5"
+msgstr "Flash v2.5"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1059
+msgid "Eleven v3"
+msgstr "Eleven v3"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1069
+msgid "Output Format"
+msgstr "Format de sortie"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1077
+msgid "MP3 44100Hz 128kbps (Default)"
+msgstr "MP3 44100Hz 128kbps (Par défaut)"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1078
+msgid "MP3 44100Hz 192kbps"
+msgstr "MP3 44100Hz 192kbps"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1079
+msgid "MP3 44100Hz 96kbps"
+msgstr "MP3 44100Hz 96kbps"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1080
+msgid "MP3 44100Hz 64kbps"
+msgstr "MP3 44100Hz 64kbps"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1081
+msgid "MP3 22050Hz 32kbps"
+msgstr "MP3 22050Hz 32kbps"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1092
+msgid "Stability"
+msgstr "Stabilité"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1111
+msgid "More variable"
+msgstr "Plus variable"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1112
+msgid "More stable"
+msgstr "Plus stable"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1120
+msgid "Similarity Boost"
+msgstr "Amélioration de la similarité"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1140
+msgid "High"
+msgstr "Élevé"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1148
+msgid "Style Exaggeration"
+msgstr "Exagération du style"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1167
+msgid "None"
+msgstr "Aucun"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1168
+msgid "Exaggerated"
+msgstr "Exagéré"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1205
+msgid "Speaker Boost"
+msgstr "Amélioration du locuteur"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1264
+msgid "Language mapping for WPML, GTranslate plugin is available in the pro version."
+msgstr "Le mappage des langues pour les plugins WPML, GTranslate est disponible dans la version pro."
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1322
+msgid "Select Language For{\" \"}"
+msgstr "Sélectionner la langue pour{\" \"}"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1380
+msgid "Select Voice For{\" \"}"
+msgstr "Sélectionner la voix pour{\" \"}"
+
+#: admin/js/build/chunks/tab-listening.chunk.js:2
+#: src/dashboard/components/dashboard/listening/Listening.js:1422
+msgid "Current Player Voice"
+msgstr "Voix actuelle du lecteur"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:203
+msgid "Help information about this setting"
+msgstr "Informations d'aide sur ce paramètre"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:257
+msgid "Configure Settings"
+msgstr "Configurer les paramètres"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:260
+msgid "Configure text-to-speech player behavior and content selection"
+msgstr "Configurer le comportement du lecteur de synthèse vocale et la sélection du contenu"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:280
+msgid "Run Setup Wizard"
+msgstr ""
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:140
+msgid "All cache deleted"
+msgstr "Tout le cache supprimé"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:149
+msgid "Successfully Saved. Now go to the \"Customization\" menu."
+msgstr "Enregistré avec succès. Allez maintenant au menu \"Personnalisation\"."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:290
+msgid "Add Button or Player Automatically"
+msgstr "Ajouter le bouton ou le lecteur automatiquement"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:293
+msgid "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup."
+msgstr ""
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:307
+msgid "Continue Reading After Switching To Another Tab"
+msgstr "Continuer la lecture après avoir changé d'onglet"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:309
+msgid "When enabled, text-to-speech will continue playing even if you navigate away from the current tab"
+msgstr "Lorsqu'activé, la synthèse vocale continuera de jouer même si vous quittez l'onglet actuel"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:325
+msgid "Stop Auto Play After Switching To TTS Tab"
+msgstr "Arrêter la lecture automatique après avoir basculé vers l'onglet TTS"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:327
+msgid "Automatically pause playback when switching back to the TTS tab from another tab"
+msgstr "Mettre automatiquement en pause la lecture lorsque vous revenez à l'onglet TTS depuis un autre onglet"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:347
+msgid "When Scroll Down Stop Floating Player"
+msgstr "Arrêter le lecteur flottant lors du défilement vers le bas"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:349
+msgid "Automatically pause the floating player when users scroll down the page"
+msgstr "Mettre automatiquement en pause le lecteur flottant lorsque les utilisateurs font défiler la page vers le bas"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:366
+msgid "Apply number format"
+msgstr "Appliquer le format numérique"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:368
+msgid "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')"
+msgstr "Convertir les nombres en mots parlés (ex. : « 123 » devient « cent vingt-trois »)"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:381
+#: src/dashboard/components/dashboard/settings/Settings.js:383
+msgid "Read Content From Dom"
+msgstr "Lire le contenu depuis le DOM"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:396
+#: src/dashboard/components/dashboard/settings/Settings.js:398
+msgid "Use Old Player UI"
+msgstr "Utiliser l'ancienne interface du lecteur"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:410
+msgid "Add Post Title To Read"
+msgstr "Ajouter le titre de l'article à la lecture"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:412
+msgid "Include the post title in the audio playback before reading the main content"
+msgstr "Inclure le titre de l'article dans la lecture audio avant le contenu principal"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:426
+msgid "Add Post Excerpt To Read"
+msgstr "Ajouter l'extrait de l'article à la lecture"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:428
+msgid "Include the post excerpt/summary in the audio playback before reading the main content"
+msgstr "Inclure l'extrait/résumé de l'article dans la lecture audio avant le contenu principal"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:442
+msgid "Enable TTS Status"
+msgstr "Activer le statut TTS"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:444
+msgid "Enable TTS Status In Post Page."
+msgstr "Activer le statut TTS dans la page de l'article."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:461
+msgid "Add Text Before Content(intro)"
+msgstr "Ajouter du texte avant le contenu (introduction)"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:466
+msgid "Custom text that will be read aloud before the main content begins"
+msgstr "Texte personnalisé qui sera lu à voix haute avant le début du contenu principal"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:484
+msgid "Add Text Before Content"
+msgstr "Ajouter du texte avant le contenu"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:490
+msgid "Add Text After Content(outro)"
+msgstr "Ajouter du texte après le contenu (conclusion)"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:495
+msgid "Custom text that will be read aloud after the main content finishes"
+msgstr "Texte personnalisé qui sera lu à voix haute après la fin du contenu principal"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:512
+msgid "Add Text After Content"
+msgstr "Ajouter du texte après le contenu"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:522
+msgid "Allow Listening For Post Type"
+msgstr "Autoriser l'écoute pour le type de publication"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:540
+msgid "Allow Listening For Post Status"
+msgstr "Autoriser l'écoute pour le statut de publication"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:552
+msgid "On Free Version You Can Select Only 1 post type."
+msgstr "Dans la version gratuite, vous ne pouvez sélectionner qu'un seul type de publication."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:563
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:162
+msgid "Include Content By CSS Selectors"
+msgstr "Inclure le contenu par sélecteurs CSS"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:567
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:170
+msgid "Include Content By CSS Selectors feature is available in pro version"
+msgstr "La fonctionnalité Inclure le contenu par sélecteurs CSS est disponible dans la version pro"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:599
+#: src/dashboard/components/dashboard/settings/Settings.js:651
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:189
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:242
+msgid "Multiple selector will be multiline."
+msgstr "Les sélecteurs multiples seront sur plusieurs lignes."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:600
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:189
+msgid "Some content may be missing, It can be found by css selectors"
+msgstr "Du contenu peut manquer, il peut être trouvé par des sélecteurs CSS"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:613
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:216
+msgid "Exclude Content By CSS Selectors"
+msgstr "Exclure le contenu par sélecteurs CSS"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:617
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:224
+msgid "Exclude Content By CSS Selectors feature is available in pro version"
+msgstr "La fonctionnalité Exclure le contenu par sélecteurs CSS est disponible dans la version pro"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:652
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:242
+msgid "Exclude content by CSS selectors"
+msgstr "Exclure le contenu par sélecteurs CSS"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:664
+msgid "You can add \".atlasvoice_no_read\" class to exclude content."
+msgstr "Vous pouvez ajouter la classe \".atlasvoice_no_read\" pour exclure du contenu."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:674
+msgid "Exclude HTML Tags To Speak"
+msgstr "Exclure les balises HTML de la lecture"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:678
+msgid "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature."
+msgstr "Exclure les balises. Pour que leur contenu soit ignoré. Comme (Subscript, Superscript, etc.) Ceci est une fonctionnalité pro."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:710
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:295
+msgid "Multiple Tags Will Be Pipe(|) Separated."
+msgstr "Les balises multiples seront séparées par un pipe (|)."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:711
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:295
+msgid "Exclude tags is a pro feature."
+msgstr "L'exclusion de balises est une fonctionnalité pro."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:724
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:322
+msgid "Exclude Texts To Speak"
+msgstr "Exclure des textes de la lecture"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:728
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:330
+msgid "Excluding texts to be spoken is a pro feature."
+msgstr "L'exclusion de textes à lire est une fonctionnalité pro."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:760
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:348
+msgid "Multiple Texts Will Be Pipe(|) Separated."
+msgstr "Les textes multiples seront séparés par un pipe (|)."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:761
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:348
+msgid "Exclude texts is a pro feature."
+msgstr "L'exclusion de textes est une fonctionnalité pro."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:774
+msgid "Exclude Posts By IDs To Speak"
+msgstr "Exclure des articles par IDs de la lecture"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:778
+msgid "Exclude more than 5 IDs is a pro feature"
+msgstr "L'exclusion de plus de 5 IDs est une fonctionnalité pro"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:810
+msgid "Multiple IDs Will Be Comma(,) Separated."
+msgstr "Les IDs multiples seront séparés par des virgules (,)."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:811
+msgid "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated."
+msgstr "L'exclusion de plus de 5 IDs est une fonctionnalité pro. Les IDs multiples seront séparés par des virgules (,)."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:823
+msgid "Exclude Categories To Speak"
+msgstr "Exclure des catégories de la lecture"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:827
+msgid "Exclude more than 1 categories is a pro feature"
+msgstr "L'exclusion de plus d'une catégorie est une fonctionnalité pro"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:856
+msgid "On Free Version You Can Select Only 1 Category."
+msgstr "Dans la version gratuite, vous ne pouvez sélectionner qu'une seule catégorie."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:870
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:269
+msgid "Exclude Tags To Speak"
+msgstr "Exclure des étiquettes de la lecture"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:874
+msgid "Exclude more than 1 tags is a pro feature"
+msgstr "L'exclusion de plus d'une étiquette est une fonctionnalité pro"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:903
+msgid "On Free Version You Can Select Only 1 Tag."
+msgstr "Dans la version gratuite, vous ne pouvez sélectionner qu'une seule étiquette."
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:911
+msgid "Enable Button Icon"
+msgstr "Activer l'icône du bouton"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:921
+msgid "Show admin bar toggle"
+msgstr ""
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:921
+msgid "Show AtlasVoice on/off toggle in the WordPress admin bar on front-end pages."
+msgstr ""
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:930
+msgid "Clear all cache"
+msgstr "Vider tout le cache"
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:940
+msgid "Delete all data on uninstall"
+msgstr ""
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:942
+msgid "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging."
+msgstr ""
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:949
+msgid ""
+"⚠️ WARNING: Enabling this will permanently delete ALL plugin data (settings, analytics, generated audio files) when you uninstall the plugin. This action cannot be undone.\n"
+"\n"
+"Are you sure you want to enable this?"
+msgstr ""
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:962
+msgid "⚠ Warning:"
+msgstr ""
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:963
+msgid "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions."
+msgstr ""
+
+#: admin/js/build/chunks/tab-settings.chunk.js:2
+#: src/dashboard/components/dashboard/settings/Settings.js:979
+msgid "Save All"
+msgstr "Tout enregistrer"
+
+#: src/dashboard/bulk-mp3-file/generate-bulk-mp3-file.js:109
+msgid "Are you sure? You want to regenerate all MP3 files ?"
+msgstr "Êtes-vous sûr ? Voulez-vous régénérer tous les fichiers MP3 ?"
+
+#: src/dashboard/bulk-mp3-file/generate-bulk-mp3-file.js:167
+msgid "All MP3 File Generated"
+msgstr "Tous les fichiers MP3 générés"
+
+#: src/dashboard/components/context/AnalyticsMultiSelect.js:36
+msgid "No IDs selected"
+msgstr "Aucun ID sélectionné"
+
+#: src/dashboard/components/context/AnalyticsMultiSelect.js:41
+msgid "Select IDs"
+msgstr "Sélectionner des IDs"
+
+#. translators: %s: language name e.g. "Italian"
+#: src/dashboard/components/context/utilities.js:697
+msgid "Native speaker"
+msgstr ""
+
+#: src/dashboard/components/context/utilities.js:702
+msgid "Slow and clear"
+msgstr ""
+
+#: src/dashboard/components/context/utilities.js:707
+msgid "Warm and friendly"
+msgstr ""
+
+#: src/dashboard/components/context/utilities.js:712
+msgid "Professional newsreader"
+msgstr ""
+
+#: src/dashboard/components/context/utilities.js:717
+msgid "Storyteller"
+msgstr ""
+
+#: src/dashboard/components/context/utilities.js:722
+msgid "Custom"
+msgstr ""
+
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:363
+#: src/dashboard/components/dashboard/integrations/GoogleCloudTTS/GoogleTTS.js:371
+msgid "You are already authenticated"
+msgstr "Vous êtes déjà authentifié"
+
+#: src/dashboard/components/dashboard/recording/Recording.js:137
+msgid "Recording Data Saved"
+msgstr "Données d'enregistrement sauvegardées"
+
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:80
+msgid "Please save the post then try to add custom CSS selectors."
+msgstr "Veuillez enregistrer l'article puis essayez d'ajouter des sélecteurs CSS personnalisés."
+
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:84
+msgid "Empty value can not be saved. You can uncheck the \"Use Own CSS Selectors\" Option."
+msgstr "La valeur vide ne peut pas être enregistrée. Vous pouvez décocher l'option \"Utiliser ses propres sélecteurs CSS\"."
+
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:100
+msgid "Settings Data Saved"
+msgstr "Données des paramètres enregistrées"
+
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:143
+msgid "Use Own CSS Selectors"
+msgstr "Utiliser ses propres sélecteurs CSS"
+
+#: src/dashboard/css-selectors/CSSSelectorsForPosts.js:277
+msgid "Exclude Tags. So that its content skiped. Like ( Subscript, Superscript etc.) This is a pro feature."
+msgstr "Exclure les balises. Pour que leur contenu soit ignoré. Comme (Subscript, Superscript, etc.) Ceci est une fonctionnalité pro."
+
+#: src/dashboard/welcome/steps/StepAnalytics.js:240
+msgid "Track your audio player performance"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepAnalytics.js:243
+msgid "See how visitors interact with your audio content. Analytics helps you understand what works."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepAnalytics.js:257
+#: src/dashboard/welcome/steps/StepAnalytics.js:279
+msgid "Enable Analytics"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepAnalytics.js:288
+msgid "No published posts found. Analytics will start tracking once you publish content."
+msgstr ""
+
+#. translators: %d: maximum number of trackable posts
+#: src/dashboard/welcome/steps/StepAnalytics.js:298
+#, js-format
+msgid "Select posts to track (up to %d in free version):"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepAnalytics.js:323
+msgid "Select All"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepAnalytics.js:340
+msgid "Deselect All"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepAnalytics.js:345
+msgid "Posts to track"
+msgstr ""
+
+#. translators: %d: maximum number of trackable posts
+#: src/dashboard/welcome/steps/StepAnalytics.js:440
+#, js-format
+msgid "of %d selected"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepAnalytics.js:451
+msgid "AtlasVoice Pro unlocks unlimited post tracking, geographic insights, device analytics, and CSV exports."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepAnalytics.js:461
+msgid "Learn about Pro Analytics"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepCustomize.js:159
+msgid "Customize the player to match your theme"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepCustomize.js:162
+msgid "Pick colors and shape for the audio player button. Changes are previewed in real time below."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepCustomize.js:256
+msgid "Live Preview"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepCustomize.js:263
+msgid "Welcome to your site. Your visitors can now listen to your content with one click."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepCustomize.js:272
+msgid "You can fully customize the player anytime from the Customize tab — including size, position, margins, and custom CSS."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepCustomize.js:280
+msgid "AtlasVoice Pro unlocks additional player designs, floating player positions, and MP3 downloads for visitors."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepCustomize.js:290
+msgid "See Pro Player Designs"
+msgstr ""
+
+#. translators: %d: number of posts being tracked
+#: src/dashboard/welcome/steps/StepFinish.js:263
+#, js-format
+msgid "%d %s"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:267
+msgid "Off"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:293
+msgid "AtlasVoice is ready!"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:298
+#, js-format
+msgid "Your audio player is now live on all your %s."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:317
+msgid "View Player on Your Site"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:332
+msgid "Go to Dashboard"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:342
+msgid "Your Setup"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:361
+msgid "Player"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:376
+msgid "Customized"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:399
+msgid "Take it further with Pro"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:402
+msgid "Upgrade to unlock premium features that enhance your visitors' experience."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:410
+msgid "AI Voices"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:413
+msgid "200+ natural voices from Google Cloud, ElevenLabs & OpenAI. Consistent quality for every visitor."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:421
+msgid "Bulk MP3 Export"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:424
+msgid "Auto-generate MP3 for every post. Loads instantly, works offline, boosts SEO."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:432
+msgid "Deep Analytics"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:435
+msgid "Listening time, top posts, device breakdown, geographic insights & CSV export."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:452
+#: src/dashboard/welcome/steps/StepHearDifference.js:197
+msgid "Explore Pro Plans"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:469
+msgid "AI Workflow Automation — AI Agent Hub"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepFinish.js:472
+msgid "Turn your WordPress into an AI-powered hub with 80+ abilities, MCP server, workflow builder & WooCommerce automation."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepHearDifference.js:100
+msgid "Hear the Difference"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepHearDifference.js:103
+msgid "Compare your free browser voice with Pro AI voices. Same text, dramatically different quality."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepHearDifference.js:121
+msgid "Your Current Voice"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepHearDifference.js:124
+msgid "Browser TTS"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepHearDifference.js:129
+msgid "FREE"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepHearDifference.js:137
+msgid "VS"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepHearDifference.js:156
+msgid "PRO"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepHearDifference.js:161
+msgid "Preview unavailable"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepHearDifference.js:184
+msgid "Unlock 200+ premium AI voices with Pro"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepHearDifference.js:187
+msgid "Every visitor hears the same high-quality audio. No browser dependency, consistent across all devices."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepPostType.js:109
+msgid "Where should the audio player appear?"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepPostType.js:112
+msgid "By default, the player is added to all your Posts. You can change it to any single post type:"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepPostType.js:118
+msgid "Post type selection"
+msgstr ""
+
+#. translators: %d: number of published posts
+#: src/dashboard/welcome/steps/StepPostType.js:181
+#, js-format
+msgid "(%d published)"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepPostType.js:192
+msgid "Free version supports 1 post type. Need multiple post types?"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepPostType.js:202
+msgid "AtlasVoice Pro supports unlimited post types plus AI-powered voices."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepVoice.js:244
+msgid "Choose your voice and language"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepVoice.js:247
+msgid "Select a browser voice for your audio player. Visitors will hear content read aloud using the Web Speech API."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepVoice.js:265
+msgid "All Languages"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepVoice.js:288
+msgid "Loading voices..."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepVoice.js:319
+msgid "Stop Preview"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepVoice.js:320
+msgid "Preview Voice"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepVoice.js:328
+msgid "Currently Active"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepVoice.js:331
+msgid "Browser Voices (Free)"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepVoice.js:334
+msgid "Good for basic accessibility. Quality depends on visitor's browser and device."
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepVoice.js:347
+msgid "AI Voices — Natural & Consistent"
+msgstr ""
+
+#: src/dashboard/welcome/steps/StepVoice.js:350
+msgid "Google Cloud TTS, ElevenLabs, ChatGPT TTS. 200+ premium voices. Same quality for every visitor."
+msgstr ""
+
+#: src/dashboard/welcome/WelcomeWizard.js:174
+msgid "There was an error saving your settings. Please try again."
+msgstr ""
+
+#: src/dashboard/welcome/WelcomeWizard.js:221
+msgid "Finish Setup"
+msgstr ""
+
+#: src/dashboard/welcome/WelcomeWizard.js:224
+msgid "Next: Choose Voice"
+msgstr ""
+
+#: src/dashboard/welcome/WelcomeWizard.js:225
+msgid "Next: Hear the Difference"
+msgstr ""
+
+#: src/dashboard/welcome/WelcomeWizard.js:226
+msgid "Next: Customize"
+msgstr ""
+
+#: src/dashboard/welcome/WelcomeWizard.js:227
+msgid "Next: Analytics"
+msgstr ""
+
+#: src/dashboard/welcome/WelcomeWizard.js:229
+msgid "Next"
+msgstr ""
+
+#: src/dashboard/welcome/WelcomeWizard.js:311
+msgid "AtlasVoice Setup"
+msgstr ""
+
+#: src/dashboard/welcome/WelcomeWizard.js:315
+msgid "Step"
+msgstr ""
+
+#: src/dashboard/welcome/WelcomeWizard.js:315
+msgid "of"
+msgstr ""
+
+#: src/dashboard/welcome/WelcomeWizard.js:321
+msgid "Skip Setup"
+msgstr ""
+
+#: src/dashboard/welcome/WelcomeWizard.js:346
+msgid "Back"
+msgstr ""

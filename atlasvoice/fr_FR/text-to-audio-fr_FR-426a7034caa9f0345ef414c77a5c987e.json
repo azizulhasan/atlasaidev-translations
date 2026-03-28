@@ -1,0 +1,1418 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/text-to-audio-dashboard-ui.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Last 7 Days": [
+        "7 derniers jours"
+      ],
+      "Upgrade to Pro": [
+        "Passer à la version Pro"
+      ],
+      "Device Types": [
+        "Types d'appareils"
+      ],
+      "Browser": [
+        "Navigateur"
+      ],
+      "OS": [
+        "SE"
+      ],
+      "Top Countries": [
+        "Principaux pays"
+      ],
+      "Post Title": [
+        "Titre de l'article"
+      ],
+      "Pause": [
+        "Pause"
+      ],
+      "Save": [
+        "Enregistrer"
+      ],
+      "Text to Speech Aliases": [
+        "Alias de synthèse vocale"
+      ],
+      "Actual Text": [
+        "Texte réel"
+      ],
+      "To Read": [
+        "À lire"
+      ],
+      "All fields must be filled!": [
+        "Tous les champs doivent être remplis !"
+      ],
+      "Successfully Saved.": [
+        "Enregistré avec succès."
+      ],
+      "Buy Pro version": [
+        "Acheter la version Pro"
+      ],
+      "Click To Know How It Works?": [
+        "Cliquez pour savoir comment ça fonctionne ?"
+      ],
+      "Network error. Please try again.": [
+        "Erreur réseau. Veuillez réessayer."
+      ],
+      "Learn More": [
+        "En savoir plus"
+      ],
+      "Background Color": [
+        "Couleur d'arrière-plan"
+      ],
+      "Text Color": [
+        "Couleur du texte"
+      ],
+      "Custom CSS": [
+        "CSS personnalisé"
+      ],
+      "Here a short text have to write to inform the user about this feature purpose": [
+        "Voici un court texte pour informer l'utilisateur de l'objectif de cette fonctionnalité"
+      ],
+      "Write actual text": [
+        "Écrire le texte réel"
+      ],
+      "Write read aloud text": [
+        "Écrire le texte à lire à voix haute"
+      ],
+      "More than 1 alias is available in the pro version. Please ": [
+        "Plus d'un alias est disponible dans la version pro. Veuillez "
+      ],
+      "Add New": [
+        "Ajouter nouveau"
+      ],
+      "Loading...": [
+        "Chargement..."
+      ],
+      "Pro Feature": [
+        "Fonctionnalité Pro"
+      ],
+      "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
+        "Passez à la version Pro pour débloquer cette fonctionnalité et accéder aux analyses avancées."
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Total Posts": [
+        "Total des articles"
+      ],
+      "Total posts with TTS player": [
+        "Total des articles avec lecteur TTS"
+      ],
+      "Init": [
+        "Init"
+      ],
+      "Player initialization count": [
+        "Nombre d'initialisations du lecteur"
+      ],
+      "Play": [
+        "Lecture"
+      ],
+      "Total play button clicks": [
+        "Total des clics sur le bouton de lecture"
+      ],
+      "Time (Min)": [
+        "Durée (Min)"
+      ],
+      "Total listening time": [
+        "Durée totale d'écoute"
+      ],
+      "Total pause actions": [
+        "Total des actions de pause"
+      ],
+      "Download": [
+        "Télécharger"
+      ],
+      "Total MP3 downloads": [
+        "Total des téléchargements MP3"
+      ],
+      "End": [
+        "Fin"
+      ],
+      "Total completions": [
+        "Total des complétions"
+      ],
+      "Bounce Rate": [
+        "Taux de rebond"
+      ],
+      "Users who didn't complete the audio": [
+        "Utilisateurs qui n'ont pas terminé l'audio"
+      ],
+      "TTS Player Analytics Summary": [
+        "Résumé analytique du lecteur TTS"
+      ],
+      "Total Interactions:": [
+        "Total des interactions :"
+      ],
+      "Last 30 Days": [
+        "30 derniers jours"
+      ],
+      "Last 90 Days": [
+        "90 derniers jours"
+      ],
+      "25%": [
+        "25%"
+      ],
+      "50%": [
+        "50%"
+      ],
+      "75%": [
+        "75%"
+      ],
+      "Engagement Funnel": [
+        "Entonnoir d'engagement"
+      ],
+      "Play Rate:": [
+        "Taux de lecture :"
+      ],
+      "Completion Rate:": [
+        "Taux de complétion :"
+      ],
+      "Biggest Drop:": [
+        "Plus grande chute :"
+      ],
+      "50% → 75%": [
+        "50% → 75%"
+      ],
+      "New Listeners": [
+        "Nouveaux auditeurs"
+      ],
+      "Returning": [
+        "Récurrents"
+      ],
+      "Listener Segments": [
+        "Segments d'auditeurs"
+      ],
+      "New:": [
+        "Nouveaux :"
+      ],
+      "Returning:": [
+        "Récurrents :"
+      ],
+      "New Listeners:": [
+        "Nouveaux auditeurs :"
+      ],
+      "Avg Sessions/User:": [
+        "Sessions moy./Utilisateur :"
+      ],
+      "Yesterday": [
+        "Hier"
+      ],
+      "more": [
+        "plus"
+      ],
+      "Browser Analytics": [
+        "Analyses du navigateur"
+      ],
+      "Location": [
+        "Localisation"
+      ],
+      "Top Cities": [
+        "Principales villes"
+      ],
+      "Unlock city-level analytics": [
+        "Débloquer les analyses au niveau des villes"
+      ],
+      "Custom Range": [
+        "Période personnalisée"
+      ],
+      "Playing Quantity": [
+        "Quantité de lectures"
+      ],
+      "Playing Time (min)": [
+        "Durée de lecture (min)"
+      ],
+      "Previous Period": [
+        "Période précédente"
+      ],
+      "Playing Trend Analysis": [
+        "Analyse des tendances de lecture"
+      ],
+      "Compare with Previous Period": [
+        "Comparer avec la période précédente"
+      ],
+      "Enable comparison with previous period": [
+        "Activer la comparaison avec la période précédente"
+      ],
+      "Quantity vs Date": [
+        "Quantité par date"
+      ],
+      "Playing Time(min)": [
+        "Durée de lecture (min)"
+      ],
+      "Mon": [
+        "Lun"
+      ],
+      "Tue": [
+        "Mar"
+      ],
+      "Wed": [
+        "Mer"
+      ],
+      "Thu": [
+        "Jeu"
+      ],
+      "Fri": [
+        "Ven"
+      ],
+      "Sat": [
+        "Sam"
+      ],
+      "Sun": [
+        "Dim"
+      ],
+      "Peak Listening Hours": [
+        "Heures de pointe d'écoute"
+      ],
+      "Low": [
+        "Bas"
+      ],
+      "Peak": [
+        "Pointe"
+      ],
+      "Insight:": [
+        "Aperçu :"
+      ],
+      "Your peak listening time is": [
+        "Votre heure de pointe d'écoute est"
+      ],
+      "Peak Hours Heatmap": [
+        "Carte thermique des heures de pointe"
+      ],
+      "Date Range is only available in Pro version": [
+        "La plage de dates n'est disponible que dans la version Pro"
+      ],
+      "Buy Now": [
+        "Acheter maintenant"
+      ],
+      "Please enable analytics first.": [
+        "Veuillez d'abord activer les analyses."
+      ],
+      "Track Post IDs": [
+        "Suivre les IDs d'articles"
+      ],
+      "Post ID": [
+        "ID d'article"
+      ],
+      "Please provide a Post ID or date range.": [
+        "Veuillez fournir un ID d'article ou une plage de dates."
+      ],
+      "Search": [
+        "Rechercher"
+      ],
+      "Clear": [
+        "Effacer"
+      ],
+      "Showing results for:": [
+        "Résultats pour :"
+      ],
+      "Post ID:": [
+        "ID d'article :"
+      ],
+      "From:": [
+        "Du :"
+      ],
+      "To:": [
+        "Au :"
+      ],
+      "Metric": [
+        "Métrique"
+      ],
+      "Value": [
+        "Valeur"
+      ],
+      "Unlock 10+ more metrics with Pro": [
+        "Débloquez plus de 10 métriques supplémentaires avec Pro"
+      ],
+      "Popular Post": [
+        "Article populaire"
+      ],
+      "Rank": [
+        "Rang"
+      ],
+      "Total Interactions": [
+        "Total des interactions"
+      ],
+      "No data available yet. Start tracking posts to see analytics.": [
+        "Aucune donnée disponible pour le moment. Commencez à suivre les articles pour voir les analyses."
+      ],
+      "View all": [
+        "Voir tout"
+      ],
+      "posts": [
+        "articles"
+      ],
+      "View All Posts": [
+        "Voir tous les articles"
+      ],
+      "CSV export initiated. Check your downloads.": [
+        "Exportation CSV lancée. Vérifiez vos téléchargements."
+      ],
+      "Export failed. Please try again.": [
+        "L'exportation a échoué. Veuillez réessayer."
+      ],
+      "PDF export initiated. Check your downloads.": [
+        "Exportation PDF lancée. Vérifiez vos téléchargements."
+      ],
+      "Please enter at least one recipient email address.": [
+        "Veuillez entrer au moins une adresse e-mail de destinataire."
+      ],
+      "Report schedule saved successfully.": [
+        "Planification du rapport enregistrée avec succès."
+      ],
+      "Failed to save schedule settings.": [
+        "Échec de l'enregistrement des paramètres de planification."
+      ],
+      "Please enter recipient email addresses first.": [
+        "Veuillez d'abord entrer les adresses e-mail des destinataires."
+      ],
+      "Test report sent successfully! Check your inbox.": [
+        "Rapport de test envoyé avec succès ! Vérifiez votre boîte de réception."
+      ],
+      "Failed to send test report.": [
+        "Échec de l'envoi du rapport de test."
+      ],
+      "Failed to send test report. Please check your network connection.": [
+        "Échec de l'envoi du rapport de test. Veuillez vérifier votre connexion réseau."
+      ],
+      "CSV": [
+        "CSV"
+      ],
+      "PDF": [
+        "PDF"
+      ],
+      "Schedule Report": [
+        "Planifier un rapport"
+      ],
+      "Schedule Email Reports": [
+        "Planifier des rapports par e-mail"
+      ],
+      "Enable automated reports": [
+        "Activer les rapports automatisés"
+      ],
+      "Recipients (comma separated)": [
+        "Destinataires (séparés par des virgules)"
+      ],
+      "Frequency": [
+        "Fréquence"
+      ],
+      "Daily": [
+        "Quotidien"
+      ],
+      "Weekly": [
+        "Hebdomadaire"
+      ],
+      "Monthly": [
+        "Mensuel"
+      ],
+      "Day": [
+        "Jour"
+      ],
+      "Monday": [
+        "Lundi"
+      ],
+      "Tuesday": [
+        "Mardi"
+      ],
+      "Wednesday": [
+        "Mercredi"
+      ],
+      "Thursday": [
+        "Jeudi"
+      ],
+      "Friday": [
+        "Vendredi"
+      ],
+      "Saturday": [
+        "Samedi"
+      ],
+      "Sunday": [
+        "Dimanche"
+      ],
+      "Time": [
+        "Heure"
+      ],
+      "Include in report:": [
+        "Inclure dans le rapport :"
+      ],
+      "Summary statistics": [
+        "Statistiques résumées"
+      ],
+      "Top 10 posts": [
+        "Top 10 des articles"
+      ],
+      "Geographic breakdown": [
+        "Répartition géographique"
+      ],
+      "Trend chart": [
+        "Graphique de tendance"
+      ],
+      "Device stats": [
+        "Statistiques des appareils"
+      ],
+      "Next scheduled report:": [
+        "Prochain rapport planifié :"
+      ],
+      "Sending...": [
+        "Envoi en cours..."
+      ],
+      "Send Test Report": [
+        "Envoyer un rapport de test"
+      ],
+      "Saving...": [
+        "Enregistrement en cours..."
+      ],
+      "Save Settings": [
+        "Enregistrer les paramètres"
+      ],
+      "Export & Reports": [
+        "Exportation et rapports"
+      ],
+      "Last 14 Days": [
+        "14 derniers jours"
+      ],
+      "All Time": [
+        "Depuis toujours"
+      ],
+      "Getting more than 30 days data is pro feature. Please ": [
+        "Obtenir plus de 30 jours de données est une fonctionnalité pro. Veuillez "
+      ],
+      "Quick Select": [
+        "Sélection rapide"
+      ],
+      "From": [
+        "Du"
+      ],
+      "To": [
+        "Au"
+      ],
+      "Custom date select is only available in pro version. Please ": [
+        "La sélection de date personnalisée n'est disponible que dans la version pro. Veuillez "
+      ],
+      "Apply": [
+        "Appliquer"
+      ],
+      "CSV exported successfully!": [
+        "CSV exporté avec succès !"
+      ],
+      "Error exporting CSV": [
+        "Erreur lors de l'exportation CSV"
+      ],
+      "PDF report opened. Use 'Save as PDF' in the print dialog.": [
+        "Rapport PDF ouvert. Utilisez « Enregistrer en PDF » dans la boîte de dialogue d'impression."
+      ],
+      "Report downloaded as HTML. Open in browser and print to save as PDF.": [
+        "Rapport téléchargé en HTML. Ouvrez dans le navigateur et imprimez pour enregistrer en PDF."
+      ],
+      "Failed to generate PDF report.": [
+        "Échec de la génération du rapport PDF."
+      ],
+      "Error exporting PDF": [
+        "Erreur lors de l'exportation PDF"
+      ],
+      "Analytics": [
+        "Analyses"
+      ],
+      "Track and analyze your TTS player engagement to understand listener behavior.": [
+        "Suivez et analysez l'engagement de votre lecteur TTS pour comprendre le comportement des auditeurs."
+      ],
+      "Analytics is Currently Disabled": [
+        "Les analyses sont actuellement désactivées"
+      ],
+      "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
+        "Activez les analyses à l'aide du bouton ci-dessus pour commencer à suivre les interactions de votre lecteur TTS et afficher des métriques détaillées."
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "L'affichage du bouton sur plusieurs articles n'est pas pris en charge dans la version gratuite."
+      ],
+      "Select Items...": [
+        "Sélectionner des éléments..."
+      ],
+      "Add ACF Fields To Posts": [
+        "Ajouter des champs ACF aux articles"
+      ],
+      "Adding more than 1  ACF field is a pro feature": [
+        "L'ajout de plus d'un champ ACF est une fonctionnalité pro"
+      ],
+      "Loading": [
+        "Chargement"
+      ],
+      "Speed": [
+        "Vitesse"
+      ],
+      "Before Content": [
+        "Avant le contenu"
+      ],
+      "After Content": [
+        "Après le contenu"
+      ],
+      "Bottom Fixed (Pro)": [
+        "Bas fixe (Pro)"
+      ],
+      "Bottom Left (Pro)": [
+        "Bas gauche (Pro)"
+      ],
+      "Bottom Right (Pro)": [
+        "Bas droit (Pro)"
+      ],
+      "Bottom Center (Pro)": [
+        "Bas centré (Pro)"
+      ],
+      "Select Player": [
+        "Sélectionner le lecteur"
+      ],
+      "Select Button Position": [
+        "Sélectionner la position du bouton"
+      ],
+      "Select where to display the player button": [
+        "Sélectionnez où afficher le bouton du lecteur"
+      ],
+      "Display Player To": [
+        "Afficher le lecteur à"
+      ],
+      "Choose who can see the player": [
+        "Choisissez qui peut voir le lecteur"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "La restriction d'affichage du lecteur à plusieurs types d'utilisateurs est disponible dans la version pro"
+      ],
+      "Who Can Download MP3 File": [
+        "Qui peut télécharger le fichier MP3"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "Génération MP3 à partir de la date de publication de l'article"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Commencer à générer le fichier MP3 à partir d'une date de publication spécifique. Sélectionnez ceci uniquement si vous souhaitez générer des fichiers MP3 en fonction d'une plage de dates."
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "Générer le fichier MP3 à partir de la date"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "Génération MP3 jusqu'à la date de publication de l'article"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Générer le fichier MP3 jusqu'à une date de publication spécifique. Sélectionnez ceci uniquement si vous souhaitez générer des fichiers MP3 en fonction d'une plage de dates."
+      ],
+      "Generate MP3 File Date To": [
+        "Générer le fichier MP3 jusqu'à la date"
+      ],
+      "Player Customization": [
+        "Personnalisation du lecteur"
+      ],
+      "Choose player background color": [
+        "Choisir la couleur d'arrière-plan du lecteur"
+      ],
+      "Choose your color": [
+        "Choisissez votre couleur"
+      ],
+      "Hover BG Color": [
+        "Couleur de fond au survol"
+      ],
+      "Choose your hover background color": [
+        "Choisissez votre couleur d'arrière-plan au survol"
+      ],
+      "Hover Text Color": [
+        "Couleur du texte au survol"
+      ],
+      "Choose your hover text color": [
+        "Choisissez votre couleur de texte au survol"
+      ],
+      "Margin Size (Px)": [
+        "Taille de la marge (Px)"
+      ],
+      "Top": [
+        "Haut"
+      ],
+      "Margin Top": [
+        "Marge haute"
+      ],
+      "Bottom": [
+        "Bas"
+      ],
+      "Margin Bottom": [
+        "Marge basse"
+      ],
+      "Left": [
+        "Gauche"
+      ],
+      "Margin Left": [
+        "Marge gauche"
+      ],
+      "Right": [
+        "Droite"
+      ],
+      "Margin Right": [
+        "Marge droite"
+      ],
+      "Button Style": [
+        "Style du bouton"
+      ],
+      "Height": [
+        "Hauteur"
+      ],
+      "Button Height": [
+        "Hauteur du bouton"
+      ],
+      "Border": [
+        "Bordure"
+      ],
+      "Button Border": [
+        "Bordure du bouton"
+      ],
+      "Border Color": [
+        "Couleur de la bordure"
+      ],
+      "Font Size": [
+        "Taille de la police"
+      ],
+      "Radius": [
+        "Rayon"
+      ],
+      "Border Radius": [
+        "Rayon de bordure"
+      ],
+      "Button Properties": [
+        "Propriétés du bouton"
+      ],
+      "Width": [
+        "Largeur"
+      ],
+      "Button Width": [
+        "Largeur du bouton"
+      ],
+      "Enter Custom CSS here": [
+        "Entrez votre CSS personnalisé ici"
+      ],
+      "Value should be between 0-100": [
+        "La valeur doit être comprise entre 0 et 100"
+      ],
+      "This option is only available for the pro version.": [
+        "Cette option n'est disponible que dans la version pro."
+      ],
+      "Default": [
+        "Par défaut"
+      ],
+      "Default Pro": [
+        "Pro par défaut"
+      ],
+      "Customization": [
+        "Personnalisation"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "Personnalisez le lecteur et le design pour correspondre à votre marque et vos préférences."
+      ],
+      "Please fill the  field : ": [
+        "Veuillez remplir le champ : "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "Pour sélectionner ce lecteur, vous devez d'abord vous authentifier depuis le menu Intégration"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "Le lecteur Google Cloud TTS n'est disponible que dans la version pro."
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "Pour sélectionner ce lecteur, vous devez d'abord vous authentifier depuis le menu Intégration"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "Le lecteur ChatGPT TTS n'est disponible que dans la version pro."
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "Le lecteur ElevenLabs TTS n'est disponible que dans la version pro."
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "Le lecteur Pro par défaut n'est disponible que dans la version pro."
+      ],
+      "Customization saved.": [
+        "Personnalisation enregistrée."
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "Allez maintenant au menu \"\\u00c9coute\" pour sélectionner la langue et la voix appropriées."
+      ],
+      "Write here something and click listen button": [
+        "Écrivez quelque chose ici et cliquez sur le bouton écouter"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " Entrez votre texte ici et cliquez sur le bouton écouter pour l'entendre à voix haute."
+      ],
+      "Watch Tutorial": [
+        "Regarder le tutoriel"
+      ],
+      "Write here something and click listen button.": [
+        "Écrivez quelque chose ici et cliquez sur le bouton écouter."
+      ],
+      "Text To Audio:  Tap to listen post.": [
+        "Text To Audio : Appuyez pour écouter l'article."
+      ],
+      "Design Customization": [
+        "Personnalisation du design"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "Shortcode | Les valeurs des attributs doivent être entourées de guillemets doubles ( \" )"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "Shortcode copié"
+      ],
+      "Copy Shortcode": [
+        "Copier le shortcode"
+      ],
+      "1. Browser support issues on Android and desktop": [
+        "1. Problèmes de compatibilité navigateur sur Android et ordinateur"
+      ],
+      "This plugin is built using the browser SpeechSynthesis API. No external API is used.": [
+        "Ce plugin est construit avec l'API SpeechSynthesis du navigateur. Aucune API externe n'est utilisée."
+      ],
+      "View SpeechSynthesis documentation": [
+        "Voir la documentation SpeechSynthesis"
+      ],
+      "Browser and device support varies, so available voices and languages may differ between desktop and mobile devices.": [
+        "La prise en charge des navigateurs et appareils varie, donc les voix et langues disponibles peuvent différer entre les ordinateurs et les appareils mobiles."
+      ],
+      "Submit a support ticket": [
+        "Soumettre un ticket de support"
+      ],
+      "There are no browser limitations in the Pro version.": [
+        "Il n'y a aucune limitation de navigateur dans la version Pro."
+      ],
+      "2. Different voices or languages on mobile": [
+        "2. Voix ou langues différentes sur mobile"
+      ],
+      "SpeechSynthesis support varies between browsers and devices. Some voices may be available on desktop but not on mobile.": [
+        "La prise en charge de SpeechSynthesis varie selon les navigateurs et les appareils. Certaines voix peuvent être disponibles sur ordinateur mais pas sur mobile."
+      ],
+      "The Pro version does not have these limitations.": [
+        "La version Pro n'a pas ces limitations."
+      ],
+      "3. Can I exclude certain words from playback?": [
+        "3. Puis-je exclure certains mots de la lecture ?"
+      ],
+      "Yes. You can exclude specific words or phrases in the Pro version.": [
+        "Oui. Vous pouvez exclure des mots ou des phrases spécifiques dans la version Pro."
+      ],
+      "Use the pipe (|) symbol to separate multiple words or phrases.": [
+        "Utilisez le symbole pipe (|) pour séparer plusieurs mots ou phrases."
+      ],
+      "4. Can I exclude specific HTML tags from playback?": [
+        "4. Puis-je exclure des balises HTML spécifiques de la lecture ?"
+      ],
+      "The Pro version allows excluding content wrapped in specific HTML tags.": [
+        "La version Pro permet d'exclure le contenu enveloppé dans des balises HTML spécifiques."
+      ],
+      "Use the pipe (|) symbol to exclude multiple tags.": [
+        "Utilisez le symbole pipe (|) pour exclure plusieurs balises."
+      ],
+      "5. How can I change button text?": [
+        "5. Comment puis-je changer le texte du bouton ?"
+      ],
+      "Button text can be changed using shortcode attributes or filters. Filters always override shortcode values.": [
+        "Le texte du bouton peut être modifié à l'aide d'attributs de shortcode ou de filtres. Les filtres remplacent toujours les valeurs de shortcode."
+      ],
+      "6. How do I add a custom CSS class to the button?": [
+        "6. Comment ajouter une classe CSS personnalisée au bouton ?"
+      ],
+      "7. Backend filters (Free version)": [
+        "7. Filtres backend (version gratuite)"
+      ],
+      "Filter": [
+        "Filtre"
+      ],
+      "Arguments": [
+        "Arguments"
+      ],
+      "Settings saved successfully.": [
+        "Paramètres enregistrés avec succès."
+      ],
+      "Something went wrong": [
+        "Quelque chose s'est mal passé"
+      ],
+      "This is not a service account file. The \"type\" field must be \"service_account\". You may have downloaded the wrong file type.": [
+        "Ce n'est pas un fichier de compte de service. Le champ \"type\" doit être \"service_account\". Vous avez peut-être téléchargé le mauvais type de fichier."
+      ],
+      "Invalid service account file. Missing required fields: %s": [
+        "Fichier de compte de service invalide. Champs obligatoires manquants : %s"
+      ],
+      "The uploaded file is not valid JSON. Please make sure you downloaded the correct service account key file.": [
+        "Le fichier téléversé n'est pas un JSON valide. Veuillez vous assurer que vous avez téléchargé le bon fichier de clé de compte de service."
+      ],
+      "Could not read the file. Please try again.": [
+        "Impossible de lire le fichier. Veuillez réessayer."
+      ],
+      "File uploaded successfully. You can now test the connection below.": [
+        "Fichier téléversé avec succès. Vous pouvez maintenant tester la connexion ci-dessous."
+      ],
+      "Please select a service account JSON file first.": [
+        "Veuillez d'abord sélectionner un fichier JSON de compte de service."
+      ],
+      "Please create a valid bucket name first": [
+        "Veuillez d'abord créer un nom de bucket valide"
+      ],
+      "Google cloud text to speech feature is only in pro version.": [
+        "La fonctionnalité Google Cloud synthèse vocale n'est disponible que dans la version pro."
+      ],
+      "BCMath extension is not enabled. Please enable this extension. Learn more how to enable.": [
+        "L'extension BCMath n'est pas activée. Veuillez activer cette extension. En savoir plus sur l'activation."
+      ],
+      "BCMath Extension Missing": [
+        "Extension BCMath manquante"
+      ],
+      "The BCMath PHP extension is required for Google Cloud TTS. ": [
+        "L'extension PHP BCMath est requise pour Google Cloud TTS. "
+      ],
+      "Learn how to enable it": [
+        "Apprenez comment l'activer"
+      ],
+      "Uploads Folder Not Writable": [
+        "Dossier uploads non accessible en écriture"
+      ],
+      "The uploads folder must be writable to store generated audio files. Please check your server file permissions.": [
+        "Le dossier uploads doit être accessible en écriture pour stocker les fichiers audio générés. Veuillez vérifier les permissions de fichiers de votre serveur."
+      ],
+      "Setup Guide": [
+        "Guide d'installation"
+      ],
+      "Hide": [
+        "Masquer"
+      ],
+      "Show": [
+        "Afficher"
+      ],
+      "Go to": [
+        "Allez sur"
+      ],
+      "Google Cloud Console": [
+        "Google Cloud Console"
+      ],
+      "and create a project (or select an existing one).": [
+        "et créez un projet (ou sélectionnez-en un existant)."
+      ],
+      "Enable the": [
+        "Activez le"
+      ],
+      "Cloud Text-to-Speech API": [
+        "Cloud Text-to-Speech API"
+      ],
+      "Optional, for Cloud Storage backup": [
+        "Facultatif, pour la sauvegarde Cloud Storage"
+      ],
+      "Cloud Storage API": [
+        "Cloud Storage API"
+      ],
+      "IAM & Admin > Service Accounts": [
+        "IAM & Admin > Comptes de service"
+      ],
+      "and create a new service account.": [
+        "et créez un nouveau compte de service."
+      ],
+      "Assign roles:": [
+        "Attribuer les rôles :"
+      ],
+      "Cloud Text-to-Speech User": [
+        "Utilisateur Cloud Text-to-Speech"
+      ],
+      "(required)": [
+        "(obligatoire)"
+      ],
+      "Storage Admin": [
+        "Administrateur de stockage"
+      ],
+      "only if using Cloud Storage backup": [
+        "uniquement si vous utilisez la sauvegarde Cloud Storage"
+      ],
+      "Click on the service account > \"Keys\" tab > \"Add Key\" > \"Create new key\" > select \"JSON\".": [
+        "Cliquez sur le compte de service > onglet \"Clés\" > \"Ajouter une clé\" > \"Créer une nouvelle clé\" > sélectionnez \"JSON\"."
+      ],
+      "Upload the downloaded JSON file below.": [
+        "Téléversez le fichier JSON téléchargé ci-dessous."
+      ],
+      "Video Tutorial": [
+        "Tutoriel vidéo"
+      ],
+      "Authentication": [
+        "Authentification"
+      ],
+      "Click here to Upload": [
+        "Cliquez ici pour téléverser"
+      ],
+      "Upload service account JSON file": [
+        "Téléverser le fichier JSON du compte de service"
+      ],
+      "Service Account:": [
+        "Compte de service :"
+      ],
+      "Project:": [
+        "Projet :"
+      ],
+      "IAM Console": [
+        "Console IAM"
+      ],
+      "Connection Test": [
+        "Test de connexion"
+      ],
+      "Verify that your service account can connect to Google Cloud Text-to-Speech API.": [
+        "Vérifiez que votre compte de service peut se connecter à l'API Google Cloud Text-to-Speech."
+      ],
+      "Testing...": [
+        "Test en cours..."
+      ],
+      "Test TTS Connection": [
+        "Tester la connexion TTS"
+      ],
+      "Storage Configuration": [
+        "Configuration du stockage"
+      ],
+      "Store MP3 Files To Google Cloud Storage": [
+        "Stocker les fichiers MP3 sur Google Cloud Storage"
+      ],
+      "Click To Know How To Enable Automatic Store To Google Cloud Storage": [
+        "Cliquez pour savoir comment activer le stockage automatique sur Google Cloud Storage"
+      ],
+      "Automatically sync generated audio files in cloud storage for store & easy access.": [
+        "Synchronisez automatiquement les fichiers audio générés dans le stockage cloud pour un stockage et un accès facile."
+      ],
+      "Required:": [
+        "Requis :"
+      ],
+      "Your service account needs the \"Storage Admin\" role to use Cloud Storage.": [
+        "Votre compte de service a besoin du rôle \"Administrateur de stockage\" pour utiliser Cloud Storage."
+      ],
+      "Assign it to": [
+        "Attribuez-le à"
+      ],
+      "in": [
+        "dans"
+      ],
+      "Open IAM Console": [
+        "Ouvrir la console IAM"
+      ],
+      "Test Storage Access": [
+        "Tester l'accès au stockage"
+      ],
+      "Google Cloud Storage Bucket Name": [
+        "Nom du bucket Google Cloud Storage"
+      ],
+      "Click Here To Know Bucket Name Rules": [
+        "Cliquez ici pour connaître les règles de nommage des buckets"
+      ],
+      "Are you sure you want to create a bucket named \"%1$s\"? You already have a bucket named \"%2$s\". If you create a new bucket, all MP3 files will be generated again. Please decide carefully.": [
+        "Êtes-vous sûr de vouloir créer un bucket nommé \"%1$s\" ? Vous avez déjà un bucket nommé \"%2$s\". Si vous créez un nouveau bucket, tous les fichiers MP3 seront générés à nouveau. Veuillez décider avec soin."
+      ],
+      "This bucket is already have to your cloud storage.": [
+        "Ce bucket existe déjà dans votre stockage cloud."
+      ],
+      "Create": [
+        "Créer"
+      ],
+      "Do you want to revoke access and delete the file uploaded during authentication. If you delete the file you have to upload the file again. Make sure you have a backup otherwise, you have to crete another auth file from Google Cloud text to speech.": [
+        "Voulez-vous révoquer l'accès et supprimer le fichier téléversé lors de l'authentification ? Si vous supprimez le fichier, vous devrez le téléverser à nouveau. Assurez-vous d'avoir une sauvegarde, sinon vous devrez créer un autre fichier d'authentification depuis Google Cloud Text to Speech."
+      ],
+      "Authentication removed.": [
+        "Authentification supprimée."
+      ],
+      "You have to be authenticated to revoke.": [
+        "Vous devez être authentifié pour révoquer."
+      ],
+      "Remove Authentication": [
+        "Supprimer l'authentification"
+      ],
+      "Set ChatGPT API key": [
+        "Définir la clé API ChatGPT"
+      ],
+      "API key is saved successfully": [
+        "Clé API enregistrée avec succès"
+      ],
+      "ChatGPT text to speech feature is only in pro version.": [
+        "La fonctionnalité synthèse vocale ChatGPT n'est disponible que dans la version pro."
+      ],
+      "ChatGPT TTS feature is only in pro version.": [
+        "La fonctionnalité TTS ChatGPT n'est disponible que dans la version pro."
+      ],
+      "paste here chatgpt_tts_api_key": [
+        "collez ici chatgpt_tts_api_key"
+      ],
+      "Submit": [
+        "Soumettre"
+      ],
+      "How to get chatGPT API key?": [
+        "Comment obtenir la clé API ChatGPT ?"
+      ],
+      "Click here": [
+        "Cliquez ici"
+      ],
+      "Set ElevenLabs API key": [
+        "Définir la clé API ElevenLabs"
+      ],
+      "ElevenLabs text to speech feature is only in pro version.": [
+        "La fonctionnalité synthèse vocale ElevenLabs n'est disponible que dans la version pro."
+      ],
+      "ElevenLabs TTS feature is only in pro version.": [
+        "La fonctionnalité TTS ElevenLabs n'est disponible que dans la version pro."
+      ],
+      "paste here elevenlabs_api_key": [
+        "collez ici elevenlabs_api_key"
+      ],
+      "How to get ElevenLabs API key?": [
+        "Comment obtenir la clé API ElevenLabs ?"
+      ],
+      "Integration Setup": [
+        "Configuration de l'intégration"
+      ],
+      "AtlasVoice Pro works fully fine even without Google TTS/ChatGPT integration.": [
+        "AtlasVoice Pro fonctionne parfaitement même sans intégration Google TTS/ChatGPT."
+      ],
+      "-- Select a service --": [
+        "-- Sélectionner un service --"
+      ],
+      "Google Cloud TTS": [
+        "Google Cloud TTS"
+      ],
+      "ChatGPT TTS": [
+        "ChatGPT TTS"
+      ],
+      "ElevenLabs TTS": [
+        "ElevenLabs TTS"
+      ],
+      "ElevenLabs Usage": [
+        "Utilisation ElevenLabs"
+      ],
+      "characters": [
+        "caractères"
+      ],
+      "Plan:": [
+        "Forfait :"
+      ],
+      "Resets:": [
+        "Réinitialisation :"
+      ],
+      "View detailed usage and billing at": [
+        "Voir l'utilisation détaillée et la facturation sur"
+      ],
+      "OpenAI TTS Usage": [
+        "Utilisation OpenAI TTS"
+      ],
+      "Google Cloud TTS Usage": [
+        "Utilisation Google Cloud TTS"
+      ],
+      "TTS-1": [
+        "TTS-1"
+      ],
+      "TTS-1 HD": [
+        "TTS-1 HD"
+      ],
+      "Voice Model": [
+        "Modèle de voix"
+      ],
+      "Voice Language": [
+        "Langue de la voix"
+      ],
+      "Default Listening Language": [
+        "Langue d'écoute par défaut"
+      ],
+      "Default Listening Voice": [
+        "Voix d'écoute par défaut"
+      ],
+      "Voice Speed": [
+        "Vitesse de la voix"
+      ],
+      "Your browser does not support the audio element.": [
+        "Votre navigateur ne prend pas en charge l'élément audio."
+      ],
+      "Listening Preferences": [
+        "Préférences d'écoute"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Définissez vos préférences d'écoute avec différentes voix et langues."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Paramètres d'écoute enregistrés. La configuration est terminée. Profitez-en"
+      ],
+      "Voice to speak": [
+        "Voix pour parler"
+      ],
+      "Voice Volume": [
+        "Volume de la voix"
+      ],
+      "Voice Pitch": [
+        "Tonalité de la voix"
+      ],
+      "Default Listening Pitch": [
+        "Tonalité d'écoute par défaut"
+      ],
+      "Model": [
+        "Modèle"
+      ],
+      "Multilingual v2": [
+        "Multilingue v2"
+      ],
+      "Turbo v2.5": [
+        "Turbo v2.5"
+      ],
+      "Flash v2.5": [
+        "Flash v2.5"
+      ],
+      "Eleven v3": [
+        "Eleven v3"
+      ],
+      "Output Format": [
+        "Format de sortie"
+      ],
+      "MP3 44100Hz 128kbps (Default)": [
+        "MP3 44100Hz 128kbps (Par défaut)"
+      ],
+      "MP3 44100Hz 192kbps": [
+        "MP3 44100Hz 192kbps"
+      ],
+      "MP3 44100Hz 96kbps": [
+        "MP3 44100Hz 96kbps"
+      ],
+      "MP3 44100Hz 64kbps": [
+        "MP3 44100Hz 64kbps"
+      ],
+      "MP3 22050Hz 32kbps": [
+        "MP3 22050Hz 32kbps"
+      ],
+      "Stability": [
+        "Stabilité"
+      ],
+      "More variable": [
+        "Plus variable"
+      ],
+      "More stable": [
+        "Plus stable"
+      ],
+      "Similarity Boost": [
+        "Amélioration de la similarité"
+      ],
+      "High": [
+        "Élevé"
+      ],
+      "Style Exaggeration": [
+        "Exagération du style"
+      ],
+      "None": [
+        "Aucun"
+      ],
+      "Exaggerated": [
+        "Exagéré"
+      ],
+      "Speaker Boost": [
+        "Amélioration du locuteur"
+      ],
+      "Language mapping for WPML, GTranslate plugin is available in the pro version.": [
+        "Le mappage des langues pour les plugins WPML, GTranslate est disponible dans la version pro."
+      ],
+      "Select Language For{\" \"}": [
+        "Sélectionner la langue pour{\" \"}"
+      ],
+      "Select Voice For{\" \"}": [
+        "Sélectionner la voix pour{\" \"}"
+      ],
+      "Current Player Voice": [
+        "Voix actuelle du lecteur"
+      ],
+      "Help information about this setting": [
+        "Informations d'aide sur ce paramètre"
+      ],
+      "Configure Settings": [
+        "Configurer les paramètres"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "Configurer le comportement du lecteur de synthèse vocale et la sélection du contenu"
+      ],
+      "All cache deleted": [
+        "Tout le cache supprimé"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "Enregistré avec succès. Allez maintenant au menu \"Personnalisation\"."
+      ],
+      "Add Button or Player Automatically": [
+        "Ajouter le bouton ou le lecteur automatiquement"
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "Continuer la lecture après avoir changé d'onglet"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "Lorsqu'activé, la synthèse vocale continuera de jouer même si vous quittez l'onglet actuel"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "Arrêter la lecture automatique après avoir basculé vers l'onglet TTS"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "Mettre automatiquement en pause la lecture lorsque vous revenez à l'onglet TTS depuis un autre onglet"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "Arrêter le lecteur flottant lors du défilement vers le bas"
+      ],
+      "Automatically pause the floating player when users scroll down the page": [
+        "Mettre automatiquement en pause le lecteur flottant lorsque les utilisateurs font défiler la page vers le bas"
+      ],
+      "Apply number format": [
+        "Appliquer le format numérique"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "Convertir les nombres en mots parlés (ex. : « 123 » devient « cent vingt-trois »)"
+      ],
+      "Read Content From Dom": [
+        "Lire le contenu depuis le DOM"
+      ],
+      "Use Old Player UI": [
+        "Utiliser l'ancienne interface du lecteur"
+      ],
+      "Add Post Title To Read": [
+        "Ajouter le titre de l'article à la lecture"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "Inclure le titre de l'article dans la lecture audio avant le contenu principal"
+      ],
+      "Add Post Excerpt To Read": [
+        "Ajouter l'extrait de l'article à la lecture"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "Inclure l'extrait/résumé de l'article dans la lecture audio avant le contenu principal"
+      ],
+      "Enable TTS Status": [
+        "Activer le statut TTS"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "Activer le statut TTS dans la page de l'article."
+      ],
+      "Add Text Before Content(intro)": [
+        "Ajouter du texte avant le contenu (introduction)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "Texte personnalisé qui sera lu à voix haute avant le début du contenu principal"
+      ],
+      "Add Text Before Content": [
+        "Ajouter du texte avant le contenu"
+      ],
+      "Add Text After Content(outro)": [
+        "Ajouter du texte après le contenu (conclusion)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "Texte personnalisé qui sera lu à voix haute après la fin du contenu principal"
+      ],
+      "Add Text After Content": [
+        "Ajouter du texte après le contenu"
+      ],
+      "Allow Listening For Post Type": [
+        "Autoriser l'écoute pour le type de publication"
+      ],
+      "Allow Listening For Post Status": [
+        "Autoriser l'écoute pour le statut de publication"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "Dans la version gratuite, vous ne pouvez sélectionner qu'un seul type de publication."
+      ],
+      "Include Content By CSS Selectors": [
+        "Inclure le contenu par sélecteurs CSS"
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "La fonctionnalité Inclure le contenu par sélecteurs CSS est disponible dans la version pro"
+      ],
+      "Multiple selector will be multiline.": [
+        "Les sélecteurs multiples seront sur plusieurs lignes."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Du contenu peut manquer, il peut être trouvé par des sélecteurs CSS"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Exclure le contenu par sélecteurs CSS"
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "La fonctionnalité Exclure le contenu par sélecteurs CSS est disponible dans la version pro"
+      ],
+      "Exclude content by CSS selectors": [
+        "Exclure le contenu par sélecteurs CSS"
+      ],
+      "You can add \".atlasvoice_no_read\" class to exclude content.": [
+        "Vous pouvez ajouter la classe \".atlasvoice_no_read\" pour exclure du contenu."
+      ],
+      "Exclude HTML Tags To Speak": [
+        "Exclure les balises HTML de la lecture"
+      ],
+      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Exclure les balises. Pour que leur contenu soit ignoré. Comme (Subscript, Superscript, etc.) Ceci est une fonctionnalité pro."
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Les balises multiples seront séparées par un pipe (|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "L'exclusion de balises est une fonctionnalité pro."
+      ],
+      "Exclude Texts To Speak": [
+        "Exclure des textes de la lecture"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "L'exclusion de textes à lire est une fonctionnalité pro."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Les textes multiples seront séparés par un pipe (|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "L'exclusion de textes est une fonctionnalité pro."
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "Exclure des articles par IDs de la lecture"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "L'exclusion de plus de 5 IDs est une fonctionnalité pro"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "Les IDs multiples seront séparés par des virgules (,)."
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "L'exclusion de plus de 5 IDs est une fonctionnalité pro. Les IDs multiples seront séparés par des virgules (,)."
+      ],
+      "Exclude Categories To Speak": [
+        "Exclure des catégories de la lecture"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "L'exclusion de plus d'une catégorie est une fonctionnalité pro"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "Dans la version gratuite, vous ne pouvez sélectionner qu'une seule catégorie."
+      ],
+      "Exclude Tags To Speak": [
+        "Exclure des étiquettes de la lecture"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "L'exclusion de plus d'une étiquette est une fonctionnalité pro"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "Dans la version gratuite, vous ne pouvez sélectionner qu'une seule étiquette."
+      ],
+      "Enable Button Icon": [
+        "Activer l'icône du bouton"
+      ],
+      "Clear all cache": [
+        "Vider tout le cache"
+      ],
+      "Save All": [
+        "Tout enregistrer"
+      ],
+      "No IDs selected": [
+        "Aucun ID sélectionné"
+      ],
+      "Select IDs": [
+        "Sélectionner des IDs"
+      ],
+      "You are already authenticated": [
+        "Vous êtes déjà authentifié"
+      ],
+      "Recording Data Saved": [
+        "Données d'enregistrement sauvegardées"
+      ]
+    }
+  }
+}

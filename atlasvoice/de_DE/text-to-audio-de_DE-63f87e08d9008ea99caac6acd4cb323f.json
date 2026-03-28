@@ -1,0 +1,296 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:53+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-customize.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Speichern"
+      ],
+      "Click To Know How It Works?": [
+        "Klicken Sie, um zu erfahren, wie es funktioniert?"
+      ],
+      "Settings": [
+        "Einstellungen"
+      ],
+      "Background Color": [
+        "Hintergrundfarbe"
+      ],
+      "Text Color": [
+        "Textfarbe"
+      ],
+      "Custom CSS": [
+        "Benutzerdefiniertes CSS"
+      ],
+      "Loading...": [
+        "Wird geladen..."
+      ],
+      "Buy Now": [
+        "Jetzt kaufen"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Die Anzeige des Buttons fuer mehrere Beitraege wird in der kostenlosen Version nicht unterstuetzt."
+      ],
+      "Select Items...": [
+        "Elemente auswaehlen..."
+      ],
+      "Click to seek": [
+        "Klicken zum Spulen"
+      ],
+      "Player Settings": [
+        "Player-Einstellungen"
+      ],
+      "Close": [
+        "Schliessen"
+      ],
+      "Language": [
+        "Sprache"
+      ],
+      "Voice": [
+        "Stimme"
+      ],
+      "Speed": [
+        "Geschwindigkeit"
+      ],
+      "Pitch": [
+        "Tonhoehe"
+      ],
+      "Volume": [
+        "Lautstaerke"
+      ],
+      "Unmute": [
+        "Stummschaltung aufheben"
+      ],
+      "Mute": [
+        "Stummschalten"
+      ],
+      "Before Content": [
+        "Vor dem Inhalt"
+      ],
+      "After Content": [
+        "Nach dem Inhalt"
+      ],
+      "Bottom Fixed (Pro)": [
+        "Unten fixiert (Pro)"
+      ],
+      "Bottom Left (Pro)": [
+        "Unten links (Pro)"
+      ],
+      "Bottom Right (Pro)": [
+        "Unten rechts (Pro)"
+      ],
+      "Bottom Center (Pro)": [
+        "Unten zentriert (Pro)"
+      ],
+      "Select Player": [
+        "Player auswaehlen"
+      ],
+      "Select Button Position": [
+        "Button-Position auswaehlen"
+      ],
+      "Select where to display the player button": [
+        "Waehlen Sie, wo der Player-Button angezeigt werden soll"
+      ],
+      "Display Player To": [
+        "Player anzeigen fuer"
+      ],
+      "Choose who can see the player": [
+        "Waehlen Sie, wer den Player sehen kann"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "Die Einschraenkung der Player-Anzeige fuer mehrere Benutzertypen ist in der Pro-Version verfuegbar"
+      ],
+      "Who Can Download MP3 File": [
+        "Wer kann MP3-Dateien herunterladen"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "MP3-Erstellung ab Veroeffentlichungsdatum des Beitrags"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Beginnen Sie mit der MP3-Erstellung ab einem bestimmten Veroeffentlichungsdatum des Beitrags. Waehlen Sie dies nur, wenn Sie MP3-Dateien basierend auf einem Datumsbereich erstellen moechten."
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "MP3-Datei erstellen ab Datum"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "MP3-Erstellung bis zum Veroeffentlichungsdatum des Beitrags"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "MP3-Dateien bis zu einem bestimmten Veroeffentlichungsdatum des Beitrags erstellen. Waehlen Sie dies nur, wenn Sie MP3-Dateien basierend auf einem Datumsbereich erstellen moechten."
+      ],
+      "Generate MP3 File Date To": [
+        "MP3-Datei erstellen bis Datum"
+      ],
+      "Player Customization": [
+        "Player-Anpassung"
+      ],
+      "Choose player background color": [
+        "Player-Hintergrundfarbe waehlen"
+      ],
+      "Choose your color": [
+        "Waehlen Sie Ihre Farbe"
+      ],
+      "Hover BG Color": [
+        "Hover-Hintergrundfarbe"
+      ],
+      "Choose your hover background color": [
+        "Waehlen Sie Ihre Hover-Hintergrundfarbe"
+      ],
+      "Hover Text Color": [
+        "Hover-Textfarbe"
+      ],
+      "Choose your hover text color": [
+        "Waehlen Sie Ihre Hover-Textfarbe"
+      ],
+      "Margin Size (Px)": [
+        "Randgroesse (Px)"
+      ],
+      "Top": [
+        "Oben"
+      ],
+      "Margin Top": [
+        "Rand oben"
+      ],
+      "Bottom": [
+        "Unten"
+      ],
+      "Margin Bottom": [
+        "Rand unten"
+      ],
+      "Left": [
+        "Links"
+      ],
+      "Margin Left": [
+        "Rand links"
+      ],
+      "Right": [
+        "Rechts"
+      ],
+      "Margin Right": [
+        "Rand rechts"
+      ],
+      "Button Style": [
+        "Button-Stil"
+      ],
+      "Height": [
+        "Hoehe"
+      ],
+      "Button Height": [
+        "Button-Hoehe"
+      ],
+      "Border": [
+        "Rahmen"
+      ],
+      "Button Border": [
+        "Button-Rahmen"
+      ],
+      "Border Color": [
+        "Rahmenfarbe"
+      ],
+      "Font Size": [
+        "Schriftgroesse"
+      ],
+      "Radius": [
+        "Radius"
+      ],
+      "Border Radius": [
+        "Rahmenradius"
+      ],
+      "Button Properties": [
+        "Button-Eigenschaften"
+      ],
+      "Width": [
+        "Breite"
+      ],
+      "Button Width": [
+        "Button-Breite"
+      ],
+      "Enter Custom CSS here": [
+        "Benutzerdefiniertes CSS hier eingeben"
+      ],
+      "Value should be between 0-100": [
+        "Wert sollte zwischen 0-100 liegen"
+      ],
+      "This option is only available for the pro version.": [
+        "Diese Option ist nur fuer die Pro-Version verfuegbar."
+      ],
+      "Default": [
+        "Standard"
+      ],
+      "Default Pro": [
+        "Standard Pro"
+      ],
+      "Customization": [
+        "Anpassung"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "Passen Sie den Player und das Design an Ihre Marke und Vorlieben an."
+      ],
+      "Please fill the  field : ": [
+        "Bitte fuellen Sie das Feld aus: "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "Um diesen Player auszuwaehlen, muessen Sie sich zuerst ueber das Integrationsmenueauthentifizieren"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "Google Cloud TTS-Player ist nur in der Pro-Version verfuegbar."
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "Um diesen Player auszuwaehlen, muessen Sie sich zuerst ueber das Integrationsmenue authentifizieren"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "ChatGPT TTS-Player ist nur in der Pro-Version verfuegbar."
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "ElevenLabs TTS-Player ist nur in der Pro-Version verfuegbar."
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "Standard-Pro-Player ist nur in der Pro-Version verfuegbar."
+      ],
+      "Customization saved.": [
+        "Anpassung gespeichert."
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "Gehen Sie jetzt zum Menue \"Wiedergabe\", um die richtige Sprache und Stimme auszuwaehlen."
+      ],
+      "Write here something and click listen button": [
+        "Schreiben Sie hier etwas und klicken Sie auf die Anhoeren-Schaltflaeche"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " Geben Sie hier Ihren Text ein und klicken Sie auf die Anhoeren-Schaltflaeche, um ihn laut vorgelesen zu hoeren."
+      ],
+      "Watch Tutorial": [
+        "Tutorial ansehen"
+      ],
+      "Write here something and click listen button.": [
+        "Schreiben Sie hier etwas und klicken Sie auf die Anhoeren-Schaltflaeche."
+      ],
+      "Text To Audio:  Tap to listen post.": [
+        "Text-zu-Audio: Tippen Sie, um den Beitrag anzuhoeren."
+      ],
+      "Design Customization": [
+        "Design-Anpassung"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "Shortcode | Attributwerte muessen in doppelte Anfuehrungszeichen ( \" ) eingeschlossen werden"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "Shortcode kopiert"
+      ],
+      "Copy Shortcode": [
+        "Shortcode kopieren"
+      ]
+    }
+  }
+}

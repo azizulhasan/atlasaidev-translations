@@ -1,0 +1,80 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/css-selectors/CSSSelectorsForPosts.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Enregistrer"
+      ],
+      "Click To Know How It Works?": [
+        "Cliquez pour savoir comment ça fonctionne ?"
+      ],
+      "Loading": [
+        "Chargement"
+      ],
+      "Include Content By CSS Selectors": [
+        "Inclure le contenu par sélecteurs CSS"
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "La fonctionnalité Inclure le contenu par sélecteurs CSS est disponible dans la version pro"
+      ],
+      "Multiple selector will be multiline.": [
+        "Les sélecteurs multiples seront sur plusieurs lignes."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Du contenu peut manquer, il peut être trouvé par des sélecteurs CSS"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Exclure le contenu par sélecteurs CSS"
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "La fonctionnalité Exclure le contenu par sélecteurs CSS est disponible dans la version pro"
+      ],
+      "Exclude content by CSS selectors": [
+        "Exclure le contenu par sélecteurs CSS"
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Les balises multiples seront séparées par un pipe (|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "L'exclusion de balises est une fonctionnalité pro."
+      ],
+      "Exclude Texts To Speak": [
+        "Exclure des textes de la lecture"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "L'exclusion de textes à lire est une fonctionnalité pro."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Les textes multiples seront séparés par un pipe (|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "L'exclusion de textes est une fonctionnalité pro."
+      ],
+      "Exclude Tags To Speak": [
+        "Exclure des étiquettes de la lecture"
+      ],
+      "Please save the post then try to add custom CSS selectors.": [
+        "Veuillez enregistrer l'article puis essayez d'ajouter des sélecteurs CSS personnalisés."
+      ],
+      "Empty value can not be saved. You can uncheck the \"Use Own CSS Selectors\" Option.": [
+        "La valeur vide ne peut pas être enregistrée. Vous pouvez décocher l'option \"Utiliser ses propres sélecteurs CSS\"."
+      ],
+      "Settings Data Saved": [
+        "Données des paramètres enregistrées"
+      ],
+      "Use Own CSS Selectors": [
+        "Utiliser ses propres sélecteurs CSS"
+      ],
+      "Exclude Tags. So that its content skiped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Exclure les balises. Pour que leur contenu soit ignoré. Comme (Subscript, Superscript, etc.) Ceci est une fonctionnalité pro."
+      ]
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:53+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-listening.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Speichern"
+      ],
+      "Low": [
+        "Niedrig"
+      ],
+      "Speed": [
+        "Geschwindigkeit"
+      ],
+      "Please fill the  field : ": [
+        "Bitte fuellen Sie das Feld aus: "
+      ],
+      "TTS-1": [
+        "TTS-1"
+      ],
+      "TTS-1 HD": [
+        "TTS-1 HD"
+      ],
+      "Voice Model": [
+        "Stimmmodell"
+      ],
+      "Voice Language": [
+        "Stimmsprache"
+      ],
+      "Default Listening Language": [
+        "Standard-Wiedergabesprache"
+      ],
+      "Default Listening Voice": [
+        "Standard-Wiedergabestimme"
+      ],
+      "Voice Speed": [
+        "Stimmgeschwindigkeit"
+      ],
+      "Your browser does not support the audio element.": [
+        "Ihr Browser unterstuetzt das Audio-Element nicht."
+      ],
+      "Listening Preferences": [
+        "Wiedergabeeinstellungen"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Legen Sie Ihre Wiedergabeeinstellungen mit verschiedenen Stimmen und Sprachen fest."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Wiedergabeeinstellungen gespeichert. Alle Einrichtungen abgeschlossen. Viel Spass"
+      ],
+      "Voice to speak": [
+        "Stimme zum Sprechen"
+      ],
+      "Voice Volume": [
+        "Stimmlautstaerke"
+      ],
+      "Voice Pitch": [
+        "Stimmtonhoehe"
+      ],
+      "Default Listening Pitch": [
+        "Standard-Wiedergabetonhoehe"
+      ],
+      "Model": [
+        "Modell"
+      ],
+      "Multilingual v2": [
+        "Mehrsprachig v2"
+      ],
+      "Turbo v2.5": [
+        "Turbo v2.5"
+      ],
+      "Flash v2.5": [
+        "Flash v2.5"
+      ],
+      "Eleven v3": [
+        "Eleven v3"
+      ],
+      "Output Format": [
+        "Ausgabeformat"
+      ],
+      "MP3 44100Hz 128kbps (Default)": [
+        "MP3 44100Hz 128kbps (Standard)"
+      ],
+      "MP3 44100Hz 192kbps": [
+        "MP3 44100Hz 192kbps"
+      ],
+      "MP3 44100Hz 96kbps": [
+        "MP3 44100Hz 96kbps"
+      ],
+      "MP3 44100Hz 64kbps": [
+        "MP3 44100Hz 64kbps"
+      ],
+      "MP3 22050Hz 32kbps": [
+        "MP3 22050Hz 32kbps"
+      ],
+      "Stability": [
+        "Stabilitaet"
+      ],
+      "More variable": [
+        "Variabler"
+      ],
+      "More stable": [
+        "Stabiler"
+      ],
+      "Similarity Boost": [
+        "Aehnlichkeitsverstaerkung"
+      ],
+      "High": [
+        "Hoch"
+      ],
+      "Style Exaggeration": [
+        "Stiluebertreibung"
+      ],
+      "None": [
+        "Keine"
+      ],
+      "Exaggerated": [
+        "Uebertrieben"
+      ],
+      "Speaker Boost": [
+        "Sprecherverstaerkung"
+      ],
+      "Language mapping for WPML, GTranslate plugin is available in the pro version.": [
+        "Sprachzuordnung fuer WPML, GTranslate Plugin ist in der Pro-Version verfuegbar."
+      ],
+      "Select Language For{\" \"}": [
+        "Sprache auswaehlen fuer{\" \"}"
+      ],
+      "Select Voice For{\" \"}": [
+        "Stimme auswaehlen fuer{\" \"}"
+      ],
+      "Current Player Voice": [
+        "Aktuelle Player-Stimme"
+      ]
+    }
+  }
+}

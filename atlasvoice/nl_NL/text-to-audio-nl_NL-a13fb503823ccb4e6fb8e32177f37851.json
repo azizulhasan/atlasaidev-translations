@@ -1,0 +1,53 @@
+{
+  "translation-revision-date": "2026-03-28T11:29:55+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-aliases.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Opslaan"
+      ],
+      "Text to Speech Aliases": [
+        "Tekst naar Spraak Aliassen"
+      ],
+      "Actual Text": [
+        "Werkelijke tekst"
+      ],
+      "To Read": [
+        "Voor te lezen"
+      ],
+      "All fields must be filled!": [
+        "Alle velden moeten ingevuld zijn!"
+      ],
+      "Successfully Saved.": [
+        "Succesvol opgeslagen."
+      ],
+      "Buy Pro version": [
+        "Pro-versie kopen"
+      ],
+      "Here a short text have to write to inform the user about this feature purpose": [
+        "Hier moet een korte tekst geschreven worden om de gebruiker te informeren over het doel van deze functie"
+      ],
+      "Write actual text": [
+        "Schrijf de werkelijke tekst"
+      ],
+      "Write read aloud text": [
+        "Schrijf de voor te lezen tekst"
+      ],
+      "More than 1 alias is available in the pro version. Please ": [
+        "Meer dan 1 alias is beschikbaar in de Pro-versie. Gelieve "
+      ],
+      "Add New": [
+        "Nieuwe toevoegen"
+      ],
+      "Loading...": [
+        "Laden..."
+      ]
+    }
+  }
+}
