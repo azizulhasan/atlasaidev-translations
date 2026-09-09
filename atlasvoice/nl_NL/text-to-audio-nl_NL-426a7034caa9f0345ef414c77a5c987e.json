@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:43:09+01:00",
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-dashboard-ui.js",
   "domain": "messages",
@@ -15,26 +15,20 @@
       "Upgrade to Pro": [
         "Upgraden naar Pro"
       ],
-      "Device Types": [
-        "Apparaattypen"
+      "Cancel": [
+        "Annuleren"
       ],
-      "Browser": [
-        "Browser"
-      ],
-      "OS": [
-        "OS"
-      ],
-      "Top Countries": [
-        "Toplanden"
-      ],
-      "Post Title": [
-        "Berichttitel"
+      "Save": [
+        "Opslaan"
       ],
       "Pause": [
         "Pauze"
       ],
-      "Save": [
-        "Opslaan"
+      "Default": [
+        "Standaard"
+      ],
+      "AtlasVoice Pro": [
+        "AtlasVoice Pro"
       ],
       "Text to Speech Aliases": [
         "Tekst naar Spraak Aliassen"
@@ -57,11 +51,8 @@
       "Click To Know How It Works?": [
         "Klik om te weten hoe het werkt?"
       ],
-      "Network error. Please try again.": [
-        "Netwerkfout. Probeer het opnieuw."
-      ],
-      "Learn More": [
-        "Meer informatie"
+      "Pro": [
+        "Pro"
       ],
       "Background Color": [
         "Achtergrondkleur"
@@ -90,14 +81,32 @@
       "Loading...": [
         "Laden..."
       ],
+      "See AtlasVoice Pro in action": [
+        "Zie AtlasVoice Pro in actie"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Beluister meer dan 200 AI-stemmen, MP3-spelers en het genereren in bulk op een echte pagina — zonder iets te installeren."
+      ],
+      "Watch the live demo": [
+        "Bekijk de live demo"
+      ],
+      "Try the live demo": [
+        "Probeer de live demo"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Knop tonen bij meerdere berichten wordt niet ondersteund in de gratis versie."
+      ],
+      "Select Items...": [
+        "Selecteer items..."
+      ],
+      "Pro feature. Upgrade to unlock.": [
+        "Pro-functie. Stap over naar Pro om hem te ontgrendelen."
+      ],
       "Pro Feature": [
         "Pro-functie"
       ],
       "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
         "Upgrade naar Pro om deze functie te ontgrendelen en toegang te krijgen tot geavanceerde analyses."
-      ],
-      "Pro": [
-        "Pro"
       ],
       "Total Posts": [
         "Totaal berichten"
@@ -204,20 +213,26 @@
       "Yesterday": [
         "Gisteren"
       ],
-      "more": [
-        "meer"
+      "OS": [
+        "OS"
       ],
-      "Browser Analytics": [
-        "Browseranalyses"
+      "OS Breakdown": [
+        "Verdeling per besturingssysteem"
+      ],
+      "Device Types": [
+        "Apparaattypen"
+      ],
+      "Browser": [
+        "Browser"
       ],
       "Location": [
         "Locatie"
       ],
+      "Top Countries": [
+        "Toplanden"
+      ],
       "Top Cities": [
         "Topsteden"
-      ],
-      "Unlock city-level analytics": [
-        "Ontgrendel analyses op stadsniveau"
       ],
       "Custom Range": [
         "Aangepast bereik"
@@ -236,9 +251,6 @@
       ],
       "Compare with Previous Period": [
         "Vergelijk met vorige periode"
-      ],
-      "Enable comparison with previous period": [
-        "Vergelijking met vorige periode inschakelen"
       ],
       "Quantity vs Date": [
         "Aantal vs datum"
@@ -297,11 +309,14 @@
       "Track Post IDs": [
         "Bericht-ID's volgen"
       ],
-      "Tracking more than 20 post IDs is a Pro feature": [
-        "Het volgen van meer dan 20 bericht-ID's is een Pro-functie"
+      "You've reached the selection limit.": [
+        "Je hebt de selectielimiet bereikt."
       ],
       "Post ID": [
         "Bericht-ID"
+      ],
+      "Custom Date Range": [
+        "Eigen datumbereik"
       ],
       "Please provide a Post ID or date range.": [
         "Geef een bericht-ID of datumbereik op."
@@ -330,8 +345,8 @@
       "Value": [
         "Waarde"
       ],
-      "Unlock 10+ more metrics with Pro": [
-        "Ontgrendel 10+ meer metrieken met Pro"
+      "Unlock custom date-range search with Pro": [
+        "Ontgrendel zoeken op een eigen datumbereik met Pro"
       ],
       "Popular Post": [
         "Populair bericht"
@@ -339,17 +354,14 @@
       "Rank": [
         "Rang"
       ],
+      "Post Title": [
+        "Berichttitel"
+      ],
       "Total Interactions": [
         "Totaal interacties"
       ],
       "No data available yet. Start tracking posts to see analytics.": [
         "Nog geen gegevens beschikbaar. Begin met het volgen van berichten om analyses te zien."
-      ],
-      "View all": [
-        "Alles bekijken"
-      ],
-      "posts": [
-        "berichten"
       ],
       "View All Posts": [
         "Alle berichten bekijken"
@@ -525,6 +537,12 @@
       "Track and analyze your TTS player engagement to understand listener behavior.": [
         "Volg en analyseer de betrokkenheid van uw TTS-speler om luistergedrag te begrijpen."
       ],
+      "Show listener location in analytics": [
+        "Locatie van luisteraars tonen in de statistieken"
+      ],
+      "Off by default. When on, listener IP addresses are sent to ip-api.com, ipinfo.io and icanhazip.com to resolve city / country for the Location chart. See \"External services\" in the plugin readme.": [
+        "Standaard uit. Als dit aanstaat, worden de IP-adressen van luisteraars naar ip-api.com, ipinfo.io en icanhazip.com gestuurd om stad en land voor de locatiegrafiek te bepalen. Zie \"Externe diensten\" in het readme-bestand van de plugin."
+      ],
       "Export & Schedule Reports": [
         "Rapporten exporteren & plannen"
       ],
@@ -537,11 +555,38 @@
       "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
         "Schakel analyses in met de schakelaar hierboven om de interacties van uw TTS-speler te volgen en gedetailleerde statistieken te bekijken."
       ],
-      "Showing button to multiple post is not supported in free version.": [
-        "Knop tonen bij meerdere berichten wordt niet ondersteund in de gratis versie."
+      "Available Fields": [
+        "Beschikbare velden"
       ],
-      "Select Items...": [
-        "Selecteer items..."
+      "Select All": [
+        "Alles selecteren"
+      ],
+      "All fields selected": [
+        "Alle velden geselecteerd"
+      ],
+      "No ACF fields found": [
+        "Geen ACF-velden gevonden"
+      ],
+      "Selected (read order)": [
+        "Geselecteerd (leesvolgorde)"
+      ],
+      "Clear All": [
+        "Alles wissen"
+      ],
+      "Click fields on the left to add": [
+        "Klik links op velden om ze toe te voegen"
+      ],
+      "Move up": [
+        "Omhoog"
+      ],
+      "Move down": [
+        "Omlaag"
+      ],
+      "Remove": [
+        "Verwijderen"
+      ],
+      "Use ▲ ▼ to reorder. Fields are read top to bottom.": [
+        "Gebruik ▲ ▼ om de volgorde te wijzigen. De velden worden van boven naar beneden voorgelezen."
       ],
       "Compatibility Status": [
         "Compatibiliteitsstatus"
@@ -567,11 +612,20 @@
       "Adding more than 1  ACF field is a pro feature": [
         "Meer dan 1 ACF-veld toevoegen is een Pro-functie"
       ],
+      "Adding more than 1 ACF field is a pro feature": [
+        "Meer dan 1 ACF-veld toevoegen is een Pro-functie"
+      ],
+      "Use custom reading order": [
+        "Eigen leesvolgorde gebruiken"
+      ],
+      "When enabled, ACF fields are read in the order shown above. When disabled, fields are read in ACF's default field group order.": [
+        "Als dit aanstaat, worden de ACF-velden voorgelezen in de volgorde die hierboven staat. Staat het uit, dan geldt de standaardvolgorde van de ACF-veldgroep."
+      ],
+      "Selected fields are read after the main article content. If a field is already visible in your post content area, it may be read twice. For visible fields, use \"Include Content By CSS Selectors\" in Settings instead to control reading order.": [
+        "De geselecteerde velden worden voorgelezen na de hoofdtekst van het artikel. Staat een veld al zichtbaar in het inhoudsgebied van je bericht, dan wordt het mogelijk twee keer voorgelezen. Gebruik voor zichtbare velden liever \"Inhoud opnemen via CSS-selectors\" bij Instellingen om de leesvolgorde te bepalen."
+      ],
       "Loading": [
         "Laden"
-      ],
-      "Speed": [
-        "Snelheid"
       ],
       "Before Content": [
         "Vóór inhoud"
@@ -579,26 +633,38 @@
       "After Content": [
         "Na inhoud"
       ],
-      "Bottom Fixed (Pro)": [
-        "Onderaan vast (Pro)"
+      "Bottom Full Width": [
+        "Onderaan over de volle breedte"
       ],
-      "Bottom Left (Pro)": [
-        "Linksonder (Pro)"
+      "Bottom Right": [
+        "Rechtsonder"
       ],
-      "Bottom Right (Pro)": [
-        "Rechtsonder (Pro)"
+      "Bottom Left": [
+        "Linksonder"
       ],
-      "Bottom Center (Pro)": [
-        "Onderaan midden (Pro)"
+      "Sticky Top": [
+        "Vast bovenaan"
       ],
       "Select Player": [
         "Selecteer speler"
+      ],
+      "More players (AI voices, MP3) are available in": [
+        "Meer spelers (AI-stemmen, MP3) vind je in"
+      ],
+      "Hear the Pro players live": [
+        "Beluister de Pro-spelers live"
       ],
       "Select Button Position": [
         "Selecteer knoppositie"
       ],
       "Select where to display the player button": [
         "Selecteer waar de spelerknop weergegeven moet worden"
+      ],
+      "Floating Position": [
+        "Zwevende positie"
+      ],
+      "Where the player docks once the reader scrolls past it. Turn docking off entirely with \"When Scroll Down Stop Floating Player\" in Settings.": [
+        "Waar de speler vastklikt zodra de lezer eraan voorbijscrolt. Zet het vastklikken helemaal uit met \"Zwevende speler stoppen bij scrollen\" bij Instellingen."
       ],
       "Display Player To": [
         "Speler weergeven aan"
@@ -635,6 +701,63 @@
       ],
       "Player Customization": [
         "Speleraanpassing"
+      ],
+      "Choose icon": [
+        "Pictogram kiezen"
+      ],
+      "Presets": [
+        "Voorinstellingen"
+      ],
+      "Custom SVG": [
+        "Eigen SVG"
+      ],
+      "<svg ...>...</svg>": [
+        "<svg ...>...</svg>"
+      ],
+      "Use this SVG": [
+        "Deze SVG gebruiken"
+      ],
+      "Allowed: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Server sanitizes on save.": [
+        "Toegestaan: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. De server schoont ze op bij het opslaan."
+      ],
+      "Listen — initial state": [
+        "Luisteren — beginstand"
+      ],
+      "Pause — while speaking": [
+        "Pauze — tijdens het voorlezen"
+      ],
+      "Resume — after user paused": [
+        "Hervatten — nadat de gebruiker heeft gepauzeerd"
+      ],
+      "Replay — after speech finished": [
+        "Opnieuw — nadat het voorlezen klaar is"
+      ],
+      "Reset to default": [
+        "Terug naar standaard"
+      ],
+      "Empty = use factory default": [
+        "Leeg = fabriekswaarde gebruiken"
+      ],
+      "Hide tooltip": [
+        "Tooltip verbergen"
+      ],
+      "Show tooltip (advanced)": [
+        "Tooltip tonen (geavanceerd)"
+      ],
+      "Hover tooltip": [
+        "Tooltip bij zweven"
+      ],
+      "Default Pro": [
+        "Standaard Pro"
+      ],
+      "Button Texts & Icons — ": [
+        "Knopteksten &amp; pictogrammen — "
+      ],
+      "Reset all to defaults": [
+        "Alles terugzetten naar standaard"
+      ],
+      "These labels and icons are shown on the front-end button as it cycles through states. Saved values for the inactive player are preserved if you switch players.": [
+        "Deze labels en pictogrammen worden op de knop aan de voorkant getoond terwijl die de standen doorloopt. Opgeslagen waarden voor de niet-actieve speler blijven bewaard als je van speler wisselt."
       ],
       "Choose player background color": [
         "Kies achtergrondkleur van de speler"
@@ -717,20 +840,23 @@
       "Button Width": [
         "Knopbreedte"
       ],
-      "Enter Custom CSS here": [
-        "Voer hier aangepaste CSS in"
+      "Add custom styling for your player using the WordPress Customizer's Additional CSS editor.": [
+        "Voeg eigen opmaak voor je speler toe via de editor Extra CSS van de WordPress-customizer."
+      ],
+      "Open Appearance → Customize → Additional CSS": [
+        "Weergave → Customizer → Extra CSS openen"
+      ],
+      "Default player preview": [
+        "Voorbeeld van de standaardspeler"
+      ],
+      "This is a preview of the player.": [
+        "Dit is een voorbeeld van de speler."
+      ],
+      "Player settings": [
+        "Spelerinstellingen"
       ],
       "Value should be between 0-100": [
         "Waarde moet tussen 0-100 liggen"
-      ],
-      "This option is only available for the pro version.": [
-        "Deze optie is alleen beschikbaar in de Pro-versie."
-      ],
-      "Default": [
-        "Standaard"
-      ],
-      "Default Pro": [
-        "Standaard Pro"
       ],
       "Customization": [
         "Aanpassing"
@@ -782,9 +908,6 @@
       ],
       "Write here something and click listen button.": [
         "Schrijf hier iets en klik op de luisterknop."
-      ],
-      "Text To Audio:  Tap to listen post.": [
-        "Tekst Naar Audio: Tik om naar bericht te luisteren."
       ],
       "Design Customization": [
         "Ontwerpaanpassing"
@@ -863,6 +986,804 @@
       ],
       "Arguments": [
         "Argumenten"
+      ],
+      "8. Scripts blocked by CORS policy when using a CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)": [
+        "8. Scripts geblokkeerd door het CORS-beleid bij gebruik van een CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)"
+      ],
+      "Symptom:": [
+        "Symptoom:"
+      ],
+      "The browser console shows errors like “Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.” The player never loads.": [
+        "De browserconsole toont fouten zoals “Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.” De speler laadt nooit."
+      ],
+      "Why this happens:": [
+        "Waarom dit gebeurt:"
+      ],
+      "Your CDN is serving our plugin's JavaScript files, but your origin server isn't sending an Access-Control-Allow-Origin header. CDNs are pull caches — they only return what the origin gives them. When WP Rocket's Delay JavaScript (or a similar optimizer) adds a crossorigin attribute to the script tag, the browser then enforces CORS and blocks the load. This is a server configuration on your site, not a plugin bug.": [
+        "Je CDN levert de JavaScript-bestanden van onze plugin, maar je oorspronkelijke server stuurt geen Access-Control-Allow-Origin-header mee. CDN's zijn pull-caches — ze geven alleen terug wat de oorsprong hun geeft. Zodra Delay JavaScript van WP Rocket (of een vergelijkbare optimalisatie) een crossorigin-attribuut aan de scripttag toevoegt, gaat de browser CORS afdwingen en blokkeert hij het laden. Dit is een serverinstelling op je site, geen fout in de plugin."
+      ],
+      "Fix — Apache (.htaccess):": [
+        "Oplossing — Apache (.htaccess):"
+      ],
+      "Add the block below to the .htaccess in your WordPress root (same folder as wp-config.php), above the # BEGIN WP Rocket and # BEGIN WordPress sections.": [
+        "Voeg het blok hieronder toe aan de .htaccess in de hoofdmap van WordPress (dezelfde map als wp-config.php), boven de secties # BEGIN WP Rocket en # BEGIN WordPress."
+      ],
+      "Fix — nginx:": [
+        "Oplossing — nginx:"
+      ],
+      "Add this location block inside your server {} block, then reload nginx (sudo nginx -s reload).": [
+        "Voeg dit location-blok toe binnen je server {}-blok en herlaad daarna nginx (sudo nginx -s reload)."
+      ],
+      "Then — purge your CDN cache:": [
+        "Daarna — leeg de cache van je CDN:"
+      ],
+      "WP Rocket → Settings → CDN → Clear all cache files. (Or purge from your CDN dashboard directly.) Until you purge, the CDN keeps serving the old response without the new header.": [
+        "WP Rocket → Instellingen → CDN → Alle cachebestanden wissen. (Of leeg de cache rechtstreeks vanuit je CDN-dashboard.) Zolang je dat niet doet, blijft het CDN het oude antwoord zonder de nieuwe header leveren."
+      ],
+      "Verify:": [
+        "Controleren:"
+      ],
+      "Run this in a terminal and confirm access-control-allow-origin: * appears in the response headers:": [
+        "Voer dit uit in een terminal en controleer of access-control-allow-origin: * in de antwoordheaders staat:"
+      ],
+      "Optional:": [
+        "Optioneel:"
+      ],
+      "If you'd rather avoid CORS altogether, exclude our plugin's script handles (text-to-audio-*, plyr) from WP Rocket → File Optimization → Delay JavaScript execution. That prevents the crossorigin attribute from being added in the first place. Fixing the header is still the more durable solution.": [
+        "Wil je CORS liever helemaal vermijden, sluit dan de scripthandles van onze plugin (text-to-audio-*, plyr) uit bij WP Rocket → Bestandsoptimalisatie → Delay JavaScript execution. Zo wordt het crossorigin-attribuut om te beginnen al niet toegevoegd. De header corrigeren blijft wel de duurzamere oplossing."
+      ],
+      "Read the full guide on atlasaidev.com →": [
+        "Lees de volledige gids op atlasaidev.com →"
+      ],
+      "9. The player or markers are missing inside post cards, related posts or widgets": [
+        "9. De speler of de markeringen ontbreken in berichtkaarten, gerelateerde berichten of widgets"
+      ],
+      "By default the player button and the AtlasVoice markers/wrapper are emitted only on the main content of the post or page being viewed — never inside a secondary loop such as an Avada \"Post Cards\" grid, a \"Related Posts\" block, or a widget. This is intentional: it prevents the content wrapper from being injected into your theme's grid markup and breaking the layout.": [
+        "Standaard worden de spelerknop en de markeringen/wrapper van AtlasVoice alleen op de hoofdinhoud van het bekeken bericht of de bekeken pagina geplaatst — nooit binnen een secundaire loop zoals een “Post Cards”-raster van Avada, een blok “Gerelateerde berichten” of een widget. Dat is met opzet: zo wordt de inhoudswrapper niet in de rastermarkering van je thema geïnjecteerd en blijft de opmaak heel."
+      ],
+      "If you deliberately want the player to render inside a secondary loop, override the tts_is_secondary_loop filter. It receives the computed boolean, the current loop post ID, and the queried object ID.": [
+        "Wil je de speler bewust wél binnen een secundaire loop tonen, overschrijf dan de filter tts_is_secondary_loop. Die ontvangt de berekende booleaanse waarde, de bericht-ID van de huidige loop en de ID van het opgevraagde object."
+      ],
+      "Allow the player everywhere, including post cards:": [
+        "De speler overal toestaan, ook in berichtkaarten:"
+      ],
+      "Allow it only for a specific post type:": [
+        "Alleen toestaan voor een specifiek berichttype:"
+      ],
+      "Read-Along Highlight": [
+        "Meelezen met markering"
+      ],
+      "Highlight the word and/or sentence being spoken while the post is read aloud.": [
+        "Markeer het woord en/of de zin die wordt uitgesproken terwijl het bericht wordt voorgelezen."
+      ],
+      "speechSynthesis limitation:": [
+        "Beperking van speechSynthesis:"
+      ],
+      "Word-level highlighting relies on the browser's speechSynthesis “boundary” events, which only fire for local (offline) device voices. Remote voices (e.g. the “Google …” voices) and some browsers (notably Firefox) fire no word boundaries, so word highlighting can't track them. When that happens the player automatically falls back to sentence highlighting. Sentence highlighting works with every voice and browser — it's the recommended default.": [
+        "Markeren op woordniveau steunt op de “boundary”-gebeurtenissen van speechSynthesis in de browser, die alleen afgaan bij lokale (offline) stemmen op het apparaat. Externe stemmen (bijv. de “Google …”-stemmen) en sommige browsers (met name Firefox) geven geen woordgrenzen door, waardoor woordmarkering ze niet kan volgen. Gebeurt dat, dan valt de speler automatisch terug op markering per zin. Zinsmarkering werkt met elke stem en elke browser — dat is de aanbevolen standaard."
+      ],
+      "Precise word timing:": [
+        "Nauwkeurige woordtiming:"
+      ],
+      "This player generates audio with real per-word timing, so word-by-word highlighting is accurate and works in every browser — no local-voice requirement and no fallback.": [
+        "Deze speler genereert audio met echte timing per woord, dus markeren woord voor woord is nauwkeurig en werkt in elke browser — geen lokale stem nodig en geen terugval."
+      ],
+      "Already-generated audio:": [
+        "Al gegenereerde audio:"
+      ],
+      "Word timing is captured while the audio is being generated, so posts whose MP3 was created before highlighting was enabled have no timing data — they will use sentence highlighting until their audio is regenerated. To upgrade them, regenerate the audio with the Bulk MP3 tool (or regenerate an individual post). Note: regeneration sends the post content to your TTS provider (Google Cloud / ElevenLabs) again, so it consumes provider characters/credits just like the first generation — word timing can only be produced by the provider during synthesis, which is why it isn't added to existing files automatically.": [
+        "De woordtiming wordt vastgelegd terwijl de audio wordt gegenereerd. Berichten waarvan de MP3 al bestond voordat markeren werd ingeschakeld hebben dus geen timinggegevens — daar wordt zinsmarkering gebruikt tot hun audio opnieuw is gegenereerd. Wil je die bijwerken, genereer de audio dan opnieuw met het gereedschap Bulk-MP3 (of genereer een afzonderlijk bericht opnieuw). Let op: bij opnieuw genereren gaat de berichtinhoud weer naar je TTS-aanbieder (Google Cloud / ElevenLabs), waardoor er net als bij de eerste keer tekens/credits van de aanbieder worden verbruikt — woordtiming kan alleen tijdens de synthese door de aanbieder worden geproduceerd, en daarom wordt die niet automatisch aan bestaande bestanden toegevoegd."
+      ],
+      "Successfully Saved...": [
+        "Opgeslagen..."
+      ],
+      "Enable highlighting": [
+        "Markeren inschakelen"
+      ],
+      "Turn read-along highlighting on or off for the browser players.": [
+        "Zet meelezen met markering aan of uit voor de browserspelers."
+      ],
+      "Highlight mode": [
+        "Markeermodus"
+      ],
+      "“Sentence only” works with any voice. “Word” and “Word + Sentence” need a local voice that fires boundary events, and fall back to sentence highlighting otherwise.": [
+        "“Alleen zin” werkt met elke stem. “Woord” en “Woord + zin” hebben een lokale stem nodig die boundary-gebeurtenissen afvuurt, en vallen anders terug op zinsmarkering."
+      ],
+      "Sentence only (recommended)": [
+        "Alleen zin (aanbevolen)"
+      ],
+      "Word only": [
+        "Alleen woord"
+      ],
+      "Word + Sentence": [
+        "Woord + zin"
+      ],
+      "The current player uses generated audio, so read-along highlighting is sentence-level. Word-level options don't apply here.": [
+        "De huidige speler gebruikt gegenereerde audio, dus meelezen met markering werkt op zinsniveau. De opties op woordniveau gelden hier niet."
+      ],
+      "Word highlight color": [
+        "Markeerkleur voor het woord"
+      ],
+      "Background color painted behind the word currently being spoken.": [
+        "Achtergrondkleur achter het woord dat op dat moment wordt uitgesproken."
+      ],
+      "Word text color": [
+        "Tekstkleur van het woord"
+      ],
+      "Text color of the spoken word, for contrast against the highlight color.": [
+        "Tekstkleur van het uitgesproken woord, voor contrast met de markeerkleur."
+      ],
+      "Sentence highlight color": [
+        "Markeerkleur voor de zin"
+      ],
+      "Softer background painted behind the whole sentence being read.": [
+        "Zachtere achtergrond achter de hele zin die wordt voorgelezen."
+      ],
+      "Dim the rest of the article": [
+        "De rest van het artikel dimmen"
+      ],
+      "Fade the surrounding text while reading so the spoken word/sentence stands out.": [
+        "Laat de omringende tekst vervagen tijdens het voorlezen, zodat het gesproken woord of de gesproken zin opvalt."
+      ],
+      "Dimmed text opacity": [
+        "Doorzichtigheid van gedimde tekst"
+      ],
+      "How visible the dimmed (non-spoken) text stays. Lower = more dimmed.": [
+        "Hoe zichtbaar de gedimde (niet-gesproken) tekst blijft. Lager = sterker gedimd."
+      ],
+      "Listen to selected text": [
+        "Geselecteerde tekst beluisteren"
+      ],
+      "Show a small “Listen” control when a reader selects text in the article, to read only the selection — or from the selected word to the end. On the browser players the selection is spoken directly; on MP3 players the audio jumps to the matching position (precise on Google Cloud/ElevenLabs with word timing, approximate otherwise).": [
+        "Toon een kleine knop “Luisteren” zodra een lezer tekst in het artikel selecteert, om alleen die selectie voor te lezen — of vanaf het geselecteerde woord tot het einde. Op de browserspelers wordt de selectie direct uitgesproken; op MP3-spelers springt de audio naar de bijbehorende positie (nauwkeurig bij Google Cloud/ElevenLabs met woordtiming, anders bij benadering)."
+      ],
+      "Announce selection listening": [
+        "Melding over luisteren naar selectie"
+      ],
+      "How readers learn the feature exists. The one-time tip appears under the player after their first play and never returns once dismissed. The floating side badge sits collapsed on the left edge and expands on hover; closing it hides it for the visitor's session.": [
+        "Hoe lezers ontdekken dat deze functie bestaat. De eenmalige tip verschijnt onder de speler na hun eerste keer afspelen en komt nooit terug zodra die is weggeklikt. De zwevende zijbadge zit ingeklapt tegen de linkerrand en klapt uit bij zweven; sluiten verbergt hem voor de sessie van de bezoeker."
+      ],
+      "One-time tip after first play (recommended)": [
+        "Eenmalige tip na de eerste keer afspelen (aanbevolen)"
+      ],
+      "Floating side badge": [
+        "Zwevende zijbadge"
+      ],
+      "Both": [
+        "Beide"
+      ],
+      "Off — discover by selecting": [
+        "Uit — ontdekken door te selecteren"
+      ],
+      "Auto-scroll to follow": [
+        "Automatisch meescrollen"
+      ],
+      "Smoothly scroll the page to keep the spoken word in view. Turn off if scrolling is distracting.": [
+        "Scrol de pagina soepel mee zodat het gesproken woord in beeld blijft. Zet dit uit als het meescrollen afleidt."
+      ],
+      "Saving…": [
+        "Opslaan…"
+      ],
+      "Save Changes": [
+        "Wijzigingen opslaan"
+      ],
+      "Help information about this setting": [
+        "Hulpinformatie over deze instelling"
+      ],
+      "Read the full documentation": [
+        "Lees de volledige documentatie"
+      ],
+      "Integration Setup": [
+        "Integratie-instelling"
+      ],
+      "Connect premium AI voice providers to generate natural MP3 audio.": [
+        "Koppel premium AI-stemaanbieders om natuurlijke MP3-audio te genereren."
+      ],
+      "Voice Integrations — Pro Feature": [
+        "Steminstellingen — Pro-functie"
+      ],
+      "Google Cloud TTS, ChatGPT, and ElevenLabs integrations are available in AtlasVoice Pro. The free plugin uses your browser's built-in voices.": [
+        "De integraties met Google Cloud TTS, ChatGPT en ElevenLabs zitten in AtlasVoice Pro. De gratis plugin gebruikt de ingebouwde stemmen van je browser."
+      ],
+      "Voice Language": [
+        "Stemtaal"
+      ],
+      "Default Listening Language": [
+        "Standaard luistertaal"
+      ],
+      "Voice to speak": [
+        "Stem om te spreken"
+      ],
+      "Default Listening Voice": [
+        "Standaard luisterstem"
+      ],
+      "Hear 200+ Pro AI voices live": [
+        "Beluister live meer dan 200 Pro-AI-stemmen"
+      ],
+      "Voice Speed": [
+        "Stemsnelheid"
+      ],
+      "Voice Volume": [
+        "Stemvolume"
+      ],
+      "Voice Pitch": [
+        "Stemtoonhoogte"
+      ],
+      "Default Listening Pitch": [
+        "Standaard luistertoonhoogte"
+      ],
+      "Listening Preferences": [
+        "Luistervoorkeuren"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Stel uw luistervoorkeuren in met verschillende stemmen en talen."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Luisterinstellingen opgeslagen. Nu is alles ingesteld. Geniet ervan"
+      ],
+      "Multilingual Voice Mapping — Pro Feature": [
+        "Meertalige stemkoppeling — Pro-functie"
+      ],
+      "We detected an active translation plugin. Mapping a voice and language to each translated language is available in AtlasVoice Pro.": [
+        "We hebben een actieve vertaalplugin gevonden. Een stem en taal koppelen aan elke vertaalde taal zit in AtlasVoice Pro."
+      ],
+      "Scan failed.": [
+        "Scannen mislukt."
+      ],
+      "Scan failed: ": [
+        "Scannen mislukt: "
+      ],
+      "No files selected.": [
+        "Geen bestanden geselecteerd."
+      ],
+      "Deleted": [
+        "Verwijderd"
+      ],
+      "Freed": [
+        "Vrijgemaakt"
+      ],
+      "Deletion failed.": [
+        "Verwijderen mislukt."
+      ],
+      "Deletion failed: ": [
+        "Verwijderen mislukt: "
+      ],
+      "Maintenance": [
+        "Onderhoud"
+      ],
+      "⚠ Destructive action.": [
+        "⚠ Onomkeerbare actie."
+      ],
+      "This tool permanently deletes leftover per-batch MP3 chunks (files like title-1.mp3, title-2.mp3) from uploads/TTA_Pro/. Only files that meet all of the following are listed:": [
+        "Dit gereedschap verwijdert definitief achtergebleven MP3-deelbestanden per batch (bestanden als titel-1.mp3, titel-2.mp3) uit uploads/TTA_Pro/. Alleen bestanden die aan alle onderstaande voorwaarden voldoen worden getoond:"
+      ],
+      "Filename ends with -N.mp3 where N is a number": [
+        "De bestandsnaam eindigt op -N.mp3, waarbij N een getal is"
+      ],
+      "The final concatenated file (title.mp3) already exists in the same folder": [
+        "Het uiteindelijke samengevoegde bestand (titel.mp3) staat al in dezelfde map"
+      ],
+      "The file is older than 1 hour (so an in-flight batch is never affected)": [
+        "Het bestand is ouder dan 1 uur (zodat een lopende batch nooit wordt geraakt)"
+      ],
+      "The file sits under wp-uploads/TTA_Pro/ (path traversal is rejected)": [
+        "Het bestand staat onder wp-uploads/TTA_Pro/ (path traversal wordt geweigerd)"
+      ],
+      "⚠ Reduced safety margin.": [
+        "⚠ Kleinere veiligheidsmarge."
+      ],
+      "You have lowered the age threshold below the 1-hour safe default. Files created by an in-flight batch could match. Only use this if no generation is currently running.": [
+        "Je hebt de leeftijdsdrempel onder de veilige standaard van 1 uur gezet. Bestanden van een lopende batch kunnen nu meetellen. Gebruik dit alleen als er op dit moment niets wordt gegenereerd."
+      ],
+      "Include files older than:": [
+        "Bestanden meenemen die ouder zijn dan:"
+      ],
+      "Scanning…": [
+        "Bezig met scannen…"
+      ],
+      "Scan for orphan files": [
+        "Scannen op weesbestanden"
+      ],
+      "Per page:": [
+        "Per pagina:"
+      ],
+      "Delete selected": [
+        "Geselecteerde verwijderen"
+      ],
+      "Delete all": [
+        "Alles verwijderen"
+      ],
+      "Total orphans:": [
+        "Totaal aantal weesbestanden:"
+      ],
+      "Disk usage:": [
+        "Schijfgebruik:"
+      ],
+      "Nothing to clean — no orphan temp files found.": [
+        "Niets op te ruimen — geen achtergebleven tijdelijke bestanden gevonden."
+      ],
+      "All": [
+        "Alle"
+      ],
+      "orphan files": [
+        "weesbestanden"
+      ],
+      "across all pages are selected.": [
+        "op alle pagina's zijn geselecteerd."
+      ],
+      "Clear selection": [
+        "Selectie wissen"
+      ],
+      "files on this page are selected.": [
+        "bestanden op deze pagina zijn geselecteerd."
+      ],
+      "Select all": [
+        "Alles selecteren"
+      ],
+      "files across all pages": [
+        "bestanden op alle pagina's"
+      ],
+      "File": [
+        "Bestand"
+      ],
+      "Provider": [
+        "Aanbieder"
+      ],
+      "Size": [
+        "Grootte"
+      ],
+      "Modified": [
+        "Gewijzigd"
+      ],
+      "Previous": [
+        "Vorige"
+      ],
+      "Page": [
+        "Pagina"
+      ],
+      "Next": [
+        "Volgende"
+      ],
+      "Confirm deletion": [
+        "Verwijderen bevestigen"
+      ],
+      "You are about to permanently delete": [
+        "Je staat op het punt definitief te verwijderen:"
+      ],
+      "files": [
+        "bestanden"
+      ],
+      "This cannot be undone. Server-side safety rules will re-validate each file before deletion.": [
+        "Dit kan niet ongedaan worden gemaakt. De veiligheidsregels op de server controleren elk bestand opnieuw vóór het verwijderen."
+      ],
+      "Type ": [
+        "Typ "
+      ],
+      " to confirm:": [
+        " om te bevestigen:"
+      ],
+      "Deleting…": [
+        "Bezig met verwijderen…"
+      ],
+      "Permanently delete": [
+        "Definitief verwijderen"
+      ],
+      "Maintenance tools are available with the Pro plugin active.": [
+        "Het onderhoudsgereedschap is beschikbaar zodra de Pro-plugin actief is."
+      ],
+      "Include Content By CSS Selectors": [
+        "Inhoud opnemen met CSS-selectors"
+      ],
+      "e.g. div.entry-content (multi-line allowed)": [
+        "bijv. div.entry-content (meerdere regels toegestaan)"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Inhoud uitsluiten met CSS-selectors"
+      ],
+      "e.g. .share-bar, .related-posts": [
+        "bijv. .share-bar, .related-posts"
+      ],
+      "Exclude HTML Tags To Speak": [
+        "HTML-tags uitsluiten van voorlezen"
+      ],
+      "Pipe-separated. e.g. blockquote|figure": [
+        "Gescheiden door een verticale streep, bijv. blockquote|figure"
+      ],
+      "Exclude Texts To Speak": [
+        "Teksten uitsluiten van voorlezen"
+      ],
+      "Pipe-separated. e.g. Read more...|Advertisement": [
+        "Gescheiden door een verticale streep, bijv. Lees meer...|Advertentie"
+      ],
+      "Could not find a post matching that ID or slug.": [
+        "Geen bericht gevonden met die ID of slug."
+      ],
+      "No published post available to launch the picker on.": [
+        "Er is geen gepubliceerd bericht om de kiezer op te starten."
+      ],
+      "Picker launch failed.": [
+        "Openen van de kiezer mislukt."
+      ],
+      "Opening…": [
+        "Bezig met openen…"
+      ],
+      "Pick Visually": [
+        "Visueel kiezen"
+      ],
+      "Excludes are a Pro feature": [
+        "Uitsluitingen zijn een Pro-functie"
+      ],
+      "On Free you can set the Include Content By CSS Selectors rule below. Excluding content by CSS selectors, HTML tags, or text — plus per-post and per-post-type targeting — are AtlasVoice Pro features.": [
+        "In de gratis versie kun je hieronder de regel Inhoud opnemen via CSS-selectors instellen. Inhoud uitsluiten via CSS-selectors, HTML-tags of tekst — plus richten per bericht en per berichttype — zijn functies van AtlasVoice Pro."
+      ],
+      "Pro feature — value won't be saved on Free. Upgrade to enable.": [
+        "Pro-functie — de waarde wordt in de gratis versie niet opgeslagen. Stap over om hem in te schakelen."
+      ],
+      "Pick visually for the global rule": [
+        "Visueel kiezen voor de algemene regel"
+      ],
+      "Pick visually for this post type": [
+        "Visueel kiezen voor dit berichttype"
+      ],
+      "Global": [
+        "Algemeen"
+      ],
+      "Post type:": [
+        "Berichttype:"
+      ],
+      "Manual post (optional)": [
+        "Handmatig bericht (optioneel)"
+      ],
+      "Slug or post ID — leave blank to use a sample": [
+        "Slug of bericht-ID — laat leeg om een voorbeeld te gebruiken"
+      ],
+      "Configure Settings": [
+        "Instellingen configureren"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "Configureer het gedrag van de tekst-naar-spraak speler en inhoudsselectie"
+      ],
+      "Run Setup Wizard": [
+        "Installatiewizard starten"
+      ],
+      "All cache deleted": [
+        "Alle cache verwijderd"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "Succesvol opgeslagen. Ga nu naar het menu \"Aanpassing\"."
+      ],
+      "Some Pro-only fields were skipped — upgrade to enable them.": [
+        "Sommige Pro-velden zijn overgeslagen — stap over om ze in te schakelen."
+      ],
+      "Add Button or Player Automatically": [
+        "Knop of speler automatisch toevoegen"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "De functie \"Knop of speler automatisch toevoegen\" stelt AtlasVoice in staat om automatisch een afspeelknop of audiospeler in uw berichten of pagina's in te voegen — zonder handmatige configuratie."
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "Doorgaan met lezen na wisselen naar een ander tabblad"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "Wanneer ingeschakeld, blijft tekst-naar-spraak afspelen, zelfs als u weg navigeert van het huidige tabblad"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "Automatisch afspelen stoppen na terugkeer naar TTS-tabblad"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "Afspelen automatisch pauzeren bij terugkeer naar het TTS-tabblad vanuit een ander tabblad"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "Bij scrollen naar beneden zwevende speler stoppen"
+      ],
+      "Turn this on to keep the player in place instead of floating it when readers scroll past. Applies to the Bottom positions in Customization.": [
+        "Zet dit aan om de speler op zijn plek te houden in plaats van te laten zweven zodra lezers eraan voorbijscrollen. Geldt voor de posities onderaan bij Aanpassen."
+      ],
+      "Apply number format": [
+        "Nummerformaat toepassen"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "Nummers omzetten naar gesproken woorden (bijv. '123' wordt 'honderddrieentwintig')"
+      ],
+      "Read Content From Dom": [
+        "Inhoud lezen vanuit DOM"
+      ],
+      "Add Post Title To Read": [
+        "Berichttitel toevoegen om voor te lezen"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "Neem de berichttitel op in het afspelen vóór het voorlezen van de hoofdinhoud"
+      ],
+      "Add Post Excerpt To Read": [
+        "Berichtsamenvatting toevoegen om voor te lezen"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "Neem de berichtsamenvatting op in het afspelen vóór het voorlezen van de hoofdinhoud"
+      ],
+      "Enable TTS Status": [
+        "TTS-status inschakelen"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "TTS-status inschakelen op de berichtpagina."
+      ],
+      "Emit Content Wrapper": [
+        "Inhoudswrapper plaatsen"
+      ],
+      "Wrap rendered post content in a stable `tts_content_wrapper_<N>` div so the picker / runtime extractor can reliably find it across all posts. Turn off only if your theme's layout breaks on the wrapper.": [
+        "Zet de weergegeven berichtinhoud in een vaste div `tts_content_wrapper_<N>`, zodat de kiezer / de extractor die tijdens het draaien werkt hem in alle berichten betrouwbaar terugvindt. Zet dit alleen uit als de opmaak van je thema breekt door de wrapper."
+      ],
+      "Add Text Before Content(intro)": [
+        "Tekst toevoegen vóór inhoud (intro)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "Aangepaste tekst die hardop wordt voorgelezen vóór de hoofdinhoud begint"
+      ],
+      "Add Text Before Content": [
+        "Tekst toevoegen vóór inhoud"
+      ],
+      "Add Text After Content(outro)": [
+        "Tekst toevoegen na inhoud (outro)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "Aangepaste tekst die hardop wordt voorgelezen nadat de hoofdinhoud is afgelopen"
+      ],
+      "Add Text After Content": [
+        "Tekst toevoegen na inhoud"
+      ],
+      "Allow Listening For Post Type": [
+        "Luisteren toestaan voor berichttype"
+      ],
+      "Show on-page content selector": [
+        "Inhoudskiezer op de pagina tonen"
+      ],
+      "Adds the AtlasVoice Selector tabs on the front end for admins so you can pick what gets read aloud right on the post page. Off by default; even when on, it only opens from the “Pick visually” links and never appears on a plain page.": [
+        "Voegt aan de voorkant de tabbladen van AtlasVoice Selector toe voor beheerders, zodat je meteen op de berichtpagina kunt kiezen wat er wordt voorgelezen. Standaard uit; ook als het aanstaat, opent het alleen via de links “Visueel kiezen” en verschijnt het nooit op een gewone pagina."
+      ],
+      "Full details: on-page content selector & Staging / Live": [
+        "Alle details: inhoudskiezer op de pagina & staging / live"
+      ],
+      "Show Staging / Live indicator in toolbar": [
+        "Staging/live-indicator in de werkbalk tonen"
+      ],
+      "Shows the AtlasVoice mode (Staging or Live) in the WordPress admin bar so you can tell at a glance whether saved rules are driving visitor audio. It is always shown while the on-page content selector is open.": [
+        "Toont de modus van AtlasVoice (staging of live) in de beheerbalk van WordPress, zodat je in één oogopslag ziet of de opgeslagen regels de audio voor bezoekers aansturen. Zolang de inhoudskiezer op de pagina openstaat, wordt hij altijd getoond."
+      ],
+      "Content Selection Rules": [
+        "Regels voor inhoudsselectie"
+      ],
+      "Control which part of your content is read aloud. Set a rule for the whole site (Global) below.": [
+        "Bepaal welk deel van je inhoud wordt voorgelezen. Stel hieronder een regel in voor de hele site (Algemeen)."
+      ],
+      "Allow Listening For Post Status": [
+        "Luisteren toestaan voor berichtstatus"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "In de gratis versie kunt u slechts 1 berichttype selecteren."
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "Berichten uitsluiten op ID van voorlezen"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "Meer dan 5 ID's uitsluiten is een Pro-functie"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "Meerdere ID's worden gescheiden door komma(,)."
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "Meer dan 5 ID's uitsluiten is een Pro-functie. Meerdere ID's worden gescheiden door komma(,)."
+      ],
+      "Exclude Categories To Speak": [
+        "Categorieën uitsluiten van voorlezen"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "Meer dan 1 categorie uitsluiten is een Pro-functie"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "In de gratis versie kunt u slechts 1 categorie selecteren."
+      ],
+      "Exclude Tags To Speak": [
+        "Tags uitsluiten van voorlezen"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "Meer dan 1 tag uitsluiten is een Pro-functie"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "In de gratis versie kunt u slechts 1 tag selecteren."
+      ],
+      "Enable Button Icon": [
+        "Knoppictogram inschakelen"
+      ],
+      "Show per-post player toggle in toolbar": [
+        "Spelerschakelaar per bericht in de werkbalk tonen"
+      ],
+      "Adds a “Toggle AtlasVoice audio player for this post” control to the WordPress admin bar on front-end pages.": [
+        "Voegt op pagina's aan de voorkant de knop “Audiospeler van AtlasVoice aan/uit voor dit bericht” toe aan de beheerbalk van WordPress."
+      ],
+      "Show dashboard widget": [
+        "Dashboardwidget tonen"
+      ],
+      "Display the AtlasVoice Quick Stats widget on the WordPress admin dashboard.": [
+        "Toon de widget Snelle statistieken van AtlasVoice op het beheerdersdashboard van WordPress."
+      ],
+      "Clear all cache": [
+        "Alle cache wissen"
+      ],
+      "Delete all data on uninstall": [
+        "Alle gegevens verwijderen bij deïnstallatie"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "Wanneer ingeschakeld, worden alle plugingegevens (instellingen, analyses, gegenereerde audiobestanden) permanent verwijderd wanneer de plugin wordt verwijderd. Houd dit UIT als u van plan bent opnieuw te installeren of aan het debuggen bent."
+      ],
+      "⚠️ WARNING: Enabling this will permanently delete ALL plugin data (settings, analytics, generated audio files) when you uninstall the plugin. This action cannot be undone.\n\nAre you sure you want to enable this?": [
+        "⚠️ WAARSCHUWING: als je dit aanzet, worden bij het verwijderen van de plugin ALLE plugingegevens definitief gewist (instellingen, statistieken, gegenereerde audiobestanden). Dit kan niet ongedaan worden gemaakt.\n\nWeet je zeker dat je dit wilt aanzetten?"
+      ],
+      "⚠ Warning:": [
+        "⚠ Waarschuwing:"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "Alle plugingegevens worden permanent verwijderd wanneer u de plugin verwijdert. Zet dit UIT als u van plan bent opnieuw te installeren, te debuggen of van versie te wisselen."
+      ],
+      "Danger zone — reset all plugin data": [
+        "Gevarenzone — alle plugingegevens resetten"
+      ],
+      "Permanently deletes every AtlasVoice option, transient, post-meta entry, cron event, and the analytics database table. The plugin stays active and boots as a fresh install on the next page load. This action cannot be undone.": [
+        "Verwijdert definitief elke optie, transient, berichtmeta-item en cron-gebeurtenis van AtlasVoice, plus de databasetabel met statistieken. De plugin blijft actief en start bij de volgende paginaweergave op als een verse installatie. Dit kan niet ongedaan worden gemaakt."
+      ],
+      "Type": [
+        "Typ"
+      ],
+      "to confirm:": [
+        "om te bevestigen:"
+      ],
+      "All plugin data has been reset. Reloading…": [
+        "Alle plugingegevens zijn gereset. Bezig met herladen…"
+      ],
+      "Reset failed.": [
+        "Resetten mislukt."
+      ],
+      "Resetting…": [
+        "Bezig met resetten…"
+      ],
+      "Reset all plugin data": [
+        "Alle plugingegevens resetten"
+      ],
+      "Save All": [
+        "Alles opslaan"
+      ],
+      "No IDs selected": [
+        "Geen ID's geselecteerd"
+      ],
+      "Select IDs": [
+        "Selecteer ID's"
+      ],
+      "Native speaker": [
+        "Moedertaalspreker"
+      ],
+      "Slow and clear": [
+        "Langzaam en duidelijk"
+      ],
+      "Warm and friendly": [
+        "Warm en vriendelijk"
+      ],
+      "Professional newsreader": [
+        "Professionele nieuwslezer"
+      ],
+      "Storyteller": [
+        "Verteller"
+      ],
+      "Custom": [
+        "Aangepast"
+      ],
+      "Live demo": [
+        "Live demo"
+      ],
+      "Recording Data Saved": [
+        "Opnamegegevens opgeslagen"
+      ],
+      "No published post found to launch the picker.": [
+        "Geen gepubliceerd bericht gevonden om de kiezer op te starten."
+      ],
+      "Could not open the picker: ": [
+        "De kiezer kon niet worden geopend: "
+      ],
+      "Pick visually with AtlasVoiceSelector": [
+        "Visueel kiezen met AtlasVoiceSelector"
+      ],
+      "Opens a sample post in a new tab. Pick / drag in the rail and click Save to update all four fields below.": [
+        "Opent een voorbeeldbericht in een nieuw tabblad. Kies of sleep in de balk en klik op Opslaan om alle vier de velden hieronder bij te werken."
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "De functie Inhoud opnemen met CSS-selectors is beschikbaar in de Pro-versie"
+      ],
+      "Multiple selector will be multiline.": [
+        "Meerdere selectors worden op aparte regels geplaatst."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Sommige inhoud kan ontbreken, deze kan gevonden worden met CSS-selectors"
+      ],
+      "Add CSS selectors for the content areas the player should read. One selector per line. Only target post/page body content. If left empty, the player automatically detects the content area.": [
+        "Voeg CSS-selectors toe voor de inhoudsgebieden die de speler moet voorlezen. Eén selector per regel. Richt je alleen op de hoofdtekst van berichten/pagina's. Laat je dit leeg, dan spoort de speler het inhoudsgebied automatisch op."
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "De functie Inhoud uitsluiten met CSS-selectors is beschikbaar in de Pro-versie"
+      ],
+      "Exclude content by CSS selectors": [
+        "Inhoud uitsluiten met CSS-selectors"
+      ],
+      "You can add \".atlasvoice_no_read\" class to exclude content.": [
+        "U kunt de klasse \".atlasvoice_no_read\" toevoegen om inhoud uit te sluiten."
+      ],
+      "Remove specific elements within the included content areas above. One selector per line. Example: .social-share, .related-posts, .author-bio": [
+        "Verwijder specifieke elementen binnen de hierboven opgenomen inhoudsgebieden. Eén selector per regel. Voorbeeld: .social-share, .related-posts, .author-bio"
+      ],
+      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Tags uitsluiten. Zodat de inhoud ervan wordt overgeslagen. Zoals (Subscript, Superscript enz.) Dit is een Pro-functie."
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Meerdere tags worden gescheiden door Pipe(|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Tags uitsluiten is een Pro-functie."
+      ],
+      "HTML tags to skip within the included content. Pipe-separated. script, style, figure, and figcaption are always excluded automatically. Example: sub|sup|blockquote": [
+        "HTML-tags die binnen de opgenomen inhoud worden overgeslagen. Gescheiden door een verticale streep. script, style, figure en figcaption worden altijd automatisch uitgesloten. Voorbeeld: sub|sup|blockquote"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Teksten uitsluiten van voorlezen is een Pro-functie."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Meerdere teksten worden gescheiden door Pipe(|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Teksten uitsluiten is een Pro-functie."
+      ],
+      "Exact text patterns to remove from the spoken content. Pipe-separated. Applied after all CSS and tag exclusions. Example: Read more...|Advertisement|Sponsored Content": [
+        "Exacte tekstpatronen die uit de gesproken inhoud worden gehaald. Gescheiden door een verticale streep. Worden toegepast na alle uitsluitingen op CSS en tags. Voorbeeld: Lees meer...|Advertentie|Gesponsorde inhoud"
+      ],
+      "See the Pro demo": [
+        "Bekijk de Pro-demo"
+      ],
+      "more": [
+        "meer"
+      ],
+      "Browser Analytics": [
+        "Browseranalyses"
+      ],
+      "Unlock city-level analytics": [
+        "Ontgrendel analyses op stadsniveau"
+      ],
+      "Enable comparison with previous period": [
+        "Vergelijking met vorige periode inschakelen"
+      ],
+      "Tracking more than 20 post IDs is a Pro feature": [
+        "Het volgen van meer dan 20 bericht-ID's is een Pro-functie"
+      ],
+      "Unlock 10+ more metrics with Pro": [
+        "Ontgrendel 10+ meer metrieken met Pro"
+      ],
+      "View all": [
+        "Alles bekijken"
+      ],
+      "Bottom Fixed (Pro)": [
+        "Onderaan vast (Pro)"
+      ],
+      "Bottom Left (Pro)": [
+        "Linksonder (Pro)"
+      ],
+      "Bottom Right (Pro)": [
+        "Rechtsonder (Pro)"
+      ],
+      "Bottom Center (Pro)": [
+        "Onderaan midden (Pro)"
+      ],
+      "Enter Custom CSS here": [
+        "Voer hier aangepaste CSS in"
+      ],
+      "This option is only available for the pro version.": [
+        "Deze optie is alleen beschikbaar in de Pro-versie."
+      ],
+      "Text To Audio:  Tap to listen post.": [
+        "Tekst Naar Audio: Tik om naar bericht te luisteren."
       ],
       "Backup MP3 Files To Google Cloud Storage Can Be Enabled If Google Cloud TTS Is Authenticated.": [
         "Back-up van MP3-bestanden naar Google Cloud Storage kan worden ingeschakeld als Google Cloud TTS is geverifieerd."
@@ -1104,9 +2025,6 @@
       "How to get ElevenLabs API key?": [
         "Hoe verkrijg ik een ElevenLabs API-sleutel?"
       ],
-      "Integration Setup": [
-        "Integratie-instelling"
-      ],
       "AtlasVoice Pro works fully fine even without Google TTS/ChatGPT integration.": [
         "AtlasVoice Pro werkt prima, zelfs zonder Google TTS/ChatGPT-integratie."
       ],
@@ -1176,17 +2094,8 @@
       "Voice Model": [
         "Stemmodel"
       ],
-      "Voice Language": [
-        "Stemtaal"
-      ],
-      "Default Listening Language": [
-        "Standaard luistertaal"
-      ],
       "Voice to Speak": [
         "Stem om te spreken"
-      ],
-      "Default Listening Voice": [
-        "Standaard luisterstem"
       ],
       "Voice Instructions": [
         "Steminstructies"
@@ -1203,32 +2112,8 @@
       "Enter custom instructions for the voice...": [
         "Voer aangepaste instructies in voor de stem..."
       ],
-      "Voice Speed": [
-        "Stemsnelheid"
-      ],
       "Your browser does not support the audio element.": [
         "Uw browser ondersteunt het audio-element niet."
-      ],
-      "Listening Preferences": [
-        "Luistervoorkeuren"
-      ],
-      "Set your listening preferences with different voices and languages.": [
-        "Stel uw luistervoorkeuren in met verschillende stemmen en talen."
-      ],
-      "Listening settings saved. Now all setup done. Enjoy": [
-        "Luisterinstellingen opgeslagen. Nu is alles ingesteld. Geniet ervan"
-      ],
-      "Voice to speak": [
-        "Stem om te spreken"
-      ],
-      "Voice Volume": [
-        "Stemvolume"
-      ],
-      "Voice Pitch": [
-        "Stemtoonhoogte"
-      ],
-      "Default Listening Pitch": [
-        "Standaard luistertoonhoogte"
       ],
       "Model": [
         "Model"
@@ -1302,185 +2187,11 @@
       "Current Player Voice": [
         "Huidige spelerstem"
       ],
-      "Help information about this setting": [
-        "Hulpinformatie over deze instelling"
-      ],
-      "Configure Settings": [
-        "Instellingen configureren"
-      ],
-      "Configure text-to-speech player behavior and content selection": [
-        "Configureer het gedrag van de tekst-naar-spraak speler en inhoudsselectie"
-      ],
-      "Run Setup Wizard": [
-        "Installatiewizard starten"
-      ],
-      "All cache deleted": [
-        "Alle cache verwijderd"
-      ],
-      "Successfully Saved. Now go to the \"Customization\" menu.": [
-        "Succesvol opgeslagen. Ga nu naar het menu \"Aanpassing\"."
-      ],
-      "Add Button or Player Automatically": [
-        "Knop of speler automatisch toevoegen"
-      ],
-      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
-        "De functie \"Knop of speler automatisch toevoegen\" stelt AtlasVoice in staat om automatisch een afspeelknop of audiospeler in uw berichten of pagina's in te voegen — zonder handmatige configuratie."
-      ],
-      "Continue Reading After Switching To Another Tab": [
-        "Doorgaan met lezen na wisselen naar een ander tabblad"
-      ],
-      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
-        "Wanneer ingeschakeld, blijft tekst-naar-spraak afspelen, zelfs als u weg navigeert van het huidige tabblad"
-      ],
-      "Stop Auto Play After Switching To TTS Tab": [
-        "Automatisch afspelen stoppen na terugkeer naar TTS-tabblad"
-      ],
-      "Automatically pause playback when switching back to the TTS tab from another tab": [
-        "Afspelen automatisch pauzeren bij terugkeer naar het TTS-tabblad vanuit een ander tabblad"
-      ],
-      "When Scroll Down Stop Floating Player": [
-        "Bij scrollen naar beneden zwevende speler stoppen"
-      ],
       "Automatically pause the floating player when users scroll down the page": [
         "De zwevende speler automatisch pauzeren wanneer gebruikers naar beneden scrollen"
       ],
-      "Apply number format": [
-        "Nummerformaat toepassen"
-      ],
-      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
-        "Nummers omzetten naar gesproken woorden (bijv. '123' wordt 'honderddrieentwintig')"
-      ],
-      "Read Content From Dom": [
-        "Inhoud lezen vanuit DOM"
-      ],
       "Use Old Player UI": [
         "Oude speler-interface gebruiken"
-      ],
-      "Add Post Title To Read": [
-        "Berichttitel toevoegen om voor te lezen"
-      ],
-      "Include the post title in the audio playback before reading the main content": [
-        "Neem de berichttitel op in het afspelen vóór het voorlezen van de hoofdinhoud"
-      ],
-      "Add Post Excerpt To Read": [
-        "Berichtsamenvatting toevoegen om voor te lezen"
-      ],
-      "Include the post excerpt/summary in the audio playback before reading the main content": [
-        "Neem de berichtsamenvatting op in het afspelen vóór het voorlezen van de hoofdinhoud"
-      ],
-      "Enable TTS Status": [
-        "TTS-status inschakelen"
-      ],
-      "Enable TTS Status In Post Page.": [
-        "TTS-status inschakelen op de berichtpagina."
-      ],
-      "Add Text Before Content(intro)": [
-        "Tekst toevoegen vóór inhoud (intro)"
-      ],
-      "Custom text that will be read aloud before the main content begins": [
-        "Aangepaste tekst die hardop wordt voorgelezen vóór de hoofdinhoud begint"
-      ],
-      "Add Text Before Content": [
-        "Tekst toevoegen vóór inhoud"
-      ],
-      "Add Text After Content(outro)": [
-        "Tekst toevoegen na inhoud (outro)"
-      ],
-      "Custom text that will be read aloud after the main content finishes": [
-        "Aangepaste tekst die hardop wordt voorgelezen nadat de hoofdinhoud is afgelopen"
-      ],
-      "Add Text After Content": [
-        "Tekst toevoegen na inhoud"
-      ],
-      "Allow Listening For Post Type": [
-        "Luisteren toestaan voor berichttype"
-      ],
-      "Allow Listening For Post Status": [
-        "Luisteren toestaan voor berichtstatus"
-      ],
-      "On Free Version You Can Select Only 1 post type.": [
-        "In de gratis versie kunt u slechts 1 berichttype selecteren."
-      ],
-      "Include Content By CSS Selectors": [
-        "Inhoud opnemen met CSS-selectors"
-      ],
-      "Include Content By CSS Selectors feature is available in pro version": [
-        "De functie Inhoud opnemen met CSS-selectors is beschikbaar in de Pro-versie"
-      ],
-      "Multiple selector will be multiline.": [
-        "Meerdere selectors worden op aparte regels geplaatst."
-      ],
-      "Some content may be missing, It can be found by css selectors": [
-        "Sommige inhoud kan ontbreken, deze kan gevonden worden met CSS-selectors"
-      ],
-      "Exclude Content By CSS Selectors": [
-        "Inhoud uitsluiten met CSS-selectors"
-      ],
-      "Exclude Content By CSS Selectors feature is available in pro version": [
-        "De functie Inhoud uitsluiten met CSS-selectors is beschikbaar in de Pro-versie"
-      ],
-      "Exclude content by CSS selectors": [
-        "Inhoud uitsluiten met CSS-selectors"
-      ],
-      "You can add \".atlasvoice_no_read\" class to exclude content.": [
-        "U kunt de klasse \".atlasvoice_no_read\" toevoegen om inhoud uit te sluiten."
-      ],
-      "Exclude HTML Tags To Speak": [
-        "HTML-tags uitsluiten van voorlezen"
-      ],
-      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
-        "Tags uitsluiten. Zodat de inhoud ervan wordt overgeslagen. Zoals (Subscript, Superscript enz.) Dit is een Pro-functie."
-      ],
-      "Multiple Tags Will Be Pipe(|) Separated.": [
-        "Meerdere tags worden gescheiden door Pipe(|)."
-      ],
-      "Exclude tags is a pro feature.": [
-        "Tags uitsluiten is een Pro-functie."
-      ],
-      "Exclude Texts To Speak": [
-        "Teksten uitsluiten van voorlezen"
-      ],
-      "Excluding texts to be spoken is a pro feature.": [
-        "Teksten uitsluiten van voorlezen is een Pro-functie."
-      ],
-      "Multiple Texts Will Be Pipe(|) Separated.": [
-        "Meerdere teksten worden gescheiden door Pipe(|)."
-      ],
-      "Exclude texts is a pro feature.": [
-        "Teksten uitsluiten is een Pro-functie."
-      ],
-      "Exclude Posts By IDs To Speak": [
-        "Berichten uitsluiten op ID van voorlezen"
-      ],
-      "Exclude more than 5 IDs is a pro feature": [
-        "Meer dan 5 ID's uitsluiten is een Pro-functie"
-      ],
-      "Multiple IDs Will Be Comma(,) Separated.": [
-        "Meerdere ID's worden gescheiden door komma(,)."
-      ],
-      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
-        "Meer dan 5 ID's uitsluiten is een Pro-functie. Meerdere ID's worden gescheiden door komma(,)."
-      ],
-      "Exclude Categories To Speak": [
-        "Categorieën uitsluiten van voorlezen"
-      ],
-      "Exclude more than 1 categories is a pro feature": [
-        "Meer dan 1 categorie uitsluiten is een Pro-functie"
-      ],
-      "On Free Version You Can Select Only 1 Category.": [
-        "In de gratis versie kunt u slechts 1 categorie selecteren."
-      ],
-      "Exclude Tags To Speak": [
-        "Tags uitsluiten van voorlezen"
-      ],
-      "Exclude more than 1 tags is a pro feature": [
-        "Meer dan 1 tag uitsluiten is een Pro-functie"
-      ],
-      "On Free Version You Can Select Only 1 Tag.": [
-        "In de gratis versie kunt u slechts 1 tag selecteren."
-      ],
-      "Enable Button Icon": [
-        "Knoppictogram inschakelen"
       ],
       "Show admin bar toggle": [
         "Admin-balk schakelaar tonen"
@@ -1488,53 +2199,8 @@
       "Show AtlasVoice on/off toggle in the WordPress admin bar on front-end pages.": [
         "AtlasVoice aan/uit-schakelaar tonen in de WordPress admin-balk op front-endpagina's."
       ],
-      "Clear all cache": [
-        "Alle cache wissen"
-      ],
-      "Delete all data on uninstall": [
-        "Alle gegevens verwijderen bij deïnstallatie"
-      ],
-      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
-        "Wanneer ingeschakeld, worden alle plugingegevens (instellingen, analyses, gegenereerde audiobestanden) permanent verwijderd wanneer de plugin wordt verwijderd. Houd dit UIT als u van plan bent opnieuw te installeren of aan het debuggen bent."
-      ],
-      "⚠ Warning:": [
-        "⚠ Waarschuwing:"
-      ],
-      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
-        "Alle plugingegevens worden permanent verwijderd wanneer u de plugin verwijdert. Zet dit UIT als u van plan bent opnieuw te installeren, te debuggen of van versie te wisselen."
-      ],
-      "Save All": [
-        "Alles opslaan"
-      ],
-      "No IDs selected": [
-        "Geen ID's geselecteerd"
-      ],
-      "Select IDs": [
-        "Selecteer ID's"
-      ],
-      "Native speaker": [
-        "Moedertaalspreker"
-      ],
-      "Slow and clear": [
-        "Langzaam en duidelijk"
-      ],
-      "Warm and friendly": [
-        "Warm en vriendelijk"
-      ],
-      "Professional newsreader": [
-        "Professionele nieuwslezer"
-      ],
-      "Storyteller": [
-        "Verteller"
-      ],
-      "Custom": [
-        "Aangepast"
-      ],
       "You are already authenticated": [
         "U bent al geverifieerd"
-      ],
-      "Recording Data Saved": [
-        "Opnamegegevens opgeslagen"
       ]
     }
   }

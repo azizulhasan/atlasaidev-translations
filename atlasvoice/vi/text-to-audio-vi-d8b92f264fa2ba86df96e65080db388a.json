@@ -1,0 +1,56 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepContentCheck.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Opening…": [
+        "Đang mở…"
+      ],
+      "No published post is available to preview yet. Publish a post first, then verify.": [
+        "Chưa có bài viết đã đăng nào để xem trước. Hãy đăng một bài viết trước, rồi kiểm tra lại."
+      ],
+      "Could not open the content preview. Please try again.": [
+        "Không mở được phần xem trước nội dung. Vui lòng thử lại."
+      ],
+      "Check what gets read aloud": [
+        "Kiểm tra nội dung sẽ được đọc"
+      ],
+      "Before going live, make sure the player reads the right part of your content — and skips menus, sidebars, and footers. AtlasVoice starts in Staging (hidden from visitors) so you can verify it first, before the player goes live.": [
+        "Trước khi phát hành, hãy đảm bảo trình phát đọc đúng phần nội dung của bạn — và bỏ qua menu, thanh bên và chân trang. AtlasVoice bắt đầu ở chế độ Thử nghiệm (ẩn với khách truy cập) để bạn kiểm tra trước khi trình phát ra mắt."
+      ],
+      "Click “Open content preview” — a sample post opens in a new tab with the AtlasVoice Selector.": [
+        "Nhấp \"Mở xem trước nội dung\" — một bài viết mẫu sẽ mở trong tab mới cùng AtlasVoice Selector."
+      ],
+      "Open “Preview Content” on the right to see exactly what will be read. Adjust the content region if needed.": [
+        "Mở \"Xem trước nội dung\" ở bên phải để thấy chính xác những gì sẽ được đọc. Điều chỉnh vùng nội dung nếu cần."
+      ],
+      "Come back to this tab and continue — you’ll choose to Go Live on the last step.": [
+        "Quay lại tab này và tiếp tục — bạn sẽ chọn Phát hành ở bước cuối cùng."
+      ],
+      "Open content preview again": [
+        "Mở lại xem trước nội dung"
+      ],
+      "Open content preview": [
+        "Mở xem trước nội dung"
+      ],
+      "Opened in a new tab. Verify it reads correctly, then return here and click Next.": [
+        "Đã mở trong tab mới. Hãy xác nhận nội dung được đọc đúng, sau đó quay lại đây và nhấp Tiếp theo."
+      ],
+      "This is optional but recommended. You can always re-run it later from the dashboard.": [
+        "Bước này là tùy chọn nhưng được khuyến nghị. Bạn luôn có thể chạy lại sau từ bảng điều khiển."
+      ],
+      "Learn how the Staging → Live workflow works →": [
+        "Tìm hiểu quy trình Thử nghiệm → Phát hành hoạt động ra sao →"
+      ],
+      "Tip: the player stays hidden from visitors while you’re in Staging, so you can verify it safely first.": [
+        "Mẹo: khi còn ở chế độ Thử nghiệm, trình phát vẫn ẩn với khách truy cập nên bạn có thể yên tâm kiểm tra trước."
+      ]
+    }
+  }
+}

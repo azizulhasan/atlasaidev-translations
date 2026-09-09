@@ -1,0 +1,332 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-settings.042d91f40b86e4a4.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Pro にアップグレード"
+      ],
+      "Click To Know How It Works?": [
+        "使い方を見る"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Loading...": [
+        "読み込み中..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "AtlasVoice Pro の実力を体験"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "200 種類以上の AI 音声、MP3 プレーヤー、一括生成を実際のページで体験 — インストール不要です。"
+      ],
+      "Watch the live demo": [
+        "ライブデモを見る"
+      ],
+      "Try the live demo": [
+        "ライブデモを試す"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "複数の投稿にボタンを表示する機能は無料版では利用できません。"
+      ],
+      "Select Items...": [
+        "項目を選択..."
+      ],
+      "Preview on Your Site": [
+        "サイトでプレビュー"
+      ],
+      "Help information about this setting": [
+        "この設定に関するヘルプ情報"
+      ],
+      "Read the full documentation": [
+        "詳しいドキュメントを読む"
+      ],
+      "Include Content By CSS Selectors": [
+        "CSS セレクターでコンテンツを含める"
+      ],
+      "e.g. div.entry-content (multi-line allowed)": [
+        "例: div.entry-content (複数行可)"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "CSS セレクターでコンテンツを除外"
+      ],
+      "e.g. .share-bar, .related-posts": [
+        "例: .share-bar, .related-posts"
+      ],
+      "Exclude HTML Tags To Speak": [
+        "読み上げから除外する HTML タグ"
+      ],
+      "Pipe-separated. e.g. blockquote|figure": [
+        "パイプ区切り。例: blockquote|figure"
+      ],
+      "Exclude Texts To Speak": [
+        "読み上げから除外するテキスト"
+      ],
+      "Pipe-separated. e.g. Read more...|Advertisement": [
+        "パイプ区切り。例: 続きを読む...|広告"
+      ],
+      "Could not find a post matching that ID or slug.": [
+        "その ID またはスラッグに一致する投稿が見つかりませんでした。"
+      ],
+      "No published post available to launch the picker on.": [
+        "選択ツールを起動できる公開済みの投稿がありません。"
+      ],
+      "Picker launch failed.": [
+        "選択ツールを起動できませんでした。"
+      ],
+      "Opening…": [
+        "開いています…"
+      ],
+      "Pick Visually": [
+        "ビジュアルで選択"
+      ],
+      "Excludes are a Pro feature": [
+        "除外設定は Pro の機能です"
+      ],
+      "On Free you can set the Include Content By CSS Selectors rule below. Excluding content by CSS selectors, HTML tags, or text — plus per-post and per-post-type targeting — are AtlasVoice Pro features.": [
+        "無料版では、下の「CSS セレクターでコンテンツを含める」のルールを設定できます。CSS セレクター、HTML タグ、テキストによる除外に加え、投稿単位・投稿タイプ単位の指定は AtlasVoice Pro の機能です。"
+      ],
+      "Pro feature — value won't be saved on Free. Upgrade to enable.": [
+        "Pro の機能です — 無料版では値が保存されません。アップグレードすると利用できます。"
+      ],
+      "Pick visually for the global rule": [
+        "サイト全体のルールをビジュアルで選択"
+      ],
+      "Pick visually for this post type": [
+        "この投稿タイプのルールをビジュアルで選択"
+      ],
+      "Global": [
+        "サイト全体"
+      ],
+      "Post type:": [
+        "投稿タイプ:"
+      ],
+      "Manual post (optional)": [
+        "投稿を手動で指定 (任意)"
+      ],
+      "Slug or post ID — leave blank to use a sample": [
+        "スラッグまたは投稿 ID — 空欄の場合はサンプルを使用します"
+      ],
+      "Configure Settings": [
+        "設定を行う"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "テキスト読み上げプレーヤーの動作とコンテンツの選択方法を設定します"
+      ],
+      "Run Setup Wizard": [
+        "セットアップウィザードを実行"
+      ],
+      "All cache deleted": [
+        "すべてのキャッシュを削除しました"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "保存しました。次に「カスタマイズ」メニューに進んでください。"
+      ],
+      "Some Pro-only fields were skipped — upgrade to enable them.": [
+        "Pro 専用の項目は保存されませんでした — アップグレードすると利用できます。"
+      ],
+      "Add Button or Player Automatically": [
+        "ボタンまたはプレーヤーを自動で追加"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "「ボタンまたはプレーヤーを自動で追加」を有効にすると、手動での設定なしに、AtlasVoice が投稿やページに再生ボタンや音声プレーヤーを自動的に挿入します。"
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "別のタブに切り替えても読み上げを続ける"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "有効にすると、現在のタブから移動しても読み上げが継続されます"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "TTS のタブに戻ったら自動再生を停止"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "別のタブから TTS のタブに戻ったときに、自動的に再生を一時停止します"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "下方向にスクロールしたらフローティングを停止"
+      ],
+      "Turn this on to keep the player in place instead of floating it when readers scroll past. Applies to the Bottom positions in Customization.": [
+        "これをオンにすると、読者がスクロールして通り過ぎてもプレーヤーが浮かずにその場に留まります。カスタマイズの「下部」系の位置に適用されます。"
+      ],
+      "Apply number format": [
+        "数値の読み方を整形する"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "数字を読み上げ用の言葉に変換します (例:「123」→「百二十三」)"
+      ],
+      "Read Content From Dom": [
+        "DOM からコンテンツを読み取る"
+      ],
+      "Add Post Title To Read": [
+        "投稿タイトルを読み上げに含める"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "本文を読み上げる前に、投稿タイトルを音声に含めます"
+      ],
+      "Add Post Excerpt To Read": [
+        "投稿の抜粋を読み上げに含める"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "本文を読み上げる前に、投稿の抜粋・要約を音声に含めます"
+      ],
+      "Enable TTS Status": [
+        "TTS の状態表示を有効にする"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "投稿ページで TTS の状態を表示します。"
+      ],
+      "Emit Content Wrapper": [
+        "コンテンツラッパーを出力する"
+      ],
+      "Wrap rendered post content in a stable `tts_content_wrapper_<N>` div so the picker / runtime extractor can reliably find it across all posts. Turn off only if your theme's layout breaks on the wrapper.": [
+        "表示される投稿本文を、安定した `tts_content_wrapper_<N>` の div で囲みます。これにより、選択ツールや実行時のエクストラクターがすべての投稿で確実に本文を見つけられます。ラッパーによってテーマのレイアウトが崩れる場合のみオフにしてください。"
+      ],
+      "Add Text Before Content(intro)": [
+        "本文の前に読み上げるテキスト (イントロ)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "本文が始まる前に読み上げる独自のテキストです"
+      ],
+      "Add Text Before Content": [
+        "本文の前にテキストを追加"
+      ],
+      "Add Text After Content(outro)": [
+        "本文の後に読み上げるテキスト (アウトロ)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "本文が終わった後に読み上げる独自のテキストです"
+      ],
+      "Add Text After Content": [
+        "本文の後にテキストを追加"
+      ],
+      "Allow Listening For Post Type": [
+        "読み上げを許可する投稿タイプ"
+      ],
+      "Show on-page content selector": [
+        "ページ上のコンテンツセレクターを表示"
+      ],
+      "Adds the AtlasVoice Selector tabs on the front end for admins so you can pick what gets read aloud right on the post page. Off by default; even when on, it only opens from the “Pick visually” links and never appears on a plain page.": [
+        "フロントエンドに管理者向けの AtlasVoice Selector タブを追加し、投稿ページ上で読み上げ範囲を直接選択できるようにします。既定はオフです。オンにしても「ビジュアルで選択」のリンクからのみ開き、通常のページに表示されることはありません。"
+      ],
+      "Full details: on-page content selector & Staging / Live": [
+        "詳細: ページ上のコンテンツセレクターとステージング / 公開"
+      ],
+      "Show Staging / Live indicator in toolbar": [
+        "ツールバーにステージング / 公開の表示を出す"
+      ],
+      "Shows the AtlasVoice mode (Staging or Live) in the WordPress admin bar so you can tell at a glance whether saved rules are driving visitor audio. It is always shown while the on-page content selector is open.": [
+        "WordPress の管理バーに AtlasVoice のモード (ステージングまたは公開) を表示し、保存したルールが訪問者向けの音声に反映されているかを一目で確認できるようにします。ページ上のコンテンツセレクターを開いている間は常に表示されます。"
+      ],
+      "Content Selection Rules": [
+        "コンテンツ選択のルール"
+      ],
+      "Control which part of your content is read aloud. Set a rule for the whole site (Global) below.": [
+        "コンテンツのどの部分を読み上げるかを指定します。下でサイト全体のルールを設定してください。"
+      ],
+      "Allow Listening For Post Status": [
+        "読み上げを許可する投稿ステータス"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "無料版では投稿タイプを 1 つだけ選択できます。"
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "読み上げから除外する投稿 ID"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "6 件以上の ID の除外は Pro の機能です"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "複数の ID はカンマ (,) で区切ります。"
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "6 件以上の ID の除外は Pro の機能です。複数の ID はカンマ (,) で区切ります。"
+      ],
+      "Exclude Categories To Speak": [
+        "読み上げから除外するカテゴリー"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "2 件以上のカテゴリーの除外は Pro の機能です"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "無料版ではカテゴリーを 1 件だけ選択できます。"
+      ],
+      "Exclude Tags To Speak": [
+        "読み上げから除外するタグ"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "2 件以上のタグの除外は Pro の機能です"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "無料版ではタグを 1 件だけ選択できます。"
+      ],
+      "Enable Button Icon": [
+        "ボタンのアイコンを有効にする"
+      ],
+      "Show per-post player toggle in toolbar": [
+        "ツールバーに投稿ごとのプレーヤー切り替えを表示"
+      ],
+      "Adds a “Toggle AtlasVoice audio player for this post” control to the WordPress admin bar on front-end pages.": [
+        "フロントエンドのページで、WordPress の管理バーに「この投稿の AtlasVoice 音声プレーヤーを切り替える」を追加します。"
+      ],
+      "Show dashboard widget": [
+        "ダッシュボードウィジェットを表示"
+      ],
+      "Display the AtlasVoice Quick Stats widget on the WordPress admin dashboard.": [
+        "WordPress の管理画面ダッシュボードに AtlasVoice のクイック統計ウィジェットを表示します。"
+      ],
+      "Clear all cache": [
+        "すべてのキャッシュを削除"
+      ],
+      "Delete all data on uninstall": [
+        "アンインストール時にすべてのデータを削除する"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "有効にすると、プラグインをアンインストールしたときに、すべてのプラグインデータ (設定、分析、生成済みの音声ファイル) が完全に削除されます。再インストールの予定がある場合やデバッグ中は、オフのままにしてください。"
+      ],
+      "⚠️ WARNING: Enabling this will permanently delete ALL plugin data (settings, analytics, generated audio files) when you uninstall the plugin. This action cannot be undone.\n\nAre you sure you want to enable this?": [
+        "⚠️ 警告: これを有効にすると、プラグインをアンインストールしたときに、すべてのプラグインデータ (設定、分析、生成済みの音声ファイル) が完全に削除されます。この操作は取り消せません。\n\n本当に有効にしますか?"
+      ],
+      "⚠ Warning:": [
+        "⚠ 警告:"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "アンインストール時に、すべてのプラグインデータが完全に削除されます。再インストール、デバッグ、バージョンの切り替えを予定している場合はオフにしてください。"
+      ],
+      "Danger zone — reset all plugin data": [
+        "危険な操作 — すべてのプラグインデータをリセット"
+      ],
+      "Permanently deletes every AtlasVoice option, transient, post-meta entry, cron event, and the analytics database table. The plugin stays active and boots as a fresh install on the next page load. This action cannot be undone.": [
+        "AtlasVoice のすべてのオプション、トランジェント、投稿メタ、cron イベント、および分析用データベーステーブルを完全に削除します。プラグインは有効なまま残り、次のページ読み込み時に新規インストールとして起動します。この操作は取り消せません。"
+      ],
+      "Type": [
+        "確認のため"
+      ],
+      "to confirm:": [
+        "と入力してください:"
+      ],
+      "All plugin data has been reset. Reloading…": [
+        "すべてのプラグインデータをリセットしました。再読み込みしています…"
+      ],
+      "Reset failed.": [
+        "リセットに失敗しました。"
+      ],
+      "Resetting…": [
+        "リセット中…"
+      ],
+      "Reset all plugin data": [
+        "すべてのプラグインデータをリセット"
+      ],
+      "Save All": [
+        "すべて保存"
+      ]
+    }
+  }
+}

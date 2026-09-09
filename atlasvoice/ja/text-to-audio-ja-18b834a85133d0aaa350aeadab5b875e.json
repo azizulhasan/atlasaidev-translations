@@ -1,0 +1,131 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "build/pricing/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Single site": [
+        "シングルサイト"
+      ],
+      "1 site": [
+        "1 サイト"
+      ],
+      "5 sites": [
+        "5 サイト"
+      ],
+      "Up to 5 sites": [
+        "5 サイトまで"
+      ],
+      "10 sites": [
+        "10 サイト"
+      ],
+      "Up to 10 sites": [
+        "10 サイトまで"
+      ],
+      "Read-along highlighting — words and sentences light up as they are spoken": [
+        "読み上げハイライト — 発話に合わせて単語や文が光ります"
+      ],
+      "4 AI voice engines — AtlasVoice AI, Google Cloud, OpenAI (ChatGPT) and ElevenLabs": [
+        "4 種類の AI 音声エンジン — AtlasVoice AI、Google Cloud、OpenAI (ChatGPT)、ElevenLabs"
+      ],
+      "AtlasVoice AI voices — 80+ languages, included at no extra cost": [
+        "AtlasVoice AI の音声 — 80 以上の言語に対応、追加料金なしで利用可能"
+      ],
+      "300+ Google Cloud voices across 90+ languages": [
+        "90 以上の言語に対応した 300 種類以上の Google Cloud 音声"
+      ],
+      "Ultra-realistic ElevenLabs and OpenAI HD voices": [
+        "きわめて自然な ElevenLabs と OpenAI HD の音声"
+      ],
+      "Bulk MP3 generation — unlimited characters, hundreds of posts": [
+        "MP3 の一括生成 — 文字数無制限、数百件の投稿に対応"
+      ],
+      "Unlimited MP3 downloads for you and your visitors": [
+        "あなたにも訪問者にも、MP3 のダウンロードは無制限"
+      ],
+      "Save MP3s to Google Cloud Storage": [
+        "MP3 を Google Cloud Storage に保存"
+      ],
+      "6 player styles plus floating / sticky player": [
+        "6 種類のプレーヤースタイルとフローティング / 固定プレーヤー"
+      ],
+      "CSS-selector targeting and exclude by category, tag or ID": [
+        "CSS セレクターによる指定と、カテゴリー・タグ・ID による除外"
+      ],
+      "WPML, GTranslate and TranslatePress — full multilingual support": [
+        "WPML、GTranslate、TranslatePress — 多言語に完全対応"
+      ],
+      "ACF, SCF and page-builder compatible": [
+        "ACF、SCF、各種ページビルダーに対応"
+      ],
+      "Advanced analytics plus Audio Schema for SEO rich results": [
+        "高度な分析と、SEO のリッチリザルト向け Audio Schema"
+      ],
+      "Text aliases plus priority support (1-hour) and live setup help": [
+        "テキスト別名設定に加え、優先サポート (1 時間以内) と導入時のライブサポート"
+      ],
+      "Bring your own provider keys: AtlasVoice AI voices are included free. Google Cloud, OpenAI (ChatGPT) and ElevenLabs connect to your own provider account, so their usage is billed by the provider — not by us.": [
+        "プロバイダーのキーはご自身のものをご利用ください: AtlasVoice AI の音声は無料で含まれています。Google Cloud、OpenAI (ChatGPT)、ElevenLabs はお客様ご自身のアカウントに接続するため、利用料金は当社ではなく各プロバイダーから請求されます。"
+      ],
+      "Refunds cover an unresolved bug that leaves the plugin inoperable, requested within 14 days of purchase, after giving us a chance to fix it. Not covered: missing features, third-party plugin conflicts, change of mind, or subscription renewals.": [
+        "返金は、プラグインが使用できない状態のまま解決しない不具合について、購入から 14 日以内に、当社に修正の機会をいただいたうえでのご請求が対象です。対象外: 機能の不足、サードパーティ製プラグインとの競合、お客様のご都合による変更、サブスクリプションの更新。"
+      ],
+      "Yearly": [
+        "年額"
+      ],
+      "Lifetime": [
+        "買い切り"
+      ],
+      "one-time": [
+        "一回のお支払い"
+      ],
+      "/ year": [
+        "/ 年"
+      ],
+      "Most popular": [
+        "人気"
+      ],
+      "Get": [
+        "購入する"
+      ],
+      "Upgrade to AtlasVoice Pro": [
+        "AtlasVoice Pro にアップグレード"
+      ],
+      "4 AI voice engines, 80+ languages, MP3 export and read-along highlighting — one plugin, every site you own.": [
+        "4 種類の AI 音声エンジン、80 以上の言語、MP3 書き出し、読み上げハイライト — 1 つのプラグインで、お持ちのすべてのサイトに。"
+      ],
+      "Pay once, own it forever.": [
+        "一度のお支払いで、ずっとお使いいただけます。"
+      ],
+      "Billed yearly, renews automatically.": [
+        "年額請求、自動更新されます。"
+      ],
+      "14-day money-back guarantee": [
+        "14 日間の返金保証"
+      ],
+      "conditions apply ↗": [
+        "条件が適用されます ↗"
+      ],
+      "See the live demo ↗": [
+        "ライブデモを見る ↗"
+      ],
+      "Everything in Pro": [
+        "Pro のすべての機能"
+      ],
+      "See the full comparison, reviews and FAQ ↗": [
+        "詳しい比較・レビュー・よくある質問を見る ↗"
+      ],
+      "You're on AtlasVoice Pro": [
+        "AtlasVoice Pro をご利用中です"
+      ],
+      "Thanks for upgrading. Manage your license from the Pro plugin settings.": [
+        "アップグレードいただきありがとうございます。ライセンスは Pro プラグインの設定から管理できます。"
+      ]
+    }
+  }
+}

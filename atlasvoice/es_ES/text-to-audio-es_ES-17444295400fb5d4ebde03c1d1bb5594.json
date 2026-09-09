@@ -1,0 +1,56 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:22+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/WelcomeWizard.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Saving...": [
+        "Guardando..."
+      ],
+      "Next": [
+        "Siguiente"
+      ],
+      "There was an error saving your settings. Please try again.": [
+        "Se ha producido un error al guardar tus ajustes. Inténtalo de nuevo."
+      ],
+      "Finish Setup": [
+        "Finalizar la configuración"
+      ],
+      "Next: Choose Voice": [
+        "Siguiente: elegir la voz"
+      ],
+      "Next: Hear the Difference": [
+        "Siguiente: nota la diferencia"
+      ],
+      "Next: Check Content": [
+        "Siguiente: comprobar el contenido"
+      ],
+      "Next: Customize": [
+        "Siguiente: personalizar"
+      ],
+      "Next: Analytics": [
+        "Siguiente: analítica"
+      ],
+      "AtlasVoice Setup": [
+        "Configuración de AtlasVoice"
+      ],
+      "Step": [
+        "Paso"
+      ],
+      "of": [
+        "de"
+      ],
+      "Skip Setup": [
+        "Omitir la configuración"
+      ],
+      "Back": [
+        "Atrás"
+      ]
+    }
+  }
+}

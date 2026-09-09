@@ -1,0 +1,53 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepFinish.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Could not go live. Please try from the dashboard.": [
+        "Yayına alınamadı. Lütfen kontrol panelinden deneyin."
+      ],
+      "You’re live! 🎉": [
+        "Yayındasınız! 🎉"
+      ],
+      "The audio player is now visible to visitors on all your %s.": [
+        "Ses oynatıcısı artık tüm %s içeriğinizde ziyaretçilere görünüyor."
+      ],
+      "View Player on Your Site": [
+        "Oynatıcıyı Sitenizde Görün"
+      ],
+      "Go to Dashboard": [
+        "Kontrol Paneline Git"
+      ],
+      "Hear the live demo": [
+        "Canlı demoyu dinleyin"
+      ],
+      "Setup complete — you’re in Staging": [
+        "Kurulum tamamlandı — Denemedesiniz"
+      ],
+      "Your settings are saved, but the player is still hidden from visitors. When you’re happy with how your content reads, Go Live to show the player on your site.": [
+        "Ayarlarınız kaydedildi, ancak oynatıcı hâlâ ziyaretçilerden gizli. İçeriğinizin nasıl okunduğundan memnun kaldığınızda, oynatıcıyı sitenizde göstermek için Yayına Alın."
+      ],
+      "Going live…": [
+        "Yayına alınıyor…"
+      ],
+      "Go Live now": [
+        "Şimdi Yayına Al"
+      ],
+      "Stay in Staging": [
+        "Denemede Kal"
+      ],
+      "How does Staging → Live work? →": [
+        "Deneme → Yayın nasıl çalışır? →"
+      ],
+      "Explore all AtlasAiDev plugins": [
+        "Tüm AtlasAiDev eklentilerini keşfedin"
+      ]
+    }
+  }
+}

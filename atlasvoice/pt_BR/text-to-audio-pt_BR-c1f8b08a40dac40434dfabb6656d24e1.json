@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/chunks/tab-integrations.chunk.js",
   "domain": "messages",
@@ -9,24 +9,6 @@
         "domain": "messages",
         "plural": "nplurals=1; plural=0;"
       },
-      "Save": [
-        "Salvar"
-      ],
-      "Network error. Please try again.": [
-        "Erro de rede. Por favor, tente novamente."
-      ],
-      "Learn More": [
-        "Saiba Mais"
-      ],
-      "Loading...": [
-        "Carregando..."
-      ],
-      "Buy Now": [
-        "Comprar Agora"
-      ],
-      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
-        "O AtlasVoice armazena conteúdo sintetizado na pasta de uploads. Sua pasta de uploads não permite escrita. Por favor, torne a pasta de uploads gravável para aproveitar todos os recursos do plugin."
-      ],
       "Backup MP3 Files To Google Cloud Storage Can Be Enabled If Google Cloud TTS Is Authenticated.": [
         "O Backup de Arquivos MP3 para o Google Cloud Storage pode ser ativado se o Google Cloud TTS estiver autenticado."
       ],
@@ -266,9 +248,6 @@
       ],
       "How to get ElevenLabs API key?": [
         "Como obter a chave API do ElevenLabs?"
-      ],
-      "Integration Setup": [
-        "Configuração de Integração"
       ],
       "AtlasVoice Pro works fully fine even without Google TTS/ChatGPT integration.": [
         "O AtlasVoice Pro funciona perfeitamente mesmo sem a integração Google TTS/ChatGPT."

@@ -1,0 +1,86 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/text-to-audio-button.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Close": [
+        "Đóng"
+      ],
+      "Listen": [
+        "Nghe"
+      ],
+      "Settings": [
+        "Cài đặt"
+      ],
+      "Loading": [
+        "Đang tải"
+      ],
+      "Player settings": [
+        "Cài đặt trình phát"
+      ],
+      "Player Settings": [
+        "Cài đặt trình phát"
+      ],
+      "Close settings": [
+        "Đóng cài đặt"
+      ],
+      "Language": [
+        "Ngôn ngữ"
+      ],
+      "Voice": [
+        "Giọng đọc"
+      ],
+      "Speed": [
+        "Tốc độ"
+      ],
+      "Playback speed": [
+        "Tốc độ phát"
+      ],
+      "Pitch": [
+        "Cao độ"
+      ],
+      "Voice pitch": [
+        "Cao độ giọng"
+      ],
+      "Volume": [
+        "Âm lượng"
+      ],
+      "Unmute": [
+        "Bật tiếng"
+      ],
+      "Mute": [
+        "Tắt tiếng"
+      ],
+      "Unmute audio": [
+        "Bật tiếng"
+      ],
+      "Mute audio": [
+        "Tắt tiếng"
+      ],
+      "From here": [
+        "Từ đây"
+      ],
+      "Listen to the selected text": [
+        "Nghe văn bản đã chọn"
+      ],
+      "Listen from here to the end": [
+        "Nghe từ đây đến hết"
+      ],
+      "Tip: select any text in the article to listen to just that part.": [
+        "Mẹo: hãy bôi đen bất kỳ đoạn nào trong bài viết để chỉ nghe phần đó."
+      ],
+      "Select any text to listen to it": [
+        "Bôi đen văn bản bất kỳ để nghe"
+      ],
+      "Dismiss": [
+        "Đóng"
+      ]
+    }
+  }
+}

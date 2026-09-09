@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:43:09+01:00",
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepFinish.js",
   "domain": "messages",
@@ -9,17 +9,44 @@
         "domain": "messages",
         "plural": "nplurals=1; plural=0;"
       },
-      "Learn More": [
-        "En savoir plus"
+      "Could not go live. Please try from the dashboard.": [
+        "La mise en ligne a échoué. Essayez depuis le tableau de bord."
       ],
-      "Analytics": [
-        "Analyses"
+      "You’re live! 🎉": [
+        "Vous êtes en ligne ! 🎉"
       ],
-      "Voice": [
-        "Voix"
+      "The audio player is now visible to visitors on all your %s.": [
+        "Le lecteur audio est désormais visible par les visiteurs sur tous vos %s."
       ],
-      "Default": [
-        "Par défaut"
+      "View Player on Your Site": [
+        "Voir le lecteur sur votre site"
+      ],
+      "Go to Dashboard": [
+        "Aller au tableau de bord"
+      ],
+      "Hear the live demo": [
+        "Écouter la démo en direct"
+      ],
+      "Setup complete — you’re in Staging": [
+        "Configuration terminée — vous êtes en préproduction"
+      ],
+      "Your settings are saved, but the player is still hidden from visitors. When you’re happy with how your content reads, Go Live to show the player on your site.": [
+        "Vos réglages sont enregistrés, mais le lecteur reste masqué aux visiteurs. Quand la lecture de votre contenu vous convient, mettez-le en ligne pour afficher le lecteur sur votre site."
+      ],
+      "Going live…": [
+        "Mise en ligne…"
+      ],
+      "Go Live now": [
+        "Mettre en ligne maintenant"
+      ],
+      "Stay in Staging": [
+        "Rester en préproduction"
+      ],
+      "How does Staging → Live work? →": [
+        "Comment fonctionne le passage de la préproduction à la mise en ligne ? →"
+      ],
+      "Explore all AtlasAiDev plugins": [
+        "Découvrir toutes les extensions AtlasAiDev"
       ],
       "%d %s": [
         "%d %s"
@@ -33,17 +60,8 @@
       "Your audio player is now live on all your %s.": [
         "Votre lecteur audio est maintenant actif sur tous vos %s."
       ],
-      "View Player on Your Site": [
-        "Voir le lecteur sur votre site"
-      ],
-      "Go to Dashboard": [
-        "Aller au tableau de bord"
-      ],
       "Your Setup": [
         "Votre configuration"
-      ],
-      "Player": [
-        "Lecteur"
       ],
       "Customized": [
         "Personnalisé"
@@ -71,9 +89,6 @@
       ],
       "Listening time, top posts, device breakdown, geographic insights & CSV export.": [
         "Temps d'écoute, meilleurs articles, répartition par appareil, informations géographiques et export CSV."
-      ],
-      "Explore Pro Plans": [
-        "Explorer les offres Pro"
       ],
       "AI Workflow Automation — AI Agent Hub": [
         "Automatisation de flux de travail IA — AI Agent Hub"

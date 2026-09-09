@@ -1,0 +1,86 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/atlas-plugins.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Network error. Please try again.": [
+        "Błąd sieci. Spróbuj ponownie."
+      ],
+      "Go Pro": [
+        "Przejdź na Pro"
+      ],
+      "New": [
+        "Nowość"
+      ],
+      "You're here": [
+        "Jesteś tutaj"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Recommended": [
+        "Polecane"
+      ],
+      "active installs": [
+        "aktywnych instalacji"
+      ],
+      "Features": [
+        "Funkcje"
+      ],
+      "Active": [
+        "Włączona"
+      ],
+      "Activate": [
+        "Włącz"
+      ],
+      "Configure": [
+        "Skonfiguruj"
+      ],
+      "Install Now": [
+        "Zainstaluj teraz"
+      ],
+      "Installing...": [
+        "Instalowanie..."
+      ],
+      "Installation failed. Please try again.": [
+        "Instalacja nie powiodła się. Spróbuj ponownie."
+      ],
+      "Learn More": [
+        "Dowiedz się więcej"
+      ],
+      "Start Trial": [
+        "Rozpocznij okres próbny"
+      ],
+      "Updated successfully!": [
+        "Zaktualizowano!"
+      ],
+      "No updates found.": [
+        "Nie znaleziono aktualizacji."
+      ],
+      "Failed to parse response.": [
+        "Nie udało się odczytać odpowiedzi."
+      ],
+      "Request failed. Please try again.": [
+        "Żądanie nie powiodło się. Spróbuj ponownie."
+      ],
+      "You're using": [
+        "Używasz"
+      ],
+      "Complete your AI toolkit with these complementary plugins by AtlasAiDev.": [
+        "Uzupełnij swój zestaw narzędzi AI o te wtyczki od AtlasAiDev."
+      ],
+      "Discover and install plugins by AtlasAiDev to enhance your WordPress site.": [
+        "Poznaj i zainstaluj wtyczki AtlasAiDev, aby wzbogacić swoją witrynę WordPress."
+      ],
+      "Check for Updates": [
+        "Sprawdź aktualizacje"
+      ]
+    }
+  }
+}

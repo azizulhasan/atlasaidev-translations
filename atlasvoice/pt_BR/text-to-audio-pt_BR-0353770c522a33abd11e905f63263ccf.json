@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepFinish.js",
   "domain": "messages",
@@ -9,17 +9,44 @@
         "domain": "messages",
         "plural": "nplurals=1; plural=0;"
       },
-      "Learn More": [
-        "Saiba Mais"
+      "Could not go live. Please try from the dashboard.": [
+        "Não foi possível publicar. Tenta a parvocêr do painel."
       ],
-      "Analytics": [
-        "Análises"
+      "You’re live! 🎉": [
+        "Já está publicado! 🎉"
       ],
-      "Voice": [
-        "Voz"
+      "The audio player is now visible to visitors on all your %s.": [
+        "O leitor de áudio já está visível para os visitantes em todos os seus %s."
       ],
-      "Default": [
-        "Padrão"
+      "View Player on Your Site": [
+        "Ver Player no Seu Site"
+      ],
+      "Go to Dashboard": [
+        "Ir para o Painel"
+      ],
+      "Hear the live demo": [
+        "Ouvir a demonstração ao vivo"
+      ],
+      "Setup complete — you’re in Staging": [
+        "Configuração concluída — está em Staging"
+      ],
+      "Your settings are saved, but the player is still hidden from visitors. When you’re happy with how your content reads, Go Live to show the player on your site.": [
+        "As suas configurações estão salvas, mas o leitor convocênua oculto aos visitantes. Quando esvocêver savocêsfeito com a forma como o conteúdo é lido, publica parmostrandoes o leitor no seu site."
+      ],
+      "Going live…": [
+        "Publicando…"
+      ],
+      "Go Live now": [
+        "Publicar agora"
+      ],
+      "Stay in Staging": [
+        "Convocênuar em Staging"
+      ],
+      "How does Staging → Live work? →": [
+        "Como funciona a passagem de Staging a Publicado? →"
+      ],
+      "Explore all AtlasAiDev plugins": [
+        "Explorar todos os plugins da AtlasAiDev"
       ],
       "%d %s": [
         "%d %s"
@@ -33,17 +60,8 @@
       "Your audio player is now live on all your %s.": [
         "Seu player de áudio agora está ativo em todos os seus %s."
       ],
-      "View Player on Your Site": [
-        "Ver Player no Seu Site"
-      ],
-      "Go to Dashboard": [
-        "Ir para o Painel"
-      ],
       "Your Setup": [
         "Sua Configuração"
-      ],
-      "Player": [
-        "Player"
       ],
       "Customized": [
         "Personalizado"
@@ -71,9 +89,6 @@
       ],
       "Listening time, top posts, device breakdown, geographic insights & CSV export.": [
         "Tempo de escuta, posts populares, detalhamento por dispositivo, insights geográficos e exportação CSV."
-      ],
-      "Explore Pro Plans": [
-        "Explorar Planos Pro"
       ],
       "AI Workflow Automation — AI Agent Hub": [
         "Automação de Fluxo de Trabalho com IA — AI Agent Hub"

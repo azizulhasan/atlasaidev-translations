@@ -1,0 +1,86 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:22+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/atlas-plugins.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Network error. Please try again.": [
+        "Error de red. Por favor, inténtelo de nuevo."
+      ],
+      "Go Pro": [
+        "Pasar a Pro"
+      ],
+      "New": [
+        "Nuevo"
+      ],
+      "You're here": [
+        "Estás aquí"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Recommended": [
+        "Recomendado"
+      ],
+      "active installs": [
+        "instalaciones activas"
+      ],
+      "Features": [
+        "Características"
+      ],
+      "Active": [
+        "Activo"
+      ],
+      "Activate": [
+        "Activar"
+      ],
+      "Configure": [
+        "Configurar"
+      ],
+      "Install Now": [
+        "Instalar ahora"
+      ],
+      "Installing...": [
+        "Instalando..."
+      ],
+      "Installation failed. Please try again.": [
+        "La instalación falló. Por favor, inténtelo de nuevo."
+      ],
+      "Learn More": [
+        "Más información"
+      ],
+      "Start Trial": [
+        "Empezar la prueba"
+      ],
+      "Updated successfully!": [
+        "¡Actualizado correctamente!"
+      ],
+      "No updates found.": [
+        "No se han encontrado actualizaciones."
+      ],
+      "Failed to parse response.": [
+        "No se ha podido interpretar la respuesta."
+      ],
+      "Request failed. Please try again.": [
+        "La petición ha fallado. Inténtalo de nuevo."
+      ],
+      "You're using": [
+        "Estás usando"
+      ],
+      "Complete your AI toolkit with these complementary plugins by AtlasAiDev.": [
+        "Completa tu conjunto de herramientas de IA con estos plugins complementarios de AtlasAiDev."
+      ],
+      "Discover and install plugins by AtlasAiDev to enhance your WordPress site.": [
+        "Descubra e instale plugins de AtlasAiDev para mejorar su sitio WordPress."
+      ],
+      "Check for Updates": [
+        "Buscar actualizaciones"
+      ]
+    }
+  }
+}

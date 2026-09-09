@@ -1,0 +1,107 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-compatibility.1454b47de8303d47.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Salva"
+      ],
+      "Successfully Saved.": [
+        "Salvato con successo."
+      ],
+      "Click To Know How It Works?": [
+        "Clicca per sapere come funziona?"
+      ],
+      "See AtlasVoice Pro in action": [
+        "Guarda AtlasVoice Pro in azione"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Ascolta oltre 200 voci AI, lettori MP3 e la generazione in blocco su una pagina reale — senza installare nulla."
+      ],
+      "Watch the live demo": [
+        "Guarda la demo dal vivo"
+      ],
+      "Try the live demo": [
+        "Prova la demo dal vivo"
+      ],
+      "Available Fields": [
+        "Campi disponibili"
+      ],
+      "Select All": [
+        "Seleziona tutto"
+      ],
+      "All fields selected": [
+        "Tutti i campi selezionati"
+      ],
+      "No ACF fields found": [
+        "Nessun campo ACF trovato"
+      ],
+      "Selected (read order)": [
+        "Selezionati (ordine di lettura)"
+      ],
+      "Clear All": [
+        "Cancella tutto"
+      ],
+      "Click fields on the left to add": [
+        "Clicca i campi a sinistra per aggiungerli"
+      ],
+      "Move up": [
+        "Sposta su"
+      ],
+      "Move down": [
+        "Sposta giù"
+      ],
+      "Remove": [
+        "Rimuovi"
+      ],
+      "Use ▲ ▼ to reorder. Fields are read top to bottom.": [
+        "Usa ▲ ▼ per riordinare. I campi vengono letti dall'alto verso il basso."
+      ],
+      "Compatibility Status": [
+        "Stato di compatibilità"
+      ],
+      "AtlasVoice automatically excludes its scripts from caching and optimization plugins to prevent conflicts.": [
+        "AtlasVoice esclude automaticamente i propri script dai plugin di cache e ottimizzazione per evitare conflitti."
+      ],
+      "JS exclusion active": [
+        "Esclusione JS attiva"
+      ],
+      "Detected but not handled — may cause conflicts": [
+        "Rilevato ma non gestito — potrebbe causare conflitti"
+      ],
+      "Installed but not active": [
+        "Installato ma non attivo"
+      ],
+      "Not installed": [
+        "Non installato"
+      ],
+      "Add ACF Fields To Posts": [
+        "Aggiungi Campi ACF agli Articoli"
+      ],
+      "Adding more than 1  ACF field is a pro feature": [
+        "Aggiungere più di 1 campo ACF è una funzionalità pro"
+      ],
+      "Adding more than 1 ACF field is a pro feature": [
+        "Aggiungere più di 1 campo ACF è una funzione Pro"
+      ],
+      "Use custom reading order": [
+        "Usa un ordine di lettura personalizzato"
+      ],
+      "When enabled, ACF fields are read in the order shown above. When disabled, fields are read in ACF's default field group order.": [
+        "Se attivo, i campi ACF vengono letti nell'ordine mostrato sopra. Se disattivo, vengono letti nell'ordine predefinito del gruppo di campi ACF."
+      ],
+      "Selected fields are read after the main article content. If a field is already visible in your post content area, it may be read twice. For visible fields, use \"Include Content By CSS Selectors\" in Settings instead to control reading order.": [
+        "I campi selezionati vengono letti dopo il contenuto principale dell'articolo. Se un campo è già visibile nell'area del contenuto, potrebbe essere letto due volte. Per i campi visibili usa invece \"Includi contenuto tramite selettori CSS\" nelle Impostazioni per controllare l'ordine di lettura."
+      ],
+      "Loading": [
+        "Caricamento"
+      ]
+    }
+  }
+}

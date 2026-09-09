@@ -1,0 +1,155 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-highlight.5d733dfd1bbfeb49.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Click To Know How It Works?": [
+        "Klik om te weten hoe het werkt?"
+      ],
+      "Loading...": [
+        "Laden..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "Zie AtlasVoice Pro in actie"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Beluister meer dan 200 AI-stemmen, MP3-spelers en het genereren in bulk op een echte pagina — zonder iets te installeren."
+      ],
+      "Watch the live demo": [
+        "Bekijk de live demo"
+      ],
+      "Try the live demo": [
+        "Probeer de live demo"
+      ],
+      "Read-Along Highlight": [
+        "Meelezen met markering"
+      ],
+      "Highlight the word and/or sentence being spoken while the post is read aloud.": [
+        "Markeer het woord en/of de zin die wordt uitgesproken terwijl het bericht wordt voorgelezen."
+      ],
+      "speechSynthesis limitation:": [
+        "Beperking van speechSynthesis:"
+      ],
+      "Word-level highlighting relies on the browser's speechSynthesis “boundary” events, which only fire for local (offline) device voices. Remote voices (e.g. the “Google …” voices) and some browsers (notably Firefox) fire no word boundaries, so word highlighting can't track them. When that happens the player automatically falls back to sentence highlighting. Sentence highlighting works with every voice and browser — it's the recommended default.": [
+        "Markeren op woordniveau steunt op de “boundary”-gebeurtenissen van speechSynthesis in de browser, die alleen afgaan bij lokale (offline) stemmen op het apparaat. Externe stemmen (bijv. de “Google …”-stemmen) en sommige browsers (met name Firefox) geven geen woordgrenzen door, waardoor woordmarkering ze niet kan volgen. Gebeurt dat, dan valt de speler automatisch terug op markering per zin. Zinsmarkering werkt met elke stem en elke browser — dat is de aanbevolen standaard."
+      ],
+      "Precise word timing:": [
+        "Nauwkeurige woordtiming:"
+      ],
+      "This player generates audio with real per-word timing, so word-by-word highlighting is accurate and works in every browser — no local-voice requirement and no fallback.": [
+        "Deze speler genereert audio met echte timing per woord, dus markeren woord voor woord is nauwkeurig en werkt in elke browser — geen lokale stem nodig en geen terugval."
+      ],
+      "Already-generated audio:": [
+        "Al gegenereerde audio:"
+      ],
+      "Word timing is captured while the audio is being generated, so posts whose MP3 was created before highlighting was enabled have no timing data — they will use sentence highlighting until their audio is regenerated. To upgrade them, regenerate the audio with the Bulk MP3 tool (or regenerate an individual post). Note: regeneration sends the post content to your TTS provider (Google Cloud / ElevenLabs) again, so it consumes provider characters/credits just like the first generation — word timing can only be produced by the provider during synthesis, which is why it isn't added to existing files automatically.": [
+        "De woordtiming wordt vastgelegd terwijl de audio wordt gegenereerd. Berichten waarvan de MP3 al bestond voordat markeren werd ingeschakeld hebben dus geen timinggegevens — daar wordt zinsmarkering gebruikt tot hun audio opnieuw is gegenereerd. Wil je die bijwerken, genereer de audio dan opnieuw met het gereedschap Bulk-MP3 (of genereer een afzonderlijk bericht opnieuw). Let op: bij opnieuw genereren gaat de berichtinhoud weer naar je TTS-aanbieder (Google Cloud / ElevenLabs), waardoor er net als bij de eerste keer tekens/credits van de aanbieder worden verbruikt — woordtiming kan alleen tijdens de synthese door de aanbieder worden geproduceerd, en daarom wordt die niet automatisch aan bestaande bestanden toegevoegd."
+      ],
+      "Successfully Saved...": [
+        "Opgeslagen..."
+      ],
+      "Enable highlighting": [
+        "Markeren inschakelen"
+      ],
+      "Turn read-along highlighting on or off for the browser players.": [
+        "Zet meelezen met markering aan of uit voor de browserspelers."
+      ],
+      "Highlight mode": [
+        "Markeermodus"
+      ],
+      "“Sentence only” works with any voice. “Word” and “Word + Sentence” need a local voice that fires boundary events, and fall back to sentence highlighting otherwise.": [
+        "“Alleen zin” werkt met elke stem. “Woord” en “Woord + zin” hebben een lokale stem nodig die boundary-gebeurtenissen afvuurt, en vallen anders terug op zinsmarkering."
+      ],
+      "Sentence only (recommended)": [
+        "Alleen zin (aanbevolen)"
+      ],
+      "Word only": [
+        "Alleen woord"
+      ],
+      "Word + Sentence": [
+        "Woord + zin"
+      ],
+      "The current player uses generated audio, so read-along highlighting is sentence-level. Word-level options don't apply here.": [
+        "De huidige speler gebruikt gegenereerde audio, dus meelezen met markering werkt op zinsniveau. De opties op woordniveau gelden hier niet."
+      ],
+      "Word highlight color": [
+        "Markeerkleur voor het woord"
+      ],
+      "Background color painted behind the word currently being spoken.": [
+        "Achtergrondkleur achter het woord dat op dat moment wordt uitgesproken."
+      ],
+      "Word text color": [
+        "Tekstkleur van het woord"
+      ],
+      "Text color of the spoken word, for contrast against the highlight color.": [
+        "Tekstkleur van het uitgesproken woord, voor contrast met de markeerkleur."
+      ],
+      "Sentence highlight color": [
+        "Markeerkleur voor de zin"
+      ],
+      "Softer background painted behind the whole sentence being read.": [
+        "Zachtere achtergrond achter de hele zin die wordt voorgelezen."
+      ],
+      "Dim the rest of the article": [
+        "De rest van het artikel dimmen"
+      ],
+      "Fade the surrounding text while reading so the spoken word/sentence stands out.": [
+        "Laat de omringende tekst vervagen tijdens het voorlezen, zodat het gesproken woord of de gesproken zin opvalt."
+      ],
+      "Dimmed text opacity": [
+        "Doorzichtigheid van gedimde tekst"
+      ],
+      "How visible the dimmed (non-spoken) text stays. Lower = more dimmed.": [
+        "Hoe zichtbaar de gedimde (niet-gesproken) tekst blijft. Lager = sterker gedimd."
+      ],
+      "Listen to selected text": [
+        "Geselecteerde tekst beluisteren"
+      ],
+      "Show a small “Listen” control when a reader selects text in the article, to read only the selection — or from the selected word to the end. On the browser players the selection is spoken directly; on MP3 players the audio jumps to the matching position (precise on Google Cloud/ElevenLabs with word timing, approximate otherwise).": [
+        "Toon een kleine knop “Luisteren” zodra een lezer tekst in het artikel selecteert, om alleen die selectie voor te lezen — of vanaf het geselecteerde woord tot het einde. Op de browserspelers wordt de selectie direct uitgesproken; op MP3-spelers springt de audio naar de bijbehorende positie (nauwkeurig bij Google Cloud/ElevenLabs met woordtiming, anders bij benadering)."
+      ],
+      "Announce selection listening": [
+        "Melding over luisteren naar selectie"
+      ],
+      "How readers learn the feature exists. The one-time tip appears under the player after their first play and never returns once dismissed. The floating side badge sits collapsed on the left edge and expands on hover; closing it hides it for the visitor's session.": [
+        "Hoe lezers ontdekken dat deze functie bestaat. De eenmalige tip verschijnt onder de speler na hun eerste keer afspelen en komt nooit terug zodra die is weggeklikt. De zwevende zijbadge zit ingeklapt tegen de linkerrand en klapt uit bij zweven; sluiten verbergt hem voor de sessie van de bezoeker."
+      ],
+      "One-time tip after first play (recommended)": [
+        "Eenmalige tip na de eerste keer afspelen (aanbevolen)"
+      ],
+      "Floating side badge": [
+        "Zwevende zijbadge"
+      ],
+      "Both": [
+        "Beide"
+      ],
+      "Off — discover by selecting": [
+        "Uit — ontdekken door te selecteren"
+      ],
+      "Auto-scroll to follow": [
+        "Automatisch meescrollen"
+      ],
+      "Smoothly scroll the page to keep the spoken word in view. Turn off if scrolling is distracting.": [
+        "Scrol de pagina soepel mee zodat het gesproken woord in beeld blijft. Zet dit uit als het meescrollen afleidt."
+      ],
+      "Saving…": [
+        "Opslaan…"
+      ],
+      "Save Changes": [
+        "Wijzigingen opslaan"
+      ],
+      "Help information about this setting": [
+        "Hulpinformatie over deze instelling"
+      ],
+      "Read the full documentation": [
+        "Lees de volledige documentatie"
+      ]
+    }
+  }
+}

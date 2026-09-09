@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:43:09+01:00",
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepHearDifference.js",
   "domain": "messages",
@@ -11,9 +11,6 @@
       },
       "Default": [
         "Standaard"
-      ],
-      "Explore Pro Plans": [
-        "Pro-abonnementen bekijken"
       ],
       "Hear the Difference": [
         "Hoor het verschil"
@@ -44,6 +41,9 @@
       ],
       "Every visitor hears the same high-quality audio. No browser dependency, consistent across all devices.": [
         "Elke bezoeker hoort dezelfde hoogwaardige audio. Geen browserafhankelijkheid, consistent op alle apparaten."
+      ],
+      "Explore Pro Plans": [
+        "Pro-abonnementen bekijken"
       ]
     }
   }

@@ -1,0 +1,155 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-highlight.5d733dfd1bbfeb49.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Click To Know How It Works?": [
+        "Kliknij, aby zobaczyć, jak to działa"
+      ],
+      "Loading...": [
+        "Wczytywanie..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "Zobacz AtlasVoice Pro w działaniu"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Posłuchaj ponad 200 głosów AI, odtwarzaczy MP3 i generowania zbiorczego na żywej stronie — bez instalacji."
+      ],
+      "Watch the live demo": [
+        "Obejrzyj demo na żywo"
+      ],
+      "Try the live demo": [
+        "Wypróbuj demo na żywo"
+      ],
+      "Read-Along Highlight": [
+        "Podświetlanie podczas czytania"
+      ],
+      "Highlight the word and/or sentence being spoken while the post is read aloud.": [
+        "Podświetlaj wypowiadane słowo lub zdanie w trakcie odczytywania wpisu."
+      ],
+      "speechSynthesis limitation:": [
+        "Ograniczenie speechSynthesis:"
+      ],
+      "Word-level highlighting relies on the browser's speechSynthesis “boundary” events, which only fire for local (offline) device voices. Remote voices (e.g. the “Google …” voices) and some browsers (notably Firefox) fire no word boundaries, so word highlighting can't track them. When that happens the player automatically falls back to sentence highlighting. Sentence highlighting works with every voice and browser — it's the recommended default.": [
+        "Podświetlanie na poziomie słów opiera się na przeglądarkowych zdarzeniach „boundary” interfejsu speechSynthesis, które występują wyłącznie dla lokalnych (offline) głosów urządzenia. Głosy zdalne (np. te z rodziny „Google …”) oraz niektóre przeglądarki (zwłaszcza Firefox) nie zgłaszają granic słów, więc podświetlanie słów nie może za nimi nadążyć. W takiej sytuacji odtwarzacz automatycznie przechodzi na podświetlanie zdań. Podświetlanie zdań działa z każdym głosem i każdą przeglądarką — to zalecane ustawienie domyślne."
+      ],
+      "Precise word timing:": [
+        "Dokładne czasy słów:"
+      ],
+      "This player generates audio with real per-word timing, so word-by-word highlighting is accurate and works in every browser — no local-voice requirement and no fallback.": [
+        "Ten odtwarzacz generuje dźwięk z rzeczywistymi czasami poszczególnych słów, więc podświetlanie słowo po słowie jest dokładne i działa w każdej przeglądarce — bez wymogu lokalnego głosu i bez trybu awaryjnego."
+      ],
+      "Already-generated audio:": [
+        "Wcześniej wygenerowane nagrania:"
+      ],
+      "Word timing is captured while the audio is being generated, so posts whose MP3 was created before highlighting was enabled have no timing data — they will use sentence highlighting until their audio is regenerated. To upgrade them, regenerate the audio with the Bulk MP3 tool (or regenerate an individual post). Note: regeneration sends the post content to your TTS provider (Google Cloud / ElevenLabs) again, so it consumes provider characters/credits just like the first generation — word timing can only be produced by the provider during synthesis, which is why it isn't added to existing files automatically.": [
+        "Czasy słów są zapisywane w trakcie generowania dźwięku, więc wpisy, których plik MP3 powstał przed włączeniem podświetlania, nie mają danych o czasach — będą korzystać z podświetlania zdań do czasu ponownego wygenerowania nagrania. Aby je uzupełnić, wygeneruj dźwięk ponownie narzędziem zbiorczego MP3 (albo odśwież pojedynczy wpis). Uwaga: ponowne generowanie wysyła treść wpisu do Twojego dostawcy TTS (Google Cloud / ElevenLabs) jeszcze raz, więc zużywa znaki/kredyty tak samo jak za pierwszym razem — czasy słów może wytworzyć wyłącznie dostawca podczas syntezy, dlatego nie da się ich dodać do istniejących plików automatycznie."
+      ],
+      "Successfully Saved...": [
+        "Zapisano..."
+      ],
+      "Enable highlighting": [
+        "Włącz podświetlanie"
+      ],
+      "Turn read-along highlighting on or off for the browser players.": [
+        "Włącz lub wyłącz podświetlanie podczas czytania dla odtwarzaczy przeglądarkowych."
+      ],
+      "Highlight mode": [
+        "Tryb podświetlania"
+      ],
+      "“Sentence only” works with any voice. “Word” and “Word + Sentence” need a local voice that fires boundary events, and fall back to sentence highlighting otherwise.": [
+        "„Tylko zdanie” działa z każdym głosem. „Słowo” i „Słowo + zdanie” wymagają lokalnego głosu zgłaszającego zdarzenia granic; w przeciwnym razie następuje powrót do podświetlania zdań."
+      ],
+      "Sentence only (recommended)": [
+        "Tylko zdanie (zalecane)"
+      ],
+      "Word only": [
+        "Tylko słowo"
+      ],
+      "Word + Sentence": [
+        "Słowo + zdanie"
+      ],
+      "The current player uses generated audio, so read-along highlighting is sentence-level. Word-level options don't apply here.": [
+        "Bieżący odtwarzacz korzysta z wygenerowanego dźwięku, więc podświetlanie działa na poziomie zdań. Opcje dotyczące słów nie mają tu zastosowania."
+      ],
+      "Word highlight color": [
+        "Kolor podświetlenia słowa"
+      ],
+      "Background color painted behind the word currently being spoken.": [
+        "Kolor tła malowany za aktualnie wypowiadanym słowem."
+      ],
+      "Word text color": [
+        "Kolor tekstu słowa"
+      ],
+      "Text color of the spoken word, for contrast against the highlight color.": [
+        "Kolor wypowiadanego słowa, dla kontrastu z kolorem podświetlenia."
+      ],
+      "Sentence highlight color": [
+        "Kolor podświetlenia zdania"
+      ],
+      "Softer background painted behind the whole sentence being read.": [
+        "Delikatniejsze tło malowane za całym odczytywanym zdaniem."
+      ],
+      "Dim the rest of the article": [
+        "Przygaś resztę artykułu"
+      ],
+      "Fade the surrounding text while reading so the spoken word/sentence stands out.": [
+        "Przygaszaj otaczający tekst podczas czytania, aby wypowiadane słowo lub zdanie było lepiej widoczne."
+      ],
+      "Dimmed text opacity": [
+        "Krycie przygaszonego tekstu"
+      ],
+      "How visible the dimmed (non-spoken) text stays. Lower = more dimmed.": [
+        "Jak bardzo widoczny pozostaje przygaszony (niewypowiadany) tekst. Niższa wartość = mocniejsze przygaszenie."
+      ],
+      "Listen to selected text": [
+        "Odsłuchaj zaznaczony tekst"
+      ],
+      "Show a small “Listen” control when a reader selects text in the article, to read only the selection — or from the selected word to the end. On the browser players the selection is spoken directly; on MP3 players the audio jumps to the matching position (precise on Google Cloud/ElevenLabs with word timing, approximate otherwise).": [
+        "Pokazuje mały przycisk „Słuchaj”, gdy czytelnik zaznaczy tekst w artykule, aby odczytać tylko zaznaczenie — albo od zaznaczonego słowa do końca. W odtwarzaczach przeglądarkowych zaznaczenie jest wypowiadane bezpośrednio; w odtwarzaczach MP3 dźwięk przeskakuje do odpowiedniego miejsca (dokładnie w Google Cloud/ElevenLabs z czasami słów, w pozostałych przypadkach orientacyjnie)."
+      ],
+      "Announce selection listening": [
+        "Informowanie o odsłuchu zaznaczenia"
+      ],
+      "How readers learn the feature exists. The one-time tip appears under the player after their first play and never returns once dismissed. The floating side badge sits collapsed on the left edge and expands on hover; closing it hides it for the visitor's session.": [
+        "Sposób, w jaki czytelnicy dowiadują się o tej funkcji. Jednorazowa wskazówka pojawia się pod odtwarzaczem po pierwszym odtworzeniu i nie wraca po zamknięciu. Pływająca plakietka boczna jest zwinięta przy lewej krawędzi i rozwija się po najechaniu; zamknięcie ukrywa ją na czas sesji odwiedzającego."
+      ],
+      "One-time tip after first play (recommended)": [
+        "Jednorazowa wskazówka po pierwszym odtworzeniu (zalecane)"
+      ],
+      "Floating side badge": [
+        "Pływająca plakietka boczna"
+      ],
+      "Both": [
+        "Oba"
+      ],
+      "Off — discover by selecting": [
+        "Wyłączone — odkrywanie przez zaznaczanie"
+      ],
+      "Auto-scroll to follow": [
+        "Automatyczne przewijanie"
+      ],
+      "Smoothly scroll the page to keep the spoken word in view. Turn off if scrolling is distracting.": [
+        "Płynnie przewija stronę, aby wypowiadane słowo pozostawało widoczne. Wyłącz, jeśli przewijanie rozprasza."
+      ],
+      "Saving…": [
+        "Zapisywanie…"
+      ],
+      "Save Changes": [
+        "Zapisz zmiany"
+      ],
+      "Help information about this setting": [
+        "Informacje pomocnicze o tym ustawieniu"
+      ],
+      "Read the full documentation": [
+        "Przeczytaj pełną dokumentację"
+      ]
+    }
+  }
+}

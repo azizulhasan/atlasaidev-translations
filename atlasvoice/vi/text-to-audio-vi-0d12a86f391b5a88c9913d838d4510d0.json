@@ -1,0 +1,50 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepHearDifference.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Default": [
+        "Mặc định"
+      ],
+      "Hear the Difference": [
+        "Nghe sự khác biệt"
+      ],
+      "Compare your free browser voice with Pro AI voices. Same text, dramatically different quality.": [
+        "So sánh giọng trình duyệt miễn phí của bạn với giọng AI của bản Pro. Cùng một đoạn văn bản, chất lượng khác biệt rõ rệt."
+      ],
+      "Your Current Voice": [
+        "Giọng hiện tại của bạn"
+      ],
+      "Browser TTS": [
+        "TTS trình duyệt"
+      ],
+      "FREE": [
+        "MIỄN PHÍ"
+      ],
+      "VS": [
+        "SO VỚI"
+      ],
+      "PRO": [
+        "PRO"
+      ],
+      "Preview unavailable": [
+        "Không thể xem trước"
+      ],
+      "Unlock 200+ premium AI voices with Pro": [
+        "Mở khóa hơn 200 giọng AI cao cấp với bản Pro"
+      ],
+      "Every visitor hears the same high-quality audio. No browser dependency, consistent across all devices.": [
+        "Mọi khách truy cập đều nghe cùng một chất lượng âm thanh cao. Không phụ thuộc trình duyệt, đồng nhất trên mọi thiết bị."
+      ],
+      "Explore Pro Plans": [
+        "Khám phá các gói Pro"
+      ]
+    }
+  }
+}

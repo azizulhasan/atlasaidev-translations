@@ -1,0 +1,512 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-analytics.47d54d2778284f4f.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Last 7 Days": [
+        "過去 7 日間"
+      ],
+      "Upgrade to Pro": [
+        "Pro にアップグレード"
+      ],
+      "Save": [
+        "保存"
+      ],
+      "Pause": [
+        "一時停止"
+      ],
+      "Successfully Saved.": [
+        "保存しました。"
+      ],
+      "Buy Pro version": [
+        "Pro 版を購入"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Loading...": [
+        "読み込み中..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "AtlasVoice Pro の実力を体験"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "200 種類以上の AI 音声、MP3 プレーヤー、一括生成を実際のページで体験 — インストール不要です。"
+      ],
+      "Watch the live demo": [
+        "ライブデモを見る"
+      ],
+      "Try the live demo": [
+        "ライブデモを試す"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "複数の投稿にボタンを表示する機能は無料版では利用できません。"
+      ],
+      "Select Items...": [
+        "項目を選択..."
+      ],
+      "Pro feature. Upgrade to unlock.": [
+        "Pro の機能です。アップグレードすると利用できます。"
+      ],
+      "Pro Feature": [
+        "Pro の機能"
+      ],
+      "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
+        "Pro にアップグレードすると、この機能と高度な分析を利用できます。"
+      ],
+      "Total Posts": [
+        "投稿総数"
+      ],
+      "Total posts with TTS player": [
+        "TTS プレーヤーがある投稿数"
+      ],
+      "Init": [
+        "初期化"
+      ],
+      "Player initialization count": [
+        "プレーヤーの初期化回数"
+      ],
+      "Play": [
+        "再生"
+      ],
+      "Total play button clicks": [
+        "再生ボタンのクリック総数"
+      ],
+      "Time (Min)": [
+        "時間 (分)"
+      ],
+      "Total listening time": [
+        "総視聴時間"
+      ],
+      "Total pause actions": [
+        "一時停止の総回数"
+      ],
+      "Download": [
+        "ダウンロード"
+      ],
+      "Total MP3 downloads": [
+        "MP3 ダウンロード総数"
+      ],
+      "End": [
+        "完了"
+      ],
+      "Total completions": [
+        "最後まで再生された回数"
+      ],
+      "Bounce Rate": [
+        "離脱率"
+      ],
+      "Users who didn't complete the audio": [
+        "最後まで聴かなかったユーザー"
+      ],
+      "TTS Player Analytics Summary": [
+        "TTS プレーヤー分析サマリー"
+      ],
+      "Total Interactions:": [
+        "総インタラクション数:"
+      ],
+      "Last 30 Days": [
+        "過去 30 日間"
+      ],
+      "Last 90 Days": [
+        "過去 90 日間"
+      ],
+      "25%": [
+        "25%"
+      ],
+      "50%": [
+        "50%"
+      ],
+      "75%": [
+        "75%"
+      ],
+      "Engagement Funnel": [
+        "エンゲージメントファネル"
+      ],
+      "Play Rate:": [
+        "再生率:"
+      ],
+      "Completion Rate:": [
+        "完了率:"
+      ],
+      "Biggest Drop:": [
+        "最大の離脱:"
+      ],
+      "50% → 75%": [
+        "50% → 75%"
+      ],
+      "New Listeners": [
+        "新規リスナー"
+      ],
+      "Returning": [
+        "リピーター"
+      ],
+      "Listener Segments": [
+        "リスナーの内訳"
+      ],
+      "New:": [
+        "新規:"
+      ],
+      "Returning:": [
+        "リピーター:"
+      ],
+      "New Listeners:": [
+        "新規リスナー:"
+      ],
+      "Avg Sessions/User:": [
+        "ユーザーあたり平均セッション数:"
+      ],
+      "Yesterday": [
+        "昨日"
+      ],
+      "OS": [
+        "OS"
+      ],
+      "OS Breakdown": [
+        "OS 別の内訳"
+      ],
+      "Device Types": [
+        "デバイスの種類"
+      ],
+      "Browser": [
+        "ブラウザー"
+      ],
+      "Location": [
+        "地域"
+      ],
+      "Top Countries": [
+        "上位の国"
+      ],
+      "Top Cities": [
+        "上位の都市"
+      ],
+      "Custom Range": [
+        "期間を指定"
+      ],
+      "Playing Quantity": [
+        "再生回数"
+      ],
+      "Playing Time (min)": [
+        "再生時間 (分)"
+      ],
+      "Previous Period": [
+        "前の期間"
+      ],
+      "Playing Trend Analysis": [
+        "再生傾向の分析"
+      ],
+      "Compare with Previous Period": [
+        "前の期間と比較"
+      ],
+      "Quantity vs Date": [
+        "回数と日付"
+      ],
+      "Playing Time(min)": [
+        "再生時間 (分)"
+      ],
+      "Mon": [
+        "月"
+      ],
+      "Tue": [
+        "火"
+      ],
+      "Wed": [
+        "水"
+      ],
+      "Thu": [
+        "木"
+      ],
+      "Fri": [
+        "金"
+      ],
+      "Sat": [
+        "土"
+      ],
+      "Sun": [
+        "日"
+      ],
+      "Peak Listening Hours": [
+        "視聴のピーク時間帯"
+      ],
+      "Low": [
+        "低"
+      ],
+      "Peak": [
+        "ピーク"
+      ],
+      "Insight:": [
+        "分析:"
+      ],
+      "Your peak listening time is": [
+        "視聴のピーク時間帯は"
+      ],
+      "Peak Hours Heatmap": [
+        "ピーク時間帯のヒートマップ"
+      ],
+      "Date Range is only available in Pro version": [
+        "期間の指定は Pro 版でのみ利用できます"
+      ],
+      "Buy Now": [
+        "今すぐ購入"
+      ],
+      "Please enable analytics first.": [
+        "先に分析を有効にしてください。"
+      ],
+      "Track Post IDs": [
+        "追跡する投稿 ID"
+      ],
+      "You've reached the selection limit.": [
+        "選択できる上限に達しました。"
+      ],
+      "Post ID": [
+        "投稿 ID"
+      ],
+      "Custom Date Range": [
+        "期間を指定"
+      ],
+      "Please provide a Post ID or date range.": [
+        "投稿 ID または期間を指定してください。"
+      ],
+      "Search": [
+        "検索"
+      ],
+      "Clear": [
+        "クリア"
+      ],
+      "Showing results for:": [
+        "検索条件:"
+      ],
+      "Post ID:": [
+        "投稿 ID:"
+      ],
+      "From:": [
+        "開始:"
+      ],
+      "To:": [
+        "終了:"
+      ],
+      "Metric": [
+        "指標"
+      ],
+      "Value": [
+        "値"
+      ],
+      "Unlock custom date-range search with Pro": [
+        "Pro で期間を指定した検索を利用しましょう"
+      ],
+      "Popular Post": [
+        "人気の投稿"
+      ],
+      "Rank": [
+        "順位"
+      ],
+      "Post Title": [
+        "投稿タイトル"
+      ],
+      "Total Interactions": [
+        "総インタラクション数"
+      ],
+      "No data available yet. Start tracking posts to see analytics.": [
+        "まだデータがありません。投稿の追跡を始めると分析が表示されます。"
+      ],
+      "View All Posts": [
+        "すべての投稿を表示"
+      ],
+      "CSV export initiated. Check your downloads.": [
+        "CSV エクスポートを開始しました。ダウンロードをご確認ください。"
+      ],
+      "Export failed. Please try again.": [
+        "エクスポートに失敗しました。もう一度お試しください。"
+      ],
+      "PDF export initiated. Check your downloads.": [
+        "PDF エクスポートを開始しました。ダウンロードをご確認ください。"
+      ],
+      "Please enter at least one recipient email address.": [
+        "送信先のメールアドレスを 1 件以上入力してください。"
+      ],
+      "Report schedule saved successfully.": [
+        "レポートのスケジュールを保存しました。"
+      ],
+      "Failed to save schedule settings.": [
+        "スケジュール設定を保存できませんでした。"
+      ],
+      "Please enter recipient email addresses first.": [
+        "先に送信先のメールアドレスを入力してください。"
+      ],
+      "Test report sent successfully! Check your inbox.": [
+        "テストレポートを送信しました。受信トレイをご確認ください。"
+      ],
+      "Failed to send test report.": [
+        "テストレポートを送信できませんでした。"
+      ],
+      "Failed to send test report. Please check your network connection.": [
+        "テストレポートを送信できませんでした。ネットワーク接続をご確認ください。"
+      ],
+      "CSV": [
+        "CSV"
+      ],
+      "PDF": [
+        "PDF"
+      ],
+      "Schedule Report": [
+        "レポートを予約"
+      ],
+      "Schedule Email Reports": [
+        "レポートのメール配信を予約"
+      ],
+      "Enable automated reports": [
+        "レポートの自動配信を有効にする"
+      ],
+      "Recipients (comma separated)": [
+        "送信先 (カンマ区切り)"
+      ],
+      "Frequency": [
+        "頻度"
+      ],
+      "Daily": [
+        "毎日"
+      ],
+      "Weekly": [
+        "毎週"
+      ],
+      "Monthly": [
+        "毎月"
+      ],
+      "Day": [
+        "曜日"
+      ],
+      "Monday": [
+        "月曜日"
+      ],
+      "Tuesday": [
+        "火曜日"
+      ],
+      "Wednesday": [
+        "水曜日"
+      ],
+      "Thursday": [
+        "木曜日"
+      ],
+      "Friday": [
+        "金曜日"
+      ],
+      "Saturday": [
+        "土曜日"
+      ],
+      "Sunday": [
+        "日曜日"
+      ],
+      "Time": [
+        "時刻"
+      ],
+      "Include in report:": [
+        "レポートに含める項目:"
+      ],
+      "Summary statistics": [
+        "サマリー統計"
+      ],
+      "Top 10 posts": [
+        "人気投稿トップ 10"
+      ],
+      "Geographic breakdown": [
+        "地域別の内訳"
+      ],
+      "Trend chart": [
+        "傾向グラフ"
+      ],
+      "Device stats": [
+        "デバイス統計"
+      ],
+      "Next scheduled report:": [
+        "次回のレポート配信:"
+      ],
+      "Sending...": [
+        "送信中..."
+      ],
+      "Send Test Report": [
+        "テストレポートを送信"
+      ],
+      "Saving...": [
+        "保存中..."
+      ],
+      "Save Settings": [
+        "設定を保存"
+      ],
+      "Export & Reports": [
+        "エクスポートとレポート"
+      ],
+      "Last 14 Days": [
+        "過去 14 日間"
+      ],
+      "All Time": [
+        "全期間"
+      ],
+      "Getting more than 30 days data is pro feature. Please ": [
+        "30 日を超えるデータの取得は Pro の機能です。"
+      ],
+      "Quick Select": [
+        "クイック選択"
+      ],
+      "From": [
+        "開始"
+      ],
+      "To": [
+        "終了"
+      ],
+      "Custom date select is only available in pro version. Please ": [
+        "期間の指定は Pro 版でのみ利用できます。"
+      ],
+      "Apply": [
+        "適用"
+      ],
+      "CSV exported successfully!": [
+        "CSV をエクスポートしました。"
+      ],
+      "Error exporting CSV": [
+        "CSV のエクスポート中にエラーが発生しました"
+      ],
+      "PDF report opened. Use 'Save as PDF' in the print dialog.": [
+        "PDF レポートを開きました。印刷ダイアログで「PDF として保存」を選択してください。"
+      ],
+      "Report downloaded as HTML. Open in browser and print to save as PDF.": [
+        "レポートを HTML でダウンロードしました。ブラウザーで開き、印刷して PDF として保存してください。"
+      ],
+      "Failed to generate PDF report.": [
+        "PDF レポートを生成できませんでした。"
+      ],
+      "Error exporting PDF": [
+        "PDF のエクスポート中にエラーが発生しました"
+      ],
+      "Analytics": [
+        "分析"
+      ],
+      "Track and analyze your TTS player engagement to understand listener behavior.": [
+        "TTS プレーヤーのエンゲージメントを計測・分析して、リスナーの行動を把握しましょう。"
+      ],
+      "Show listener location in analytics": [
+        "分析でリスナーの地域を表示する"
+      ],
+      "Off by default. When on, listener IP addresses are sent to ip-api.com, ipinfo.io and icanhazip.com to resolve city / country for the Location chart. See \"External services\" in the plugin readme.": [
+        "既定ではオフです。オンにすると、地域グラフ用に都市・国を特定するため、リスナーの IP アドレスが ip-api.com、ipinfo.io、icanhazip.com に送信されます。プラグインの readme の「外部サービス」をご覧ください。"
+      ],
+      "Export & Schedule Reports": [
+        "レポートのエクスポートと予約配信"
+      ],
+      "Export CSV/PDF reports and schedule automated email digests.": [
+        "CSV/PDF レポートをエクスポートし、メールダイジェストの自動配信を予約します。"
+      ],
+      "Analytics is Currently Disabled": [
+        "分析は現在無効です"
+      ],
+      "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
+        "上のスイッチで分析を有効にすると、TTS プレーヤーの操作状況の記録と詳細な指標の表示が始まります。"
+      ]
+    }
+  }
+}

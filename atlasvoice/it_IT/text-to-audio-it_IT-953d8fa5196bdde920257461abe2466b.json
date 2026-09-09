@@ -1,0 +1,59 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepVoice.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Aggiorna a Pro"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Language": [
+        "Lingua"
+      ],
+      "Voice": [
+        "Voce"
+      ],
+      "Choose your voice and language": [
+        "Scegli la voce e la lingua"
+      ],
+      "Select a browser voice for your audio player. Visitors will hear content read aloud using the Web Speech API.": [
+        "Seleziona una voce del browser per il tuo lettore audio. I visitatori sentiranno il contenuto letto ad alta voce tramite la Web Speech API."
+      ],
+      "All Languages": [
+        "Tutte le lingue"
+      ],
+      "Loading voices...": [
+        "Caricamento delle voci..."
+      ],
+      "Stop Preview": [
+        "Ferma l'anteprima"
+      ],
+      "Preview Voice": [
+        "Ascolta la voce"
+      ],
+      "Currently Active": [
+        "Attualmente attiva"
+      ],
+      "Browser Voices (Free)": [
+        "Voci del browser (gratuite)"
+      ],
+      "Good for basic accessibility. Quality depends on visitor's browser and device.": [
+        "Adatte all'accessibilità di base. La qualità dipende dal browser e dal dispositivo del visitatore."
+      ],
+      "AI Voices — Natural & Consistent": [
+        "Voci AI — naturali e uniformi"
+      ],
+      "Google Cloud TTS, ElevenLabs, ChatGPT TTS. 200+ premium voices. Same quality for every visitor.": [
+        "Google Cloud TTS, ElevenLabs, ChatGPT TTS. Oltre 200 voci premium. Stessa qualità per ogni visitatore."
+      ]
+    }
+  }
+}

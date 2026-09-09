@@ -1,0 +1,50 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepAnalytics.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Select All": [
+        "Chọn tất cả"
+      ],
+      "Track your audio player performance": [
+        "Theo dõi hiệu quả trình phát âm thanh của bạn"
+      ],
+      "See how visitors interact with your audio content. Analytics helps you understand what works.": [
+        "Xem cách khách truy cập tương tác với nội dung âm thanh của bạn. Phân tích giúp bạn hiểu điều gì đang hiệu quả."
+      ],
+      "Enable Analytics": [
+        "Bật phân tích"
+      ],
+      "No published posts found. Analytics will start tracking once you publish content.": [
+        "Không tìm thấy bài viết đã đăng nào. Phân tích sẽ bắt đầu ghi nhận khi bạn đăng nội dung."
+      ],
+      "All posts are tracked by default. Pick specific posts below to track only those:": [
+        "Mặc định tất cả bài viết đều được theo dõi. Hãy chọn các bài viết cụ thể bên dưới để chỉ theo dõi những bài đó:"
+      ],
+      "Deselect All": [
+        "Bỏ chọn tất cả"
+      ],
+      "Posts to track": [
+        "Bài viết cần theo dõi"
+      ],
+      "All posts will be tracked": [
+        "Tất cả bài viết sẽ được theo dõi"
+      ],
+      "selected": [
+        "đã chọn"
+      ],
+      "AtlasVoice Pro adds geographic insights, device analytics, custom date ranges, and CSV/PDF exports.": [
+        "AtlasVoice Pro bổ sung thông tin theo khu vực, phân tích thiết bị, khoảng thời gian tùy chỉnh và xuất CSV/PDF."
+      ],
+      "Learn about Pro Analytics": [
+        "Tìm hiểu về phân tích ở bản Pro"
+      ]
+    }
+  }
+}

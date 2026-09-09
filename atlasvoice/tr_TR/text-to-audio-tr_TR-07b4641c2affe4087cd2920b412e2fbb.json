@@ -1,0 +1,32 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepPostType.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Where should the audio player appear?": [
+        "Ses oynatıcısı nerede görünsün?"
+      ],
+      "By default, the player is added to all your Posts. You can change it to any single post type:": [
+        "Varsayılan olarak oynatıcı tüm Yazılarınıza eklenir. Bunu herhangi bir tek yazı türüyle değiştirebilirsiniz:"
+      ],
+      "Post type selection": [
+        "Yazı türü seçimi"
+      ],
+      "(%d published)": [
+        "(%d yayımlanmış)"
+      ],
+      "Free version supports 1 post type. Need multiple post types?": [
+        "Ücretsiz sürüm 1 yazı türünü destekler. Birden çok yazı türü mü gerekiyor?"
+      ],
+      "AtlasVoice Pro supports unlimited post types plus AI-powered voices.": [
+        "AtlasVoice Pro sınırsız yazı türünü ve yapay zekâ destekli sesleri destekler."
+      ]
+    }
+  }
+}

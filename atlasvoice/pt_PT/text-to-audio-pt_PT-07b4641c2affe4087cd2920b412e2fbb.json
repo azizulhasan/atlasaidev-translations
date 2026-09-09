@@ -1,0 +1,32 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepPostType.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Where should the audio player appear?": [
+        "Onde deve aparecer o leitor de áudio?"
+      ],
+      "By default, the player is added to all your Posts. You can change it to any single post type:": [
+        "Por predefinição, o leitor é acrescentado a todos os teus artigos. Podes mudar para qualquer tipo de conteúdo:"
+      ],
+      "Post type selection": [
+        "Seleção do tipo de conteúdo"
+      ],
+      "(%d published)": [
+        "(%d publicados)"
+      ],
+      "Free version supports 1 post type. Need multiple post types?": [
+        "A versão gratuita suporta 1 tipo de conteúdo. Precisas de vários tipos de conteúdo?"
+      ],
+      "AtlasVoice Pro supports unlimited post types plus AI-powered voices.": [
+        "O AtlasVoice Pro suporta tipos de conteúdo ilimitados e vozes com IA."
+      ]
+    }
+  }
+}

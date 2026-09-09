@@ -1,0 +1,86 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/text-to-audio-button.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Close": [
+        "Kapat"
+      ],
+      "Listen": [
+        "Dinle"
+      ],
+      "Settings": [
+        "Ayarlar"
+      ],
+      "Loading": [
+        "Yükleniyor"
+      ],
+      "Player settings": [
+        "Oynatıcı ayarları"
+      ],
+      "Player Settings": [
+        "Oynatıcı Ayarları"
+      ],
+      "Close settings": [
+        "Ayarları kapat"
+      ],
+      "Language": [
+        "Dil"
+      ],
+      "Voice": [
+        "Ses"
+      ],
+      "Speed": [
+        "Hız"
+      ],
+      "Playback speed": [
+        "Oynatma hızı"
+      ],
+      "Pitch": [
+        "Perde"
+      ],
+      "Voice pitch": [
+        "Ses perdesi"
+      ],
+      "Volume": [
+        "Ses Düzeyi"
+      ],
+      "Unmute": [
+        "Sesi aç"
+      ],
+      "Mute": [
+        "Sesi kapat"
+      ],
+      "Unmute audio": [
+        "Sesi aç"
+      ],
+      "Mute audio": [
+        "Sesi kapat"
+      ],
+      "From here": [
+        "Buradan itibaren"
+      ],
+      "Listen to the selected text": [
+        "Seçili metni dinle"
+      ],
+      "Listen from here to the end": [
+        "Buradan sona kadar dinle"
+      ],
+      "Tip: select any text in the article to listen to just that part.": [
+        "İpucu: yalnızca o bölümü dinlemek için makaledeki herhangi bir metni seçin."
+      ],
+      "Select any text to listen to it": [
+        "Dinlemek için herhangi bir metni seçin"
+      ],
+      "Dismiss": [
+        "Kapat"
+      ]
+    }
+  }
+}

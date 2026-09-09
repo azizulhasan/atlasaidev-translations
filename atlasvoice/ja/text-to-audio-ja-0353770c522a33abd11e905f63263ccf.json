@@ -1,0 +1,53 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepFinish.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Could not go live. Please try from the dashboard.": [
+        "公開できませんでした。ダッシュボードからお試しください。"
+      ],
+      "You’re live! 🎉": [
+        "公開しました! 🎉"
+      ],
+      "The audio player is now visible to visitors on all your %s.": [
+        "音声プレーヤーが、すべての%sで訪問者に表示されるようになりました。"
+      ],
+      "View Player on Your Site": [
+        "サイトでプレーヤーを見る"
+      ],
+      "Go to Dashboard": [
+        "ダッシュボードへ移動"
+      ],
+      "Hear the live demo": [
+        "ライブデモを聴く"
+      ],
+      "Setup complete — you’re in Staging": [
+        "設定が完了しました — 現在はステージングです"
+      ],
+      "Your settings are saved, but the player is still hidden from visitors. When you’re happy with how your content reads, Go Live to show the player on your site.": [
+        "設定は保存されましたが、プレーヤーはまだ訪問者から見えません。コンテンツの読み上げに満足できたら、公開してサイトにプレーヤーを表示しましょう。"
+      ],
+      "Going live…": [
+        "公開しています…"
+      ],
+      "Go Live now": [
+        "今すぐ公開"
+      ],
+      "Stay in Staging": [
+        "ステージングのままにする"
+      ],
+      "How does Staging → Live work? →": [
+        "ステージング → 公開の仕組みとは? →"
+      ],
+      "Explore all AtlasAiDev plugins": [
+        "AtlasAiDev のプラグインをすべて見る"
+      ]
+    }
+  }
+}

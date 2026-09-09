@@ -1,0 +1,9 @@
+# Compiled gettext catalogs are binary. Never let autocrlf touch them —
+# line-ending conversion silently corrupts the hash table inside a .mo and
+# the translations stop loading with no error.
+*.mo binary
+
+# The text sources stay LF in the repo so the plugin downloads them byte-for-byte
+# as generated, whatever the contributor's platform does locally.
+*.po  text eol=lf
+*.json text eol=lf

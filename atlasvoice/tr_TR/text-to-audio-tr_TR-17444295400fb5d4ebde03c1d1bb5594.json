@@ -1,0 +1,56 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/WelcomeWizard.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Saving...": [
+        "Kaydediliyor..."
+      ],
+      "Next": [
+        "Sonraki"
+      ],
+      "There was an error saving your settings. Please try again.": [
+        "Ayarlarınız kaydedilirken bir hata oluştu. Lütfen tekrar deneyin."
+      ],
+      "Finish Setup": [
+        "Kurulumu Tamamla"
+      ],
+      "Next: Choose Voice": [
+        "Sonraki: Ses Seçimi"
+      ],
+      "Next: Hear the Difference": [
+        "Sonraki: Farkı Duyun"
+      ],
+      "Next: Check Content": [
+        "Sonraki: İçeriği Denetle"
+      ],
+      "Next: Customize": [
+        "Sonraki: Özelleştirme"
+      ],
+      "Next: Analytics": [
+        "Sonraki: Analizler"
+      ],
+      "AtlasVoice Setup": [
+        "AtlasVoice Kurulumu"
+      ],
+      "Step": [
+        "Adım"
+      ],
+      "of": [
+        "/"
+      ],
+      "Skip Setup": [
+        "Kurulumu Atla"
+      ],
+      "Back": [
+        "Geri"
+      ]
+    }
+  }
+}

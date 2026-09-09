@@ -1,0 +1,161 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-maintenance.d2fe32095cac3d8f.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Cancel": [
+        "Annuleren"
+      ],
+      "Scan failed.": [
+        "Scannen mislukt."
+      ],
+      "Scan failed: ": [
+        "Scannen mislukt: "
+      ],
+      "No files selected.": [
+        "Geen bestanden geselecteerd."
+      ],
+      "Deleted": [
+        "Verwijderd"
+      ],
+      "Freed": [
+        "Vrijgemaakt"
+      ],
+      "Deletion failed.": [
+        "Verwijderen mislukt."
+      ],
+      "Deletion failed: ": [
+        "Verwijderen mislukt: "
+      ],
+      "Maintenance": [
+        "Onderhoud"
+      ],
+      "⚠ Destructive action.": [
+        "⚠ Onomkeerbare actie."
+      ],
+      "This tool permanently deletes leftover per-batch MP3 chunks (files like title-1.mp3, title-2.mp3) from uploads/TTA_Pro/. Only files that meet all of the following are listed:": [
+        "Dit gereedschap verwijdert definitief achtergebleven MP3-deelbestanden per batch (bestanden als titel-1.mp3, titel-2.mp3) uit uploads/TTA_Pro/. Alleen bestanden die aan alle onderstaande voorwaarden voldoen worden getoond:"
+      ],
+      "Filename ends with -N.mp3 where N is a number": [
+        "De bestandsnaam eindigt op -N.mp3, waarbij N een getal is"
+      ],
+      "The final concatenated file (title.mp3) already exists in the same folder": [
+        "Het uiteindelijke samengevoegde bestand (titel.mp3) staat al in dezelfde map"
+      ],
+      "The file is older than 1 hour (so an in-flight batch is never affected)": [
+        "Het bestand is ouder dan 1 uur (zodat een lopende batch nooit wordt geraakt)"
+      ],
+      "The file sits under wp-uploads/TTA_Pro/ (path traversal is rejected)": [
+        "Het bestand staat onder wp-uploads/TTA_Pro/ (path traversal wordt geweigerd)"
+      ],
+      "⚠ Reduced safety margin.": [
+        "⚠ Kleinere veiligheidsmarge."
+      ],
+      "You have lowered the age threshold below the 1-hour safe default. Files created by an in-flight batch could match. Only use this if no generation is currently running.": [
+        "Je hebt de leeftijdsdrempel onder de veilige standaard van 1 uur gezet. Bestanden van een lopende batch kunnen nu meetellen. Gebruik dit alleen als er op dit moment niets wordt gegenereerd."
+      ],
+      "Include files older than:": [
+        "Bestanden meenemen die ouder zijn dan:"
+      ],
+      "Scanning…": [
+        "Bezig met scannen…"
+      ],
+      "Scan for orphan files": [
+        "Scannen op weesbestanden"
+      ],
+      "Per page:": [
+        "Per pagina:"
+      ],
+      "Delete selected": [
+        "Geselecteerde verwijderen"
+      ],
+      "Delete all": [
+        "Alles verwijderen"
+      ],
+      "Total orphans:": [
+        "Totaal aantal weesbestanden:"
+      ],
+      "Disk usage:": [
+        "Schijfgebruik:"
+      ],
+      "Nothing to clean — no orphan temp files found.": [
+        "Niets op te ruimen — geen achtergebleven tijdelijke bestanden gevonden."
+      ],
+      "All": [
+        "Alle"
+      ],
+      "orphan files": [
+        "weesbestanden"
+      ],
+      "across all pages are selected.": [
+        "op alle pagina's zijn geselecteerd."
+      ],
+      "Clear selection": [
+        "Selectie wissen"
+      ],
+      "files on this page are selected.": [
+        "bestanden op deze pagina zijn geselecteerd."
+      ],
+      "Select all": [
+        "Alles selecteren"
+      ],
+      "files across all pages": [
+        "bestanden op alle pagina's"
+      ],
+      "File": [
+        "Bestand"
+      ],
+      "Provider": [
+        "Aanbieder"
+      ],
+      "Size": [
+        "Grootte"
+      ],
+      "Modified": [
+        "Gewijzigd"
+      ],
+      "Previous": [
+        "Vorige"
+      ],
+      "Page": [
+        "Pagina"
+      ],
+      "Next": [
+        "Volgende"
+      ],
+      "Confirm deletion": [
+        "Verwijderen bevestigen"
+      ],
+      "You are about to permanently delete": [
+        "Je staat op het punt definitief te verwijderen:"
+      ],
+      "files": [
+        "bestanden"
+      ],
+      "This cannot be undone. Server-side safety rules will re-validate each file before deletion.": [
+        "Dit kan niet ongedaan worden gemaakt. De veiligheidsregels op de server controleren elk bestand opnieuw vóór het verwijderen."
+      ],
+      "Type ": [
+        "Typ "
+      ],
+      " to confirm:": [
+        " om te bevestigen:"
+      ],
+      "Deleting…": [
+        "Bezig met verwijderen…"
+      ],
+      "Permanently delete": [
+        "Definitief verwijderen"
+      ],
+      "Maintenance tools are available with the Pro plugin active.": [
+        "Het onderhoudsgereedschap is beschikbaar zodra de Pro-plugin actief is."
+      ]
+    }
+  }
+}

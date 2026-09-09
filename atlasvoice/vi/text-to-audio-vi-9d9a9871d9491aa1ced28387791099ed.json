@@ -1,0 +1,119 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/css-selectors/CSSSelectorsForPosts.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Lưu"
+      ],
+      "Click To Know How It Works?": [
+        "Nhấp để xem cách hoạt động"
+      ],
+      "Loading...": [
+        "Đang tải..."
+      ],
+      "Include Content By CSS Selectors": [
+        "Đưa nội dung vào bằng bộ chọn CSS"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Loại trừ nội dung bằng bộ chọn CSS"
+      ],
+      "Exclude HTML Tags To Speak": [
+        "Loại trừ thẻ HTML khỏi phần đọc"
+      ],
+      "Exclude Texts To Speak": [
+        "Loại trừ văn bản khỏi phần đọc"
+      ],
+      "Pick Visually": [
+        "Chọn trực quan"
+      ],
+      "Could not open the picker: ": [
+        "Không mở được bộ chọn: "
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "Tính năng Đưa nội dung vào bằng bộ chọn CSS có ở bản pro"
+      ],
+      "Multiple selector will be multiline.": [
+        "Nhiều bộ chọn được viết trên nhiều dòng."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Một số nội dung có thể bị thiếu; bạn có thể chỉ định bằng bộ chọn css"
+      ],
+      "Add CSS selectors for the content areas the player should read. One selector per line. Only target post/page body content. If left empty, the player automatically detects the content area.": [
+        "Thêm các bộ chọn CSS cho những vùng nội dung mà trình phát cần đọc. Mỗi dòng một bộ chọn. Chỉ nhắm vào phần thân bài viết/trang. Nếu để trống, trình phát sẽ tự động nhận diện vùng nội dung."
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "Tính năng Loại trừ nội dung bằng bộ chọn CSS có ở bản pro"
+      ],
+      "Exclude content by CSS selectors": [
+        "Loại trừ nội dung bằng bộ chọn CSS"
+      ],
+      "Remove specific elements within the included content areas above. One selector per line. Example: .social-share, .related-posts, .author-bio": [
+        "Loại bỏ những phần tử cụ thể bên trong các vùng nội dung đã đưa vào ở trên. Mỗi dòng một bộ chọn. Ví dụ: .social-share, .related-posts, .author-bio"
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Nhiều thẻ được phân tách bằng dấu gạch đứng (|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Loại trừ thẻ là tính năng pro."
+      ],
+      "HTML tags to skip within the included content. Pipe-separated. script, style, figure, and figcaption are always excluded automatically. Example: sub|sup|blockquote": [
+        "Các thẻ HTML cần bỏ qua trong phần nội dung đã đưa vào. Phân tách bằng dấu gạch đứng. Các thẻ script, style, figure và figcaption luôn được loại trừ tự động. Ví dụ: sub|sup|blockquote"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Loại trừ văn bản khỏi phần đọc là tính năng pro."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Nhiều đoạn văn bản được phân tách bằng dấu gạch đứng (|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Loại trừ văn bản là tính năng pro."
+      ],
+      "Exact text patterns to remove from the spoken content. Pipe-separated. Applied after all CSS and tag exclusions. Example: Read more...|Advertisement|Sponsored Content": [
+        "Các mẫu văn bản khớp chính xác sẽ bị loại khỏi nội dung được đọc. Phân tách bằng dấu gạch đứng. Áp dụng sau tất cả loại trừ theo CSS và thẻ. Ví dụ: Đọc thêm...|Quảng cáo|Nội dung tài trợ"
+      ],
+      "Please save the post then try to add custom CSS selectors.": [
+        "Vui lòng lưu bài viết rồi thử thêm bộ chọn CSS tùy chỉnh."
+      ],
+      "Empty value can not be saved. You can uncheck the \"Use Own CSS Selectors\" Option.": [
+        "Không thể lưu giá trị trống. Bạn có thể bỏ chọn tùy chọn \"Dùng bộ chọn CSS riêng\"."
+      ],
+      "Settings Data Saved": [
+        "Đã lưu dữ liệu cài đặt"
+      ],
+      "Exclude Tags. So that its content skipped. Like (Subscript, Superscript etc.) This is a pro feature.": [
+        "Loại trừ thẻ để bỏ qua nội dung bên trong. Chẳng hạn (chỉ số dưới, chỉ số trên, v.v.) Đây là tính năng pro."
+      ],
+      "CSS Selectors for This Post": [
+        "Bộ chọn CSS cho bài viết này"
+      ],
+      "Override global content extraction settings for this post only.": [
+        "Ghi đè cài đặt trích xuất nội dung toàn cục chỉ cho bài viết này."
+      ],
+      "Open the visual picker for this post.": [
+        "Mở bộ chọn trực quan cho bài viết này."
+      ],
+      "Enable \"Use Own CSS Selectors\" to edit this post's rule.": [
+        "Hãy bật \"Dùng bộ chọn CSS riêng\" để chỉnh quy tắc của bài viết này."
+      ],
+      "Could not resolve this post URL. Save the post first.": [
+        "Không xác định được URL của bài viết này. Hãy lưu bài viết trước."
+      ],
+      "Use Own CSS Selectors": [
+        "Dùng bộ chọn CSS riêng"
+      ],
+      "Per-post CSS selectors is a pro feature.": [
+        "Bộ chọn CSS theo từng bài viết là tính năng pro."
+      ],
+      "When enabled, the selectors below override the global settings (Settings > CSS Selectors) for this post only. Only non-empty fields override — empty fields keep the global value.": [
+        "Khi bật, các bộ chọn bên dưới sẽ ghi đè cài đặt toàn cục (Cài đặt > Bộ chọn CSS) chỉ cho bài viết này. Chỉ những trường có nội dung mới ghi đè — trường trống vẫn giữ giá trị toàn cục."
+      ]
+    }
+  }
+}

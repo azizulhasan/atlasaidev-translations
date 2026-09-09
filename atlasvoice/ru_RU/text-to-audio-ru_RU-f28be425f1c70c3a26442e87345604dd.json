@@ -1,0 +1,356 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-customize.f093072f9c101885.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Сохранить"
+      ],
+      "Default": [
+        "По умолчанию"
+      ],
+      "AtlasVoice Pro": [
+        "AtlasVoice Pro"
+      ],
+      "Click To Know How It Works?": [
+        "Нажмите, чтобы узнать, как это работает"
+      ],
+      "Background Color": [
+        "Цвет фона"
+      ],
+      "Text Color": [
+        "Цвет текста"
+      ],
+      "Custom CSS": [
+        "Свой CSS"
+      ],
+      "Loading...": [
+        "Загрузка..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "Посмотрите AtlasVoice Pro в деле"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Послушайте более 200 ИИ-голосов, MP3-плееры и массовую генерацию на живой странице — без установки."
+      ],
+      "Watch the live demo": [
+        "Смотреть демо"
+      ],
+      "Try the live demo": [
+        "Попробовать демо"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Показ кнопки на нескольких записях не поддерживается в бесплатной версии."
+      ],
+      "Select Items...": [
+        "Выберите элементы..."
+      ],
+      "Buy Now": [
+        "Купить"
+      ],
+      "Before Content": [
+        "Перед содержимым"
+      ],
+      "After Content": [
+        "После содержимого"
+      ],
+      "Bottom Full Width": [
+        "Внизу во всю ширину"
+      ],
+      "Bottom Right": [
+        "Внизу справа"
+      ],
+      "Bottom Left": [
+        "Внизу слева"
+      ],
+      "Sticky Top": [
+        "Закреплён сверху"
+      ],
+      "Select Player": [
+        "Выберите плеер"
+      ],
+      "More players (AI voices, MP3) are available in": [
+        "Другие плееры (ИИ-голоса, MP3) доступны в"
+      ],
+      "Hear the Pro players live": [
+        "Послушать плееры Pro вживую"
+      ],
+      "Select Button Position": [
+        "Выберите положение кнопки"
+      ],
+      "Select where to display the player button": [
+        "Выберите, где показывать кнопку плеера"
+      ],
+      "Floating Position": [
+        "Плавающее положение"
+      ],
+      "Where the player docks once the reader scrolls past it. Turn docking off entirely with \"When Scroll Down Stop Floating Player\" in Settings.": [
+        "Место, где закрепится плеер, когда читатель прокрутит страницу ниже него. Полностью отключить закрепление можно параметром «Останавливать плавающий плеер при прокрутке вниз» в настройках."
+      ],
+      "Display Player To": [
+        "Показывать плеер"
+      ],
+      "Choose who can see the player": [
+        "Выберите, кто может видеть плеер"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "Ограничение показа плеера для нескольких типов пользователей доступно в версии pro"
+      ],
+      "Who Can Download MP3 File": [
+        "Кто может скачивать MP3-файл"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "Создавать MP3 начиная с даты публикации"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Начать создание MP3-файлов с записей, опубликованных после указанной даты. Выбирайте это, только если хотите создавать mp3 по диапазону дат."
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "Создавать MP3 с даты"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "Создавать MP3 до даты публикации"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Создавать MP3-файлы для записей, опубликованных до указанной даты. Выбирайте это, только если хотите создавать mp3 по диапазону дат."
+      ],
+      "Generate MP3 File Date To": [
+        "Создавать MP3 по дату"
+      ],
+      "Player Customization": [
+        "Настройка плеера"
+      ],
+      "Choose icon": [
+        "Выберите значок"
+      ],
+      "Presets": [
+        "Готовые наборы"
+      ],
+      "Custom SVG": [
+        "Свой SVG"
+      ],
+      "<svg ...>...</svg>": [
+        "<svg ...>...</svg>"
+      ],
+      "Use this SVG": [
+        "Использовать этот SVG"
+      ],
+      "Allowed: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Server sanitizes on save.": [
+        "Разрешено: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Сервер очищает код при сохранении."
+      ],
+      "Listen — initial state": [
+        "Слушать — исходное состояние"
+      ],
+      "Pause — while speaking": [
+        "Пауза — во время озвучивания"
+      ],
+      "Resume — after user paused": [
+        "Продолжить — после паузы пользователя"
+      ],
+      "Replay — after speech finished": [
+        "Прослушать снова — после завершения озвучивания"
+      ],
+      "Reset to default": [
+        "Вернуть по умолчанию"
+      ],
+      "Empty = use factory default": [
+        "Пусто = использовать заводское значение"
+      ],
+      "Hide tooltip": [
+        "Скрыть подсказку"
+      ],
+      "Show tooltip (advanced)": [
+        "Показывать подсказку (для опытных)"
+      ],
+      "Hover tooltip": [
+        "Подсказка при наведении"
+      ],
+      "Default Pro": [
+        "Default Pro"
+      ],
+      "Button Texts & Icons — ": [
+        "Тексты и значки кнопки — "
+      ],
+      "Reset all to defaults": [
+        "Сбросить всё к значениям по умолчанию"
+      ],
+      "These labels and icons are shown on the front-end button as it cycles through states. Saved values for the inactive player are preserved if you switch players.": [
+        "Эти подписи и значки показываются на кнопке на сайте по мере смены её состояний. Сохранённые значения для неактивного плеера сохраняются при смене плеера."
+      ],
+      "Choose player background color": [
+        "Выберите цвет фона плеера"
+      ],
+      "Choose your color": [
+        "Выберите цвет"
+      ],
+      "Hover BG Color": [
+        "Цвет фона при наведении"
+      ],
+      "Choose your hover background color": [
+        "Выберите цвет фона при наведении"
+      ],
+      "Hover Text Color": [
+        "Цвет текста при наведении"
+      ],
+      "Choose your hover text color": [
+        "Выберите цвет текста при наведении"
+      ],
+      "Margin Size (Px)": [
+        "Размер отступа (px)"
+      ],
+      "Top": [
+        "Сверху"
+      ],
+      "Margin Top": [
+        "Отступ сверху"
+      ],
+      "Bottom": [
+        "Снизу"
+      ],
+      "Margin Bottom": [
+        "Отступ снизу"
+      ],
+      "Left": [
+        "Слева"
+      ],
+      "Margin Left": [
+        "Отступ слева"
+      ],
+      "Right": [
+        "Справа"
+      ],
+      "Margin Right": [
+        "Отступ справа"
+      ],
+      "Button Style": [
+        "Стиль кнопки"
+      ],
+      "Height": [
+        "Высота"
+      ],
+      "Button Height": [
+        "Высота кнопки"
+      ],
+      "Border": [
+        "Граница"
+      ],
+      "Button Border": [
+        "Граница кнопки"
+      ],
+      "Border Color": [
+        "Цвет границы"
+      ],
+      "Font Size": [
+        "Размер шрифта"
+      ],
+      "Radius": [
+        "Скругление"
+      ],
+      "Border Radius": [
+        "Радиус скругления"
+      ],
+      "Button Properties": [
+        "Свойства кнопки"
+      ],
+      "Width": [
+        "Ширина"
+      ],
+      "Button Width": [
+        "Ширина кнопки"
+      ],
+      "Add custom styling for your player using the WordPress Customizer's Additional CSS editor.": [
+        "Добавьте своё оформление плеера в редакторе «Дополнительные стили» настройщика WordPress."
+      ],
+      "Open Appearance → Customize → Additional CSS": [
+        "Открыть Внешний вид → Настроить → Дополнительные стили"
+      ],
+      "Default player preview": [
+        "Предпросмотр плеера по умолчанию"
+      ],
+      "This is a preview of the player.": [
+        "Это предпросмотр плеера."
+      ],
+      "Player settings": [
+        "Настройки плеера"
+      ],
+      "Value should be between 0-100": [
+        "Значение должно быть от 0 до 100"
+      ],
+      "Customization": [
+        "Оформление"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "Настройте плеер и его оформление под свой бренд и предпочтения."
+      ],
+      "Preview on Your Site": [
+        "Предпросмотр на сайте"
+      ],
+      "Please fill the  field : ": [
+        "Заполните поле: "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "Чтобы выбрать этот плеер, сначала пройдите авторизацию в меню «Интеграции»"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "Плеер Google Cloud TTS доступен только в версии pro."
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "Чтобы выбрать этот плеер, сначала пройдите авторизацию в меню «Интеграции»"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "Плеер ChatGPT TTS доступен только в версии pro."
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "Плеер ElevenLabs TTS доступен только в версии pro."
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "Плеер Default Pro доступен только в версии pro."
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "AtlasVoice сохраняет созданные аудиофайлы в папке uploads. Ваша папка uploads недоступна для записи. Разрешите запись в неё, чтобы пользоваться всеми возможностями плагина."
+      ],
+      "Customization saved.": [
+        "Оформление сохранено."
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "Теперь перейдите в меню «Оформление», чтобы выбрать подходящий язык и голос."
+      ],
+      "Write here something and click listen button": [
+        "Напишите здесь что-нибудь и нажмите кнопку прослушивания"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " Введите здесь текст и нажмите кнопку прослушивания, чтобы услышать его вслух."
+      ],
+      "Watch Tutorial": [
+        "Смотреть руководство"
+      ],
+      "Write here something and click listen button.": [
+        "Напишите здесь что-нибудь и нажмите кнопку прослушивания."
+      ],
+      "Design Customization": [
+        "Настройка оформления"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "Шорткод | значения атрибутов должны быть заключены в двойные кавычки ( \" )"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "Шорткод скопирован"
+      ],
+      "Copy Shortcode": [
+        "Копировать шорткод"
+      ]
+    }
+  }
+}

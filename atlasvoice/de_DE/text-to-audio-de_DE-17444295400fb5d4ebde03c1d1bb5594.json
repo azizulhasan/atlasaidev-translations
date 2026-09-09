@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:43:09+01:00",
+  "translation-revision-date": "2026-09-09T11:46:21+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/WelcomeWizard.js",
   "domain": "messages",
@@ -11,6 +11,9 @@
       },
       "Saving...": [
         "Wird gespeichert..."
+      ],
+      "Next": [
+        "Weiter"
       ],
       "There was an error saving your settings. Please try again.": [
         "Beim Speichern Ihrer Einstellungen ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
@@ -24,14 +27,14 @@
       "Next: Hear the Difference": [
         "Weiter: Den Unterschied hoeren"
       ],
+      "Next: Check Content": [
+        "Weiter: Inhalt prüfen"
+      ],
       "Next: Customize": [
         "Weiter: Anpassen"
       ],
       "Next: Analytics": [
         "Weiter: Analysen"
-      ],
-      "Next": [
-        "Weiter"
       ],
       "AtlasVoice Setup": [
         "AtlasVoice-Einrichtung"

@@ -1,0 +1,50 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepAnalytics.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Select All": [
+        "Selecionar tudo"
+      ],
+      "Track your audio player performance": [
+        "Acompanha o desempenho do teu leitor de áudio"
+      ],
+      "See how visitors interact with your audio content. Analytics helps you understand what works.": [
+        "Vê como os visitantes interagem com o teu conteúdo em áudio. A análise ajuda-te a perceber o que funciona."
+      ],
+      "Enable Analytics": [
+        "Ativar a análise"
+      ],
+      "No published posts found. Analytics will start tracking once you publish content.": [
+        "Não foram encontrados artigos publicados. A análise começa a registar dados assim que publicares conteúdo."
+      ],
+      "All posts are tracked by default. Pick specific posts below to track only those:": [
+        "Por predefinição são registados todos os artigos. Escolhe abaixo artigos específicos para registares apenas esses:"
+      ],
+      "Deselect All": [
+        "Desmarcar tudo"
+      ],
+      "Posts to track": [
+        "Artigos a registar"
+      ],
+      "All posts will be tracked": [
+        "Serão registados todos os artigos"
+      ],
+      "selected": [
+        "selecionados"
+      ],
+      "AtlasVoice Pro adds geographic insights, device analytics, custom date ranges, and CSV/PDF exports.": [
+        "O AtlasVoice Pro acrescenta dados geográficos, análise de dispositivos, intervalos de datas personalizados e exportações CSV/PDF."
+      ],
+      "Learn about Pro Analytics": [
+        "Conhecer a análise do Pro"
+      ]
+    }
+  }
+}

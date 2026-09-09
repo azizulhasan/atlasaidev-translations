@@ -1,0 +1,50 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepHearDifference.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Default": [
+        "Varsayılan"
+      ],
+      "Hear the Difference": [
+        "Farkı Duyun"
+      ],
+      "Compare your free browser voice with Pro AI voices. Same text, dramatically different quality.": [
+        "Ücretsiz tarayıcı sesinizi Pro yapay zekâ sesleriyle karşılaştırın. Aynı metin, çok farklı kalite."
+      ],
+      "Your Current Voice": [
+        "Mevcut Sesiniz"
+      ],
+      "Browser TTS": [
+        "Tarayıcı TTS"
+      ],
+      "FREE": [
+        "ÜCRETSİZ"
+      ],
+      "VS": [
+        "KARŞI"
+      ],
+      "PRO": [
+        "PRO"
+      ],
+      "Preview unavailable": [
+        "Önizleme kullanılamıyor"
+      ],
+      "Unlock 200+ premium AI voices with Pro": [
+        "Pro ile 200'den fazla premium yapay zekâ sesini açın"
+      ],
+      "Every visitor hears the same high-quality audio. No browser dependency, consistent across all devices.": [
+        "Her ziyaretçi aynı yüksek kaliteli sesi duyar. Tarayıcıya bağımlılık yok, tüm cihazlarda tutarlı."
+      ],
+      "Explore Pro Plans": [
+        "Pro Planlarını İnceleyin"
+      ]
+    }
+  }
+}

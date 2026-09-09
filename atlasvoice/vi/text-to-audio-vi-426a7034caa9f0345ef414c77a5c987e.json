@@ -1,0 +1,1748 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/text-to-audio-dashboard-ui.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Last 7 Days": [
+        "7 ngày qua"
+      ],
+      "Upgrade to Pro": [
+        "Nâng cấp lên Pro"
+      ],
+      "Cancel": [
+        "Hủy"
+      ],
+      "Save": [
+        "Lưu"
+      ],
+      "Pause": [
+        "Tạm dừng"
+      ],
+      "Default": [
+        "Mặc định"
+      ],
+      "AtlasVoice Pro": [
+        "AtlasVoice Pro"
+      ],
+      "Text to Speech Aliases": [
+        "Bí danh phát âm"
+      ],
+      "Actual Text": [
+        "Văn bản gốc"
+      ],
+      "To Read": [
+        "Đọc thành"
+      ],
+      "All fields must be filled!": [
+        "Phải điền đầy đủ các trường!"
+      ],
+      "Successfully Saved.": [
+        "Đã lưu thành công."
+      ],
+      "Buy Pro version": [
+        "Mua bản Pro"
+      ],
+      "Click To Know How It Works?": [
+        "Nhấp để xem cách hoạt động"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Background Color": [
+        "Màu nền"
+      ],
+      "Text Color": [
+        "Màu chữ"
+      ],
+      "Custom CSS": [
+        "CSS tùy chỉnh"
+      ],
+      "Here a short text have to write to inform the user about this feature purpose": [
+        "Hãy viết ở đây một đoạn ngắn để giới thiệu cho người dùng về mục đích của tính năng này"
+      ],
+      "Write actual text": [
+        "Nhập văn bản gốc"
+      ],
+      "Write read aloud text": [
+        "Nhập văn bản sẽ được đọc"
+      ],
+      "More than 1 alias is available in the pro version. Please ": [
+        "Bản pro cho phép dùng nhiều hơn 1 bí danh. Vui lòng "
+      ],
+      "Add New": [
+        "Thêm mới"
+      ],
+      "Loading...": [
+        "Đang tải..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "Xem AtlasVoice Pro hoạt động"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Nghe hơn 200 giọng AI, trình phát MP3 và tính năng tạo hàng loạt ngay trên trang trực tiếp — không cần cài đặt."
+      ],
+      "Watch the live demo": [
+        "Xem bản demo trực tiếp"
+      ],
+      "Try the live demo": [
+        "Thử bản demo trực tiếp"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Bản miễn phí không hỗ trợ hiển thị nút trên nhiều bài viết."
+      ],
+      "Select Items...": [
+        "Chọn các mục..."
+      ],
+      "Pro feature. Upgrade to unlock.": [
+        "Tính năng Pro. Nâng cấp để mở khóa."
+      ],
+      "Pro Feature": [
+        "Tính năng Pro"
+      ],
+      "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
+        "Nâng cấp lên Pro để mở khóa tính năng này và truy cập phân tích nâng cao."
+      ],
+      "Total Posts": [
+        "Tổng số bài viết"
+      ],
+      "Total posts with TTS player": [
+        "Bài viết có trình phát TTS"
+      ],
+      "Init": [
+        "Khởi tạo"
+      ],
+      "Player initialization count": [
+        "Số lần khởi tạo trình phát"
+      ],
+      "Play": [
+        "Lượt phát"
+      ],
+      "Total play button clicks": [
+        "Tổng số lần nhấp nút phát"
+      ],
+      "Time (Min)": [
+        "Thời gian (phút)"
+      ],
+      "Total listening time": [
+        "Tổng thời gian nghe"
+      ],
+      "Total pause actions": [
+        "Tổng số lần tạm dừng"
+      ],
+      "Download": [
+        "Lượt tải"
+      ],
+      "Total MP3 downloads": [
+        "Tổng số lượt tải MP3"
+      ],
+      "End": [
+        "Hoàn tất"
+      ],
+      "Total completions": [
+        "Tổng số lượt nghe hết"
+      ],
+      "Bounce Rate": [
+        "Tỷ lệ thoát"
+      ],
+      "Users who didn't complete the audio": [
+        "Người dùng không nghe hết âm thanh"
+      ],
+      "TTS Player Analytics Summary": [
+        "Tóm tắt phân tích trình phát TTS"
+      ],
+      "Total Interactions:": [
+        "Tổng lượt tương tác:"
+      ],
+      "Last 30 Days": [
+        "30 ngày qua"
+      ],
+      "Last 90 Days": [
+        "90 ngày qua"
+      ],
+      "25%": [
+        "25%"
+      ],
+      "50%": [
+        "50%"
+      ],
+      "75%": [
+        "75%"
+      ],
+      "Engagement Funnel": [
+        "Phễu tương tác"
+      ],
+      "Play Rate:": [
+        "Tỷ lệ phát:"
+      ],
+      "Completion Rate:": [
+        "Tỷ lệ hoàn tất:"
+      ],
+      "Biggest Drop:": [
+        "Sụt giảm lớn nhất:"
+      ],
+      "50% → 75%": [
+        "50% → 75%"
+      ],
+      "New Listeners": [
+        "Người nghe mới"
+      ],
+      "Returning": [
+        "Quay lại"
+      ],
+      "Listener Segments": [
+        "Phân khúc người nghe"
+      ],
+      "New:": [
+        "Mới:"
+      ],
+      "Returning:": [
+        "Quay lại:"
+      ],
+      "New Listeners:": [
+        "Người nghe mới:"
+      ],
+      "Avg Sessions/User:": [
+        "Số phiên TB/người dùng:"
+      ],
+      "Yesterday": [
+        "Hôm qua"
+      ],
+      "OS": [
+        "Hệ điều hành"
+      ],
+      "OS Breakdown": [
+        "Phân bố theo hệ điều hành"
+      ],
+      "Device Types": [
+        "Loại thiết bị"
+      ],
+      "Browser": [
+        "Trình duyệt"
+      ],
+      "Location": [
+        "Vị trí"
+      ],
+      "Top Countries": [
+        "Quốc gia hàng đầu"
+      ],
+      "Top Cities": [
+        "Thành phố hàng đầu"
+      ],
+      "Custom Range": [
+        "Khoảng tùy chỉnh"
+      ],
+      "Playing Quantity": [
+        "Số lượt phát"
+      ],
+      "Playing Time (min)": [
+        "Thời gian phát (phút)"
+      ],
+      "Previous Period": [
+        "Kỳ trước"
+      ],
+      "Playing Trend Analysis": [
+        "Phân tích xu hướng lượt phát"
+      ],
+      "Compare with Previous Period": [
+        "So sánh với kỳ trước"
+      ],
+      "Quantity vs Date": [
+        "Số lượng theo ngày"
+      ],
+      "Playing Time(min)": [
+        "Thời gian phát (phút)"
+      ],
+      "Mon": [
+        "T2"
+      ],
+      "Tue": [
+        "T3"
+      ],
+      "Wed": [
+        "T4"
+      ],
+      "Thu": [
+        "T5"
+      ],
+      "Fri": [
+        "T6"
+      ],
+      "Sat": [
+        "T7"
+      ],
+      "Sun": [
+        "CN"
+      ],
+      "Peak Listening Hours": [
+        "Khung giờ nghe cao điểm"
+      ],
+      "Low": [
+        "Thấp"
+      ],
+      "Peak": [
+        "Cao điểm"
+      ],
+      "Insight:": [
+        "Nhận định:"
+      ],
+      "Your peak listening time is": [
+        "Khung giờ nghe cao điểm của bạn là"
+      ],
+      "Peak Hours Heatmap": [
+        "Bản đồ nhiệt khung giờ cao điểm"
+      ],
+      "Date Range is only available in Pro version": [
+        "Khoảng thời gian chỉ có ở bản Pro"
+      ],
+      "Buy Now": [
+        "Mua ngay"
+      ],
+      "Please enable analytics first.": [
+        "Vui lòng bật phân tích trước."
+      ],
+      "Track Post IDs": [
+        "ID bài viết cần theo dõi"
+      ],
+      "You've reached the selection limit.": [
+        "Bạn đã đạt giới hạn lựa chọn."
+      ],
+      "Post ID": [
+        "ID bài viết"
+      ],
+      "Custom Date Range": [
+        "Khoảng thời gian tùy chỉnh"
+      ],
+      "Please provide a Post ID or date range.": [
+        "Vui lòng nhập ID bài viết hoặc khoảng thời gian."
+      ],
+      "Search": [
+        "Tìm kiếm"
+      ],
+      "Clear": [
+        "Xóa"
+      ],
+      "Showing results for:": [
+        "Kết quả cho:"
+      ],
+      "Post ID:": [
+        "ID bài viết:"
+      ],
+      "From:": [
+        "Từ:"
+      ],
+      "To:": [
+        "Đến:"
+      ],
+      "Metric": [
+        "Chỉ số"
+      ],
+      "Value": [
+        "Giá trị"
+      ],
+      "Unlock custom date-range search with Pro": [
+        "Mở khóa tìm kiếm theo khoảng thời gian tùy chỉnh với bản Pro"
+      ],
+      "Popular Post": [
+        "Bài viết phổ biến"
+      ],
+      "Rank": [
+        "Hạng"
+      ],
+      "Post Title": [
+        "Tiêu đề bài viết"
+      ],
+      "Total Interactions": [
+        "Tổng lượt tương tác"
+      ],
+      "No data available yet. Start tracking posts to see analytics.": [
+        "Chưa có dữ liệu. Hãy bắt đầu theo dõi bài viết để xem phân tích."
+      ],
+      "View All Posts": [
+        "Xem tất cả bài viết"
+      ],
+      "CSV export initiated. Check your downloads.": [
+        "Đã bắt đầu xuất CSV. Kiểm tra mục tải xuống."
+      ],
+      "Export failed. Please try again.": [
+        "Xuất thất bại. Vui lòng thử lại."
+      ],
+      "PDF export initiated. Check your downloads.": [
+        "Đã bắt đầu xuất PDF. Kiểm tra mục tải xuống."
+      ],
+      "Please enter at least one recipient email address.": [
+        "Vui lòng nhập ít nhất một địa chỉ email người nhận."
+      ],
+      "Report schedule saved successfully.": [
+        "Đã lưu lịch gửi báo cáo."
+      ],
+      "Failed to save schedule settings.": [
+        "Không lưu được cài đặt lịch."
+      ],
+      "Please enter recipient email addresses first.": [
+        "Vui lòng nhập địa chỉ email người nhận trước."
+      ],
+      "Test report sent successfully! Check your inbox.": [
+        "Đã gửi báo cáo thử! Hãy kiểm tra hộp thư của bạn."
+      ],
+      "Failed to send test report.": [
+        "Không gửi được báo cáo thử."
+      ],
+      "Failed to send test report. Please check your network connection.": [
+        "Không gửi được báo cáo thử. Vui lòng kiểm tra kết nối mạng."
+      ],
+      "CSV": [
+        "CSV"
+      ],
+      "PDF": [
+        "PDF"
+      ],
+      "Schedule Report": [
+        "Lên lịch báo cáo"
+      ],
+      "Schedule Email Reports": [
+        "Lên lịch báo cáo qua email"
+      ],
+      "Enable automated reports": [
+        "Bật báo cáo tự động"
+      ],
+      "Recipients (comma separated)": [
+        "Người nhận (phân tách bằng dấu phẩy)"
+      ],
+      "Frequency": [
+        "Tần suất"
+      ],
+      "Daily": [
+        "Hằng ngày"
+      ],
+      "Weekly": [
+        "Hằng tuần"
+      ],
+      "Monthly": [
+        "Hằng tháng"
+      ],
+      "Day": [
+        "Ngày"
+      ],
+      "Monday": [
+        "Thứ hai"
+      ],
+      "Tuesday": [
+        "Thứ ba"
+      ],
+      "Wednesday": [
+        "Thứ tư"
+      ],
+      "Thursday": [
+        "Thứ năm"
+      ],
+      "Friday": [
+        "Thứ sáu"
+      ],
+      "Saturday": [
+        "Thứ bảy"
+      ],
+      "Sunday": [
+        "Chủ nhật"
+      ],
+      "Time": [
+        "Giờ"
+      ],
+      "Include in report:": [
+        "Bao gồm trong báo cáo:"
+      ],
+      "Summary statistics": [
+        "Thống kê tóm tắt"
+      ],
+      "Top 10 posts": [
+        "10 bài viết hàng đầu"
+      ],
+      "Geographic breakdown": [
+        "Phân bố theo khu vực"
+      ],
+      "Trend chart": [
+        "Biểu đồ xu hướng"
+      ],
+      "Device stats": [
+        "Thống kê thiết bị"
+      ],
+      "Next scheduled report:": [
+        "Báo cáo theo lịch tiếp theo:"
+      ],
+      "Sending...": [
+        "Đang gửi..."
+      ],
+      "Send Test Report": [
+        "Gửi báo cáo thử"
+      ],
+      "Saving...": [
+        "Đang lưu..."
+      ],
+      "Save Settings": [
+        "Lưu cài đặt"
+      ],
+      "Export & Reports": [
+        "Xuất và báo cáo"
+      ],
+      "Last 14 Days": [
+        "14 ngày qua"
+      ],
+      "All Time": [
+        "Toàn bộ thời gian"
+      ],
+      "Getting more than 30 days data is pro feature. Please ": [
+        "Lấy dữ liệu hơn 30 ngày là tính năng pro. Vui lòng "
+      ],
+      "Quick Select": [
+        "Chọn nhanh"
+      ],
+      "From": [
+        "Từ"
+      ],
+      "To": [
+        "Đến"
+      ],
+      "Custom date select is only available in pro version. Please ": [
+        "Chọn ngày tùy chỉnh chỉ có ở bản pro. Vui lòng "
+      ],
+      "Apply": [
+        "Áp dụng"
+      ],
+      "CSV exported successfully!": [
+        "Đã xuất CSV thành công!"
+      ],
+      "Error exporting CSV": [
+        "Lỗi khi xuất CSV"
+      ],
+      "PDF report opened. Use 'Save as PDF' in the print dialog.": [
+        "Đã mở báo cáo PDF. Hãy chọn 'Lưu dưới dạng PDF' trong hộp thoại in."
+      ],
+      "Report downloaded as HTML. Open in browser and print to save as PDF.": [
+        "Đã tải báo cáo dưới dạng HTML. Hãy mở trong trình duyệt và in để lưu thành PDF."
+      ],
+      "Failed to generate PDF report.": [
+        "Không tạo được báo cáo PDF."
+      ],
+      "Error exporting PDF": [
+        "Lỗi khi xuất PDF"
+      ],
+      "Analytics": [
+        "Phân tích"
+      ],
+      "Track and analyze your TTS player engagement to understand listener behavior.": [
+        "Theo dõi và phân tích mức độ tương tác với trình phát TTS để hiểu hành vi người nghe."
+      ],
+      "Show listener location in analytics": [
+        "Hiển thị vị trí người nghe trong phân tích"
+      ],
+      "Off by default. When on, listener IP addresses are sent to ip-api.com, ipinfo.io and icanhazip.com to resolve city / country for the Location chart. See \"External services\" in the plugin readme.": [
+        "Mặc định tắt. Khi bật, địa chỉ IP của người nghe sẽ được gửi tới ip-api.com, ipinfo.io và icanhazip.com để xác định thành phố / quốc gia cho biểu đồ Vị trí. Xem mục \"Dịch vụ bên ngoài\" trong tệp readme của plugin."
+      ],
+      "Export & Schedule Reports": [
+        "Xuất và lên lịch báo cáo"
+      ],
+      "Export CSV/PDF reports and schedule automated email digests.": [
+        "Xuất báo cáo CSV/PDF và lên lịch gửi bản tóm tắt qua email tự động."
+      ],
+      "Analytics is Currently Disabled": [
+        "Phân tích hiện đang tắt"
+      ],
+      "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
+        "Bật phân tích bằng công tắc ở trên để bắt đầu ghi nhận tương tác với trình phát TTS và xem các chỉ số chi tiết."
+      ],
+      "Available Fields": [
+        "Trường khả dụng"
+      ],
+      "Select All": [
+        "Chọn tất cả"
+      ],
+      "All fields selected": [
+        "Đã chọn tất cả các trường"
+      ],
+      "No ACF fields found": [
+        "Không tìm thấy trường ACF nào"
+      ],
+      "Selected (read order)": [
+        "Đã chọn (thứ tự đọc)"
+      ],
+      "Clear All": [
+        "Xóa tất cả"
+      ],
+      "Click fields on the left to add": [
+        "Nhấp vào các trường bên trái để thêm"
+      ],
+      "Move up": [
+        "Di chuyển lên"
+      ],
+      "Move down": [
+        "Di chuyển xuống"
+      ],
+      "Remove": [
+        "Xóa"
+      ],
+      "Use ▲ ▼ to reorder. Fields are read top to bottom.": [
+        "Dùng ▲ ▼ để sắp xếp lại. Các trường được đọc từ trên xuống dưới."
+      ],
+      "Compatibility Status": [
+        "Trạng thái tương thích"
+      ],
+      "AtlasVoice automatically excludes its scripts from caching and optimization plugins to prevent conflicts.": [
+        "AtlasVoice tự động loại trừ script của mình khỏi các plugin bộ nhớ đệm và tối ưu hóa để tránh xung đột."
+      ],
+      "JS exclusion active": [
+        "Đang loại trừ JS"
+      ],
+      "Detected but not handled — may cause conflicts": [
+        "Đã phát hiện nhưng chưa xử lý — có thể gây xung đột"
+      ],
+      "Installed but not active": [
+        "Đã cài nhưng chưa kích hoạt"
+      ],
+      "Not installed": [
+        "Chưa cài đặt"
+      ],
+      "Add ACF Fields To Posts": [
+        "Thêm trường ACF vào bài viết"
+      ],
+      "Adding more than 1  ACF field is a pro feature": [
+        "Thêm nhiều hơn 1 trường ACF là tính năng pro"
+      ],
+      "Adding more than 1 ACF field is a pro feature": [
+        "Thêm nhiều hơn 1 trường ACF là tính năng pro"
+      ],
+      "Use custom reading order": [
+        "Dùng thứ tự đọc tùy chỉnh"
+      ],
+      "When enabled, ACF fields are read in the order shown above. When disabled, fields are read in ACF's default field group order.": [
+        "Khi bật, các trường ACF được đọc theo thứ tự hiển thị ở trên. Khi tắt, các trường được đọc theo thứ tự mặc định của nhóm trường ACF."
+      ],
+      "Selected fields are read after the main article content. If a field is already visible in your post content area, it may be read twice. For visible fields, use \"Include Content By CSS Selectors\" in Settings instead to control reading order.": [
+        "Các trường đã chọn được đọc sau nội dung chính của bài viết. Nếu một trường đã hiển thị trong vùng nội dung bài viết, nó có thể bị đọc hai lần. Với các trường đang hiển thị, hãy dùng \"Đưa nội dung vào bằng bộ chọn CSS\" trong Cài đặt để kiểm soát thứ tự đọc."
+      ],
+      "Loading": [
+        "Đang tải"
+      ],
+      "Before Content": [
+        "Trước nội dung"
+      ],
+      "After Content": [
+        "Sau nội dung"
+      ],
+      "Bottom Full Width": [
+        "Dưới cùng, toàn chiều rộng"
+      ],
+      "Bottom Right": [
+        "Dưới bên phải"
+      ],
+      "Bottom Left": [
+        "Dưới bên trái"
+      ],
+      "Sticky Top": [
+        "Cố định trên cùng"
+      ],
+      "Select Player": [
+        "Chọn trình phát"
+      ],
+      "More players (AI voices, MP3) are available in": [
+        "Có thêm nhiều trình phát (giọng AI, MP3) trong"
+      ],
+      "Hear the Pro players live": [
+        "Nghe trực tiếp các trình phát Pro"
+      ],
+      "Select Button Position": [
+        "Chọn vị trí nút"
+      ],
+      "Select where to display the player button": [
+        "Chọn nơi hiển thị nút trình phát"
+      ],
+      "Floating Position": [
+        "Vị trí nổi"
+      ],
+      "Where the player docks once the reader scrolls past it. Turn docking off entirely with \"When Scroll Down Stop Floating Player\" in Settings.": [
+        "Nơi trình phát neo lại khi người đọc cuộn qua nó. Tắt hoàn toàn việc neo bằng tùy chọn \"Dừng trình phát nổi khi cuộn xuống\" trong Cài đặt."
+      ],
+      "Display Player To": [
+        "Hiển thị trình phát cho"
+      ],
+      "Choose who can see the player": [
+        "Chọn ai có thể thấy trình phát"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "Giới hạn hiển thị trình phát theo nhiều nhóm người dùng chỉ có ở bản pro"
+      ],
+      "Who Can Download MP3 File": [
+        "Ai được tải tệp MP3"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "Tạo MP3 từ ngày đăng bài"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Bắt đầu tạo tệp MP3 từ một ngày đăng bài cụ thể. Chỉ chọn mục này nếu bạn muốn tạo tệp mp3 theo khoảng thời gian."
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "Tạo tệp MP3 từ ngày"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "Tạo MP3 đến ngày đăng bài"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Tạo tệp MP3 cho các bài viết đăng đến một ngày cụ thể. Chỉ chọn mục này nếu bạn muốn tạo tệp mp3 theo khoảng thời gian."
+      ],
+      "Generate MP3 File Date To": [
+        "Tạo tệp MP3 đến ngày"
+      ],
+      "Player Customization": [
+        "Tùy chỉnh trình phát"
+      ],
+      "Choose icon": [
+        "Chọn biểu tượng"
+      ],
+      "Presets": [
+        "Mẫu có sẵn"
+      ],
+      "Custom SVG": [
+        "SVG tùy chỉnh"
+      ],
+      "<svg ...>...</svg>": [
+        "<svg ...>...</svg>"
+      ],
+      "Use this SVG": [
+        "Dùng SVG này"
+      ],
+      "Allowed: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Server sanitizes on save.": [
+        "Được phép: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Máy chủ sẽ làm sạch mã khi lưu."
+      ],
+      "Listen — initial state": [
+        "Nghe — trạng thái ban đầu"
+      ],
+      "Pause — while speaking": [
+        "Tạm dừng — khi đang đọc"
+      ],
+      "Resume — after user paused": [
+        "Tiếp tục — sau khi người dùng tạm dừng"
+      ],
+      "Replay — after speech finished": [
+        "Nghe lại — sau khi đọc xong"
+      ],
+      "Reset to default": [
+        "Đặt lại mặc định"
+      ],
+      "Empty = use factory default": [
+        "Để trống = dùng giá trị gốc"
+      ],
+      "Hide tooltip": [
+        "Ẩn chú giải"
+      ],
+      "Show tooltip (advanced)": [
+        "Hiện chú giải (nâng cao)"
+      ],
+      "Hover tooltip": [
+        "Chú giải khi rê chuột"
+      ],
+      "Default Pro": [
+        "Default Pro"
+      ],
+      "Button Texts & Icons — ": [
+        "Văn bản và biểu tượng nút — "
+      ],
+      "Reset all to defaults": [
+        "Đặt lại tất cả về mặc định"
+      ],
+      "These labels and icons are shown on the front-end button as it cycles through states. Saved values for the inactive player are preserved if you switch players.": [
+        "Các nhãn và biểu tượng này hiển thị trên nút ở giao diện người dùng khi nút chuyển qua các trạng thái. Giá trị đã lưu của trình phát không hoạt động vẫn được giữ nếu bạn đổi trình phát."
+      ],
+      "Choose player background color": [
+        "Chọn màu nền trình phát"
+      ],
+      "Choose your color": [
+        "Chọn màu của bạn"
+      ],
+      "Hover BG Color": [
+        "Màu nền khi rê chuột"
+      ],
+      "Choose your hover background color": [
+        "Chọn màu nền khi rê chuột"
+      ],
+      "Hover Text Color": [
+        "Màu chữ khi rê chuột"
+      ],
+      "Choose your hover text color": [
+        "Chọn màu chữ khi rê chuột"
+      ],
+      "Margin Size (Px)": [
+        "Khoảng cách lề (px)"
+      ],
+      "Top": [
+        "Trên"
+      ],
+      "Margin Top": [
+        "Lề trên"
+      ],
+      "Bottom": [
+        "Dưới"
+      ],
+      "Margin Bottom": [
+        "Lề dưới"
+      ],
+      "Left": [
+        "Trái"
+      ],
+      "Margin Left": [
+        "Lề trái"
+      ],
+      "Right": [
+        "Phải"
+      ],
+      "Margin Right": [
+        "Lề phải"
+      ],
+      "Button Style": [
+        "Kiểu nút"
+      ],
+      "Height": [
+        "Chiều cao"
+      ],
+      "Button Height": [
+        "Chiều cao nút"
+      ],
+      "Border": [
+        "Viền"
+      ],
+      "Button Border": [
+        "Viền nút"
+      ],
+      "Border Color": [
+        "Màu viền"
+      ],
+      "Font Size": [
+        "Cỡ chữ"
+      ],
+      "Radius": [
+        "Bo góc"
+      ],
+      "Border Radius": [
+        "Bán kính bo góc"
+      ],
+      "Button Properties": [
+        "Thuộc tính nút"
+      ],
+      "Width": [
+        "Chiều rộng"
+      ],
+      "Button Width": [
+        "Chiều rộng nút"
+      ],
+      "Add custom styling for your player using the WordPress Customizer's Additional CSS editor.": [
+        "Thêm kiểu dáng riêng cho trình phát bằng trình soạn CSS bổ sung trong công cụ tùy biến của WordPress."
+      ],
+      "Open Appearance → Customize → Additional CSS": [
+        "Mở Giao diện → Tùy biến → CSS bổ sung"
+      ],
+      "Default player preview": [
+        "Xem trước trình phát mặc định"
+      ],
+      "This is a preview of the player.": [
+        "Đây là bản xem trước của trình phát."
+      ],
+      "Player settings": [
+        "Cài đặt trình phát"
+      ],
+      "Value should be between 0-100": [
+        "Giá trị phải nằm trong khoảng 0-100"
+      ],
+      "Customization": [
+        "Tùy chỉnh"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "Tùy chỉnh trình phát và giao diện cho phù hợp với thương hiệu và sở thích của bạn."
+      ],
+      "Preview on Your Site": [
+        "Xem trước trên website của bạn"
+      ],
+      "Please fill the  field : ": [
+        "Vui lòng điền trường: "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "Để chọn trình phát này, trước tiên bạn phải xác thực từ menu Tích hợp"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "Trình phát Google Cloud TTS chỉ có ở bản pro."
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "Để chọn trình phát này, trước tiên bạn phải xác thực từ menu Tích hợp"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "Trình phát ChatGPT TTS chỉ có ở bản pro."
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "Trình phát ElevenLabs TTS chỉ có ở bản pro."
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "Trình phát Default Pro chỉ có ở bản pro."
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "AtlasVoice lưu nội dung đã tổng hợp trong thư mục uploads. Thư mục uploads của bạn không cho phép ghi. Vui lòng cấp quyền ghi cho thư mục uploads để dùng đầy đủ tính năng của plugin."
+      ],
+      "Customization saved.": [
+        "Đã lưu tùy chỉnh."
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "Bây giờ hãy vào menu \"Nghe\" để chọn ngôn ngữ và giọng đọc phù hợp."
+      ],
+      "Write here something and click listen button": [
+        "Hãy viết gì đó ở đây rồi nhấp nút nghe"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " Nhập văn bản của bạn tại đây rồi nhấp nút nghe để nghe đọc thành tiếng."
+      ],
+      "Watch Tutorial": [
+        "Xem hướng dẫn"
+      ],
+      "Write here something and click listen button.": [
+        "Hãy viết gì đó ở đây rồi nhấp nút nghe."
+      ],
+      "Design Customization": [
+        "Tùy chỉnh giao diện"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "Shortcode | giá trị thuộc tính phải được đặt trong dấu nháy kép ( \" )"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "Đã sao chép shortcode"
+      ],
+      "Copy Shortcode": [
+        "Sao chép shortcode"
+      ],
+      "1. Browser support issues on Android and desktop": [
+        "1. Vấn đề hỗ trợ trình duyệt trên Android và máy tính"
+      ],
+      "This plugin is built using the browser SpeechSynthesis API. No external API is used.": [
+        "Plugin này được xây dựng bằng API SpeechSynthesis của trình duyệt. Không dùng API bên ngoài nào."
+      ],
+      "View SpeechSynthesis documentation": [
+        "Xem tài liệu SpeechSynthesis"
+      ],
+      "Browser and device support varies, so available voices and languages may differ between desktop and mobile devices.": [
+        "Mức hỗ trợ khác nhau tùy trình duyệt và thiết bị, nên giọng đọc và ngôn ngữ khả dụng có thể khác nhau giữa máy tính và thiết bị di động."
+      ],
+      "Submit a support ticket": [
+        "Gửi yêu cầu hỗ trợ"
+      ],
+      "There are no browser limitations in the Pro version.": [
+        "Bản Pro không có giới hạn nào về trình duyệt."
+      ],
+      "2. Different voices or languages on mobile": [
+        "2. Giọng đọc hoặc ngôn ngữ khác nhau trên di động"
+      ],
+      "SpeechSynthesis support varies between browsers and devices. Some voices may be available on desktop but not on mobile.": [
+        "Mức hỗ trợ SpeechSynthesis khác nhau giữa các trình duyệt và thiết bị. Một số giọng có trên máy tính nhưng không có trên di động."
+      ],
+      "The Pro version does not have these limitations.": [
+        "Bản Pro không có những giới hạn này."
+      ],
+      "3. Can I exclude certain words from playback?": [
+        "3. Tôi có thể loại trừ một số từ khỏi phần đọc không?"
+      ],
+      "Yes. You can exclude specific words or phrases in the Pro version.": [
+        "Có. Ở bản Pro, bạn có thể loại trừ các từ hoặc cụm từ cụ thể."
+      ],
+      "Use the pipe (|) symbol to separate multiple words or phrases.": [
+        "Dùng dấu gạch đứng (|) để phân tách nhiều từ hoặc cụm từ."
+      ],
+      "4. Can I exclude specific HTML tags from playback?": [
+        "4. Tôi có thể loại trừ các thẻ HTML cụ thể khỏi phần đọc không?"
+      ],
+      "The Pro version allows excluding content wrapped in specific HTML tags.": [
+        "Bản Pro cho phép loại trừ nội dung nằm trong các thẻ HTML cụ thể."
+      ],
+      "Use the pipe (|) symbol to exclude multiple tags.": [
+        "Dùng dấu gạch đứng (|) để loại trừ nhiều thẻ."
+      ],
+      "5. How can I change button text?": [
+        "5. Làm sao để đổi văn bản trên nút?"
+      ],
+      "Button text can be changed using shortcode attributes or filters. Filters always override shortcode values.": [
+        "Có thể đổi văn bản nút bằng thuộc tính shortcode hoặc bộ lọc. Bộ lọc luôn được ưu tiên hơn giá trị shortcode."
+      ],
+      "6. How do I add a custom CSS class to the button?": [
+        "6. Làm sao để thêm lớp CSS tùy chỉnh cho nút?"
+      ],
+      "7. Backend filters (Free version)": [
+        "7. Bộ lọc phía máy chủ (bản miễn phí)"
+      ],
+      "Filter": [
+        "Bộ lọc"
+      ],
+      "Arguments": [
+        "Tham số"
+      ],
+      "8. Scripts blocked by CORS policy when using a CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)": [
+        "8. Script bị chặn bởi chính sách CORS khi dùng CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)"
+      ],
+      "Symptom:": [
+        "Biểu hiện:"
+      ],
+      "The browser console shows errors like “Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.” The player never loads.": [
+        "Bảng điều khiển trình duyệt hiện các lỗi như \"Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.\" Trình phát không bao giờ tải được."
+      ],
+      "Why this happens:": [
+        "Nguyên nhân:"
+      ],
+      "Your CDN is serving our plugin's JavaScript files, but your origin server isn't sending an Access-Control-Allow-Origin header. CDNs are pull caches — they only return what the origin gives them. When WP Rocket's Delay JavaScript (or a similar optimizer) adds a crossorigin attribute to the script tag, the browser then enforces CORS and blocks the load. This is a server configuration on your site, not a plugin bug.": [
+        "CDN của bạn đang phục vụ các tệp JavaScript của plugin, nhưng máy chủ gốc không gửi header Access-Control-Allow-Origin. CDN là bộ nhớ đệm kiểu kéo — chúng chỉ trả về những gì máy chủ gốc cung cấp. Khi tính năng Delay JavaScript của WP Rocket (hoặc công cụ tối ưu tương tự) thêm thuộc tính crossorigin vào thẻ script, trình duyệt sẽ áp dụng CORS và chặn việc tải. Đây là cấu hình máy chủ trên website của bạn, không phải lỗi plugin."
+      ],
+      "Fix — Apache (.htaccess):": [
+        "Khắc phục — Apache (.htaccess):"
+      ],
+      "Add the block below to the .htaccess in your WordPress root (same folder as wp-config.php), above the # BEGIN WP Rocket and # BEGIN WordPress sections.": [
+        "Thêm khối bên dưới vào tệp .htaccess ở thư mục gốc WordPress (cùng thư mục với wp-config.php), phía trên các phần # BEGIN WP Rocket và # BEGIN WordPress."
+      ],
+      "Fix — nginx:": [
+        "Khắc phục — nginx:"
+      ],
+      "Add this location block inside your server {} block, then reload nginx (sudo nginx -s reload).": [
+        "Thêm khối location này vào bên trong khối server {}, sau đó tải lại nginx (sudo nginx -s reload)."
+      ],
+      "Then — purge your CDN cache:": [
+        "Sau đó — xóa bộ nhớ đệm CDN:"
+      ],
+      "WP Rocket → Settings → CDN → Clear all cache files. (Or purge from your CDN dashboard directly.) Until you purge, the CDN keeps serving the old response without the new header.": [
+        "WP Rocket → Cài đặt → CDN → Xóa toàn bộ tệp bộ nhớ đệm. (Hoặc xóa trực tiếp từ bảng điều khiển CDN.) Cho đến khi bạn xóa, CDN vẫn tiếp tục trả về phản hồi cũ không có header mới."
+      ],
+      "Verify:": [
+        "Kiểm tra:"
+      ],
+      "Run this in a terminal and confirm access-control-allow-origin: * appears in the response headers:": [
+        "Chạy lệnh này trong terminal và xác nhận header phản hồi có access-control-allow-origin: *:"
+      ],
+      "Optional:": [
+        "Tùy chọn:"
+      ],
+      "If you'd rather avoid CORS altogether, exclude our plugin's script handles (text-to-audio-*, plyr) from WP Rocket → File Optimization → Delay JavaScript execution. That prevents the crossorigin attribute from being added in the first place. Fixing the header is still the more durable solution.": [
+        "Nếu muốn tránh CORS hoàn toàn, hãy loại trừ các script handle của plugin (text-to-audio-*, plyr) trong WP Rocket → Tối ưu tệp → Trì hoãn thực thi JavaScript. Như vậy thuộc tính crossorigin sẽ không được thêm vào ngay từ đầu. Tuy nhiên, sửa header vẫn là giải pháp bền vững hơn."
+      ],
+      "Read the full guide on atlasaidev.com →": [
+        "Đọc hướng dẫn đầy đủ tại atlasaidev.com →"
+      ],
+      "9. The player or markers are missing inside post cards, related posts or widgets": [
+        "9. Trình phát hoặc dấu đánh dấu không xuất hiện trong thẻ bài viết, bài viết liên quan hoặc widget"
+      ],
+      "By default the player button and the AtlasVoice markers/wrapper are emitted only on the main content of the post or page being viewed — never inside a secondary loop such as an Avada \"Post Cards\" grid, a \"Related Posts\" block, or a widget. This is intentional: it prevents the content wrapper from being injected into your theme's grid markup and breaking the layout.": [
+        "Theo mặc định, nút trình phát cùng các dấu đánh dấu/lớp bọc của AtlasVoice chỉ xuất hiện trong nội dung chính của bài viết hoặc trang đang xem — không bao giờ nằm trong vòng lặp phụ như lưới \"Post Cards\" của Avada, khối \"Bài viết liên quan\" hay widget. Đây là chủ ý: nó ngăn lớp bọc nội dung chèn vào mã lưới của giao diện và làm hỏng bố cục."
+      ],
+      "If you deliberately want the player to render inside a secondary loop, override the tts_is_secondary_loop filter. It receives the computed boolean, the current loop post ID, and the queried object ID.": [
+        "Nếu bạn cố ý muốn trình phát hiển thị bên trong vòng lặp phụ, hãy ghi đè bộ lọc tts_is_secondary_loop. Bộ lọc này nhận giá trị luận lý đã tính, ID bài viết của vòng lặp hiện tại và ID đối tượng đang truy vấn."
+      ],
+      "Allow the player everywhere, including post cards:": [
+        "Cho phép trình phát ở mọi nơi, kể cả thẻ bài viết:"
+      ],
+      "Allow it only for a specific post type:": [
+        "Chỉ cho phép với một loại bài viết cụ thể:"
+      ],
+      "Read-Along Highlight": [
+        "Tô sáng khi đọc"
+      ],
+      "Highlight the word and/or sentence being spoken while the post is read aloud.": [
+        "Tô sáng từ và/hoặc câu đang được đọc trong khi bài viết được đọc thành tiếng."
+      ],
+      "speechSynthesis limitation:": [
+        "Giới hạn của speechSynthesis:"
+      ],
+      "Word-level highlighting relies on the browser's speechSynthesis “boundary” events, which only fire for local (offline) device voices. Remote voices (e.g. the “Google …” voices) and some browsers (notably Firefox) fire no word boundaries, so word highlighting can't track them. When that happens the player automatically falls back to sentence highlighting. Sentence highlighting works with every voice and browser — it's the recommended default.": [
+        "Tô sáng theo từ dựa vào sự kiện \"boundary\" của speechSynthesis trong trình duyệt, vốn chỉ phát sinh với các giọng cục bộ (ngoại tuyến) trên thiết bị. Các giọng từ xa (ví dụ những giọng \"Google …\") và một số trình duyệt (đặc biệt là Firefox) không phát sinh ranh giới từ, nên tô sáng theo từ không thể bám theo. Khi đó trình phát sẽ tự động chuyển sang tô sáng theo câu. Tô sáng theo câu hoạt động với mọi giọng và mọi trình duyệt — đây là lựa chọn mặc định được khuyến nghị."
+      ],
+      "Precise word timing:": [
+        "Định thời từ chính xác:"
+      ],
+      "This player generates audio with real per-word timing, so word-by-word highlighting is accurate and works in every browser — no local-voice requirement and no fallback.": [
+        "Trình phát này tạo âm thanh kèm định thời thực cho từng từ, nên tô sáng theo từng từ rất chính xác và hoạt động trên mọi trình duyệt — không cần giọng cục bộ và không phải chuyển sang phương án dự phòng."
+      ],
+      "Already-generated audio:": [
+        "Âm thanh đã tạo trước đó:"
+      ],
+      "Word timing is captured while the audio is being generated, so posts whose MP3 was created before highlighting was enabled have no timing data — they will use sentence highlighting until their audio is regenerated. To upgrade them, regenerate the audio with the Bulk MP3 tool (or regenerate an individual post). Note: regeneration sends the post content to your TTS provider (Google Cloud / ElevenLabs) again, so it consumes provider characters/credits just like the first generation — word timing can only be produced by the provider during synthesis, which is why it isn't added to existing files automatically.": [
+        "Định thời từ được ghi nhận trong lúc tạo âm thanh, nên những bài viết có tệp MP3 được tạo trước khi bật tô sáng sẽ không có dữ liệu định thời — chúng sẽ dùng tô sáng theo câu cho tới khi âm thanh được tạo lại. Để nâng cấp, hãy tạo lại âm thanh bằng công cụ MP3 hàng loạt (hoặc tạo lại từng bài viết). Lưu ý: việc tạo lại sẽ gửi nội dung bài viết tới nhà cung cấp TTS của bạn (Google Cloud / ElevenLabs) một lần nữa, nên vẫn tiêu tốn ký tự/tín dụng như lần tạo đầu tiên — định thời từ chỉ có thể do nhà cung cấp tạo ra trong quá trình tổng hợp, vì vậy nó không được tự động thêm vào các tệp sẵn có."
+      ],
+      "Successfully Saved...": [
+        "Đã lưu thành công..."
+      ],
+      "Enable highlighting": [
+        "Bật tô sáng"
+      ],
+      "Turn read-along highlighting on or off for the browser players.": [
+        "Bật hoặc tắt tính năng tô sáng khi đọc cho các trình phát chạy trên trình duyệt."
+      ],
+      "Highlight mode": [
+        "Chế độ tô sáng"
+      ],
+      "“Sentence only” works with any voice. “Word” and “Word + Sentence” need a local voice that fires boundary events, and fall back to sentence highlighting otherwise.": [
+        "\"Chỉ câu\" hoạt động với mọi giọng. \"Từ\" và \"Từ + câu\" cần một giọng cục bộ phát sinh sự kiện ranh giới, nếu không sẽ chuyển về tô sáng theo câu."
+      ],
+      "Sentence only (recommended)": [
+        "Chỉ câu (khuyến nghị)"
+      ],
+      "Word only": [
+        "Chỉ từ"
+      ],
+      "Word + Sentence": [
+        "Từ + câu"
+      ],
+      "The current player uses generated audio, so read-along highlighting is sentence-level. Word-level options don't apply here.": [
+        "Trình phát hiện tại dùng âm thanh đã tạo sẵn, nên tô sáng khi đọc ở mức câu. Các tùy chọn theo từ không áp dụng ở đây."
+      ],
+      "Word highlight color": [
+        "Màu tô sáng từ"
+      ],
+      "Background color painted behind the word currently being spoken.": [
+        "Màu nền phía sau từ đang được đọc."
+      ],
+      "Word text color": [
+        "Màu chữ của từ"
+      ],
+      "Text color of the spoken word, for contrast against the highlight color.": [
+        "Màu chữ của từ đang được đọc, để tương phản với màu tô sáng."
+      ],
+      "Sentence highlight color": [
+        "Màu tô sáng câu"
+      ],
+      "Softer background painted behind the whole sentence being read.": [
+        "Nền nhạt hơn phía sau toàn bộ câu đang được đọc."
+      ],
+      "Dim the rest of the article": [
+        "Làm mờ phần còn lại của bài viết"
+      ],
+      "Fade the surrounding text while reading so the spoken word/sentence stands out.": [
+        "Làm mờ văn bản xung quanh trong lúc đọc để từ/câu đang đọc nổi bật hơn."
+      ],
+      "Dimmed text opacity": [
+        "Độ mờ của văn bản bị làm mờ"
+      ],
+      "How visible the dimmed (non-spoken) text stays. Lower = more dimmed.": [
+        "Mức độ hiển thị của văn bản bị làm mờ (phần không đang đọc). Giá trị càng thấp càng mờ."
+      ],
+      "Listen to selected text": [
+        "Nghe văn bản đã chọn"
+      ],
+      "Show a small “Listen” control when a reader selects text in the article, to read only the selection — or from the selected word to the end. On the browser players the selection is spoken directly; on MP3 players the audio jumps to the matching position (precise on Google Cloud/ElevenLabs with word timing, approximate otherwise).": [
+        "Hiển thị nút \"Nghe\" nhỏ khi người đọc bôi đen văn bản trong bài viết, để chỉ đọc phần đã chọn — hoặc đọc từ từ đã chọn đến hết. Với trình phát trên trình duyệt, phần chọn được đọc trực tiếp; với trình phát MP3, âm thanh nhảy tới vị trí tương ứng (chính xác với Google Cloud/ElevenLabs có định thời từ, tương đối với các trường hợp khác)."
+      ],
+      "Announce selection listening": [
+        "Thông báo về tính năng nghe phần chọn"
+      ],
+      "How readers learn the feature exists. The one-time tip appears under the player after their first play and never returns once dismissed. The floating side badge sits collapsed on the left edge and expands on hover; closing it hides it for the visitor's session.": [
+        "Cách người đọc biết đến tính năng này. Mẹo một lần xuất hiện dưới trình phát sau lần phát đầu tiên và không hiện lại sau khi được đóng. Huy hiệu nổi bên cạnh nằm thu gọn ở mép trái và mở ra khi rê chuột; đóng nó sẽ ẩn trong suốt phiên của khách truy cập."
+      ],
+      "One-time tip after first play (recommended)": [
+        "Mẹo một lần sau lần phát đầu tiên (khuyến nghị)"
+      ],
+      "Floating side badge": [
+        "Huy hiệu nổi bên cạnh"
+      ],
+      "Both": [
+        "Cả hai"
+      ],
+      "Off — discover by selecting": [
+        "Tắt — để người dùng tự khám phá bằng cách bôi đen"
+      ],
+      "Auto-scroll to follow": [
+        "Tự động cuộn theo"
+      ],
+      "Smoothly scroll the page to keep the spoken word in view. Turn off if scrolling is distracting.": [
+        "Cuộn trang mượt mà để từ đang đọc luôn nằm trong tầm nhìn. Hãy tắt nếu việc cuộn gây mất tập trung."
+      ],
+      "Saving…": [
+        "Đang lưu…"
+      ],
+      "Save Changes": [
+        "Lưu thay đổi"
+      ],
+      "Help information about this setting": [
+        "Thông tin trợ giúp về cài đặt này"
+      ],
+      "Read the full documentation": [
+        "Đọc tài liệu đầy đủ"
+      ],
+      "Integration Setup": [
+        "Thiết lập tích hợp"
+      ],
+      "Connect premium AI voice providers to generate natural MP3 audio.": [
+        "Kết nối các nhà cung cấp giọng AI cao cấp để tạo âm thanh MP3 tự nhiên."
+      ],
+      "Voice Integrations — Pro Feature": [
+        "Tích hợp giọng đọc — Tính năng Pro"
+      ],
+      "Google Cloud TTS, ChatGPT, and ElevenLabs integrations are available in AtlasVoice Pro. The free plugin uses your browser's built-in voices.": [
+        "Các tích hợp Google Cloud TTS, ChatGPT và ElevenLabs có trong AtlasVoice Pro. Plugin miễn phí dùng các giọng tích hợp sẵn của trình duyệt."
+      ],
+      "Voice Language": [
+        "Ngôn ngữ giọng đọc"
+      ],
+      "Default Listening Language": [
+        "Ngôn ngữ nghe mặc định"
+      ],
+      "Voice to speak": [
+        "Giọng đọc"
+      ],
+      "Default Listening Voice": [
+        "Giọng nghe mặc định"
+      ],
+      "Hear 200+ Pro AI voices live": [
+        "Nghe trực tiếp hơn 200 giọng AI của bản Pro"
+      ],
+      "Voice Speed": [
+        "Tốc độ đọc"
+      ],
+      "Voice Volume": [
+        "Âm lượng"
+      ],
+      "Voice Pitch": [
+        "Cao độ giọng"
+      ],
+      "Default Listening Pitch": [
+        "Cao độ nghe mặc định"
+      ],
+      "Listening Preferences": [
+        "Tùy chọn nghe"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Thiết lập tùy chọn nghe của bạn với các giọng đọc và ngôn ngữ khác nhau."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Đã lưu cài đặt nghe. Mọi thiết lập đã hoàn tất. Chúc bạn dùng vui!"
+      ],
+      "Multilingual Voice Mapping — Pro Feature": [
+        "Ánh xạ giọng đa ngôn ngữ — Tính năng Pro"
+      ],
+      "We detected an active translation plugin. Mapping a voice and language to each translated language is available in AtlasVoice Pro.": [
+        "Chúng tôi phát hiện một plugin dịch đang hoạt động. Việc gán giọng đọc và ngôn ngữ cho từng ngôn ngữ đã dịch có trong AtlasVoice Pro."
+      ],
+      "Scan failed.": [
+        "Quét thất bại."
+      ],
+      "Scan failed: ": [
+        "Quét thất bại: "
+      ],
+      "No files selected.": [
+        "Chưa chọn tệp nào."
+      ],
+      "Deleted": [
+        "Đã xóa"
+      ],
+      "Freed": [
+        "Đã giải phóng"
+      ],
+      "Deletion failed.": [
+        "Xóa thất bại."
+      ],
+      "Deletion failed: ": [
+        "Xóa thất bại: "
+      ],
+      "Maintenance": [
+        "Bảo trì"
+      ],
+      "⚠ Destructive action.": [
+        "⚠ Thao tác không thể hoàn tác."
+      ],
+      "This tool permanently deletes leftover per-batch MP3 chunks (files like title-1.mp3, title-2.mp3) from uploads/TTA_Pro/. Only files that meet all of the following are listed:": [
+        "Công cụ này xóa vĩnh viễn các mảnh MP3 còn sót lại theo từng lô (các tệp dạng tieu-de-1.mp3, tieu-de-2.mp3) khỏi uploads/TTA_Pro/. Chỉ những tệp đáp ứng tất cả điều kiện sau mới được liệt kê:"
+      ],
+      "Filename ends with -N.mp3 where N is a number": [
+        "Tên tệp kết thúc bằng -N.mp3, trong đó N là một số"
+      ],
+      "The final concatenated file (title.mp3) already exists in the same folder": [
+        "Tệp ghép hoàn chỉnh (tieu-de.mp3) đã tồn tại trong cùng thư mục"
+      ],
+      "The file is older than 1 hour (so an in-flight batch is never affected)": [
+        "Tệp cũ hơn 1 giờ (nhờ đó lô đang chạy không bao giờ bị ảnh hưởng)"
+      ],
+      "The file sits under wp-uploads/TTA_Pro/ (path traversal is rejected)": [
+        "Tệp nằm trong wp-uploads/TTA_Pro/ (mọi truy cập vượt thư mục đều bị từ chối)"
+      ],
+      "⚠ Reduced safety margin.": [
+        "⚠ Biên độ an toàn bị thu hẹp."
+      ],
+      "You have lowered the age threshold below the 1-hour safe default. Files created by an in-flight batch could match. Only use this if no generation is currently running.": [
+        "Bạn đã hạ ngưỡng thời gian xuống dưới mức mặc định an toàn là 1 giờ. Các tệp do lô đang chạy tạo ra có thể lọt vào danh sách. Chỉ dùng khi hiện không có tiến trình tạo nào đang chạy."
+      ],
+      "Include files older than:": [
+        "Bao gồm các tệp cũ hơn:"
+      ],
+      "Scanning…": [
+        "Đang quét…"
+      ],
+      "Scan for orphan files": [
+        "Quét tìm tệp mồ côi"
+      ],
+      "Per page:": [
+        "Mỗi trang:"
+      ],
+      "Delete selected": [
+        "Xóa mục đã chọn"
+      ],
+      "Delete all": [
+        "Xóa tất cả"
+      ],
+      "Total orphans:": [
+        "Tổng số tệp mồ côi:"
+      ],
+      "Disk usage:": [
+        "Dung lượng đĩa:"
+      ],
+      "Nothing to clean — no orphan temp files found.": [
+        "Không có gì để dọn — không tìm thấy tệp tạm mồ côi nào."
+      ],
+      "All": [
+        "Tất cả"
+      ],
+      "orphan files": [
+        "tệp mồ côi"
+      ],
+      "across all pages are selected.": [
+        "trên tất cả các trang đã được chọn."
+      ],
+      "Clear selection": [
+        "Bỏ chọn"
+      ],
+      "files on this page are selected.": [
+        "tệp trên trang này đã được chọn."
+      ],
+      "Select all": [
+        "Chọn tất cả"
+      ],
+      "files across all pages": [
+        "tệp trên tất cả các trang"
+      ],
+      "File": [
+        "Tệp"
+      ],
+      "Provider": [
+        "Nhà cung cấp"
+      ],
+      "Size": [
+        "Kích thước"
+      ],
+      "Modified": [
+        "Sửa đổi"
+      ],
+      "Previous": [
+        "Trước"
+      ],
+      "Page": [
+        "Trang"
+      ],
+      "Next": [
+        "Sau"
+      ],
+      "Confirm deletion": [
+        "Xác nhận xóa"
+      ],
+      "You are about to permanently delete": [
+        "Bạn sắp xóa vĩnh viễn"
+      ],
+      "files": [
+        "tệp"
+      ],
+      "This cannot be undone. Server-side safety rules will re-validate each file before deletion.": [
+        "Thao tác này không thể hoàn tác. Các quy tắc an toàn phía máy chủ sẽ kiểm tra lại từng tệp trước khi xóa."
+      ],
+      "Type ": [
+        "Nhập "
+      ],
+      " to confirm:": [
+        " để xác nhận:"
+      ],
+      "Deleting…": [
+        "Đang xóa…"
+      ],
+      "Permanently delete": [
+        "Xóa vĩnh viễn"
+      ],
+      "Maintenance tools are available with the Pro plugin active.": [
+        "Công cụ bảo trì khả dụng khi plugin Pro đang hoạt động."
+      ],
+      "Include Content By CSS Selectors": [
+        "Đưa nội dung vào bằng bộ chọn CSS"
+      ],
+      "e.g. div.entry-content (multi-line allowed)": [
+        "ví dụ: div.entry-content (cho phép nhiều dòng)"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Loại trừ nội dung bằng bộ chọn CSS"
+      ],
+      "e.g. .share-bar, .related-posts": [
+        "ví dụ: .share-bar, .related-posts"
+      ],
+      "Exclude HTML Tags To Speak": [
+        "Loại trừ thẻ HTML khỏi phần đọc"
+      ],
+      "Pipe-separated. e.g. blockquote|figure": [
+        "Phân tách bằng dấu gạch đứng. ví dụ: blockquote|figure"
+      ],
+      "Exclude Texts To Speak": [
+        "Loại trừ văn bản khỏi phần đọc"
+      ],
+      "Pipe-separated. e.g. Read more...|Advertisement": [
+        "Phân tách bằng dấu gạch đứng. ví dụ: Đọc thêm...|Quảng cáo"
+      ],
+      "Could not find a post matching that ID or slug.": [
+        "Không tìm thấy bài viết khớp với ID hoặc đường dẫn tĩnh đó."
+      ],
+      "No published post available to launch the picker on.": [
+        "Không có bài viết đã đăng nào để mở bộ chọn."
+      ],
+      "Picker launch failed.": [
+        "Không mở được bộ chọn."
+      ],
+      "Opening…": [
+        "Đang mở…"
+      ],
+      "Pick Visually": [
+        "Chọn trực quan"
+      ],
+      "Excludes are a Pro feature": [
+        "Loại trừ là tính năng Pro"
+      ],
+      "On Free you can set the Include Content By CSS Selectors rule below. Excluding content by CSS selectors, HTML tags, or text — plus per-post and per-post-type targeting — are AtlasVoice Pro features.": [
+        "Ở bản miễn phí, bạn có thể đặt quy tắc \"Đưa nội dung vào bằng bộ chọn CSS\" bên dưới. Việc loại trừ nội dung theo bộ chọn CSS, thẻ HTML hoặc văn bản — cùng với thiết lập theo từng bài viết và từng loại bài viết — là tính năng của AtlasVoice Pro."
+      ],
+      "Pro feature — value won't be saved on Free. Upgrade to enable.": [
+        "Tính năng Pro — giá trị sẽ không được lưu ở bản miễn phí. Hãy nâng cấp để bật."
+      ],
+      "Pick visually for the global rule": [
+        "Chọn trực quan cho quy tắc toàn cục"
+      ],
+      "Pick visually for this post type": [
+        "Chọn trực quan cho loại bài viết này"
+      ],
+      "Global": [
+        "Toàn cục"
+      ],
+      "Post type:": [
+        "Loại bài viết:"
+      ],
+      "Manual post (optional)": [
+        "Bài viết chỉ định thủ công (tùy chọn)"
+      ],
+      "Slug or post ID — leave blank to use a sample": [
+        "Đường dẫn tĩnh hoặc ID bài viết — để trống để dùng bài mẫu"
+      ],
+      "Configure Settings": [
+        "Cấu hình cài đặt"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "Cấu hình cách hoạt động của trình phát chuyển văn bản thành giọng nói và cách chọn nội dung"
+      ],
+      "Run Setup Wizard": [
+        "Chạy trình hướng dẫn thiết lập"
+      ],
+      "All cache deleted": [
+        "Đã xóa toàn bộ bộ nhớ đệm"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "Đã lưu thành công. Bây giờ hãy vào menu \"Tùy chỉnh\"."
+      ],
+      "Some Pro-only fields were skipped — upgrade to enable them.": [
+        "Một số trường chỉ dành cho bản Pro đã bị bỏ qua — hãy nâng cấp để bật chúng."
+      ],
+      "Add Button or Player Automatically": [
+        "Tự động thêm nút hoặc trình phát"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "Tính năng \"Tự động thêm nút hoặc trình phát\" cho phép AtlasVoice tự chèn nút phát hoặc trình phát âm thanh vào bài viết và trang của bạn — mà không cần thiết lập thủ công."
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "Tiếp tục đọc sau khi chuyển sang tab khác"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "Khi bật, phần đọc vẫn tiếp tục ngay cả khi bạn rời khỏi tab hiện tại"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "Dừng tự động phát khi quay lại tab TTS"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "Tự động tạm dừng phát khi bạn quay lại tab TTS từ một tab khác"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "Dừng trình phát nổi khi cuộn xuống"
+      ],
+      "Turn this on to keep the player in place instead of floating it when readers scroll past. Applies to the Bottom positions in Customization.": [
+        "Bật tùy chọn này để trình phát giữ nguyên vị trí thay vì nổi lên khi người đọc cuộn qua. Áp dụng cho các vị trí Dưới cùng trong phần Tùy chỉnh."
+      ],
+      "Apply number format": [
+        "Áp dụng định dạng số"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "Chuyển số thành chữ khi đọc (ví dụ: '123' thành 'một trăm hai mươi ba')"
+      ],
+      "Read Content From Dom": [
+        "Đọc nội dung từ DOM"
+      ],
+      "Add Post Title To Read": [
+        "Thêm tiêu đề bài viết vào phần đọc"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "Đưa tiêu đề bài viết vào âm thanh trước khi đọc nội dung chính"
+      ],
+      "Add Post Excerpt To Read": [
+        "Thêm tóm tắt bài viết vào phần đọc"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "Đưa phần tóm tắt của bài viết vào âm thanh trước khi đọc nội dung chính"
+      ],
+      "Enable TTS Status": [
+        "Bật trạng thái TTS"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "Bật hiển thị trạng thái TTS trên trang bài viết."
+      ],
+      "Emit Content Wrapper": [
+        "Tạo lớp bọc nội dung"
+      ],
+      "Wrap rendered post content in a stable `tts_content_wrapper_<N>` div so the picker / runtime extractor can reliably find it across all posts. Turn off only if your theme's layout breaks on the wrapper.": [
+        "Bọc nội dung bài viết đã hiển thị trong một thẻ div `tts_content_wrapper_<N>` ổn định để bộ chọn / bộ trích xuất lúc chạy luôn tìm thấy nó ở mọi bài viết. Chỉ tắt nếu lớp bọc làm hỏng bố cục giao diện của bạn."
+      ],
+      "Add Text Before Content(intro)": [
+        "Thêm văn bản trước nội dung (mở đầu)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "Văn bản tùy chỉnh sẽ được đọc trước khi bắt đầu nội dung chính"
+      ],
+      "Add Text Before Content": [
+        "Thêm văn bản trước nội dung"
+      ],
+      "Add Text After Content(outro)": [
+        "Thêm văn bản sau nội dung (kết thúc)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "Văn bản tùy chỉnh sẽ được đọc sau khi kết thúc nội dung chính"
+      ],
+      "Add Text After Content": [
+        "Thêm văn bản sau nội dung"
+      ],
+      "Allow Listening For Post Type": [
+        "Cho phép nghe với loại bài viết"
+      ],
+      "Show on-page content selector": [
+        "Hiển thị bộ chọn nội dung ngay trên trang"
+      ],
+      "Adds the AtlasVoice Selector tabs on the front end for admins so you can pick what gets read aloud right on the post page. Off by default; even when on, it only opens from the “Pick visually” links and never appears on a plain page.": [
+        "Thêm các tab AtlasVoice Selector ở giao diện người dùng cho quản trị viên, để bạn chọn nội dung sẽ được đọc ngay trên trang bài viết. Mặc định tắt; kể cả khi bật, nó chỉ mở từ các liên kết \"Chọn trực quan\" và không bao giờ xuất hiện trên trang thông thường."
+      ],
+      "Full details: on-page content selector & Staging / Live": [
+        "Chi tiết đầy đủ: bộ chọn nội dung trên trang và Thử nghiệm / Phát hành"
+      ],
+      "Show Staging / Live indicator in toolbar": [
+        "Hiển thị chỉ báo Thử nghiệm / Phát hành trên thanh công cụ"
+      ],
+      "Shows the AtlasVoice mode (Staging or Live) in the WordPress admin bar so you can tell at a glance whether saved rules are driving visitor audio. It is always shown while the on-page content selector is open.": [
+        "Hiển thị chế độ của AtlasVoice (Thử nghiệm hoặc Phát hành) trên thanh quản trị WordPress để bạn biết ngay các quy tắc đã lưu có đang chi phối âm thanh cho khách truy cập hay không. Chỉ báo luôn hiển thị khi bộ chọn nội dung trên trang đang mở."
+      ],
+      "Content Selection Rules": [
+        "Quy tắc chọn nội dung"
+      ],
+      "Control which part of your content is read aloud. Set a rule for the whole site (Global) below.": [
+        "Kiểm soát phần nội dung nào sẽ được đọc thành tiếng. Hãy đặt quy tắc cho toàn website (Toàn cục) bên dưới."
+      ],
+      "Allow Listening For Post Status": [
+        "Cho phép nghe với trạng thái bài viết"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "Ở bản miễn phí, bạn chỉ có thể chọn 1 loại bài viết."
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "Loại trừ bài viết theo ID khỏi phần đọc"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "Loại trừ hơn 5 ID là tính năng pro"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "Nhiều ID được phân tách bằng dấu phẩy (,)."
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "Loại trừ hơn 5 ID là tính năng pro. Nhiều ID được phân tách bằng dấu phẩy (,)."
+      ],
+      "Exclude Categories To Speak": [
+        "Loại trừ chuyên mục khỏi phần đọc"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "Loại trừ hơn 1 chuyên mục là tính năng pro"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "Ở bản miễn phí, bạn chỉ có thể chọn 1 chuyên mục."
+      ],
+      "Exclude Tags To Speak": [
+        "Loại trừ thẻ khỏi phần đọc"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "Loại trừ hơn 1 thẻ là tính năng pro"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "Ở bản miễn phí, bạn chỉ có thể chọn 1 thẻ."
+      ],
+      "Enable Button Icon": [
+        "Bật biểu tượng nút"
+      ],
+      "Show per-post player toggle in toolbar": [
+        "Hiển thị nút bật/tắt trình phát theo bài viết trên thanh công cụ"
+      ],
+      "Adds a “Toggle AtlasVoice audio player for this post” control to the WordPress admin bar on front-end pages.": [
+        "Thêm nút \"Bật/tắt trình phát âm thanh AtlasVoice cho bài viết này\" vào thanh quản trị WordPress ở các trang giao diện người dùng."
+      ],
+      "Show dashboard widget": [
+        "Hiển thị widget bảng điều khiển"
+      ],
+      "Display the AtlasVoice Quick Stats widget on the WordPress admin dashboard.": [
+        "Hiển thị widget Thống kê nhanh của AtlasVoice trên bảng điều khiển quản trị WordPress."
+      ],
+      "Clear all cache": [
+        "Xóa toàn bộ bộ nhớ đệm"
+      ],
+      "Delete all data on uninstall": [
+        "Xóa toàn bộ dữ liệu khi gỡ cài đặt"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "Khi bật, toàn bộ dữ liệu plugin (cài đặt, phân tích, tệp âm thanh đã tạo) sẽ bị xóa vĩnh viễn khi bạn gỡ cài đặt plugin. Hãy để TẮT nếu bạn định cài lại hoặc đang gỡ lỗi."
+      ],
+      "⚠️ WARNING: Enabling this will permanently delete ALL plugin data (settings, analytics, generated audio files) when you uninstall the plugin. This action cannot be undone.\n\nAre you sure you want to enable this?": [
+        "⚠️ CẢNH BÁO: Bật tùy chọn này sẽ xóa vĩnh viễn TOÀN BỘ dữ liệu plugin (cài đặt, phân tích, tệp âm thanh đã tạo) khi bạn gỡ cài đặt plugin. Thao tác này không thể hoàn tác.\n\nBạn có chắc muốn bật không?"
+      ],
+      "⚠ Warning:": [
+        "⚠ Cảnh báo:"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "Toàn bộ dữ liệu plugin sẽ bị xóa vĩnh viễn khi bạn gỡ cài đặt. Hãy TẮT tùy chọn này nếu bạn định cài lại, gỡ lỗi hoặc đổi phiên bản."
+      ],
+      "Danger zone — reset all plugin data": [
+        "Vùng nguy hiểm — đặt lại toàn bộ dữ liệu plugin"
+      ],
+      "Permanently deletes every AtlasVoice option, transient, post-meta entry, cron event, and the analytics database table. The plugin stays active and boots as a fresh install on the next page load. This action cannot be undone.": [
+        "Xóa vĩnh viễn mọi tùy chọn, dữ liệu tạm, mục post-meta, sự kiện cron của AtlasVoice và bảng cơ sở dữ liệu phân tích. Plugin vẫn hoạt động và sẽ khởi động như một bản cài mới ở lần tải trang tiếp theo. Thao tác này không thể hoàn tác."
+      ],
+      "Type": [
+        "Nhập"
+      ],
+      "to confirm:": [
+        "để xác nhận:"
+      ],
+      "All plugin data has been reset. Reloading…": [
+        "Đã đặt lại toàn bộ dữ liệu plugin. Đang tải lại…"
+      ],
+      "Reset failed.": [
+        "Đặt lại thất bại."
+      ],
+      "Resetting…": [
+        "Đang đặt lại…"
+      ],
+      "Reset all plugin data": [
+        "Đặt lại toàn bộ dữ liệu plugin"
+      ],
+      "Save All": [
+        "Lưu tất cả"
+      ],
+      "No IDs selected": [
+        "Chưa chọn ID nào"
+      ],
+      "Select IDs": [
+        "Chọn ID"
+      ],
+      "Native speaker": [
+        "Người bản ngữ"
+      ],
+      "Slow and clear": [
+        "Chậm và rõ"
+      ],
+      "Warm and friendly": [
+        "Ấm áp và thân thiện"
+      ],
+      "Professional newsreader": [
+        "Phát thanh viên chuyên nghiệp"
+      ],
+      "Storyteller": [
+        "Người kể chuyện"
+      ],
+      "Custom": [
+        "Tùy chỉnh"
+      ],
+      "Live demo": [
+        "Bản demo trực tiếp"
+      ],
+      "Recording Data Saved": [
+        "Đã lưu dữ liệu ghi âm"
+      ],
+      "No published post found to launch the picker.": [
+        "Không tìm thấy bài viết đã đăng nào để mở bộ chọn."
+      ],
+      "Could not open the picker: ": [
+        "Không mở được bộ chọn: "
+      ],
+      "Pick visually with AtlasVoiceSelector": [
+        "Chọn trực quan bằng AtlasVoiceSelector"
+      ],
+      "Opens a sample post in a new tab. Pick / drag in the rail and click Save to update all four fields below.": [
+        "Mở một bài viết mẫu trong tab mới. Hãy chọn / kéo trên thanh rồi nhấp Lưu để cập nhật cả bốn trường bên dưới."
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "Tính năng Đưa nội dung vào bằng bộ chọn CSS có ở bản pro"
+      ],
+      "Multiple selector will be multiline.": [
+        "Nhiều bộ chọn được viết trên nhiều dòng."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Một số nội dung có thể bị thiếu; bạn có thể chỉ định bằng bộ chọn css"
+      ],
+      "Add CSS selectors for the content areas the player should read. One selector per line. Only target post/page body content. If left empty, the player automatically detects the content area.": [
+        "Thêm các bộ chọn CSS cho những vùng nội dung mà trình phát cần đọc. Mỗi dòng một bộ chọn. Chỉ nhắm vào phần thân bài viết/trang. Nếu để trống, trình phát sẽ tự động nhận diện vùng nội dung."
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "Tính năng Loại trừ nội dung bằng bộ chọn CSS có ở bản pro"
+      ],
+      "Exclude content by CSS selectors": [
+        "Loại trừ nội dung bằng bộ chọn CSS"
+      ],
+      "You can add \".atlasvoice_no_read\" class to exclude content.": [
+        "Bạn có thể thêm lớp \".atlasvoice_no_read\" để loại trừ nội dung."
+      ],
+      "Remove specific elements within the included content areas above. One selector per line. Example: .social-share, .related-posts, .author-bio": [
+        "Loại bỏ những phần tử cụ thể bên trong các vùng nội dung đã đưa vào ở trên. Mỗi dòng một bộ chọn. Ví dụ: .social-share, .related-posts, .author-bio"
+      ],
+      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Loại trừ thẻ để bỏ qua nội dung bên trong. Chẳng hạn (chỉ số dưới, chỉ số trên, v.v.) Đây là tính năng pro."
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Nhiều thẻ được phân tách bằng dấu gạch đứng (|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Loại trừ thẻ là tính năng pro."
+      ],
+      "HTML tags to skip within the included content. Pipe-separated. script, style, figure, and figcaption are always excluded automatically. Example: sub|sup|blockquote": [
+        "Các thẻ HTML cần bỏ qua trong phần nội dung đã đưa vào. Phân tách bằng dấu gạch đứng. Các thẻ script, style, figure và figcaption luôn được loại trừ tự động. Ví dụ: sub|sup|blockquote"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Loại trừ văn bản khỏi phần đọc là tính năng pro."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Nhiều đoạn văn bản được phân tách bằng dấu gạch đứng (|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Loại trừ văn bản là tính năng pro."
+      ],
+      "Exact text patterns to remove from the spoken content. Pipe-separated. Applied after all CSS and tag exclusions. Example: Read more...|Advertisement|Sponsored Content": [
+        "Các mẫu văn bản khớp chính xác sẽ bị loại khỏi nội dung được đọc. Phân tách bằng dấu gạch đứng. Áp dụng sau tất cả loại trừ theo CSS và thẻ. Ví dụ: Đọc thêm...|Quảng cáo|Nội dung tài trợ"
+      ],
+      "See the Pro demo": [
+        "Xem bản demo Pro"
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepContentCheck.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Opening…": [
+        "Açılıyor…"
+      ],
+      "No published post is available to preview yet. Publish a post first, then verify.": [
+        "Önizlenecek yayımlanmış bir yazı henüz yok. Önce bir yazı yayımlayın, sonra doğrulayın."
+      ],
+      "Could not open the content preview. Please try again.": [
+        "İçerik önizlemesi açılamadı. Lütfen tekrar deneyin."
+      ],
+      "Check what gets read aloud": [
+        "Nelerin sesli okunduğunu denetleyin"
+      ],
+      "Before going live, make sure the player reads the right part of your content — and skips menus, sidebars, and footers. AtlasVoice starts in Staging (hidden from visitors) so you can verify it first, before the player goes live.": [
+        "Yayına almadan önce, oynatıcının içeriğinizin doğru bölümünü okuduğundan ve menüleri, kenar çubuklarını, alt bilgileri atladığından emin olun. AtlasVoice, Deneme kipinde başlar (ziyaretçilerden gizli); böylece oynatıcı yayına çıkmadan önce her şeyi doğrulayabilirsiniz."
+      ],
+      "Click “Open content preview” — a sample post opens in a new tab with the AtlasVoice Selector.": [
+        "\"İçerik önizlemesini aç\"a tıklayın — yeni bir sekmede AtlasVoice Selector ile birlikte örnek bir yazı açılır."
+      ],
+      "Open “Preview Content” on the right to see exactly what will be read. Adjust the content region if needed.": [
+        "Tam olarak neyin okunacağını görmek için sağdaki \"İçeriği Önizle\" bölümünü açın. Gerekirse içerik bölgesini ayarlayın."
+      ],
+      "Come back to this tab and continue — you’ll choose to Go Live on the last step.": [
+        "Bu sekmeye dönüp devam edin — Yayına Alma kararını son adımda vereceksiniz."
+      ],
+      "Open content preview again": [
+        "İçerik önizlemesini yeniden aç"
+      ],
+      "Open content preview": [
+        "İçerik önizlemesini aç"
+      ],
+      "Opened in a new tab. Verify it reads correctly, then return here and click Next.": [
+        "Yeni sekmede açıldı. Doğru okunduğunu doğrulayın, sonra buraya dönüp İleri'ye tıklayın."
+      ],
+      "This is optional but recommended. You can always re-run it later from the dashboard.": [
+        "Bu adım isteğe bağlıdır ama önerilir. Daha sonra kontrol panelinden istediğiniz zaman yeniden çalıştırabilirsiniz."
+      ],
+      "Learn how the Staging → Live workflow works →": [
+        "Deneme → Yayın akışının nasıl çalıştığını öğrenin →"
+      ],
+      "Tip: the player stays hidden from visitors while you’re in Staging, so you can verify it safely first.": [
+        "İpucu: Denemedeyken oynatıcı ziyaretçilerden gizli kalır; böylece önce güvenle doğrulayabilirsiniz."
+      ]
+    }
+  }
+}

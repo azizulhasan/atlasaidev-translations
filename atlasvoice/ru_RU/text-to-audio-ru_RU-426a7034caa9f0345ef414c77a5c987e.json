@@ -1,0 +1,1748 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/text-to-audio-dashboard-ui.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Last 7 Days": [
+        "Последние 7 дней"
+      ],
+      "Upgrade to Pro": [
+        "Перейти на Pro"
+      ],
+      "Cancel": [
+        "Отмена"
+      ],
+      "Save": [
+        "Сохранить"
+      ],
+      "Pause": [
+        "Пауза"
+      ],
+      "Default": [
+        "По умолчанию"
+      ],
+      "AtlasVoice Pro": [
+        "AtlasVoice Pro"
+      ],
+      "Text to Speech Aliases": [
+        "Псевдонимы произношения"
+      ],
+      "Actual Text": [
+        "Исходный текст"
+      ],
+      "To Read": [
+        "Читать как"
+      ],
+      "All fields must be filled!": [
+        "Все поля должны быть заполнены!"
+      ],
+      "Successfully Saved.": [
+        "Сохранено."
+      ],
+      "Buy Pro version": [
+        "Купить версию Pro"
+      ],
+      "Click To Know How It Works?": [
+        "Нажмите, чтобы узнать, как это работает"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Background Color": [
+        "Цвет фона"
+      ],
+      "Text Color": [
+        "Цвет текста"
+      ],
+      "Custom CSS": [
+        "Свой CSS"
+      ],
+      "Here a short text have to write to inform the user about this feature purpose": [
+        "Здесь нужно написать короткий текст, объясняющий пользователю назначение этой возможности"
+      ],
+      "Write actual text": [
+        "Введите исходный текст"
+      ],
+      "Write read aloud text": [
+        "Введите текст для озвучивания"
+      ],
+      "More than 1 alias is available in the pro version. Please ": [
+        "Более одного псевдонима доступно в версии pro. Пожалуйста, "
+      ],
+      "Add New": [
+        "Добавить"
+      ],
+      "Loading...": [
+        "Загрузка..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "Посмотрите AtlasVoice Pro в деле"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Послушайте более 200 ИИ-голосов, MP3-плееры и массовую генерацию на живой странице — без установки."
+      ],
+      "Watch the live demo": [
+        "Смотреть демо"
+      ],
+      "Try the live demo": [
+        "Попробовать демо"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Показ кнопки на нескольких записях не поддерживается в бесплатной версии."
+      ],
+      "Select Items...": [
+        "Выберите элементы..."
+      ],
+      "Pro feature. Upgrade to unlock.": [
+        "Возможность версии Pro. Перейдите на Pro, чтобы её открыть."
+      ],
+      "Pro Feature": [
+        "Возможность Pro"
+      ],
+      "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
+        "Перейдите на Pro, чтобы открыть эту возможность и получить доступ к расширенной статистике."
+      ],
+      "Total Posts": [
+        "Всего записей"
+      ],
+      "Total posts with TTS player": [
+        "Записей с плеером TTS"
+      ],
+      "Init": [
+        "Инициализации"
+      ],
+      "Player initialization count": [
+        "Число инициализаций плеера"
+      ],
+      "Play": [
+        "Прослушивания"
+      ],
+      "Total play button clicks": [
+        "Всего нажатий кнопки воспроизведения"
+      ],
+      "Time (Min)": [
+        "Время (мин)"
+      ],
+      "Total listening time": [
+        "Общее время прослушивания"
+      ],
+      "Total pause actions": [
+        "Всего пауз"
+      ],
+      "Download": [
+        "Загрузки"
+      ],
+      "Total MP3 downloads": [
+        "Всего загрузок MP3"
+      ],
+      "End": [
+        "Завершения"
+      ],
+      "Total completions": [
+        "Всего дослушано до конца"
+      ],
+      "Bounce Rate": [
+        "Показатель отказов"
+      ],
+      "Users who didn't complete the audio": [
+        "Пользователи, не дослушавшие аудио"
+      ],
+      "TTS Player Analytics Summary": [
+        "Сводка статистики плеера TTS"
+      ],
+      "Total Interactions:": [
+        "Всего взаимодействий:"
+      ],
+      "Last 30 Days": [
+        "Последние 30 дней"
+      ],
+      "Last 90 Days": [
+        "Последние 90 дней"
+      ],
+      "25%": [
+        "25%"
+      ],
+      "50%": [
+        "50%"
+      ],
+      "75%": [
+        "75%"
+      ],
+      "Engagement Funnel": [
+        "Воронка вовлечённости"
+      ],
+      "Play Rate:": [
+        "Доля прослушиваний:"
+      ],
+      "Completion Rate:": [
+        "Доля завершений:"
+      ],
+      "Biggest Drop:": [
+        "Наибольший спад:"
+      ],
+      "50% → 75%": [
+        "50% → 75%"
+      ],
+      "New Listeners": [
+        "Новые слушатели"
+      ],
+      "Returning": [
+        "Вернувшиеся"
+      ],
+      "Listener Segments": [
+        "Сегменты слушателей"
+      ],
+      "New:": [
+        "Новые:"
+      ],
+      "Returning:": [
+        "Вернувшиеся:"
+      ],
+      "New Listeners:": [
+        "Новые слушатели:"
+      ],
+      "Avg Sessions/User:": [
+        "Сред. число сессий на пользователя:"
+      ],
+      "Yesterday": [
+        "Вчера"
+      ],
+      "OS": [
+        "ОС"
+      ],
+      "OS Breakdown": [
+        "Разбивка по ОС"
+      ],
+      "Device Types": [
+        "Типы устройств"
+      ],
+      "Browser": [
+        "Браузер"
+      ],
+      "Location": [
+        "Местоположение"
+      ],
+      "Top Countries": [
+        "Основные страны"
+      ],
+      "Top Cities": [
+        "Основные города"
+      ],
+      "Custom Range": [
+        "Свой период"
+      ],
+      "Playing Quantity": [
+        "Число прослушиваний"
+      ],
+      "Playing Time (min)": [
+        "Время прослушивания (мин)"
+      ],
+      "Previous Period": [
+        "Предыдущий период"
+      ],
+      "Playing Trend Analysis": [
+        "Анализ динамики прослушиваний"
+      ],
+      "Compare with Previous Period": [
+        "Сравнить с предыдущим периодом"
+      ],
+      "Quantity vs Date": [
+        "Количество по датам"
+      ],
+      "Playing Time(min)": [
+        "Время прослушивания (мин)"
+      ],
+      "Mon": [
+        "Пн"
+      ],
+      "Tue": [
+        "Вт"
+      ],
+      "Wed": [
+        "Ср"
+      ],
+      "Thu": [
+        "Чт"
+      ],
+      "Fri": [
+        "Пт"
+      ],
+      "Sat": [
+        "Сб"
+      ],
+      "Sun": [
+        "Вс"
+      ],
+      "Peak Listening Hours": [
+        "Часы пиковых прослушиваний"
+      ],
+      "Low": [
+        "Мало"
+      ],
+      "Peak": [
+        "Пик"
+      ],
+      "Insight:": [
+        "Вывод:"
+      ],
+      "Your peak listening time is": [
+        "Пик прослушиваний приходится на"
+      ],
+      "Peak Hours Heatmap": [
+        "Тепловая карта пиковых часов"
+      ],
+      "Date Range is only available in Pro version": [
+        "Выбор периода доступен только в версии Pro"
+      ],
+      "Buy Now": [
+        "Купить"
+      ],
+      "Please enable analytics first.": [
+        "Сначала включите статистику."
+      ],
+      "Track Post IDs": [
+        "Отслеживаемые ID записей"
+      ],
+      "You've reached the selection limit.": [
+        "Достигнут предел выбора."
+      ],
+      "Post ID": [
+        "ID записи"
+      ],
+      "Custom Date Range": [
+        "Свой диапазон дат"
+      ],
+      "Please provide a Post ID or date range.": [
+        "Укажите ID записи или диапазон дат."
+      ],
+      "Search": [
+        "Поиск"
+      ],
+      "Clear": [
+        "Очистить"
+      ],
+      "Showing results for:": [
+        "Результаты для:"
+      ],
+      "Post ID:": [
+        "ID записи:"
+      ],
+      "From:": [
+        "С:"
+      ],
+      "To:": [
+        "По:"
+      ],
+      "Metric": [
+        "Показатель"
+      ],
+      "Value": [
+        "Значение"
+      ],
+      "Unlock custom date-range search with Pro": [
+        "Откройте поиск по своему диапазону дат с Pro"
+      ],
+      "Popular Post": [
+        "Популярная запись"
+      ],
+      "Rank": [
+        "Место"
+      ],
+      "Post Title": [
+        "Заголовок записи"
+      ],
+      "Total Interactions": [
+        "Всего взаимодействий"
+      ],
+      "No data available yet. Start tracking posts to see analytics.": [
+        "Данных пока нет. Начните отслеживать записи, чтобы увидеть статистику."
+      ],
+      "View All Posts": [
+        "Показать все записи"
+      ],
+      "CSV export initiated. Check your downloads.": [
+        "Экспорт в CSV начат. Проверьте загрузки."
+      ],
+      "Export failed. Please try again.": [
+        "Не удалось выполнить экспорт. Попробуйте ещё раз."
+      ],
+      "PDF export initiated. Check your downloads.": [
+        "Экспорт в PDF начат. Проверьте загрузки."
+      ],
+      "Please enter at least one recipient email address.": [
+        "Укажите хотя бы один адрес получателя."
+      ],
+      "Report schedule saved successfully.": [
+        "Расписание отчётов сохранено."
+      ],
+      "Failed to save schedule settings.": [
+        "Не удалось сохранить настройки расписания."
+      ],
+      "Please enter recipient email addresses first.": [
+        "Сначала укажите адреса получателей."
+      ],
+      "Test report sent successfully! Check your inbox.": [
+        "Тестовый отчёт отправлен! Проверьте почту."
+      ],
+      "Failed to send test report.": [
+        "Не удалось отправить тестовый отчёт."
+      ],
+      "Failed to send test report. Please check your network connection.": [
+        "Не удалось отправить тестовый отчёт. Проверьте подключение к сети."
+      ],
+      "CSV": [
+        "CSV"
+      ],
+      "PDF": [
+        "PDF"
+      ],
+      "Schedule Report": [
+        "Запланировать отчёт"
+      ],
+      "Schedule Email Reports": [
+        "Запланировать отчёты по эл. почте"
+      ],
+      "Enable automated reports": [
+        "Включить автоматические отчёты"
+      ],
+      "Recipients (comma separated)": [
+        "Получатели (через запятую)"
+      ],
+      "Frequency": [
+        "Частота"
+      ],
+      "Daily": [
+        "Ежедневно"
+      ],
+      "Weekly": [
+        "Еженедельно"
+      ],
+      "Monthly": [
+        "Ежемесячно"
+      ],
+      "Day": [
+        "День"
+      ],
+      "Monday": [
+        "Понедельник"
+      ],
+      "Tuesday": [
+        "Вторник"
+      ],
+      "Wednesday": [
+        "Среда"
+      ],
+      "Thursday": [
+        "Четверг"
+      ],
+      "Friday": [
+        "Пятница"
+      ],
+      "Saturday": [
+        "Суббота"
+      ],
+      "Sunday": [
+        "Воскресенье"
+      ],
+      "Time": [
+        "Время"
+      ],
+      "Include in report:": [
+        "Включить в отчёт:"
+      ],
+      "Summary statistics": [
+        "Сводную статистику"
+      ],
+      "Top 10 posts": [
+        "10 лучших записей"
+      ],
+      "Geographic breakdown": [
+        "Разбивку по регионам"
+      ],
+      "Trend chart": [
+        "График динамики"
+      ],
+      "Device stats": [
+        "Статистику устройств"
+      ],
+      "Next scheduled report:": [
+        "Следующий запланированный отчёт:"
+      ],
+      "Sending...": [
+        "Отправка..."
+      ],
+      "Send Test Report": [
+        "Отправить тестовый отчёт"
+      ],
+      "Saving...": [
+        "Сохранение..."
+      ],
+      "Save Settings": [
+        "Сохранить настройки"
+      ],
+      "Export & Reports": [
+        "Экспорт и отчёты"
+      ],
+      "Last 14 Days": [
+        "Последние 14 дней"
+      ],
+      "All Time": [
+        "За всё время"
+      ],
+      "Getting more than 30 days data is pro feature. Please ": [
+        "Получение данных более чем за 30 дней — возможность pro. Пожалуйста, "
+      ],
+      "Quick Select": [
+        "Быстрый выбор"
+      ],
+      "From": [
+        "С"
+      ],
+      "To": [
+        "По"
+      ],
+      "Custom date select is only available in pro version. Please ": [
+        "Выбор произвольных дат доступен только в версии pro. Пожалуйста, "
+      ],
+      "Apply": [
+        "Применить"
+      ],
+      "CSV exported successfully!": [
+        "CSV успешно экспортирован!"
+      ],
+      "Error exporting CSV": [
+        "Ошибка при экспорте CSV"
+      ],
+      "PDF report opened. Use 'Save as PDF' in the print dialog.": [
+        "Отчёт PDF открыт. Выберите «Сохранить как PDF» в окне печати."
+      ],
+      "Report downloaded as HTML. Open in browser and print to save as PDF.": [
+        "Отчёт скачан в формате HTML. Откройте его в браузере и отправьте на печать, чтобы сохранить как PDF."
+      ],
+      "Failed to generate PDF report.": [
+        "Не удалось создать отчёт PDF."
+      ],
+      "Error exporting PDF": [
+        "Ошибка при экспорте PDF"
+      ],
+      "Analytics": [
+        "Статистика"
+      ],
+      "Track and analyze your TTS player engagement to understand listener behavior.": [
+        "Отслеживайте и анализируйте вовлечённость в плеере TTS, чтобы понимать поведение слушателей."
+      ],
+      "Show listener location in analytics": [
+        "Показывать местоположение слушателей в статистике"
+      ],
+      "Off by default. When on, listener IP addresses are sent to ip-api.com, ipinfo.io and icanhazip.com to resolve city / country for the Location chart. See \"External services\" in the plugin readme.": [
+        "По умолчанию выключено. При включении IP-адреса слушателей отправляются на ip-api.com, ipinfo.io и icanhazip.com для определения города и страны на графике местоположения. См. раздел «Внешние сервисы» в файле readme плагина."
+      ],
+      "Export & Schedule Reports": [
+        "Экспорт и планирование отчётов"
+      ],
+      "Export CSV/PDF reports and schedule automated email digests.": [
+        "Экспортируйте отчёты в CSV/PDF и планируйте автоматические рассылки."
+      ],
+      "Analytics is Currently Disabled": [
+        "Статистика сейчас отключена"
+      ],
+      "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
+        "Включите статистику переключателем выше, чтобы начать фиксировать взаимодействия с плеером TTS и смотреть подробные показатели."
+      ],
+      "Available Fields": [
+        "Доступные поля"
+      ],
+      "Select All": [
+        "Выбрать все"
+      ],
+      "All fields selected": [
+        "Выбраны все поля"
+      ],
+      "No ACF fields found": [
+        "Поля ACF не найдены"
+      ],
+      "Selected (read order)": [
+        "Выбрано (порядок озвучивания)"
+      ],
+      "Clear All": [
+        "Очистить всё"
+      ],
+      "Click fields on the left to add": [
+        "Нажимайте на поля слева, чтобы добавить их"
+      ],
+      "Move up": [
+        "Вверх"
+      ],
+      "Move down": [
+        "Вниз"
+      ],
+      "Remove": [
+        "Удалить"
+      ],
+      "Use ▲ ▼ to reorder. Fields are read top to bottom.": [
+        "Используйте ▲ ▼ для изменения порядка. Поля озвучиваются сверху вниз."
+      ],
+      "Compatibility Status": [
+        "Состояние совместимости"
+      ],
+      "AtlasVoice automatically excludes its scripts from caching and optimization plugins to prevent conflicts.": [
+        "AtlasVoice автоматически исключает свои скрипты из плагинов кэширования и оптимизации, чтобы избежать конфликтов."
+      ],
+      "JS exclusion active": [
+        "Исключение JS активно"
+      ],
+      "Detected but not handled — may cause conflicts": [
+        "Обнаружен, но не обработан — возможны конфликты"
+      ],
+      "Installed but not active": [
+        "Установлен, но не включён"
+      ],
+      "Not installed": [
+        "Не установлен"
+      ],
+      "Add ACF Fields To Posts": [
+        "Добавить поля ACF в записи"
+      ],
+      "Adding more than 1  ACF field is a pro feature": [
+        "Добавление более одного поля ACF — возможность pro"
+      ],
+      "Adding more than 1 ACF field is a pro feature": [
+        "Добавление более одного поля ACF — возможность pro"
+      ],
+      "Use custom reading order": [
+        "Использовать свой порядок озвучивания"
+      ],
+      "When enabled, ACF fields are read in the order shown above. When disabled, fields are read in ACF's default field group order.": [
+        "Если включено, поля ACF озвучиваются в показанном выше порядке. Если выключено, используется порядок по умолчанию из группы полей ACF."
+      ],
+      "Selected fields are read after the main article content. If a field is already visible in your post content area, it may be read twice. For visible fields, use \"Include Content By CSS Selectors\" in Settings instead to control reading order.": [
+        "Выбранные поля озвучиваются после основного текста статьи. Если поле уже видно в области содержимого записи, оно может быть озвучено дважды. Для видимых полей используйте вместо этого «Включить содержимое по CSS-селекторам» в настройках, чтобы задать порядок озвучивания."
+      ],
+      "Loading": [
+        "Загрузка"
+      ],
+      "Before Content": [
+        "Перед содержимым"
+      ],
+      "After Content": [
+        "После содержимого"
+      ],
+      "Bottom Full Width": [
+        "Внизу во всю ширину"
+      ],
+      "Bottom Right": [
+        "Внизу справа"
+      ],
+      "Bottom Left": [
+        "Внизу слева"
+      ],
+      "Sticky Top": [
+        "Закреплён сверху"
+      ],
+      "Select Player": [
+        "Выберите плеер"
+      ],
+      "More players (AI voices, MP3) are available in": [
+        "Другие плееры (ИИ-голоса, MP3) доступны в"
+      ],
+      "Hear the Pro players live": [
+        "Послушать плееры Pro вживую"
+      ],
+      "Select Button Position": [
+        "Выберите положение кнопки"
+      ],
+      "Select where to display the player button": [
+        "Выберите, где показывать кнопку плеера"
+      ],
+      "Floating Position": [
+        "Плавающее положение"
+      ],
+      "Where the player docks once the reader scrolls past it. Turn docking off entirely with \"When Scroll Down Stop Floating Player\" in Settings.": [
+        "Место, где закрепится плеер, когда читатель прокрутит страницу ниже него. Полностью отключить закрепление можно параметром «Останавливать плавающий плеер при прокрутке вниз» в настройках."
+      ],
+      "Display Player To": [
+        "Показывать плеер"
+      ],
+      "Choose who can see the player": [
+        "Выберите, кто может видеть плеер"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "Ограничение показа плеера для нескольких типов пользователей доступно в версии pro"
+      ],
+      "Who Can Download MP3 File": [
+        "Кто может скачивать MP3-файл"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "Создавать MP3 начиная с даты публикации"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Начать создание MP3-файлов с записей, опубликованных после указанной даты. Выбирайте это, только если хотите создавать mp3 по диапазону дат."
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "Создавать MP3 с даты"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "Создавать MP3 до даты публикации"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Создавать MP3-файлы для записей, опубликованных до указанной даты. Выбирайте это, только если хотите создавать mp3 по диапазону дат."
+      ],
+      "Generate MP3 File Date To": [
+        "Создавать MP3 по дату"
+      ],
+      "Player Customization": [
+        "Настройка плеера"
+      ],
+      "Choose icon": [
+        "Выберите значок"
+      ],
+      "Presets": [
+        "Готовые наборы"
+      ],
+      "Custom SVG": [
+        "Свой SVG"
+      ],
+      "<svg ...>...</svg>": [
+        "<svg ...>...</svg>"
+      ],
+      "Use this SVG": [
+        "Использовать этот SVG"
+      ],
+      "Allowed: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Server sanitizes on save.": [
+        "Разрешено: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Сервер очищает код при сохранении."
+      ],
+      "Listen — initial state": [
+        "Слушать — исходное состояние"
+      ],
+      "Pause — while speaking": [
+        "Пауза — во время озвучивания"
+      ],
+      "Resume — after user paused": [
+        "Продолжить — после паузы пользователя"
+      ],
+      "Replay — after speech finished": [
+        "Прослушать снова — после завершения озвучивания"
+      ],
+      "Reset to default": [
+        "Вернуть по умолчанию"
+      ],
+      "Empty = use factory default": [
+        "Пусто = использовать заводское значение"
+      ],
+      "Hide tooltip": [
+        "Скрыть подсказку"
+      ],
+      "Show tooltip (advanced)": [
+        "Показывать подсказку (для опытных)"
+      ],
+      "Hover tooltip": [
+        "Подсказка при наведении"
+      ],
+      "Default Pro": [
+        "Default Pro"
+      ],
+      "Button Texts & Icons — ": [
+        "Тексты и значки кнопки — "
+      ],
+      "Reset all to defaults": [
+        "Сбросить всё к значениям по умолчанию"
+      ],
+      "These labels and icons are shown on the front-end button as it cycles through states. Saved values for the inactive player are preserved if you switch players.": [
+        "Эти подписи и значки показываются на кнопке на сайте по мере смены её состояний. Сохранённые значения для неактивного плеера сохраняются при смене плеера."
+      ],
+      "Choose player background color": [
+        "Выберите цвет фона плеера"
+      ],
+      "Choose your color": [
+        "Выберите цвет"
+      ],
+      "Hover BG Color": [
+        "Цвет фона при наведении"
+      ],
+      "Choose your hover background color": [
+        "Выберите цвет фона при наведении"
+      ],
+      "Hover Text Color": [
+        "Цвет текста при наведении"
+      ],
+      "Choose your hover text color": [
+        "Выберите цвет текста при наведении"
+      ],
+      "Margin Size (Px)": [
+        "Размер отступа (px)"
+      ],
+      "Top": [
+        "Сверху"
+      ],
+      "Margin Top": [
+        "Отступ сверху"
+      ],
+      "Bottom": [
+        "Снизу"
+      ],
+      "Margin Bottom": [
+        "Отступ снизу"
+      ],
+      "Left": [
+        "Слева"
+      ],
+      "Margin Left": [
+        "Отступ слева"
+      ],
+      "Right": [
+        "Справа"
+      ],
+      "Margin Right": [
+        "Отступ справа"
+      ],
+      "Button Style": [
+        "Стиль кнопки"
+      ],
+      "Height": [
+        "Высота"
+      ],
+      "Button Height": [
+        "Высота кнопки"
+      ],
+      "Border": [
+        "Граница"
+      ],
+      "Button Border": [
+        "Граница кнопки"
+      ],
+      "Border Color": [
+        "Цвет границы"
+      ],
+      "Font Size": [
+        "Размер шрифта"
+      ],
+      "Radius": [
+        "Скругление"
+      ],
+      "Border Radius": [
+        "Радиус скругления"
+      ],
+      "Button Properties": [
+        "Свойства кнопки"
+      ],
+      "Width": [
+        "Ширина"
+      ],
+      "Button Width": [
+        "Ширина кнопки"
+      ],
+      "Add custom styling for your player using the WordPress Customizer's Additional CSS editor.": [
+        "Добавьте своё оформление плеера в редакторе «Дополнительные стили» настройщика WordPress."
+      ],
+      "Open Appearance → Customize → Additional CSS": [
+        "Открыть Внешний вид → Настроить → Дополнительные стили"
+      ],
+      "Default player preview": [
+        "Предпросмотр плеера по умолчанию"
+      ],
+      "This is a preview of the player.": [
+        "Это предпросмотр плеера."
+      ],
+      "Player settings": [
+        "Настройки плеера"
+      ],
+      "Value should be between 0-100": [
+        "Значение должно быть от 0 до 100"
+      ],
+      "Customization": [
+        "Оформление"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "Настройте плеер и его оформление под свой бренд и предпочтения."
+      ],
+      "Preview on Your Site": [
+        "Предпросмотр на сайте"
+      ],
+      "Please fill the  field : ": [
+        "Заполните поле: "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "Чтобы выбрать этот плеер, сначала пройдите авторизацию в меню «Интеграции»"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "Плеер Google Cloud TTS доступен только в версии pro."
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "Чтобы выбрать этот плеер, сначала пройдите авторизацию в меню «Интеграции»"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "Плеер ChatGPT TTS доступен только в версии pro."
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "Плеер ElevenLabs TTS доступен только в версии pro."
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "Плеер Default Pro доступен только в версии pro."
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "AtlasVoice сохраняет созданные аудиофайлы в папке uploads. Ваша папка uploads недоступна для записи. Разрешите запись в неё, чтобы пользоваться всеми возможностями плагина."
+      ],
+      "Customization saved.": [
+        "Оформление сохранено."
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "Теперь перейдите в меню «Оформление», чтобы выбрать подходящий язык и голос."
+      ],
+      "Write here something and click listen button": [
+        "Напишите здесь что-нибудь и нажмите кнопку прослушивания"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " Введите здесь текст и нажмите кнопку прослушивания, чтобы услышать его вслух."
+      ],
+      "Watch Tutorial": [
+        "Смотреть руководство"
+      ],
+      "Write here something and click listen button.": [
+        "Напишите здесь что-нибудь и нажмите кнопку прослушивания."
+      ],
+      "Design Customization": [
+        "Настройка оформления"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "Шорткод | значения атрибутов должны быть заключены в двойные кавычки ( \" )"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "Шорткод скопирован"
+      ],
+      "Copy Shortcode": [
+        "Копировать шорткод"
+      ],
+      "1. Browser support issues on Android and desktop": [
+        "1. Проблемы поддержки браузеров на Android и компьютерах"
+      ],
+      "This plugin is built using the browser SpeechSynthesis API. No external API is used.": [
+        "Этот плагин построен на браузерном API SpeechSynthesis. Внешние API не используются."
+      ],
+      "View SpeechSynthesis documentation": [
+        "Открыть документацию SpeechSynthesis"
+      ],
+      "Browser and device support varies, so available voices and languages may differ between desktop and mobile devices.": [
+        "Поддержка различается в зависимости от браузера и устройства, поэтому доступные голоса и языки на компьютерах и мобильных устройствах могут отличаться."
+      ],
+      "Submit a support ticket": [
+        "Отправить обращение в поддержку"
+      ],
+      "There are no browser limitations in the Pro version.": [
+        "В версии Pro ограничений браузера нет."
+      ],
+      "2. Different voices or languages on mobile": [
+        "2. Другие голоса или языки на мобильных устройствах"
+      ],
+      "SpeechSynthesis support varies between browsers and devices. Some voices may be available on desktop but not on mobile.": [
+        "Поддержка SpeechSynthesis различается в разных браузерах и на разных устройствах. Некоторые голоса могут быть доступны на компьютере, но отсутствовать на телефоне."
+      ],
+      "The Pro version does not have these limitations.": [
+        "В версии Pro таких ограничений нет."
+      ],
+      "3. Can I exclude certain words from playback?": [
+        "3. Можно ли исключить отдельные слова из озвучивания?"
+      ],
+      "Yes. You can exclude specific words or phrases in the Pro version.": [
+        "Да. В версии Pro вы можете исключить определённые слова или фразы."
+      ],
+      "Use the pipe (|) symbol to separate multiple words or phrases.": [
+        "Используйте символ вертикальной черты (|), чтобы разделить несколько слов или фраз."
+      ],
+      "4. Can I exclude specific HTML tags from playback?": [
+        "4. Можно ли исключить из озвучивания определённые HTML-теги?"
+      ],
+      "The Pro version allows excluding content wrapped in specific HTML tags.": [
+        "В версии Pro можно исключить содержимое, заключённое в определённые HTML-теги."
+      ],
+      "Use the pipe (|) symbol to exclude multiple tags.": [
+        "Используйте символ вертикальной черты (|), чтобы исключить несколько тегов."
+      ],
+      "5. How can I change button text?": [
+        "5. Как изменить текст кнопки?"
+      ],
+      "Button text can be changed using shortcode attributes or filters. Filters always override shortcode values.": [
+        "Текст кнопки можно изменить с помощью атрибутов шорткода или фильтров. Фильтры всегда имеют приоритет над значениями шорткода."
+      ],
+      "6. How do I add a custom CSS class to the button?": [
+        "6. Как добавить кнопке свой CSS-класс?"
+      ],
+      "7. Backend filters (Free version)": [
+        "7. Серверные фильтры (бесплатная версия)"
+      ],
+      "Filter": [
+        "Фильтр"
+      ],
+      "Arguments": [
+        "Аргументы"
+      ],
+      "8. Scripts blocked by CORS policy when using a CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)": [
+        "8. Скрипты блокируются политикой CORS при использовании CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)"
+      ],
+      "Symptom:": [
+        "Симптом:"
+      ],
+      "The browser console shows errors like “Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.” The player never loads.": [
+        "В консоли браузера появляются ошибки вида «Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.». Плеер так и не загружается."
+      ],
+      "Why this happens:": [
+        "Почему так происходит:"
+      ],
+      "Your CDN is serving our plugin's JavaScript files, but your origin server isn't sending an Access-Control-Allow-Origin header. CDNs are pull caches — they only return what the origin gives them. When WP Rocket's Delay JavaScript (or a similar optimizer) adds a crossorigin attribute to the script tag, the browser then enforces CORS and blocks the load. This is a server configuration on your site, not a plugin bug.": [
+        "Ваш CDN раздаёт JavaScript-файлы нашего плагина, но исходный сервер не отправляет заголовок Access-Control-Allow-Origin. CDN — это кэш типа pull: он возвращает только то, что получил от источника. Когда «Задержка JavaScript» в WP Rocket (или похожий оптимизатор) добавляет к тегу скрипта атрибут crossorigin, браузер начинает применять CORS и блокирует загрузку. Это вопрос настройки сервера на вашем сайте, а не ошибка плагина."
+      ],
+      "Fix — Apache (.htaccess):": [
+        "Решение — Apache (.htaccess):"
+      ],
+      "Add the block below to the .htaccess in your WordPress root (same folder as wp-config.php), above the # BEGIN WP Rocket and # BEGIN WordPress sections.": [
+        "Добавьте приведённый ниже блок в файл .htaccess в корне WordPress (там же, где wp-config.php), выше разделов # BEGIN WP Rocket и # BEGIN WordPress."
+      ],
+      "Fix — nginx:": [
+        "Решение — nginx:"
+      ],
+      "Add this location block inside your server {} block, then reload nginx (sudo nginx -s reload).": [
+        "Добавьте этот блок location внутрь блока server {}, затем перезагрузите nginx (sudo nginx -s reload)."
+      ],
+      "Then — purge your CDN cache:": [
+        "Затем — очистите кэш CDN:"
+      ],
+      "WP Rocket → Settings → CDN → Clear all cache files. (Or purge from your CDN dashboard directly.) Until you purge, the CDN keeps serving the old response without the new header.": [
+        "WP Rocket → Настройки → CDN → Очистить все файлы кэша. (Либо очистите кэш прямо в панели CDN.) Пока вы этого не сделаете, CDN будет отдавать старый ответ без нового заголовка."
+      ],
+      "Verify:": [
+        "Проверка:"
+      ],
+      "Run this in a terminal and confirm access-control-allow-origin: * appears in the response headers:": [
+        "Выполните это в терминале и убедитесь, что в заголовках ответа есть access-control-allow-origin: *:"
+      ],
+      "Optional:": [
+        "Необязательно:"
+      ],
+      "If you'd rather avoid CORS altogether, exclude our plugin's script handles (text-to-audio-*, plyr) from WP Rocket → File Optimization → Delay JavaScript execution. That prevents the crossorigin attribute from being added in the first place. Fixing the header is still the more durable solution.": [
+        "Если вы предпочитаете вовсе обойтись без CORS, исключите дескрипторы скриптов нашего плагина (text-to-audio-*, plyr) в WP Rocket → Оптимизация файлов → Задержка выполнения JavaScript. Тогда атрибут crossorigin вообще не будет добавляться. Но исправление заголовка остаётся более надёжным решением."
+      ],
+      "Read the full guide on atlasaidev.com →": [
+        "Читать полное руководство на atlasaidev.com →"
+      ],
+      "9. The player or markers are missing inside post cards, related posts or widgets": [
+        "9. Плеер или маркеры отсутствуют в карточках записей, похожих записях или виджетах"
+      ],
+      "By default the player button and the AtlasVoice markers/wrapper are emitted only on the main content of the post or page being viewed — never inside a secondary loop such as an Avada \"Post Cards\" grid, a \"Related Posts\" block, or a widget. This is intentional: it prevents the content wrapper from being injected into your theme's grid markup and breaking the layout.": [
+        "По умолчанию кнопка плеера и маркеры/обёртка AtlasVoice выводятся только в основном содержимом просматриваемой записи или страницы — и никогда внутри вторичного цикла, например сетки «Post Cards» в Avada, блока «Похожие записи» или виджета. Так задумано: это не даёт обёртке содержимого попасть в разметку сетки вашей темы и сломать вёрстку."
+      ],
+      "If you deliberately want the player to render inside a secondary loop, override the tts_is_secondary_loop filter. It receives the computed boolean, the current loop post ID, and the queried object ID.": [
+        "Если вы намеренно хотите выводить плеер и во вторичном цикле, переопределите фильтр tts_is_secondary_loop. Он получает вычисленное логическое значение, ID текущей записи цикла и ID запрошенного объекта."
+      ],
+      "Allow the player everywhere, including post cards:": [
+        "Разрешить плеер везде, включая карточки записей:"
+      ],
+      "Allow it only for a specific post type:": [
+        "Разрешить только для определённого типа записей:"
+      ],
+      "Read-Along Highlight": [
+        "Подсветка при чтении"
+      ],
+      "Highlight the word and/or sentence being spoken while the post is read aloud.": [
+        "Подсвечивайте произносимое слово и/или предложение во время озвучивания записи."
+      ],
+      "speechSynthesis limitation:": [
+        "Ограничение speechSynthesis:"
+      ],
+      "Word-level highlighting relies on the browser's speechSynthesis “boundary” events, which only fire for local (offline) device voices. Remote voices (e.g. the “Google …” voices) and some browsers (notably Firefox) fire no word boundaries, so word highlighting can't track them. When that happens the player automatically falls back to sentence highlighting. Sentence highlighting works with every voice and browser — it's the recommended default.": [
+        "Подсветка по словам опирается на браузерные события «boundary» интерфейса speechSynthesis, которые возникают только для локальных (офлайн) голосов устройства. Удалённые голоса (например, голоса «Google …») и некоторые браузеры (в частности, Firefox) не сообщают границы слов, поэтому подсветка по словам не может за ними следовать. В таком случае плеер автоматически переходит на подсветку по предложениям. Подсветка по предложениям работает с любым голосом и браузером — это рекомендуемый вариант по умолчанию."
+      ],
+      "Precise word timing:": [
+        "Точный тайминг слов:"
+      ],
+      "This player generates audio with real per-word timing, so word-by-word highlighting is accurate and works in every browser — no local-voice requirement and no fallback.": [
+        "Этот плеер создаёт звук с реальным таймингом каждого слова, поэтому пословная подсветка точна и работает в любом браузере — локальный голос не требуется, запасной режим не нужен."
+      ],
+      "Already-generated audio:": [
+        "Ранее созданное аудио:"
+      ],
+      "Word timing is captured while the audio is being generated, so posts whose MP3 was created before highlighting was enabled have no timing data — they will use sentence highlighting until their audio is regenerated. To upgrade them, regenerate the audio with the Bulk MP3 tool (or regenerate an individual post). Note: regeneration sends the post content to your TTS provider (Google Cloud / ElevenLabs) again, so it consumes provider characters/credits just like the first generation — word timing can only be produced by the provider during synthesis, which is why it isn't added to existing files automatically.": [
+        "Тайминг слов записывается во время создания аудио, поэтому у записей, чей MP3 был создан до включения подсветки, данных о тайминге нет — они будут использовать подсветку по предложениям, пока аудио не будет создано заново. Чтобы обновить их, пересоздайте аудио с помощью инструмента массового MP3 (или пересоздайте отдельную запись). Обратите внимание: при пересоздании содержимое записи снова отправляется вашему поставщику TTS (Google Cloud / ElevenLabs), поэтому расходуются символы и кредиты так же, как при первом создании — тайминг слов может выдать только поставщик во время синтеза, поэтому он не добавляется к существующим файлам автоматически."
+      ],
+      "Successfully Saved...": [
+        "Сохранено..."
+      ],
+      "Enable highlighting": [
+        "Включить подсветку"
+      ],
+      "Turn read-along highlighting on or off for the browser players.": [
+        "Включите или выключите подсветку при чтении для браузерных плееров."
+      ],
+      "Highlight mode": [
+        "Режим подсветки"
+      ],
+      "“Sentence only” works with any voice. “Word” and “Word + Sentence” need a local voice that fires boundary events, and fall back to sentence highlighting otherwise.": [
+        "«Только предложение» работает с любым голосом. «Слово» и «Слово + предложение» требуют локального голоса, сообщающего события границ, иначе выполняется переход к подсветке по предложениям."
+      ],
+      "Sentence only (recommended)": [
+        "Только предложение (рекомендуется)"
+      ],
+      "Word only": [
+        "Только слово"
+      ],
+      "Word + Sentence": [
+        "Слово + предложение"
+      ],
+      "The current player uses generated audio, so read-along highlighting is sentence-level. Word-level options don't apply here.": [
+        "Текущий плеер использует созданное аудио, поэтому подсветка работает на уровне предложений. Варианты для слов здесь неприменимы."
+      ],
+      "Word highlight color": [
+        "Цвет подсветки слова"
+      ],
+      "Background color painted behind the word currently being spoken.": [
+        "Цвет фона за произносимым в данный момент словом."
+      ],
+      "Word text color": [
+        "Цвет текста слова"
+      ],
+      "Text color of the spoken word, for contrast against the highlight color.": [
+        "Цвет произносимого слова для контраста с цветом подсветки."
+      ],
+      "Sentence highlight color": [
+        "Цвет подсветки предложения"
+      ],
+      "Softer background painted behind the whole sentence being read.": [
+        "Более мягкий фон за всем озвучиваемым предложением."
+      ],
+      "Dim the rest of the article": [
+        "Приглушать остальной текст статьи"
+      ],
+      "Fade the surrounding text while reading so the spoken word/sentence stands out.": [
+        "Приглушайте окружающий текст во время чтения, чтобы произносимое слово или предложение выделялось."
+      ],
+      "Dimmed text opacity": [
+        "Прозрачность приглушённого текста"
+      ],
+      "How visible the dimmed (non-spoken) text stays. Lower = more dimmed.": [
+        "Насколько заметным остаётся приглушённый (непроизносимый) текст. Меньше значение — сильнее приглушение."
+      ],
+      "Listen to selected text": [
+        "Прослушать выделенный текст"
+      ],
+      "Show a small “Listen” control when a reader selects text in the article, to read only the selection — or from the selected word to the end. On the browser players the selection is spoken directly; on MP3 players the audio jumps to the matching position (precise on Google Cloud/ElevenLabs with word timing, approximate otherwise).": [
+        "Показывать небольшую кнопку «Слушать», когда читатель выделяет текст в статье, чтобы озвучить только выделение — или от выделенного слова до конца. В браузерных плеерах выделение произносится напрямую; в MP3-плеерах звук переходит к соответствующей позиции (точно в Google Cloud/ElevenLabs с таймингом слов, приблизительно в остальных случаях)."
+      ],
+      "Announce selection listening": [
+        "Сообщать о прослушивании выделения"
+      ],
+      "How readers learn the feature exists. The one-time tip appears under the player after their first play and never returns once dismissed. The floating side badge sits collapsed on the left edge and expands on hover; closing it hides it for the visitor's session.": [
+        "Как читатели узнают об этой возможности. Разовая подсказка появляется под плеером после первого прослушивания и больше не возвращается после закрытия. Плавающий боковой значок расположен в свёрнутом виде у левого края и раскрывается при наведении; при закрытии он скрывается на время сессии посетителя."
+      ],
+      "One-time tip after first play (recommended)": [
+        "Разовая подсказка после первого прослушивания (рекомендуется)"
+      ],
+      "Floating side badge": [
+        "Плавающий боковой значок"
+      ],
+      "Both": [
+        "Оба варианта"
+      ],
+      "Off — discover by selecting": [
+        "Выключено — пользователи найдут сами"
+      ],
+      "Auto-scroll to follow": [
+        "Автопрокрутка вслед за чтением"
+      ],
+      "Smoothly scroll the page to keep the spoken word in view. Turn off if scrolling is distracting.": [
+        "Плавно прокручивать страницу, чтобы произносимое слово оставалось видимым. Отключите, если прокрутка отвлекает."
+      ],
+      "Saving…": [
+        "Сохранение…"
+      ],
+      "Save Changes": [
+        "Сохранить изменения"
+      ],
+      "Help information about this setting": [
+        "Справка по этой настройке"
+      ],
+      "Read the full documentation": [
+        "Читать полную документацию"
+      ],
+      "Integration Setup": [
+        "Настройка интеграций"
+      ],
+      "Connect premium AI voice providers to generate natural MP3 audio.": [
+        "Подключите премиальных поставщиков ИИ-голосов, чтобы создавать естественное MP3-аудио."
+      ],
+      "Voice Integrations — Pro Feature": [
+        "Голосовые интеграции — возможность Pro"
+      ],
+      "Google Cloud TTS, ChatGPT, and ElevenLabs integrations are available in AtlasVoice Pro. The free plugin uses your browser's built-in voices.": [
+        "Интеграции с Google Cloud TTS, ChatGPT и ElevenLabs доступны в AtlasVoice Pro. Бесплатный плагин использует встроенные голоса браузера."
+      ],
+      "Voice Language": [
+        "Язык голоса"
+      ],
+      "Default Listening Language": [
+        "Язык прослушивания по умолчанию"
+      ],
+      "Voice to speak": [
+        "Голос для озвучивания"
+      ],
+      "Default Listening Voice": [
+        "Голос прослушивания по умолчанию"
+      ],
+      "Hear 200+ Pro AI voices live": [
+        "Послушайте вживую более 200 ИИ-голосов Pro"
+      ],
+      "Voice Speed": [
+        "Скорость речи"
+      ],
+      "Voice Volume": [
+        "Громкость"
+      ],
+      "Voice Pitch": [
+        "Высота голоса"
+      ],
+      "Default Listening Pitch": [
+        "Высота голоса по умолчанию"
+      ],
+      "Listening Preferences": [
+        "Параметры прослушивания"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Задайте параметры прослушивания с разными голосами и языками."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Настройки прослушивания сохранены. Настройка завершена. Приятного использования!"
+      ],
+      "Multilingual Voice Mapping — Pro Feature": [
+        "Многоязычное сопоставление голосов — возможность Pro"
+      ],
+      "We detected an active translation plugin. Mapping a voice and language to each translated language is available in AtlasVoice Pro.": [
+        "Обнаружен активный плагин перевода. Сопоставление голоса и языка каждому переведённому языку доступно в AtlasVoice Pro."
+      ],
+      "Scan failed.": [
+        "Не удалось выполнить сканирование."
+      ],
+      "Scan failed: ": [
+        "Не удалось выполнить сканирование: "
+      ],
+      "No files selected.": [
+        "Файлы не выбраны."
+      ],
+      "Deleted": [
+        "Удалено"
+      ],
+      "Freed": [
+        "Освобождено"
+      ],
+      "Deletion failed.": [
+        "Не удалось удалить."
+      ],
+      "Deletion failed: ": [
+        "Не удалось удалить: "
+      ],
+      "Maintenance": [
+        "Обслуживание"
+      ],
+      "⚠ Destructive action.": [
+        "⚠ Необратимое действие."
+      ],
+      "This tool permanently deletes leftover per-batch MP3 chunks (files like title-1.mp3, title-2.mp3) from uploads/TTA_Pro/. Only files that meet all of the following are listed:": [
+        "Этот инструмент безвозвратно удаляет оставшиеся фрагменты MP3 по партиям (файлы вида title-1.mp3, title-2.mp3) из uploads/TTA_Pro/. В списке показываются только файлы, отвечающие всем условиям:"
+      ],
+      "Filename ends with -N.mp3 where N is a number": [
+        "Имя файла оканчивается на -N.mp3, где N — число"
+      ],
+      "The final concatenated file (title.mp3) already exists in the same folder": [
+        "Итоговый объединённый файл (title.mp3) уже есть в той же папке"
+      ],
+      "The file is older than 1 hour (so an in-flight batch is never affected)": [
+        "Файл старше 1 часа (чтобы выполняющаяся партия никогда не пострадала)"
+      ],
+      "The file sits under wp-uploads/TTA_Pro/ (path traversal is rejected)": [
+        "Файл находится внутри wp-uploads/TTA_Pro/ (выход за пределы каталога отклоняется)"
+      ],
+      "⚠ Reduced safety margin.": [
+        "⚠ Уменьшенный запас безопасности."
+      ],
+      "You have lowered the age threshold below the 1-hour safe default. Files created by an in-flight batch could match. Only use this if no generation is currently running.": [
+        "Вы снизили порог возраста ниже безопасного значения по умолчанию в 1 час. Под условие могут попасть файлы выполняющейся партии. Используйте это, только если сейчас не идёт создание аудио."
+      ],
+      "Include files older than:": [
+        "Включать файлы старше:"
+      ],
+      "Scanning…": [
+        "Сканирование…"
+      ],
+      "Scan for orphan files": [
+        "Найти осиротевшие файлы"
+      ],
+      "Per page:": [
+        "На странице:"
+      ],
+      "Delete selected": [
+        "Удалить выбранные"
+      ],
+      "Delete all": [
+        "Удалить все"
+      ],
+      "Total orphans:": [
+        "Всего осиротевших файлов:"
+      ],
+      "Disk usage:": [
+        "Занято на диске:"
+      ],
+      "Nothing to clean — no orphan temp files found.": [
+        "Очищать нечего — осиротевших временных файлов не найдено."
+      ],
+      "All": [
+        "Все"
+      ],
+      "orphan files": [
+        "осиротевших файлов"
+      ],
+      "across all pages are selected.": [
+        "на всех страницах выбрано."
+      ],
+      "Clear selection": [
+        "Снять выделение"
+      ],
+      "files on this page are selected.": [
+        "файлов на этой странице выбрано."
+      ],
+      "Select all": [
+        "Выбрать все"
+      ],
+      "files across all pages": [
+        "файлов на всех страницах"
+      ],
+      "File": [
+        "Файл"
+      ],
+      "Provider": [
+        "Поставщик"
+      ],
+      "Size": [
+        "Размер"
+      ],
+      "Modified": [
+        "Изменён"
+      ],
+      "Previous": [
+        "Назад"
+      ],
+      "Page": [
+        "Страница"
+      ],
+      "Next": [
+        "Вперёд"
+      ],
+      "Confirm deletion": [
+        "Подтвердите удаление"
+      ],
+      "You are about to permanently delete": [
+        "Вы собираетесь безвозвратно удалить"
+      ],
+      "files": [
+        "файлов"
+      ],
+      "This cannot be undone. Server-side safety rules will re-validate each file before deletion.": [
+        "Это действие нельзя отменить. Перед удалением серверные правила безопасности повторно проверят каждый файл."
+      ],
+      "Type ": [
+        "Введите "
+      ],
+      " to confirm:": [
+        " для подтверждения:"
+      ],
+      "Deleting…": [
+        "Удаление…"
+      ],
+      "Permanently delete": [
+        "Удалить безвозвратно"
+      ],
+      "Maintenance tools are available with the Pro plugin active.": [
+        "Инструменты обслуживания доступны при включённом плагине Pro."
+      ],
+      "Include Content By CSS Selectors": [
+        "Включить содержимое по CSS-селекторам"
+      ],
+      "e.g. div.entry-content (multi-line allowed)": [
+        "например, div.entry-content (можно несколько строк)"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Исключить содержимое по CSS-селекторам"
+      ],
+      "e.g. .share-bar, .related-posts": [
+        "например, .share-bar, .related-posts"
+      ],
+      "Exclude HTML Tags To Speak": [
+        "Исключить HTML-теги из озвучивания"
+      ],
+      "Pipe-separated. e.g. blockquote|figure": [
+        "Через вертикальную черту, например blockquote|figure"
+      ],
+      "Exclude Texts To Speak": [
+        "Исключить тексты из озвучивания"
+      ],
+      "Pipe-separated. e.g. Read more...|Advertisement": [
+        "Через вертикальную черту, например Читать далее...|Реклама"
+      ],
+      "Could not find a post matching that ID or slug.": [
+        "Не найдено записи с таким ID или ярлыком."
+      ],
+      "No published post available to launch the picker on.": [
+        "Нет опубликованной записи, на которой можно запустить инструмент выбора."
+      ],
+      "Picker launch failed.": [
+        "Не удалось запустить инструмент выбора."
+      ],
+      "Opening…": [
+        "Открытие…"
+      ],
+      "Pick Visually": [
+        "Выбрать визуально"
+      ],
+      "Excludes are a Pro feature": [
+        "Исключения — возможность Pro"
+      ],
+      "On Free you can set the Include Content By CSS Selectors rule below. Excluding content by CSS selectors, HTML tags, or text — plus per-post and per-post-type targeting — are AtlasVoice Pro features.": [
+        "В бесплатной версии вы можете задать правило «Включить содержимое по CSS-селекторам» ниже. Исключение содержимого по CSS-селекторам, HTML-тегам или тексту, а также настройка для отдельных записей и типов записей — возможности AtlasVoice Pro."
+      ],
+      "Pro feature — value won't be saved on Free. Upgrade to enable.": [
+        "Возможность Pro — в бесплатной версии значение не сохранится. Перейдите на Pro, чтобы её включить."
+      ],
+      "Pick visually for the global rule": [
+        "Выбрать визуально для общего правила"
+      ],
+      "Pick visually for this post type": [
+        "Выбрать визуально для этого типа записей"
+      ],
+      "Global": [
+        "Общее"
+      ],
+      "Post type:": [
+        "Тип записи:"
+      ],
+      "Manual post (optional)": [
+        "Запись вручную (необязательно)"
+      ],
+      "Slug or post ID — leave blank to use a sample": [
+        "Ярлык или ID записи — оставьте пустым, чтобы использовать пример"
+      ],
+      "Configure Settings": [
+        "Настроить параметры"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "Настройте поведение плеера озвучивания и выбор содержимого"
+      ],
+      "Run Setup Wizard": [
+        "Запустить мастер настройки"
+      ],
+      "All cache deleted": [
+        "Весь кэш удалён"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "Сохранено. Теперь перейдите в меню «Оформление»."
+      ],
+      "Some Pro-only fields were skipped — upgrade to enable them.": [
+        "Некоторые поля, доступные только в Pro, пропущены — перейдите на Pro, чтобы их включить."
+      ],
+      "Add Button or Player Automatically": [
+        "Автоматически добавлять кнопку или плеер"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "Параметр «Автоматически добавлять кнопку или плеер» позволяет AtlasVoice самостоятельно вставлять кнопку воспроизведения или аудиоплеер в ваши записи и страницы — без ручной настройки."
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "Продолжать чтение при переходе на другую вкладку"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "Если включено, озвучивание продолжится, даже когда вы уйдёте с текущей вкладки"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "Останавливать автовоспроизведение при возврате на вкладку TTS"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "Автоматически приостанавливать воспроизведение при возврате на вкладку TTS с другой вкладки"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "Останавливать плавающий плеер при прокрутке вниз"
+      ],
+      "Turn this on to keep the player in place instead of floating it when readers scroll past. Applies to the Bottom positions in Customization.": [
+        "Включите это, чтобы плеер оставался на месте, а не всплывал, когда читатели прокручивают страницу ниже него. Действует для нижних положений в разделе «Оформление»."
+      ],
+      "Apply number format": [
+        "Приводить числа к словам"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "Преобразует числа в произносимые слова (например, «123» становится «сто двадцать три»)"
+      ],
+      "Read Content From Dom": [
+        "Читать содержимое из DOM"
+      ],
+      "Add Post Title To Read": [
+        "Добавлять заголовок записи в озвучивание"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "Включает заголовок записи в аудио перед чтением основного содержимого"
+      ],
+      "Add Post Excerpt To Read": [
+        "Добавлять отрывок записи в озвучивание"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "Включает отрывок или краткое описание записи в аудио перед чтением основного содержимого"
+      ],
+      "Enable TTS Status": [
+        "Включить отображение состояния TTS"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "Показывать состояние TTS на странице записи."
+      ],
+      "Emit Content Wrapper": [
+        "Выводить обёртку содержимого"
+      ],
+      "Wrap rendered post content in a stable `tts_content_wrapper_<N>` div so the picker / runtime extractor can reliably find it across all posts. Turn off only if your theme's layout breaks on the wrapper.": [
+        "Оборачивает выводимое содержимое записи в устойчивый div `tts_content_wrapper_<N>`, чтобы инструмент выбора и экстрактор во время выполнения надёжно находили его во всех записях. Отключайте только если обёртка ломает вёрстку вашей темы."
+      ],
+      "Add Text Before Content(intro)": [
+        "Добавить текст перед содержимым (вступление)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "Свой текст, который будет озвучен перед началом основного содержимого"
+      ],
+      "Add Text Before Content": [
+        "Добавить текст перед содержимым"
+      ],
+      "Add Text After Content(outro)": [
+        "Добавить текст после содержимого (заключение)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "Свой текст, который будет озвучен после окончания основного содержимого"
+      ],
+      "Add Text After Content": [
+        "Добавить текст после содержимого"
+      ],
+      "Allow Listening For Post Type": [
+        "Разрешить прослушивание для типа записей"
+      ],
+      "Show on-page content selector": [
+        "Показывать селектор содержимого на странице"
+      ],
+      "Adds the AtlasVoice Selector tabs on the front end for admins so you can pick what gets read aloud right on the post page. Off by default; even when on, it only opens from the “Pick visually” links and never appears on a plain page.": [
+        "Добавляет вкладки AtlasVoice Selector на сайте для администраторов, чтобы вы могли выбрать озвучиваемое содержимое прямо на странице записи. По умолчанию выключено; даже когда включено, он открывается только по ссылкам «Выбрать визуально» и никогда не появляется на обычной странице."
+      ],
+      "Full details: on-page content selector & Staging / Live": [
+        "Подробности: селектор содержимого на странице и режимы «тест / публикация»"
+      ],
+      "Show Staging / Live indicator in toolbar": [
+        "Показывать индикатор «тест / публикация» на панели инструментов"
+      ],
+      "Shows the AtlasVoice mode (Staging or Live) in the WordPress admin bar so you can tell at a glance whether saved rules are driving visitor audio. It is always shown while the on-page content selector is open.": [
+        "Показывает режим AtlasVoice (тест или публикация) на панели администратора WordPress, чтобы вы сразу видели, управляют ли сохранённые правила аудио для посетителей. Индикатор всегда виден, пока открыт селектор содержимого на странице."
+      ],
+      "Content Selection Rules": [
+        "Правила выбора содержимого"
+      ],
+      "Control which part of your content is read aloud. Set a rule for the whole site (Global) below.": [
+        "Определите, какая часть содержимого будет озвучена. Задайте правило для всего сайта (общее) ниже."
+      ],
+      "Allow Listening For Post Status": [
+        "Разрешить прослушивание для статуса записи"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "В бесплатной версии можно выбрать только 1 тип записей."
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "Исключить из озвучивания записи по ID"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "Исключение более 5 ID — возможность pro"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "Несколько ID разделяются запятыми (,)."
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "Исключение более 5 ID — возможность pro. Несколько ID разделяются запятыми (,)."
+      ],
+      "Exclude Categories To Speak": [
+        "Исключить из озвучивания рубрики"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "Исключение более одной рубрики — возможность pro"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "В бесплатной версии можно выбрать только 1 рубрику."
+      ],
+      "Exclude Tags To Speak": [
+        "Исключить из озвучивания метки"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "Исключение более одной метки — возможность pro"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "В бесплатной версии можно выбрать только 1 метку."
+      ],
+      "Enable Button Icon": [
+        "Включить значок кнопки"
+      ],
+      "Show per-post player toggle in toolbar": [
+        "Показывать переключатель плеера для записи на панели инструментов"
+      ],
+      "Adds a “Toggle AtlasVoice audio player for this post” control to the WordPress admin bar on front-end pages.": [
+        "Добавляет на страницах сайта кнопку «Включить или выключить аудиоплеер AtlasVoice для этой записи» на панель администратора WordPress."
+      ],
+      "Show dashboard widget": [
+        "Показывать виджет в консоли"
+      ],
+      "Display the AtlasVoice Quick Stats widget on the WordPress admin dashboard.": [
+        "Показывать виджет краткой статистики AtlasVoice в консоли WordPress."
+      ],
+      "Clear all cache": [
+        "Очистить весь кэш"
+      ],
+      "Delete all data on uninstall": [
+        "Удалять все данные при удалении плагина"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "Если включено, при удалении плагина будут безвозвратно стёрты все его данные (настройки, статистика, созданные аудиофайлы). Оставьте ВЫКЛЮЧЕННЫМ, если планируете переустановку или занимаетесь отладкой."
+      ],
+      "⚠️ WARNING: Enabling this will permanently delete ALL plugin data (settings, analytics, generated audio files) when you uninstall the plugin. This action cannot be undone.\n\nAre you sure you want to enable this?": [
+        "⚠️ ВНИМАНИЕ: если включить этот параметр, при удалении плагина будут безвозвратно стёрты ВСЕ его данные (настройки, статистика, созданные аудиофайлы). Отменить это будет невозможно.\n\nТочно хотите включить?"
+      ],
+      "⚠ Warning:": [
+        "⚠ Внимание:"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "При удалении плагина все его данные будут стёрты безвозвратно. Выключите этот параметр, если планируете переустановку, отладку или смену версии."
+      ],
+      "Danger zone — reset all plugin data": [
+        "Опасная зона — сброс всех данных плагина"
+      ],
+      "Permanently deletes every AtlasVoice option, transient, post-meta entry, cron event, and the analytics database table. The plugin stays active and boots as a fresh install on the next page load. This action cannot be undone.": [
+        "Безвозвратно удаляет все настройки, временные данные, метаданные записей, задания cron AtlasVoice и таблицу статистики в базе данных. Плагин останется включённым и при следующей загрузке страницы запустится как свежая установка. Отменить это невозможно."
+      ],
+      "Type": [
+        "Введите"
+      ],
+      "to confirm:": [
+        "для подтверждения:"
+      ],
+      "All plugin data has been reset. Reloading…": [
+        "Все данные плагина сброшены. Обновление…"
+      ],
+      "Reset failed.": [
+        "Не удалось выполнить сброс."
+      ],
+      "Resetting…": [
+        "Сброс…"
+      ],
+      "Reset all plugin data": [
+        "Сбросить все данные плагина"
+      ],
+      "Save All": [
+        "Сохранить всё"
+      ],
+      "No IDs selected": [
+        "ID не выбраны"
+      ],
+      "Select IDs": [
+        "Выберите ID"
+      ],
+      "Native speaker": [
+        "Носитель языка"
+      ],
+      "Slow and clear": [
+        "Медленно и чётко"
+      ],
+      "Warm and friendly": [
+        "Тепло и дружелюбно"
+      ],
+      "Professional newsreader": [
+        "Профессиональный диктор новостей"
+      ],
+      "Storyteller": [
+        "Рассказчик"
+      ],
+      "Custom": [
+        "Свой вариант"
+      ],
+      "Live demo": [
+        "Демо"
+      ],
+      "Recording Data Saved": [
+        "Данные записи сохранены"
+      ],
+      "No published post found to launch the picker.": [
+        "Не найдено опубликованной записи для запуска инструмента выбора."
+      ],
+      "Could not open the picker: ": [
+        "Не удалось открыть инструмент выбора: "
+      ],
+      "Pick visually with AtlasVoiceSelector": [
+        "Выбрать визуально с помощью AtlasVoiceSelector"
+      ],
+      "Opens a sample post in a new tab. Pick / drag in the rail and click Save to update all four fields below.": [
+        "Открывает пример записи в новой вкладке. Выберите или выделите область на панели и нажмите «Сохранить», чтобы обновить все четыре поля ниже."
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "Возможность «Включить содержимое по CSS-селекторам» доступна в версии pro"
+      ],
+      "Multiple selector will be multiline.": [
+        "Несколько селекторов записывайте с новой строки."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Часть содержимого может теряться — её можно указать CSS-селекторами"
+      ],
+      "Add CSS selectors for the content areas the player should read. One selector per line. Only target post/page body content. If left empty, the player automatically detects the content area.": [
+        "Добавьте CSS-селекторы областей содержимого, которые должен озвучивать плеер. По одному селектору в строке. Указывайте только текст записи или страницы. Если оставить поле пустым, плеер сам определит область содержимого."
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "Возможность «Исключить содержимое по CSS-селекторам» доступна в версии pro"
+      ],
+      "Exclude content by CSS selectors": [
+        "Исключить содержимое по CSS-селекторам"
+      ],
+      "You can add \".atlasvoice_no_read\" class to exclude content.": [
+        "Чтобы исключить содержимое, можно добавить класс «.atlasvoice_no_read»."
+      ],
+      "Remove specific elements within the included content areas above. One selector per line. Example: .social-share, .related-posts, .author-bio": [
+        "Удаляет отдельные элементы внутри включённых выше областей содержимого. По одному селектору в строке. Пример: .social-share, .related-posts, .author-bio"
+      ],
+      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Исключить теги, чтобы пропустить их содержимое. Например (нижний индекс, верхний индекс и т. п.) Это возможность pro."
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Несколько тегов разделяются вертикальной чертой (|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Исключение тегов — возможность pro."
+      ],
+      "HTML tags to skip within the included content. Pipe-separated. script, style, figure, and figcaption are always excluded automatically. Example: sub|sup|blockquote": [
+        "HTML-теги, пропускаемые внутри включённого содержимого. Через вертикальную черту. Теги script, style, figure и figcaption исключаются автоматически всегда. Пример: sub|sup|blockquote"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Исключение текстов из озвучивания — возможность pro."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Несколько текстов разделяются вертикальной чертой (|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Исключение текстов — возможность pro."
+      ],
+      "Exact text patterns to remove from the spoken content. Pipe-separated. Applied after all CSS and tag exclusions. Example: Read more...|Advertisement|Sponsored Content": [
+        "Точные текстовые шаблоны, удаляемые из озвучиваемого содержимого. Через вертикальную черту. Применяются после всех исключений по CSS и тегам. Пример: Читать далее...|Реклама|Спонсорский материал"
+      ],
+      "See the Pro demo": [
+        "Смотреть демо Pro"
+      ]
+    }
+  }
+}

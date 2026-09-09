@@ -1,0 +1,44 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "build/blocks/blocks.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Listen": [
+        "Dinle"
+      ],
+      "Color Settings": [
+        "Renk Ayarları"
+      ],
+      "Background Color": [
+        "Arka Plan Rengi"
+      ],
+      "Text Color": [
+        "Metin Rengi"
+      ],
+      "Button Settings": [
+        "Düğme Ayarları"
+      ],
+      "Button Width (%)": [
+        "Düğme Genişliği (%)"
+      ],
+      "Custom CSS": [
+        "Özel CSS"
+      ],
+      "class selector .tta__listen_content": [
+        "sınıf seçicisi .tta__listen_content"
+      ],
+      "Text To Audio: Tap to listen post.": [
+        "Text To Audio: Yazıyı dinlemek için dokunun."
+      ],
+      "Text to audio customize button.": [
+        "Metin okuma düğmesini özelleştirme."
+      ]
+    }
+  }
+}

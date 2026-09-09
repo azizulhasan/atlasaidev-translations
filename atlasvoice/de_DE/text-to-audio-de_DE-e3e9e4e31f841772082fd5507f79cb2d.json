@@ -1,0 +1,332 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:21+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-settings.042d91f40b86e4a4.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Auf Pro upgraden"
+      ],
+      "Click To Know How It Works?": [
+        "Klicken Sie, um zu erfahren, wie es funktioniert?"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Loading...": [
+        "Wird geladen..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "AtlasVoice Pro in Aktion erleben"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Höre über 200 KI-Stimmen, MP3-Player und die Massenerzeugung auf einer echten Seite — ganz ohne Installation."
+      ],
+      "Watch the live demo": [
+        "Live-Demo ansehen"
+      ],
+      "Try the live demo": [
+        "Live-Demo ausprobieren"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Die Anzeige des Buttons fuer mehrere Beitraege wird in der kostenlosen Version nicht unterstuetzt."
+      ],
+      "Select Items...": [
+        "Elemente auswaehlen..."
+      ],
+      "Preview on Your Site": [
+        "Vorschau auf Ihrer Website"
+      ],
+      "Help information about this setting": [
+        "Hilfeinformationen zu dieser Einstellung"
+      ],
+      "Read the full documentation": [
+        "Die vollständige Dokumentation lesen"
+      ],
+      "Include Content By CSS Selectors": [
+        "Inhalt nach CSS-Selektoren einschliessen"
+      ],
+      "e.g. div.entry-content (multi-line allowed)": [
+        "z. B. div.entry-content (mehrere Zeilen erlaubt)"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Inhalt nach CSS-Selektoren ausschliessen"
+      ],
+      "e.g. .share-bar, .related-posts": [
+        "z. B. .share-bar, .related-posts"
+      ],
+      "Exclude HTML Tags To Speak": [
+        "HTML-Tags vom Vorlesen ausschliessen"
+      ],
+      "Pipe-separated. e.g. blockquote|figure": [
+        "Durch senkrechten Strich getrennt. z. B. blockquote|figure"
+      ],
+      "Exclude Texts To Speak": [
+        "Texte vom Vorlesen ausschliessen"
+      ],
+      "Pipe-separated. e.g. Read more...|Advertisement": [
+        "Durch senkrechten Strich getrennt. z. B. Weiterlesen...|Werbung"
+      ],
+      "Could not find a post matching that ID or slug.": [
+        "Es wurde kein Beitrag mit dieser ID oder diesem Slug gefunden."
+      ],
+      "No published post available to launch the picker on.": [
+        "Es ist kein veröffentlichter Beitrag vorhanden, auf dem sich die Auswahl öffnen ließe."
+      ],
+      "Picker launch failed.": [
+        "Die Auswahl konnte nicht geöffnet werden."
+      ],
+      "Opening…": [
+        "Wird geöffnet…"
+      ],
+      "Pick Visually": [
+        "Visuell auswählen"
+      ],
+      "Excludes are a Pro feature": [
+        "Ausschlüsse sind eine Pro-Funktion"
+      ],
+      "On Free you can set the Include Content By CSS Selectors rule below. Excluding content by CSS selectors, HTML tags, or text — plus per-post and per-post-type targeting — are AtlasVoice Pro features.": [
+        "In der kostenlosen Version kannst du unten die Regel „Inhalt über CSS-Selektoren einschließen“ festlegen. Inhalte über CSS-Selektoren, HTML-Tags oder Text auszuschließen — samt Regeln pro Beitrag und pro Inhaltstyp — sind Funktionen von AtlasVoice Pro."
+      ],
+      "Pro feature — value won't be saved on Free. Upgrade to enable.": [
+        "Pro-Funktion — der Wert wird in der kostenlosen Version nicht gespeichert. Wechsle zu Pro, um sie zu aktivieren."
+      ],
+      "Pick visually for the global rule": [
+        "Für die globale Regel visuell auswählen"
+      ],
+      "Pick visually for this post type": [
+        "Für diesen Inhaltstyp visuell auswählen"
+      ],
+      "Global": [
+        "Global"
+      ],
+      "Post type:": [
+        "Inhaltstyp:"
+      ],
+      "Manual post (optional)": [
+        "Beitrag manuell angeben (optional)"
+      ],
+      "Slug or post ID — leave blank to use a sample": [
+        "Slug oder Beitrags-ID — leer lassen, um ein Beispiel zu verwenden"
+      ],
+      "Configure Settings": [
+        "Einstellungen konfigurieren"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "Konfigurieren Sie das Verhalten des Text-to-Speech-Players und die Inhaltsauswahl"
+      ],
+      "Run Setup Wizard": [
+        "Einrichtungsassistenten starten"
+      ],
+      "All cache deleted": [
+        "Gesamter Cache geloescht"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "Erfolgreich gespeichert. Gehen Sie jetzt zum Menue \"Anpassung\"."
+      ],
+      "Some Pro-only fields were skipped — upgrade to enable them.": [
+        "Einige Felder nur für Pro wurden übersprungen — wechsle zu Pro, um sie zu aktivieren."
+      ],
+      "Add Button or Player Automatically": [
+        "Button oder Player automatisch hinzufuegen"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "Die Funktion \"Button oder Player automatisch hinzufuegen\" ermoeglicht es AtlasVoice, automatisch einen Wiedergabe-Button oder Audio-Player in Ihre Beitraege oder Seiten einzufuegen — ohne manuelle Einrichtung."
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "Weiterlesen nach Wechsel zu einem anderen Tab"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "Wenn aktiviert, wird Text-to-Speech weiter abgespielt, auch wenn Sie den aktuellen Tab verlassen"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "Automatische Wiedergabe stoppen nach Wechsel zum TTS-Tab"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "Wiedergabe automatisch pausieren, wenn Sie von einem anderen Tab zum TTS-Tab zurueckwechseln"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "Beim Scrollen den schwebenden Player stoppen"
+      ],
+      "Turn this on to keep the player in place instead of floating it when readers scroll past. Applies to the Bottom positions in Customization.": [
+        "Aktiviere das, damit der Player an Ort und Stelle bleibt, statt zu schweben, wenn Leser daran vorbeiscrollen. Gilt für die unteren Positionen in der Anpassung."
+      ],
+      "Apply number format": [
+        "Zahlenformat anwenden"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "Zahlen in gesprochene Woerter umwandeln (z.B. '123' wird zu 'einhundertdreiundzwanzig')"
+      ],
+      "Read Content From Dom": [
+        "Inhalt aus dem DOM lesen"
+      ],
+      "Add Post Title To Read": [
+        "Beitragstitel zum Vorlesen hinzufuegen"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "Den Beitragstitel in die Audiowiedergabe einbeziehen, bevor der Hauptinhalt vorgelesen wird"
+      ],
+      "Add Post Excerpt To Read": [
+        "Beitragsauszug zum Vorlesen hinzufuegen"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "Den Beitragsauszug/die Zusammenfassung in die Audiowiedergabe einbeziehen, bevor der Hauptinhalt vorgelesen wird"
+      ],
+      "Enable TTS Status": [
+        "TTS-Status aktivieren"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "TTS-Status auf der Beitragsseite aktivieren."
+      ],
+      "Emit Content Wrapper": [
+        "Inhalts-Wrapper ausgeben"
+      ],
+      "Wrap rendered post content in a stable `tts_content_wrapper_<N>` div so the picker / runtime extractor can reliably find it across all posts. Turn off only if your theme's layout breaks on the wrapper.": [
+        "Umschließt den ausgegebenen Beitragsinhalt mit einem stabilen `tts_content_wrapper_<N>`-div, damit die Auswahl bzw. der Extraktor ihn in allen Beiträgen zuverlässig findet. Schalte es nur aus, wenn das Layout deines Themes durch den Wrapper zerbricht."
+      ],
+      "Add Text Before Content(intro)": [
+        "Text vor dem Inhalt hinzufuegen (Intro)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "Benutzerdefinierter Text, der vor dem Hauptinhalt laut vorgelesen wird"
+      ],
+      "Add Text Before Content": [
+        "Text vor dem Inhalt hinzufuegen"
+      ],
+      "Add Text After Content(outro)": [
+        "Text nach dem Inhalt hinzufuegen (Outro)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "Benutzerdefinierter Text, der nach dem Hauptinhalt laut vorgelesen wird"
+      ],
+      "Add Text After Content": [
+        "Text nach dem Inhalt hinzufuegen"
+      ],
+      "Allow Listening For Post Type": [
+        "Wiedergabe fuer Beitragstyp erlauben"
+      ],
+      "Show on-page content selector": [
+        "Inhaltsauswahl auf der Seite anzeigen"
+      ],
+      "Adds the AtlasVoice Selector tabs on the front end for admins so you can pick what gets read aloud right on the post page. Off by default; even when on, it only opens from the “Pick visually” links and never appears on a plain page.": [
+        "Fügt für Administratoren die Tabs des AtlasVoice Selector im Frontend hinzu, damit du direkt auf der Beitragsseite festlegen kannst, was vorgelesen wird. Standardmäßig aus; selbst wenn aktiviert, öffnet sie sich nur über die Links „Visuell auswählen“ und erscheint nie auf einer normalen Seite."
+      ],
+      "Full details: on-page content selector & Staging / Live": [
+        "Alle Details: Inhaltsauswahl auf der Seite und Staging / Live"
+      ],
+      "Show Staging / Live indicator in toolbar": [
+        "Staging-/Live-Anzeige in der Werkzeugleiste anzeigen"
+      ],
+      "Shows the AtlasVoice mode (Staging or Live) in the WordPress admin bar so you can tell at a glance whether saved rules are driving visitor audio. It is always shown while the on-page content selector is open.": [
+        "Zeigt den AtlasVoice-Modus (Staging oder Live) in der WordPress-Adminleiste, damit du auf einen Blick siehst, ob die gespeicherten Regeln das Audio für Besucher steuern. Während die Inhaltsauswahl geöffnet ist, wird sie immer angezeigt."
+      ],
+      "Content Selection Rules": [
+        "Regeln zur Inhaltsauswahl"
+      ],
+      "Control which part of your content is read aloud. Set a rule for the whole site (Global) below.": [
+        "Lege fest, welcher Teil deines Inhalts vorgelesen wird. Bestimme unten eine Regel für die gesamte Website (global)."
+      ],
+      "Allow Listening For Post Status": [
+        "Wiedergabe fuer Beitragsstatus erlauben"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "In der kostenlosen Version koennen Sie nur 1 Beitragstyp auswaehlen."
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "Beitraege nach IDs vom Vorlesen ausschliessen"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "Mehr als 5 IDs ausschliessen ist eine Pro-Funktion"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "Mehrere IDs werden durch Komma(,) getrennt."
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "Das Ausschliessen von mehr als 5 IDs ist eine Pro-Funktion. Mehrere IDs werden durch Komma(,) getrennt."
+      ],
+      "Exclude Categories To Speak": [
+        "Kategorien vom Vorlesen ausschliessen"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "Mehr als 1 Kategorie ausschliessen ist eine Pro-Funktion"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "In der kostenlosen Version koennen Sie nur 1 Kategorie auswaehlen."
+      ],
+      "Exclude Tags To Speak": [
+        "Tags vom Vorlesen ausschliessen"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "Mehr als 1 Tag ausschliessen ist eine Pro-Funktion"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "In der kostenlosen Version koennen Sie nur 1 Tag auswaehlen."
+      ],
+      "Enable Button Icon": [
+        "Button-Symbol aktivieren"
+      ],
+      "Show per-post player toggle in toolbar": [
+        "Player-Schalter pro Beitrag in der Werkzeugleiste anzeigen"
+      ],
+      "Adds a “Toggle AtlasVoice audio player for this post” control to the WordPress admin bar on front-end pages.": [
+        "Fügt der WordPress-Adminleiste auf Frontend-Seiten das Element „AtlasVoice-Audioplayer für diesen Beitrag ein-/ausschalten“ hinzu."
+      ],
+      "Show dashboard widget": [
+        "Dashboard-Widget anzeigen"
+      ],
+      "Display the AtlasVoice Quick Stats widget on the WordPress admin dashboard.": [
+        "Zeigt das AtlasVoice-Widget „Kurzstatistik“ im WordPress-Dashboard an."
+      ],
+      "Clear all cache": [
+        "Gesamten Cache leeren"
+      ],
+      "Delete all data on uninstall": [
+        "Alle Daten bei Deinstallation loeschen"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "Wenn aktiviert, werden alle Plugin-Daten (Einstellungen, Analysen, generierte Audiodateien) beim Deinstallieren des Plugins dauerhaft geloescht. Lassen Sie dies AUS, wenn Sie eine Neuinstallation planen oder Fehler beheben."
+      ],
+      "⚠️ WARNING: Enabling this will permanently delete ALL plugin data (settings, analytics, generated audio files) when you uninstall the plugin. This action cannot be undone.\n\nAre you sure you want to enable this?": [
+        "⚠️ WARNUNG: Wenn du das aktivierst, werden beim Deinstallieren des Plugins ALLE Plugin-Daten (Einstellungen, Auswertungen, erzeugte Audiodateien) endgültig gelöscht. Das lässt sich nicht rückgängig machen.\n\nMöchtest du das wirklich aktivieren?"
+      ],
+      "⚠ Warning:": [
+        "⚠ Warnung:"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "Alle Plugin-Daten werden beim Deinstallieren dauerhaft geloescht. Schalten Sie dies AUS, wenn Sie eine Neuinstallation planen, Fehler beheben oder die Version wechseln moechten."
+      ],
+      "Danger zone — reset all plugin data": [
+        "Gefahrenbereich — alle Plugin-Daten zurücksetzen"
+      ],
+      "Permanently deletes every AtlasVoice option, transient, post-meta entry, cron event, and the analytics database table. The plugin stays active and boots as a fresh install on the next page load. This action cannot be undone.": [
+        "Löscht endgültig jede AtlasVoice-Option, jedes Transient, jeden Beitrags-Metaeintrag, jeden Cron-Auftrag sowie die Auswertungstabelle der Datenbank. Das Plugin bleibt aktiv und startet beim nächsten Seitenaufruf wie eine Neuinstallation. Das lässt sich nicht rückgängig machen."
+      ],
+      "Type": [
+        "Gib"
+      ],
+      "to confirm:": [
+        "zum Bestätigen ein:"
+      ],
+      "All plugin data has been reset. Reloading…": [
+        "Alle Plugin-Daten wurden zurückgesetzt. Wird neu geladen…"
+      ],
+      "Reset failed.": [
+        "Das Zurücksetzen ist fehlgeschlagen."
+      ],
+      "Resetting…": [
+        "Wird zurückgesetzt…"
+      ],
+      "Reset all plugin data": [
+        "Alle Plugin-Daten zurücksetzen"
+      ],
+      "Save All": [
+        "Alles speichern"
+      ]
+    }
+  }
+}

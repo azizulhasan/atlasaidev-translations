@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-10T17:18:39+01:00",
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/atlas-plugins.js",
   "domain": "messages",
@@ -9,6 +9,78 @@
         "domain": "messages",
         "plural": "nplurals=1; plural=0;"
       },
+      "Network error. Please try again.": [
+        "Errore di rete. Riprova."
+      ],
+      "Go Pro": [
+        "Passa a Pro"
+      ],
+      "New": [
+        "Novità"
+      ],
+      "You're here": [
+        "Sei qui"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Recommended": [
+        "Consigliato"
+      ],
+      "active installs": [
+        "installazioni attive"
+      ],
+      "Features": [
+        "Funzionalità"
+      ],
+      "Active": [
+        "Attivo"
+      ],
+      "Activate": [
+        "Attiva"
+      ],
+      "Configure": [
+        "Configura"
+      ],
+      "Install Now": [
+        "Installa Ora"
+      ],
+      "Installing...": [
+        "Installazione in corso..."
+      ],
+      "Installation failed. Please try again.": [
+        "Installazione fallita. Riprova."
+      ],
+      "Learn More": [
+        "Scopri di Più"
+      ],
+      "Start Trial": [
+        "Inizia la prova"
+      ],
+      "Updated successfully!": [
+        "Aggiornato correttamente!"
+      ],
+      "No updates found.": [
+        "Nessun aggiornamento trovato."
+      ],
+      "Failed to parse response.": [
+        "Impossibile leggere la risposta."
+      ],
+      "Request failed. Please try again.": [
+        "Richiesta non riuscita. Riprova."
+      ],
+      "You're using": [
+        "Stai usando"
+      ],
+      "Complete your AI toolkit with these complementary plugins by AtlasAiDev.": [
+        "Completa il tuo set di strumenti AI con questi plugin complementari di AtlasAiDev."
+      ],
+      "Discover and install plugins by AtlasAiDev to enhance your WordPress site.": [
+        "Scopri e installa i plugin di AtlasAiDev per migliorare il tuo sito WordPress."
+      ],
+      "Check for Updates": [
+        "Verifica la presenza di aggiornamenti"
+      ],
       "The most user-friendly Text-to-Speech accessibility plugin for WordPress. Automatically adds an audio player with no API required.": [
         "Il plugin di accessibilità Text-to-Speech più facile da usare per WordPress. Aggiunge automaticamente un lettore audio senza bisogno di API."
       ],
@@ -83,33 +155,6 @@
       ],
       "Post editor AI integration": [
         "Integrazione IA nell'editor articoli"
-      ],
-      "Active": [
-        "Attivo"
-      ],
-      "Activate": [
-        "Attiva"
-      ],
-      "Learn More": [
-        "Scopri di Più"
-      ],
-      "Features": [
-        "Funzionalità"
-      ],
-      "Install Now": [
-        "Installa Ora"
-      ],
-      "Installing...": [
-        "Installazione in corso..."
-      ],
-      "Installation failed. Please try again.": [
-        "Installazione fallita. Riprova."
-      ],
-      "AtlasAiDev Plugins": [
-        "Plugin AtlasAiDev"
-      ],
-      "Discover and install plugins by AtlasAiDev to enhance your WordPress site.": [
-        "Scopri e installa i plugin di AtlasAiDev per migliorare il tuo sito WordPress."
       ]
     }
   }

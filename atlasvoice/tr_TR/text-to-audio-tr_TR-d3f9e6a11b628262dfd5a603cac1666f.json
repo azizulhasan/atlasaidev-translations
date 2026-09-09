@@ -1,0 +1,512 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-analytics.47d54d2778284f4f.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Last 7 Days": [
+        "Son 7 Gün"
+      ],
+      "Upgrade to Pro": [
+        "Pro'ya Geç"
+      ],
+      "Save": [
+        "Kaydet"
+      ],
+      "Pause": [
+        "Duraklat"
+      ],
+      "Successfully Saved.": [
+        "Kaydedildi."
+      ],
+      "Buy Pro version": [
+        "Pro sürümü satın al"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Loading...": [
+        "Yükleniyor..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "AtlasVoice Pro'yu iş başında görün"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "200'den fazla yapay zekâ sesini, MP3 oynatıcılarını ve toplu üretimi canlı bir sayfada dinleyin — kurulum gerekmez."
+      ],
+      "Watch the live demo": [
+        "Canlı demoyu izleyin"
+      ],
+      "Try the live demo": [
+        "Canlı demoyu deneyin"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Ücretsiz sürümde düğmenin birden çok yazıda gösterilmesi desteklenmiyor."
+      ],
+      "Select Items...": [
+        "Ögeleri seçin..."
+      ],
+      "Pro feature. Upgrade to unlock.": [
+        "Pro özelliği. Açmak için Pro'ya geçin."
+      ],
+      "Pro Feature": [
+        "Pro Özelliği"
+      ],
+      "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
+        "Bu özelliği açmak ve gelişmiş analizlere erişmek için Pro'ya geçin."
+      ],
+      "Total Posts": [
+        "Toplam Yazı"
+      ],
+      "Total posts with TTS player": [
+        "TTS oynatıcısı olan yazılar"
+      ],
+      "Init": [
+        "Başlatma"
+      ],
+      "Player initialization count": [
+        "Oynatıcı başlatma sayısı"
+      ],
+      "Play": [
+        "Oynatma"
+      ],
+      "Total play button clicks": [
+        "Toplam oynat düğmesi tıklaması"
+      ],
+      "Time (Min)": [
+        "Süre (dk)"
+      ],
+      "Total listening time": [
+        "Toplam dinleme süresi"
+      ],
+      "Total pause actions": [
+        "Toplam duraklatma işlemi"
+      ],
+      "Download": [
+        "İndirme"
+      ],
+      "Total MP3 downloads": [
+        "Toplam MP3 indirmesi"
+      ],
+      "End": [
+        "Tamamlama"
+      ],
+      "Total completions": [
+        "Toplam tamamlanma"
+      ],
+      "Bounce Rate": [
+        "Hemen Çıkma Oranı"
+      ],
+      "Users who didn't complete the audio": [
+        "Sesi tamamlamayan kullanıcılar"
+      ],
+      "TTS Player Analytics Summary": [
+        "TTS Oynatıcı Analiz Özeti"
+      ],
+      "Total Interactions:": [
+        "Toplam Etkileşim:"
+      ],
+      "Last 30 Days": [
+        "Son 30 Gün"
+      ],
+      "Last 90 Days": [
+        "Son 90 Gün"
+      ],
+      "25%": [
+        "%25"
+      ],
+      "50%": [
+        "%50"
+      ],
+      "75%": [
+        "%75"
+      ],
+      "Engagement Funnel": [
+        "Etkileşim Hunisi"
+      ],
+      "Play Rate:": [
+        "Oynatma Oranı:"
+      ],
+      "Completion Rate:": [
+        "Tamamlanma Oranı:"
+      ],
+      "Biggest Drop:": [
+        "En Büyük Düşüş:"
+      ],
+      "50% → 75%": [
+        "%50 → %75"
+      ],
+      "New Listeners": [
+        "Yeni Dinleyiciler"
+      ],
+      "Returning": [
+        "Geri Dönenler"
+      ],
+      "Listener Segments": [
+        "Dinleyici Segmentleri"
+      ],
+      "New:": [
+        "Yeni:"
+      ],
+      "Returning:": [
+        "Geri dönen:"
+      ],
+      "New Listeners:": [
+        "Yeni Dinleyiciler:"
+      ],
+      "Avg Sessions/User:": [
+        "Kullanıcı Başına Ort. Oturum:"
+      ],
+      "Yesterday": [
+        "Dün"
+      ],
+      "OS": [
+        "İşletim Sistemi"
+      ],
+      "OS Breakdown": [
+        "İşletim Sistemi Dağılımı"
+      ],
+      "Device Types": [
+        "Cihaz Türleri"
+      ],
+      "Browser": [
+        "Tarayıcı"
+      ],
+      "Location": [
+        "Konum"
+      ],
+      "Top Countries": [
+        "En Çok Dinlenen Ülkeler"
+      ],
+      "Top Cities": [
+        "En Çok Dinlenen Şehirler"
+      ],
+      "Custom Range": [
+        "Özel Aralık"
+      ],
+      "Playing Quantity": [
+        "Oynatma Sayısı"
+      ],
+      "Playing Time (min)": [
+        "Oynatma Süresi (dk)"
+      ],
+      "Previous Period": [
+        "Önceki Dönem"
+      ],
+      "Playing Trend Analysis": [
+        "Oynatma Eğilimi Analizi"
+      ],
+      "Compare with Previous Period": [
+        "Önceki Dönemle Karşılaştır"
+      ],
+      "Quantity vs Date": [
+        "Tarihe Göre Sayı"
+      ],
+      "Playing Time(min)": [
+        "Oynatma Süresi (dk)"
+      ],
+      "Mon": [
+        "Pzt"
+      ],
+      "Tue": [
+        "Sal"
+      ],
+      "Wed": [
+        "Çar"
+      ],
+      "Thu": [
+        "Per"
+      ],
+      "Fri": [
+        "Cum"
+      ],
+      "Sat": [
+        "Cmt"
+      ],
+      "Sun": [
+        "Paz"
+      ],
+      "Peak Listening Hours": [
+        "En Yoğun Dinleme Saatleri"
+      ],
+      "Low": [
+        "Düşük"
+      ],
+      "Peak": [
+        "Zirve"
+      ],
+      "Insight:": [
+        "Değerlendirme:"
+      ],
+      "Your peak listening time is": [
+        "En yoğun dinleme saatiniz"
+      ],
+      "Peak Hours Heatmap": [
+        "Yoğun Saatler Isı Haritası"
+      ],
+      "Date Range is only available in Pro version": [
+        "Tarih Aralığı yalnızca Pro sürümde kullanılabilir"
+      ],
+      "Buy Now": [
+        "Şimdi Satın Al"
+      ],
+      "Please enable analytics first.": [
+        "Lütfen önce analizleri etkinleştirin."
+      ],
+      "Track Post IDs": [
+        "İzlenecek Yazı Kimlikleri"
+      ],
+      "You've reached the selection limit.": [
+        "Seçim sınırına ulaştınız."
+      ],
+      "Post ID": [
+        "Yazı Kimliği"
+      ],
+      "Custom Date Range": [
+        "Özel Tarih Aralığı"
+      ],
+      "Please provide a Post ID or date range.": [
+        "Lütfen bir yazı kimliği veya tarih aralığı girin."
+      ],
+      "Search": [
+        "Ara"
+      ],
+      "Clear": [
+        "Temizle"
+      ],
+      "Showing results for:": [
+        "Şunun için sonuçlar:"
+      ],
+      "Post ID:": [
+        "Yazı Kimliği:"
+      ],
+      "From:": [
+        "Başlangıç:"
+      ],
+      "To:": [
+        "Bitiş:"
+      ],
+      "Metric": [
+        "Ölçüt"
+      ],
+      "Value": [
+        "Değer"
+      ],
+      "Unlock custom date-range search with Pro": [
+        "Pro ile özel tarih aralığı aramasını açın"
+      ],
+      "Popular Post": [
+        "Popüler Yazı"
+      ],
+      "Rank": [
+        "Sıra"
+      ],
+      "Post Title": [
+        "Yazı Başlığı"
+      ],
+      "Total Interactions": [
+        "Toplam Etkileşim"
+      ],
+      "No data available yet. Start tracking posts to see analytics.": [
+        "Henüz veri yok. Analizleri görmek için yazıları izlemeye başlayın."
+      ],
+      "View All Posts": [
+        "Tüm Yazıları Görüntüle"
+      ],
+      "CSV export initiated. Check your downloads.": [
+        "CSV dışa aktarma başlatıldı. İndirilenler klasörünü kontrol edin."
+      ],
+      "Export failed. Please try again.": [
+        "Dışa aktarma başarısız oldu. Lütfen tekrar deneyin."
+      ],
+      "PDF export initiated. Check your downloads.": [
+        "PDF dışa aktarma başlatıldı. İndirilenler klasörünü kontrol edin."
+      ],
+      "Please enter at least one recipient email address.": [
+        "Lütfen en az bir alıcı e-posta adresi girin."
+      ],
+      "Report schedule saved successfully.": [
+        "Rapor zamanlaması kaydedildi."
+      ],
+      "Failed to save schedule settings.": [
+        "Zamanlama ayarları kaydedilemedi."
+      ],
+      "Please enter recipient email addresses first.": [
+        "Lütfen önce alıcı e-posta adreslerini girin."
+      ],
+      "Test report sent successfully! Check your inbox.": [
+        "Test raporu gönderildi! Gelen kutunuzu kontrol edin."
+      ],
+      "Failed to send test report.": [
+        "Test raporu gönderilemedi."
+      ],
+      "Failed to send test report. Please check your network connection.": [
+        "Test raporu gönderilemedi. Lütfen ağ bağlantınızı kontrol edin."
+      ],
+      "CSV": [
+        "CSV"
+      ],
+      "PDF": [
+        "PDF"
+      ],
+      "Schedule Report": [
+        "Raporu Zamanla"
+      ],
+      "Schedule Email Reports": [
+        "E-posta Raporlarını Zamanla"
+      ],
+      "Enable automated reports": [
+        "Otomatik raporları etkinleştir"
+      ],
+      "Recipients (comma separated)": [
+        "Alıcılar (virgülle ayrılmış)"
+      ],
+      "Frequency": [
+        "Sıklık"
+      ],
+      "Daily": [
+        "Günlük"
+      ],
+      "Weekly": [
+        "Haftalık"
+      ],
+      "Monthly": [
+        "Aylık"
+      ],
+      "Day": [
+        "Gün"
+      ],
+      "Monday": [
+        "Pazartesi"
+      ],
+      "Tuesday": [
+        "Salı"
+      ],
+      "Wednesday": [
+        "Çarşamba"
+      ],
+      "Thursday": [
+        "Perşembe"
+      ],
+      "Friday": [
+        "Cuma"
+      ],
+      "Saturday": [
+        "Cumartesi"
+      ],
+      "Sunday": [
+        "Pazar"
+      ],
+      "Time": [
+        "Saat"
+      ],
+      "Include in report:": [
+        "Rapora dahil et:"
+      ],
+      "Summary statistics": [
+        "Özet istatistikler"
+      ],
+      "Top 10 posts": [
+        "En iyi 10 yazı"
+      ],
+      "Geographic breakdown": [
+        "Coğrafi dağılım"
+      ],
+      "Trend chart": [
+        "Eğilim grafiği"
+      ],
+      "Device stats": [
+        "Cihaz istatistikleri"
+      ],
+      "Next scheduled report:": [
+        "Sonraki zamanlanmış rapor:"
+      ],
+      "Sending...": [
+        "Gönderiliyor..."
+      ],
+      "Send Test Report": [
+        "Test Raporu Gönder"
+      ],
+      "Saving...": [
+        "Kaydediliyor..."
+      ],
+      "Save Settings": [
+        "Ayarları Kaydet"
+      ],
+      "Export & Reports": [
+        "Dışa Aktarma ve Raporlar"
+      ],
+      "Last 14 Days": [
+        "Son 14 Gün"
+      ],
+      "All Time": [
+        "Tüm Zamanlar"
+      ],
+      "Getting more than 30 days data is pro feature. Please ": [
+        "30 günden fazla veri almak bir pro özelliğidir. Lütfen "
+      ],
+      "Quick Select": [
+        "Hızlı Seçim"
+      ],
+      "From": [
+        "Başlangıç"
+      ],
+      "To": [
+        "Bitiş"
+      ],
+      "Custom date select is only available in pro version. Please ": [
+        "Özel tarih seçimi yalnızca pro sürümde kullanılabilir. Lütfen "
+      ],
+      "Apply": [
+        "Uygula"
+      ],
+      "CSV exported successfully!": [
+        "CSV başarıyla dışa aktarıldı!"
+      ],
+      "Error exporting CSV": [
+        "CSV dışa aktarılırken hata oluştu"
+      ],
+      "PDF report opened. Use 'Save as PDF' in the print dialog.": [
+        "PDF raporu açıldı. Yazdırma penceresinde 'PDF olarak kaydet' seçeneğini kullanın."
+      ],
+      "Report downloaded as HTML. Open in browser and print to save as PDF.": [
+        "Rapor HTML olarak indirildi. Tarayıcıda açıp yazdırarak PDF olarak kaydedebilirsiniz."
+      ],
+      "Failed to generate PDF report.": [
+        "PDF raporu oluşturulamadı."
+      ],
+      "Error exporting PDF": [
+        "PDF dışa aktarılırken hata oluştu"
+      ],
+      "Analytics": [
+        "Analizler"
+      ],
+      "Track and analyze your TTS player engagement to understand listener behavior.": [
+        "Dinleyici davranışını anlamak için TTS oynatıcınızdaki etkileşimi izleyin ve çözümleyin."
+      ],
+      "Show listener location in analytics": [
+        "Analizlerde dinleyici konumunu göster"
+      ],
+      "Off by default. When on, listener IP addresses are sent to ip-api.com, ipinfo.io and icanhazip.com to resolve city / country for the Location chart. See \"External services\" in the plugin readme.": [
+        "Varsayılan olarak kapalı. Açık olduğunda, Konum grafiği için şehir ve ülke bilgisini çözümlemek üzere dinleyici IP adresleri ip-api.com, ipinfo.io ve icanhazip.com adreslerine gönderilir. Eklenti benioku dosyasındaki \"Dış hizmetler\" bölümüne bakın."
+      ],
+      "Export & Schedule Reports": [
+        "Raporları Dışa Aktarma ve Zamanlama"
+      ],
+      "Export CSV/PDF reports and schedule automated email digests.": [
+        "CSV/PDF raporlarını dışa aktarın ve otomatik e-posta özetleri zamanlayın."
+      ],
+      "Analytics is Currently Disabled": [
+        "Analizler Şu Anda Devre Dışı"
+      ],
+      "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
+        "TTS oynatıcı etkileşimlerini izlemeye başlamak ve ayrıntılı ölçütleri görmek için yukarıdaki anahtarla analizleri etkinleştirin."
+      ]
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-highlight.5d733dfd1bbfeb49.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Click To Know How It Works?": [
+        "Clicca per sapere come funziona?"
+      ],
+      "Loading...": [
+        "Caricamento..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "Guarda AtlasVoice Pro in azione"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Ascolta oltre 200 voci AI, lettori MP3 e la generazione in blocco su una pagina reale — senza installare nulla."
+      ],
+      "Watch the live demo": [
+        "Guarda la demo dal vivo"
+      ],
+      "Try the live demo": [
+        "Prova la demo dal vivo"
+      ],
+      "Read-Along Highlight": [
+        "Evidenziazione durante la lettura"
+      ],
+      "Highlight the word and/or sentence being spoken while the post is read aloud.": [
+        "Evidenzia la parola e/o la frase pronunciata mentre l'articolo viene letto ad alta voce."
+      ],
+      "speechSynthesis limitation:": [
+        "Limite di speechSynthesis:"
+      ],
+      "Word-level highlighting relies on the browser's speechSynthesis “boundary” events, which only fire for local (offline) device voices. Remote voices (e.g. the “Google …” voices) and some browsers (notably Firefox) fire no word boundaries, so word highlighting can't track them. When that happens the player automatically falls back to sentence highlighting. Sentence highlighting works with every voice and browser — it's the recommended default.": [
+        "L'evidenziazione a livello di parola si basa sugli eventi “boundary” di speechSynthesis del browser, che si attivano solo con le voci locali (offline) del dispositivo. Le voci remote (per esempio le voci “Google …”) e alcuni browser (in particolare Firefox) non generano confini di parola, quindi l'evidenziazione per parola non può seguirli. In quel caso il lettore passa automaticamente all'evidenziazione per frase. L'evidenziazione per frase funziona con qualsiasi voce e browser — è l'impostazione consigliata."
+      ],
+      "Precise word timing:": [
+        "Tempi precisi delle parole:"
+      ],
+      "This player generates audio with real per-word timing, so word-by-word highlighting is accurate and works in every browser — no local-voice requirement and no fallback.": [
+        "Questo lettore genera l'audio con i tempi reali di ogni parola, quindi l'evidenziazione parola per parola è accurata e funziona in tutti i browser — senza bisogno di voci locali e senza ripieghi."
+      ],
+      "Already-generated audio:": [
+        "Audio già generato:"
+      ],
+      "Word timing is captured while the audio is being generated, so posts whose MP3 was created before highlighting was enabled have no timing data — they will use sentence highlighting until their audio is regenerated. To upgrade them, regenerate the audio with the Bulk MP3 tool (or regenerate an individual post). Note: regeneration sends the post content to your TTS provider (Google Cloud / ElevenLabs) again, so it consumes provider characters/credits just like the first generation — word timing can only be produced by the provider during synthesis, which is why it isn't added to existing files automatically.": [
+        "I tempi delle parole vengono registrati durante la generazione dell'audio, quindi gli articoli il cui MP3 è stato creato prima di attivare l'evidenziazione non hanno dati di temporizzazione — useranno l'evidenziazione per frase finché l'audio non viene rigenerato. Per aggiornarli, rigenera l'audio con lo strumento MP3 in blocco (o rigenera il singolo articolo). Nota: la rigenerazione invia di nuovo il contenuto dell'articolo al tuo provider TTS (Google Cloud / ElevenLabs), quindi consuma caratteri/crediti del provider come la prima generazione — i tempi delle parole possono essere prodotti solo dal provider durante la sintesi, ed è per questo che non vengono aggiunti automaticamente ai file esistenti."
+      ],
+      "Successfully Saved...": [
+        "Salvato correttamente..."
+      ],
+      "Enable highlighting": [
+        "Attiva l'evidenziazione"
+      ],
+      "Turn read-along highlighting on or off for the browser players.": [
+        "Attiva o disattiva l'evidenziazione durante la lettura per i lettori del browser."
+      ],
+      "Highlight mode": [
+        "Modalità di evidenziazione"
+      ],
+      "“Sentence only” works with any voice. “Word” and “Word + Sentence” need a local voice that fires boundary events, and fall back to sentence highlighting otherwise.": [
+        "“Solo frase” funziona con qualsiasi voce. “Parola” e “Parola + frase” richiedono una voce locale che generi eventi boundary, altrimenti si ripiega sull'evidenziazione per frase."
+      ],
+      "Sentence only (recommended)": [
+        "Solo frase (consigliato)"
+      ],
+      "Word only": [
+        "Solo parola"
+      ],
+      "Word + Sentence": [
+        "Parola + frase"
+      ],
+      "The current player uses generated audio, so read-along highlighting is sentence-level. Word-level options don't apply here.": [
+        "Il lettore attuale usa audio generato, quindi l'evidenziazione durante la lettura è a livello di frase. Le opzioni per parola non si applicano qui."
+      ],
+      "Word highlight color": [
+        "Colore di evidenziazione della parola"
+      ],
+      "Background color painted behind the word currently being spoken.": [
+        "Colore di sfondo dietro la parola pronunciata in quel momento."
+      ],
+      "Word text color": [
+        "Colore del testo della parola"
+      ],
+      "Text color of the spoken word, for contrast against the highlight color.": [
+        "Colore del testo della parola pronunciata, per contrasto con il colore di evidenziazione."
+      ],
+      "Sentence highlight color": [
+        "Colore di evidenziazione della frase"
+      ],
+      "Softer background painted behind the whole sentence being read.": [
+        "Sfondo più tenue dietro l'intera frase in lettura."
+      ],
+      "Dim the rest of the article": [
+        "Attenua il resto dell'articolo"
+      ],
+      "Fade the surrounding text while reading so the spoken word/sentence stands out.": [
+        "Sfuma il testo circostante durante la lettura per far risaltare la parola o la frase pronunciata."
+      ],
+      "Dimmed text opacity": [
+        "Opacità del testo attenuato"
+      ],
+      "How visible the dimmed (non-spoken) text stays. Lower = more dimmed.": [
+        "Quanto resta visibile il testo attenuato (non pronunciato). Più basso = più attenuato."
+      ],
+      "Listen to selected text": [
+        "Ascolta il testo selezionato"
+      ],
+      "Show a small “Listen” control when a reader selects text in the article, to read only the selection — or from the selected word to the end. On the browser players the selection is spoken directly; on MP3 players the audio jumps to the matching position (precise on Google Cloud/ElevenLabs with word timing, approximate otherwise).": [
+        "Mostra un piccolo comando “Ascolta” quando il lettore seleziona del testo nell'articolo, per leggere solo la selezione — oppure dalla parola selezionata fino alla fine. Sui lettori del browser la selezione viene pronunciata direttamente; sui lettori MP3 l'audio salta alla posizione corrispondente (precisa con Google Cloud/ElevenLabs grazie ai tempi delle parole, altrimenti approssimativa)."
+      ],
+      "Announce selection listening": [
+        "Segnala l'ascolto della selezione"
+      ],
+      "How readers learn the feature exists. The one-time tip appears under the player after their first play and never returns once dismissed. The floating side badge sits collapsed on the left edge and expands on hover; closing it hides it for the visitor's session.": [
+        "Come i lettori scoprono che la funzione esiste. Il suggerimento una tantum compare sotto il lettore dopo la prima riproduzione e non torna più una volta chiuso. Il badge laterale fluttuante resta chiuso sul bordo sinistro e si apre al passaggio del mouse; chiudendolo resta nascosto per la sessione del visitatore."
+      ],
+      "One-time tip after first play (recommended)": [
+        "Suggerimento una tantum dopo la prima riproduzione (consigliato)"
+      ],
+      "Floating side badge": [
+        "Badge laterale fluttuante"
+      ],
+      "Both": [
+        "Entrambi"
+      ],
+      "Off — discover by selecting": [
+        "Disattivato — si scopre selezionando"
+      ],
+      "Auto-scroll to follow": [
+        "Scorrimento automatico per seguire la lettura"
+      ],
+      "Smoothly scroll the page to keep the spoken word in view. Turn off if scrolling is distracting.": [
+        "Fa scorrere dolcemente la pagina per tenere in vista la parola pronunciata. Disattivalo se lo scorrimento ti distrae."
+      ],
+      "Saving…": [
+        "Salvataggio…"
+      ],
+      "Save Changes": [
+        "Salva le modifiche"
+      ],
+      "Help information about this setting": [
+        "Informazioni di aiuto su questa impostazione"
+      ],
+      "Read the full documentation": [
+        "Leggi la documentazione completa"
+      ]
+    }
+  }
+}

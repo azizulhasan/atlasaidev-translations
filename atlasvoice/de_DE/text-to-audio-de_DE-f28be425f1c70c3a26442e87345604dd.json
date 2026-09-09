@@ -1,0 +1,356 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:21+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-customize.f093072f9c101885.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Speichern"
+      ],
+      "Default": [
+        "Standard"
+      ],
+      "AtlasVoice Pro": [
+        "AtlasVoice Pro"
+      ],
+      "Click To Know How It Works?": [
+        "Klicken Sie, um zu erfahren, wie es funktioniert?"
+      ],
+      "Background Color": [
+        "Hintergrundfarbe"
+      ],
+      "Text Color": [
+        "Textfarbe"
+      ],
+      "Custom CSS": [
+        "Benutzerdefiniertes CSS"
+      ],
+      "Loading...": [
+        "Wird geladen..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "AtlasVoice Pro in Aktion erleben"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Höre über 200 KI-Stimmen, MP3-Player und die Massenerzeugung auf einer echten Seite — ganz ohne Installation."
+      ],
+      "Watch the live demo": [
+        "Live-Demo ansehen"
+      ],
+      "Try the live demo": [
+        "Live-Demo ausprobieren"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Die Anzeige des Buttons fuer mehrere Beitraege wird in der kostenlosen Version nicht unterstuetzt."
+      ],
+      "Select Items...": [
+        "Elemente auswaehlen..."
+      ],
+      "Buy Now": [
+        "Jetzt kaufen"
+      ],
+      "Before Content": [
+        "Vor dem Inhalt"
+      ],
+      "After Content": [
+        "Nach dem Inhalt"
+      ],
+      "Bottom Full Width": [
+        "Unten über die volle Breite"
+      ],
+      "Bottom Right": [
+        "Unten rechts"
+      ],
+      "Bottom Left": [
+        "Unten links"
+      ],
+      "Sticky Top": [
+        "Oben fixiert"
+      ],
+      "Select Player": [
+        "Player auswaehlen"
+      ],
+      "More players (AI voices, MP3) are available in": [
+        "Weitere Player (KI-Stimmen, MP3) gibt es in"
+      ],
+      "Hear the Pro players live": [
+        "Die Pro-Player live hören"
+      ],
+      "Select Button Position": [
+        "Button-Position auswaehlen"
+      ],
+      "Select where to display the player button": [
+        "Waehlen Sie, wo der Player-Button angezeigt werden soll"
+      ],
+      "Floating Position": [
+        "Schwebende Position"
+      ],
+      "Where the player docks once the reader scrolls past it. Turn docking off entirely with \"When Scroll Down Stop Floating Player\" in Settings.": [
+        "Wo der Player andockt, sobald der Leser daran vorbeiscrollt. Das Andocken lässt sich mit „Schwebenden Player beim Scrollen stoppen“ in den Einstellungen ganz abschalten."
+      ],
+      "Display Player To": [
+        "Player anzeigen fuer"
+      ],
+      "Choose who can see the player": [
+        "Waehlen Sie, wer den Player sehen kann"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "Die Einschraenkung der Player-Anzeige fuer mehrere Benutzertypen ist in der Pro-Version verfuegbar"
+      ],
+      "Who Can Download MP3 File": [
+        "Wer kann MP3-Dateien herunterladen"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "MP3-Erstellung ab Veroeffentlichungsdatum des Beitrags"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Beginnen Sie mit der MP3-Erstellung ab einem bestimmten Veroeffentlichungsdatum des Beitrags. Waehlen Sie dies nur, wenn Sie MP3-Dateien basierend auf einem Datumsbereich erstellen moechten."
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "MP3-Datei erstellen ab Datum"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "MP3-Erstellung bis zum Veroeffentlichungsdatum des Beitrags"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "MP3-Dateien bis zu einem bestimmten Veroeffentlichungsdatum des Beitrags erstellen. Waehlen Sie dies nur, wenn Sie MP3-Dateien basierend auf einem Datumsbereich erstellen moechten."
+      ],
+      "Generate MP3 File Date To": [
+        "MP3-Datei erstellen bis Datum"
+      ],
+      "Player Customization": [
+        "Player-Anpassung"
+      ],
+      "Choose icon": [
+        "Symbol wählen"
+      ],
+      "Presets": [
+        "Voreinstellungen"
+      ],
+      "Custom SVG": [
+        "Eigenes SVG"
+      ],
+      "<svg ...>...</svg>": [
+        "<svg ...>...</svg>"
+      ],
+      "Use this SVG": [
+        "Dieses SVG verwenden"
+      ],
+      "Allowed: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Server sanitizes on save.": [
+        "Erlaubt: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Der Server bereinigt sie beim Speichern."
+      ],
+      "Listen — initial state": [
+        "Anhören — Ausgangszustand"
+      ],
+      "Pause — while speaking": [
+        "Pause — während des Vorlesens"
+      ],
+      "Resume — after user paused": [
+        "Fortsetzen — nachdem der Nutzer pausiert hat"
+      ],
+      "Replay — after speech finished": [
+        "Erneut anhören — nach dem Ende der Wiedergabe"
+      ],
+      "Reset to default": [
+        "Auf Standard zurücksetzen"
+      ],
+      "Empty = use factory default": [
+        "Leer = Werkseinstellung verwenden"
+      ],
+      "Hide tooltip": [
+        "Tooltip ausblenden"
+      ],
+      "Show tooltip (advanced)": [
+        "Tooltip anzeigen (erweitert)"
+      ],
+      "Hover tooltip": [
+        "Tooltip beim Überfahren"
+      ],
+      "Default Pro": [
+        "Standard Pro"
+      ],
+      "Button Texts & Icons — ": [
+        "Beschriftungen und Symbole des Buttons — "
+      ],
+      "Reset all to defaults": [
+        "Alles auf Standard zurücksetzen"
+      ],
+      "These labels and icons are shown on the front-end button as it cycles through states. Saved values for the inactive player are preserved if you switch players.": [
+        "Diese Beschriftungen und Symbole erscheinen auf dem Button im Frontend, während er die Zustände durchläuft. Gespeicherte Werte des inaktiven Players bleiben erhalten, wenn du den Player wechselst."
+      ],
+      "Choose player background color": [
+        "Player-Hintergrundfarbe waehlen"
+      ],
+      "Choose your color": [
+        "Waehlen Sie Ihre Farbe"
+      ],
+      "Hover BG Color": [
+        "Hover-Hintergrundfarbe"
+      ],
+      "Choose your hover background color": [
+        "Waehlen Sie Ihre Hover-Hintergrundfarbe"
+      ],
+      "Hover Text Color": [
+        "Hover-Textfarbe"
+      ],
+      "Choose your hover text color": [
+        "Waehlen Sie Ihre Hover-Textfarbe"
+      ],
+      "Margin Size (Px)": [
+        "Randgroesse (Px)"
+      ],
+      "Top": [
+        "Oben"
+      ],
+      "Margin Top": [
+        "Rand oben"
+      ],
+      "Bottom": [
+        "Unten"
+      ],
+      "Margin Bottom": [
+        "Rand unten"
+      ],
+      "Left": [
+        "Links"
+      ],
+      "Margin Left": [
+        "Rand links"
+      ],
+      "Right": [
+        "Rechts"
+      ],
+      "Margin Right": [
+        "Rand rechts"
+      ],
+      "Button Style": [
+        "Button-Stil"
+      ],
+      "Height": [
+        "Hoehe"
+      ],
+      "Button Height": [
+        "Button-Hoehe"
+      ],
+      "Border": [
+        "Rahmen"
+      ],
+      "Button Border": [
+        "Button-Rahmen"
+      ],
+      "Border Color": [
+        "Rahmenfarbe"
+      ],
+      "Font Size": [
+        "Schriftgroesse"
+      ],
+      "Radius": [
+        "Radius"
+      ],
+      "Border Radius": [
+        "Rahmenradius"
+      ],
+      "Button Properties": [
+        "Button-Eigenschaften"
+      ],
+      "Width": [
+        "Breite"
+      ],
+      "Button Width": [
+        "Button-Breite"
+      ],
+      "Add custom styling for your player using the WordPress Customizer's Additional CSS editor.": [
+        "Gestalte deinen Player individuell über den Editor „Zusätzliches CSS“ im WordPress-Customizer."
+      ],
+      "Open Appearance → Customize → Additional CSS": [
+        "Design → Customizer → Zusätzliches CSS öffnen"
+      ],
+      "Default player preview": [
+        "Vorschau des Standard-Players"
+      ],
+      "This is a preview of the player.": [
+        "Das ist eine Vorschau des Players."
+      ],
+      "Player settings": [
+        "Player-Einstellungen"
+      ],
+      "Value should be between 0-100": [
+        "Wert sollte zwischen 0-100 liegen"
+      ],
+      "Customization": [
+        "Anpassung"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "Passen Sie den Player und das Design an Ihre Marke und Vorlieben an."
+      ],
+      "Preview on Your Site": [
+        "Vorschau auf Ihrer Website"
+      ],
+      "Please fill the  field : ": [
+        "Bitte fuellen Sie das Feld aus: "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "Um diesen Player auszuwaehlen, muessen Sie sich zuerst ueber das Integrationsmenueauthentifizieren"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "Google Cloud TTS-Player ist nur in der Pro-Version verfuegbar."
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "Um diesen Player auszuwaehlen, muessen Sie sich zuerst ueber das Integrationsmenue authentifizieren"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "ChatGPT TTS-Player ist nur in der Pro-Version verfuegbar."
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "ElevenLabs TTS-Player ist nur in der Pro-Version verfuegbar."
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "Standard-Pro-Player ist nur in der Pro-Version verfuegbar."
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "AtlasVoice speichert synthetisierte Inhalte im Uploads-Ordner. Ihr Uploads-Ordner ist nicht beschreibbar. Bitte machen Sie den Uploads-Ordner beschreibbar, um alle Funktionen des Plugins nutzen zu koennen."
+      ],
+      "Customization saved.": [
+        "Anpassung gespeichert."
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "Gehen Sie jetzt zum Menue \"Wiedergabe\", um die richtige Sprache und Stimme auszuwaehlen."
+      ],
+      "Write here something and click listen button": [
+        "Schreiben Sie hier etwas und klicken Sie auf die Anhoeren-Schaltflaeche"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " Geben Sie hier Ihren Text ein und klicken Sie auf die Anhoeren-Schaltflaeche, um ihn laut vorgelesen zu hoeren."
+      ],
+      "Watch Tutorial": [
+        "Tutorial ansehen"
+      ],
+      "Write here something and click listen button.": [
+        "Schreiben Sie hier etwas und klicken Sie auf die Anhoeren-Schaltflaeche."
+      ],
+      "Design Customization": [
+        "Design-Anpassung"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "Shortcode | Attributwerte muessen in doppelte Anfuehrungszeichen ( \" ) eingeschlossen werden"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "Shortcode kopiert"
+      ],
+      "Copy Shortcode": [
+        "Shortcode kopieren"
+      ]
+    }
+  }
+}

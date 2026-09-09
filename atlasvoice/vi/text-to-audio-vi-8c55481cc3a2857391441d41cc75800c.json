@@ -1,0 +1,161 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-maintenance.d2fe32095cac3d8f.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Cancel": [
+        "Hủy"
+      ],
+      "Scan failed.": [
+        "Quét thất bại."
+      ],
+      "Scan failed: ": [
+        "Quét thất bại: "
+      ],
+      "No files selected.": [
+        "Chưa chọn tệp nào."
+      ],
+      "Deleted": [
+        "Đã xóa"
+      ],
+      "Freed": [
+        "Đã giải phóng"
+      ],
+      "Deletion failed.": [
+        "Xóa thất bại."
+      ],
+      "Deletion failed: ": [
+        "Xóa thất bại: "
+      ],
+      "Maintenance": [
+        "Bảo trì"
+      ],
+      "⚠ Destructive action.": [
+        "⚠ Thao tác không thể hoàn tác."
+      ],
+      "This tool permanently deletes leftover per-batch MP3 chunks (files like title-1.mp3, title-2.mp3) from uploads/TTA_Pro/. Only files that meet all of the following are listed:": [
+        "Công cụ này xóa vĩnh viễn các mảnh MP3 còn sót lại theo từng lô (các tệp dạng tieu-de-1.mp3, tieu-de-2.mp3) khỏi uploads/TTA_Pro/. Chỉ những tệp đáp ứng tất cả điều kiện sau mới được liệt kê:"
+      ],
+      "Filename ends with -N.mp3 where N is a number": [
+        "Tên tệp kết thúc bằng -N.mp3, trong đó N là một số"
+      ],
+      "The final concatenated file (title.mp3) already exists in the same folder": [
+        "Tệp ghép hoàn chỉnh (tieu-de.mp3) đã tồn tại trong cùng thư mục"
+      ],
+      "The file is older than 1 hour (so an in-flight batch is never affected)": [
+        "Tệp cũ hơn 1 giờ (nhờ đó lô đang chạy không bao giờ bị ảnh hưởng)"
+      ],
+      "The file sits under wp-uploads/TTA_Pro/ (path traversal is rejected)": [
+        "Tệp nằm trong wp-uploads/TTA_Pro/ (mọi truy cập vượt thư mục đều bị từ chối)"
+      ],
+      "⚠ Reduced safety margin.": [
+        "⚠ Biên độ an toàn bị thu hẹp."
+      ],
+      "You have lowered the age threshold below the 1-hour safe default. Files created by an in-flight batch could match. Only use this if no generation is currently running.": [
+        "Bạn đã hạ ngưỡng thời gian xuống dưới mức mặc định an toàn là 1 giờ. Các tệp do lô đang chạy tạo ra có thể lọt vào danh sách. Chỉ dùng khi hiện không có tiến trình tạo nào đang chạy."
+      ],
+      "Include files older than:": [
+        "Bao gồm các tệp cũ hơn:"
+      ],
+      "Scanning…": [
+        "Đang quét…"
+      ],
+      "Scan for orphan files": [
+        "Quét tìm tệp mồ côi"
+      ],
+      "Per page:": [
+        "Mỗi trang:"
+      ],
+      "Delete selected": [
+        "Xóa mục đã chọn"
+      ],
+      "Delete all": [
+        "Xóa tất cả"
+      ],
+      "Total orphans:": [
+        "Tổng số tệp mồ côi:"
+      ],
+      "Disk usage:": [
+        "Dung lượng đĩa:"
+      ],
+      "Nothing to clean — no orphan temp files found.": [
+        "Không có gì để dọn — không tìm thấy tệp tạm mồ côi nào."
+      ],
+      "All": [
+        "Tất cả"
+      ],
+      "orphan files": [
+        "tệp mồ côi"
+      ],
+      "across all pages are selected.": [
+        "trên tất cả các trang đã được chọn."
+      ],
+      "Clear selection": [
+        "Bỏ chọn"
+      ],
+      "files on this page are selected.": [
+        "tệp trên trang này đã được chọn."
+      ],
+      "Select all": [
+        "Chọn tất cả"
+      ],
+      "files across all pages": [
+        "tệp trên tất cả các trang"
+      ],
+      "File": [
+        "Tệp"
+      ],
+      "Provider": [
+        "Nhà cung cấp"
+      ],
+      "Size": [
+        "Kích thước"
+      ],
+      "Modified": [
+        "Sửa đổi"
+      ],
+      "Previous": [
+        "Trước"
+      ],
+      "Page": [
+        "Trang"
+      ],
+      "Next": [
+        "Sau"
+      ],
+      "Confirm deletion": [
+        "Xác nhận xóa"
+      ],
+      "You are about to permanently delete": [
+        "Bạn sắp xóa vĩnh viễn"
+      ],
+      "files": [
+        "tệp"
+      ],
+      "This cannot be undone. Server-side safety rules will re-validate each file before deletion.": [
+        "Thao tác này không thể hoàn tác. Các quy tắc an toàn phía máy chủ sẽ kiểm tra lại từng tệp trước khi xóa."
+      ],
+      "Type ": [
+        "Nhập "
+      ],
+      " to confirm:": [
+        " để xác nhận:"
+      ],
+      "Deleting…": [
+        "Đang xóa…"
+      ],
+      "Permanently delete": [
+        "Xóa vĩnh viễn"
+      ],
+      "Maintenance tools are available with the Pro plugin active.": [
+        "Công cụ bảo trì khả dụng khi plugin Pro đang hoạt động."
+      ]
+    }
+  }
+}

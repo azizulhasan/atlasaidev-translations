@@ -1,0 +1,53 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepFinish.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Could not go live. Please try from the dashboard.": [
+        "Não foi possível publicar. Tenta a partir do painel."
+      ],
+      "You’re live! 🎉": [
+        "Já está publicado! 🎉"
+      ],
+      "The audio player is now visible to visitors on all your %s.": [
+        "O leitor de áudio já está visível para os visitantes em todos os teus %s."
+      ],
+      "View Player on Your Site": [
+        "Ver o leitor no teu site"
+      ],
+      "Go to Dashboard": [
+        "Ir para o painel"
+      ],
+      "Hear the live demo": [
+        "Ouvir a demonstração ao vivo"
+      ],
+      "Setup complete — you’re in Staging": [
+        "Configuração concluída — estás em Staging"
+      ],
+      "Your settings are saved, but the player is still hidden from visitors. When you’re happy with how your content reads, Go Live to show the player on your site.": [
+        "As tuas definições estão guardadas, mas o leitor continua oculto aos visitantes. Quando estiveres satisfeito com a forma como o conteúdo é lido, publica para mostrares o leitor no teu site."
+      ],
+      "Going live…": [
+        "A publicar…"
+      ],
+      "Go Live now": [
+        "Publicar agora"
+      ],
+      "Stay in Staging": [
+        "Continuar em Staging"
+      ],
+      "How does Staging → Live work? →": [
+        "Como funciona a passagem de Staging a Publicado? →"
+      ],
+      "Explore all AtlasAiDev plugins": [
+        "Explorar todos os plugins da AtlasAiDev"
+      ]
+    }
+  }
+}

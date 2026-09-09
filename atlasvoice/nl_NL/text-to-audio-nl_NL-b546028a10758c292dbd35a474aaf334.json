@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:43:09+01:00",
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepAnalytics.js",
   "domain": "messages",
@@ -9,6 +9,9 @@
         "domain": "messages",
         "plural": "nplurals=1; plural=0;"
       },
+      "Select All": [
+        "Alles selecteren"
+      ],
       "Track your audio player performance": [
         "Volg de prestaties van uw audiospeler"
       ],
@@ -21,11 +24,8 @@
       "No published posts found. Analytics will start tracking once you publish content.": [
         "Geen gepubliceerde berichten gevonden. Analyses beginnen met volgen zodra u inhoud publiceert."
       ],
-      "Select posts to track (up to %d in free version):": [
-        "Selecteer berichten om te volgen (maximaal %d in de gratis versie):"
-      ],
-      "Select All": [
-        "Alles selecteren"
+      "All posts are tracked by default. Pick specific posts below to track only those:": [
+        "Standaard worden alle berichten gevolgd. Kies hieronder specifieke berichten om alleen die te volgen:"
       ],
       "Deselect All": [
         "Alles deselecteren"
@@ -33,14 +33,26 @@
       "Posts to track": [
         "Berichten om te volgen"
       ],
+      "All posts will be tracked": [
+        "Alle berichten worden gevolgd"
+      ],
+      "selected": [
+        "geselecteerd"
+      ],
+      "AtlasVoice Pro adds geographic insights, device analytics, custom date ranges, and CSV/PDF exports.": [
+        "AtlasVoice Pro voegt geografische inzichten, apparaatstatistieken, eigen datumbereiken en export naar CSV/PDF toe."
+      ],
+      "Learn about Pro Analytics": [
+        "Meer over Pro Analyses"
+      ],
+      "Select posts to track (up to %d in free version):": [
+        "Selecteer berichten om te volgen (maximaal %d in de gratis versie):"
+      ],
       "of %d selected": [
         "van %d geselecteerd"
       ],
       "AtlasVoice Pro unlocks unlimited post tracking, geographic insights, device analytics, and CSV exports.": [
         "AtlasVoice Pro ontgrendelt onbeperkt berichten volgen, geografische inzichten, apparaatanalyses en CSV-exports."
-      ],
-      "Learn about Pro Analytics": [
-        "Meer over Pro Analyses"
       ]
     }
   }

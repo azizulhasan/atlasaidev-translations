@@ -1,0 +1,152 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-docs.2aff582aa4df64b0.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "See AtlasVoice Pro in action": [
+        "AtlasVoice Pro の実力を体験"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "200 種類以上の AI 音声、MP3 プレーヤー、一括生成を実際のページで体験 — インストール不要です。"
+      ],
+      "Watch the live demo": [
+        "ライブデモを見る"
+      ],
+      "Try the live demo": [
+        "ライブデモを試す"
+      ],
+      "1. Browser support issues on Android and desktop": [
+        "1. Android とデスクトップにおけるブラウザー対応の問題"
+      ],
+      "This plugin is built using the browser SpeechSynthesis API. No external API is used.": [
+        "このプラグインはブラウザーの SpeechSynthesis API を利用して作られています。外部 API は使用していません。"
+      ],
+      "View SpeechSynthesis documentation": [
+        "SpeechSynthesis のドキュメントを見る"
+      ],
+      "Browser and device support varies, so available voices and languages may differ between desktop and mobile devices.": [
+        "ブラウザーやデバイスによって対応状況が異なるため、利用できる音声や言語はデスクトップとモバイルで違う場合があります。"
+      ],
+      "Submit a support ticket": [
+        "サポートチケットを送信"
+      ],
+      "There are no browser limitations in the Pro version.": [
+        "Pro 版にはブラウザーによる制限はありません。"
+      ],
+      "2. Different voices or languages on mobile": [
+        "2. モバイルで音声や言語が異なる"
+      ],
+      "SpeechSynthesis support varies between browsers and devices. Some voices may be available on desktop but not on mobile.": [
+        "SpeechSynthesis の対応状況はブラウザーやデバイスによって異なります。デスクトップでは使える音声でも、モバイルでは使えない場合があります。"
+      ],
+      "The Pro version does not have these limitations.": [
+        "Pro 版にはこうした制限はありません。"
+      ],
+      "3. Can I exclude certain words from playback?": [
+        "3. 特定の単語を読み上げから除外できますか?"
+      ],
+      "Yes. You can exclude specific words or phrases in the Pro version.": [
+        "はい。Pro 版では特定の単語や語句を除外できます。"
+      ],
+      "Use the pipe (|) symbol to separate multiple words or phrases.": [
+        "複数の単語や語句を区切るにはパイプ記号 (|) を使用します。"
+      ],
+      "4. Can I exclude specific HTML tags from playback?": [
+        "4. 特定の HTML タグを読み上げから除外できますか?"
+      ],
+      "The Pro version allows excluding content wrapped in specific HTML tags.": [
+        "Pro 版では、特定の HTML タグで囲まれたコンテンツを除外できます。"
+      ],
+      "Use the pipe (|) symbol to exclude multiple tags.": [
+        "複数のタグを除外するにはパイプ記号 (|) を使用します。"
+      ],
+      "5. How can I change button text?": [
+        "5. ボタンのテキストはどうすれば変更できますか?"
+      ],
+      "Button text can be changed using shortcode attributes or filters. Filters always override shortcode values.": [
+        "ボタンのテキストは、ショートコードの属性またはフィルターで変更できます。フィルターは常にショートコードの値より優先されます。"
+      ],
+      "6. How do I add a custom CSS class to the button?": [
+        "6. ボタンに独自の CSS クラスを追加するには?"
+      ],
+      "7. Backend filters (Free version)": [
+        "7. バックエンドのフィルター (無料版)"
+      ],
+      "Filter": [
+        "フィルター"
+      ],
+      "Arguments": [
+        "引数"
+      ],
+      "8. Scripts blocked by CORS policy when using a CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)": [
+        "8. CDN 利用時に CORS ポリシーでスクリプトがブロックされる (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)"
+      ],
+      "Symptom:": [
+        "症状:"
+      ],
+      "The browser console shows errors like “Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.” The player never loads.": [
+        "ブラウザーのコンソールに「Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.」のようなエラーが表示され、プレーヤーが読み込まれません。"
+      ],
+      "Why this happens:": [
+        "原因:"
+      ],
+      "Your CDN is serving our plugin's JavaScript files, but your origin server isn't sending an Access-Control-Allow-Origin header. CDNs are pull caches — they only return what the origin gives them. When WP Rocket's Delay JavaScript (or a similar optimizer) adds a crossorigin attribute to the script tag, the browser then enforces CORS and blocks the load. This is a server configuration on your site, not a plugin bug.": [
+        "CDN が当プラグインの JavaScript ファイルを配信していますが、オリジンサーバーが Access-Control-Allow-Origin ヘッダーを送信していません。CDN はプル型のキャッシュであり、オリジンが返した内容をそのまま返すだけです。WP Rocket の「JavaScript の遅延読み込み」(または類似の最適化機能) が script タグに crossorigin 属性を追加すると、ブラウザーが CORS を適用して読み込みをブロックします。これはお使いのサイトのサーバー設定の問題であり、プラグインの不具合ではありません。"
+      ],
+      "Fix — Apache (.htaccess):": [
+        "対処法 — Apache (.htaccess):"
+      ],
+      "Add the block below to the .htaccess in your WordPress root (same folder as wp-config.php), above the # BEGIN WP Rocket and # BEGIN WordPress sections.": [
+        "WordPress のルート (wp-config.php と同じフォルダー) にある .htaccess の、# BEGIN WP Rocket と # BEGIN WordPress のセクションより上に、以下のブロックを追加してください。"
+      ],
+      "Fix — nginx:": [
+        "対処法 — nginx:"
+      ],
+      "Add this location block inside your server {} block, then reload nginx (sudo nginx -s reload).": [
+        "server {} ブロック内に次の location ブロックを追加し、nginx を再読み込みしてください (sudo nginx -s reload)。"
+      ],
+      "Then — purge your CDN cache:": [
+        "次に — CDN のキャッシュを削除:"
+      ],
+      "WP Rocket → Settings → CDN → Clear all cache files. (Or purge from your CDN dashboard directly.) Until you purge, the CDN keeps serving the old response without the new header.": [
+        "WP Rocket → 設定 → CDN → すべてのキャッシュファイルを削除。(または CDN のダッシュボードから直接削除します。) 削除するまで、CDN は新しいヘッダーのない古いレスポンスを返し続けます。"
+      ],
+      "Verify:": [
+        "確認:"
+      ],
+      "Run this in a terminal and confirm access-control-allow-origin: * appears in the response headers:": [
+        "ターミナルで次のコマンドを実行し、レスポンスヘッダーに access-control-allow-origin: * が含まれることを確認してください:"
+      ],
+      "Optional:": [
+        "任意:"
+      ],
+      "If you'd rather avoid CORS altogether, exclude our plugin's script handles (text-to-audio-*, plyr) from WP Rocket → File Optimization → Delay JavaScript execution. That prevents the crossorigin attribute from being added in the first place. Fixing the header is still the more durable solution.": [
+        "CORS そのものを避けたい場合は、WP Rocket → ファイルの最適化 → JavaScript の遅延読み込みで、当プラグインのスクリプトハンドル (text-to-audio-*、plyr) を除外してください。そうすれば crossorigin 属性が追加されなくなります。ただし、ヘッダーを修正するほうがより確実な解決策です。"
+      ],
+      "Read the full guide on atlasaidev.com →": [
+        "atlasaidev.com で詳しいガイドを読む →"
+      ],
+      "9. The player or markers are missing inside post cards, related posts or widgets": [
+        "9. 投稿カード・関連記事・ウィジェット内にプレーヤーやマーカーが表示されない"
+      ],
+      "By default the player button and the AtlasVoice markers/wrapper are emitted only on the main content of the post or page being viewed — never inside a secondary loop such as an Avada \"Post Cards\" grid, a \"Related Posts\" block, or a widget. This is intentional: it prevents the content wrapper from being injected into your theme's grid markup and breaking the layout.": [
+        "既定では、プレーヤーボタンと AtlasVoice のマーカー/ラッパーは、表示中の投稿またはページの本文にのみ出力され、Avada の「Post Cards」グリッド、「関連記事」ブロック、ウィジェットなどのサブループ内には出力されません。これは意図的な仕様で、テーマのグリッドのマークアップにコンテンツラッパーが挿入されてレイアウトが崩れるのを防ぐためです。"
+      ],
+      "If you deliberately want the player to render inside a secondary loop, override the tts_is_secondary_loop filter. It receives the computed boolean, the current loop post ID, and the queried object ID.": [
+        "意図的にサブループ内でもプレーヤーを表示したい場合は、tts_is_secondary_loop フィルターを上書きしてください。このフィルターは、算出された真偽値、現在のループの投稿 ID、クエリ対象のオブジェクト ID を受け取ります。"
+      ],
+      "Allow the player everywhere, including post cards:": [
+        "投稿カードを含め、どこでもプレーヤーを表示する:"
+      ],
+      "Allow it only for a specific post type:": [
+        "特定の投稿タイプでのみ表示する:"
+      ]
+    }
+  }
+}

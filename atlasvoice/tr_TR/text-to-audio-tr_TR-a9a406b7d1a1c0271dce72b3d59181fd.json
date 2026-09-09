@@ -1,0 +1,74 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-listening.20f5841e183829c6.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Pro'ya Geç"
+      ],
+      "Save": [
+        "Kaydet"
+      ],
+      "See AtlasVoice Pro in action": [
+        "AtlasVoice Pro'yu iş başında görün"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "200'den fazla yapay zekâ sesini, MP3 oynatıcılarını ve toplu üretimi canlı bir sayfada dinleyin — kurulum gerekmez."
+      ],
+      "Watch the live demo": [
+        "Canlı demoyu izleyin"
+      ],
+      "Try the live demo": [
+        "Canlı demoyu deneyin"
+      ],
+      "Voice Language": [
+        "Ses Dili"
+      ],
+      "Default Listening Language": [
+        "Varsayılan Dinleme Dili"
+      ],
+      "Voice to speak": [
+        "Konuşacak ses"
+      ],
+      "Default Listening Voice": [
+        "Varsayılan Dinleme Sesi"
+      ],
+      "Hear 200+ Pro AI voices live": [
+        "200'den fazla Pro yapay zekâ sesini canlı dinleyin"
+      ],
+      "Voice Speed": [
+        "Ses Hızı"
+      ],
+      "Voice Volume": [
+        "Ses Düzeyi"
+      ],
+      "Voice Pitch": [
+        "Ses Perdesi"
+      ],
+      "Default Listening Pitch": [
+        "Varsayılan Dinleme Perdesi"
+      ],
+      "Listening Preferences": [
+        "Dinleme Tercihleri"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Farklı sesler ve dillerle dinleme tercihlerinizi belirleyin."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Dinleme ayarları kaydedildi. Kurulum tamamlandı. İyi eğlenceler!"
+      ],
+      "Multilingual Voice Mapping — Pro Feature": [
+        "Çok Dilli Ses Eşleştirme — Pro Özelliği"
+      ],
+      "We detected an active translation plugin. Mapping a voice and language to each translated language is available in AtlasVoice Pro.": [
+        "Etkin bir çeviri eklentisi algıladık. Her çevrilmiş dile bir ses ve dil eşlemek AtlasVoice Pro'da mevcuttur."
+      ]
+    }
+  }
+}

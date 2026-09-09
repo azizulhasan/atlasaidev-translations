@@ -1,0 +1,356 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-customize.f093072f9c101885.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "保存"
+      ],
+      "Default": [
+        "既定"
+      ],
+      "AtlasVoice Pro": [
+        "AtlasVoice Pro"
+      ],
+      "Click To Know How It Works?": [
+        "使い方を見る"
+      ],
+      "Background Color": [
+        "背景色"
+      ],
+      "Text Color": [
+        "文字色"
+      ],
+      "Custom CSS": [
+        "カスタム CSS"
+      ],
+      "Loading...": [
+        "読み込み中..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "AtlasVoice Pro の実力を体験"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "200 種類以上の AI 音声、MP3 プレーヤー、一括生成を実際のページで体験 — インストール不要です。"
+      ],
+      "Watch the live demo": [
+        "ライブデモを見る"
+      ],
+      "Try the live demo": [
+        "ライブデモを試す"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "複数の投稿にボタンを表示する機能は無料版では利用できません。"
+      ],
+      "Select Items...": [
+        "項目を選択..."
+      ],
+      "Buy Now": [
+        "今すぐ購入"
+      ],
+      "Before Content": [
+        "コンテンツの前"
+      ],
+      "After Content": [
+        "コンテンツの後"
+      ],
+      "Bottom Full Width": [
+        "下部・全幅"
+      ],
+      "Bottom Right": [
+        "右下"
+      ],
+      "Bottom Left": [
+        "左下"
+      ],
+      "Sticky Top": [
+        "上部に固定"
+      ],
+      "Select Player": [
+        "プレーヤーを選択"
+      ],
+      "More players (AI voices, MP3) are available in": [
+        "AI 音声や MP3 に対応したプレーヤーはこちらで利用できます:"
+      ],
+      "Hear the Pro players live": [
+        "Pro のプレーヤーを実際に聴く"
+      ],
+      "Select Button Position": [
+        "ボタンの位置を選択"
+      ],
+      "Select where to display the player button": [
+        "プレーヤーボタンを表示する位置を選びます"
+      ],
+      "Floating Position": [
+        "フローティング位置"
+      ],
+      "Where the player docks once the reader scrolls past it. Turn docking off entirely with \"When Scroll Down Stop Floating Player\" in Settings.": [
+        "読者がプレーヤーを通り過ぎてスクロールしたときに固定される位置です。固定を完全に無効にするには、設定の「下方向にスクロールしたらフローティングを停止」をご利用ください。"
+      ],
+      "Display Player To": [
+        "プレーヤーの表示対象"
+      ],
+      "Choose who can see the player": [
+        "プレーヤーを表示する相手を選びます"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "複数のユーザー種別へのプレーヤー表示制限は Pro 版で利用できます"
+      ],
+      "Who Can Download MP3 File": [
+        "MP3 ファイルをダウンロードできる人"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "投稿の公開日以降の MP3 を生成"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "指定した公開日以降の投稿から MP3 ファイルの生成を開始します。期間を指定して MP3 を生成したい場合のみ選択してください。"
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "MP3 を生成する開始日"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "投稿の公開日までの MP3 を生成"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "指定した公開日までの投稿について MP3 ファイルを生成します。期間を指定して MP3 を生成したい場合のみ選択してください。"
+      ],
+      "Generate MP3 File Date To": [
+        "MP3 を生成する終了日"
+      ],
+      "Player Customization": [
+        "プレーヤーのカスタマイズ"
+      ],
+      "Choose icon": [
+        "アイコンを選択"
+      ],
+      "Presets": [
+        "プリセット"
+      ],
+      "Custom SVG": [
+        "カスタム SVG"
+      ],
+      "<svg ...>...</svg>": [
+        "<svg ...>...</svg>"
+      ],
+      "Use this SVG": [
+        "この SVG を使用"
+      ],
+      "Allowed: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Server sanitizes on save.": [
+        "使用できる要素: <svg>、<g>、<path>、<circle>、<rect>、<line>、<polyline>、<polygon>、<ellipse>。保存時にサーバー側で無害化されます。"
+      ],
+      "Listen — initial state": [
+        "再生 — 初期状態"
+      ],
+      "Pause — while speaking": [
+        "一時停止 — 読み上げ中"
+      ],
+      "Resume — after user paused": [
+        "再開 — ユーザーが一時停止した後"
+      ],
+      "Replay — after speech finished": [
+        "もう一度再生 — 読み上げ終了後"
+      ],
+      "Reset to default": [
+        "既定に戻す"
+      ],
+      "Empty = use factory default": [
+        "空欄 = 初期値を使用"
+      ],
+      "Hide tooltip": [
+        "ツールチップを非表示"
+      ],
+      "Show tooltip (advanced)": [
+        "ツールチップを表示 (詳細設定)"
+      ],
+      "Hover tooltip": [
+        "ホバー時のツールチップ"
+      ],
+      "Default Pro": [
+        "Default Pro"
+      ],
+      "Button Texts & Icons — ": [
+        "ボタンのテキストとアイコン — "
+      ],
+      "Reset all to defaults": [
+        "すべて既定に戻す"
+      ],
+      "These labels and icons are shown on the front-end button as it cycles through states. Saved values for the inactive player are preserved if you switch players.": [
+        "これらのラベルとアイコンは、フロントエンドのボタンが状態を切り替えるときに表示されます。使用していないプレーヤーの保存済みの値も、プレーヤーを切り替えたときに保持されます。"
+      ],
+      "Choose player background color": [
+        "プレーヤーの背景色を選択"
+      ],
+      "Choose your color": [
+        "色を選択してください"
+      ],
+      "Hover BG Color": [
+        "ホバー時の背景色"
+      ],
+      "Choose your hover background color": [
+        "ホバー時の背景色を選択してください"
+      ],
+      "Hover Text Color": [
+        "ホバー時の文字色"
+      ],
+      "Choose your hover text color": [
+        "ホバー時の文字色を選択してください"
+      ],
+      "Margin Size (Px)": [
+        "余白のサイズ (px)"
+      ],
+      "Top": [
+        "上"
+      ],
+      "Margin Top": [
+        "上の余白"
+      ],
+      "Bottom": [
+        "下"
+      ],
+      "Margin Bottom": [
+        "下の余白"
+      ],
+      "Left": [
+        "左"
+      ],
+      "Margin Left": [
+        "左の余白"
+      ],
+      "Right": [
+        "右"
+      ],
+      "Margin Right": [
+        "右の余白"
+      ],
+      "Button Style": [
+        "ボタンのスタイル"
+      ],
+      "Height": [
+        "高さ"
+      ],
+      "Button Height": [
+        "ボタンの高さ"
+      ],
+      "Border": [
+        "枠線"
+      ],
+      "Button Border": [
+        "ボタンの枠線"
+      ],
+      "Border Color": [
+        "枠線の色"
+      ],
+      "Font Size": [
+        "文字サイズ"
+      ],
+      "Radius": [
+        "角丸"
+      ],
+      "Border Radius": [
+        "角丸の半径"
+      ],
+      "Button Properties": [
+        "ボタンのプロパティ"
+      ],
+      "Width": [
+        "幅"
+      ],
+      "Button Width": [
+        "ボタンの幅"
+      ],
+      "Add custom styling for your player using the WordPress Customizer's Additional CSS editor.": [
+        "WordPress カスタマイザーの「追加 CSS」エディターで、プレーヤーに独自のスタイルを追加できます。"
+      ],
+      "Open Appearance → Customize → Additional CSS": [
+        "外観 → カスタマイズ → 追加 CSS を開く"
+      ],
+      "Default player preview": [
+        "既定のプレーヤーのプレビュー"
+      ],
+      "This is a preview of the player.": [
+        "これはプレーヤーのプレビューです。"
+      ],
+      "Player settings": [
+        "プレーヤーの設定"
+      ],
+      "Value should be between 0-100": [
+        "値は 0〜100 の範囲で指定してください"
+      ],
+      "Customization": [
+        "カスタマイズ"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "ブランドやお好みに合わせて、プレーヤーとデザインをカスタマイズできます。"
+      ],
+      "Preview on Your Site": [
+        "サイトでプレビュー"
+      ],
+      "Please fill the  field : ": [
+        "この項目を入力してください: "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "このプレーヤーを選択するには、先に連携メニューから認証してください"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "Google Cloud TTS プレーヤーは Pro 版でのみ利用できます。"
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "このプレーヤーを選択するには、先に連携メニューから認証する必要があります"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "ChatGPT TTS プレーヤーは Pro 版でのみ利用できます。"
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "ElevenLabs TTS プレーヤーは Pro 版でのみ利用できます。"
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "Default Pro プレーヤーは Pro 版でのみ利用できます。"
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "AtlasVoice は合成した音声を uploads フォルダーに保存します。uploads フォルダーが書き込み可能になっていません。プラグインのすべての機能をご利用いただくため、uploads フォルダーを書き込み可能にしてください。"
+      ],
+      "Customization saved.": [
+        "カスタマイズを保存しました。"
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "次に「リスニング」メニューで、適切な言語と音声を選択してください。"
+      ],
+      "Write here something and click listen button": [
+        "ここに何か入力して再生ボタンをクリックしてください"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " ここにテキストを入力し、再生ボタンをクリックすると読み上げられます。"
+      ],
+      "Watch Tutorial": [
+        "チュートリアルを見る"
+      ],
+      "Write here something and click listen button.": [
+        "ここに何か入力して再生ボタンをクリックしてください。"
+      ],
+      "Design Customization": [
+        "デザインのカスタマイズ"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "ショートコード | 属性の値は二重引用符 ( \" ) で囲む必要があります"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "ショートコードをコピーしました"
+      ],
+      "Copy Shortcode": [
+        "ショートコードをコピー"
+      ]
+    }
+  }
+}

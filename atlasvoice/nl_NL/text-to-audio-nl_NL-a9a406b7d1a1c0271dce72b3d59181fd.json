@@ -1,0 +1,74 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-listening.20f5841e183829c6.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Upgraden naar Pro"
+      ],
+      "Save": [
+        "Opslaan"
+      ],
+      "See AtlasVoice Pro in action": [
+        "Zie AtlasVoice Pro in actie"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Beluister meer dan 200 AI-stemmen, MP3-spelers en het genereren in bulk op een echte pagina — zonder iets te installeren."
+      ],
+      "Watch the live demo": [
+        "Bekijk de live demo"
+      ],
+      "Try the live demo": [
+        "Probeer de live demo"
+      ],
+      "Voice Language": [
+        "Stemtaal"
+      ],
+      "Default Listening Language": [
+        "Standaard luistertaal"
+      ],
+      "Voice to speak": [
+        "Stem om te spreken"
+      ],
+      "Default Listening Voice": [
+        "Standaard luisterstem"
+      ],
+      "Hear 200+ Pro AI voices live": [
+        "Beluister live meer dan 200 Pro-AI-stemmen"
+      ],
+      "Voice Speed": [
+        "Stemsnelheid"
+      ],
+      "Voice Volume": [
+        "Stemvolume"
+      ],
+      "Voice Pitch": [
+        "Stemtoonhoogte"
+      ],
+      "Default Listening Pitch": [
+        "Standaard luistertoonhoogte"
+      ],
+      "Listening Preferences": [
+        "Luistervoorkeuren"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Stel uw luistervoorkeuren in met verschillende stemmen en talen."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Luisterinstellingen opgeslagen. Nu is alles ingesteld. Geniet ervan"
+      ],
+      "Multilingual Voice Mapping — Pro Feature": [
+        "Meertalige stemkoppeling — Pro-functie"
+      ],
+      "We detected an active translation plugin. Mapping a voice and language to each translated language is available in AtlasVoice Pro.": [
+        "We hebben een actieve vertaalplugin gevonden. Een stem en taal koppelen aan elke vertaalde taal zit in AtlasVoice Pro."
+      ]
+    }
+  }
+}

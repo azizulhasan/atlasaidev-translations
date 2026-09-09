@@ -1,0 +1,161 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-maintenance.d2fe32095cac3d8f.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Cancel": [
+        "Annuler"
+      ],
+      "Scan failed.": [
+        "L'analyse a échoué."
+      ],
+      "Scan failed: ": [
+        "L'analyse a échoué : "
+      ],
+      "No files selected.": [
+        "Aucun fichier sélectionné."
+      ],
+      "Deleted": [
+        "Supprimés"
+      ],
+      "Freed": [
+        "Libérés"
+      ],
+      "Deletion failed.": [
+        "La suppression a échoué."
+      ],
+      "Deletion failed: ": [
+        "La suppression a échoué : "
+      ],
+      "Maintenance": [
+        "Maintenance"
+      ],
+      "⚠ Destructive action.": [
+        "⚠ Action destructrice."
+      ],
+      "This tool permanently deletes leftover per-batch MP3 chunks (files like title-1.mp3, title-2.mp3) from uploads/TTA_Pro/. Only files that meet all of the following are listed:": [
+        "Cet outil supprime définitivement les fragments MP3 restants de chaque lot (des fichiers comme title-1.mp3, title-2.mp3) dans uploads/TTA_Pro/. Seuls les fichiers réunissant toutes les conditions suivantes sont listés :"
+      ],
+      "Filename ends with -N.mp3 where N is a number": [
+        "Le nom du fichier se termine par -N.mp3, où N est un nombre"
+      ],
+      "The final concatenated file (title.mp3) already exists in the same folder": [
+        "Le fichier final assemblé (title.mp3) existe déjà dans le même dossier"
+      ],
+      "The file is older than 1 hour (so an in-flight batch is never affected)": [
+        "Le fichier a plus d'une heure (ainsi un lot en cours n'est jamais touché)"
+      ],
+      "The file sits under wp-uploads/TTA_Pro/ (path traversal is rejected)": [
+        "Le fichier se trouve sous wp-uploads/TTA_Pro/ (la traversée de répertoire est refusée)"
+      ],
+      "⚠ Reduced safety margin.": [
+        "⚠ Marge de sécurité réduite."
+      ],
+      "You have lowered the age threshold below the 1-hour safe default. Files created by an in-flight batch could match. Only use this if no generation is currently running.": [
+        "Vous avez abaissé le seuil d'ancienneté sous la valeur sûre d'une heure. Des fichiers créés par un lot en cours pourraient correspondre. N'utilisez ceci que si aucune génération n'est en cours."
+      ],
+      "Include files older than:": [
+        "Inclure les fichiers de plus de :"
+      ],
+      "Scanning…": [
+        "Analyse…"
+      ],
+      "Scan for orphan files": [
+        "Rechercher les fichiers orphelins"
+      ],
+      "Per page:": [
+        "Par page :"
+      ],
+      "Delete selected": [
+        "Supprimer la sélection"
+      ],
+      "Delete all": [
+        "Tout supprimer"
+      ],
+      "Total orphans:": [
+        "Total des orphelins :"
+      ],
+      "Disk usage:": [
+        "Espace disque utilisé :"
+      ],
+      "Nothing to clean — no orphan temp files found.": [
+        "Rien à nettoyer — aucun fichier temporaire orphelin n'a été trouvé."
+      ],
+      "All": [
+        "Tous"
+      ],
+      "orphan files": [
+        "fichiers orphelins"
+      ],
+      "across all pages are selected.": [
+        "de toutes les pages sont sélectionnés."
+      ],
+      "Clear selection": [
+        "Effacer la sélection"
+      ],
+      "files on this page are selected.": [
+        "fichiers de cette page sont sélectionnés."
+      ],
+      "Select all": [
+        "Tout sélectionner"
+      ],
+      "files across all pages": [
+        "fichiers de toutes les pages"
+      ],
+      "File": [
+        "Fichier"
+      ],
+      "Provider": [
+        "Fournisseur"
+      ],
+      "Size": [
+        "Taille"
+      ],
+      "Modified": [
+        "Modifié"
+      ],
+      "Previous": [
+        "Précédent"
+      ],
+      "Page": [
+        "Page"
+      ],
+      "Next": [
+        "Suivant"
+      ],
+      "Confirm deletion": [
+        "Confirmer la suppression"
+      ],
+      "You are about to permanently delete": [
+        "Vous êtes sur le point de supprimer définitivement"
+      ],
+      "files": [
+        "fichiers"
+      ],
+      "This cannot be undone. Server-side safety rules will re-validate each file before deletion.": [
+        "Cette action est irréversible. Les règles de sécurité côté serveur revalideront chaque fichier avant la suppression."
+      ],
+      "Type ": [
+        "Saisissez "
+      ],
+      " to confirm:": [
+        " pour confirmer :"
+      ],
+      "Deleting…": [
+        "Suppression…"
+      ],
+      "Permanently delete": [
+        "Supprimer définitivement"
+      ],
+      "Maintenance tools are available with the Pro plugin active.": [
+        "Les outils de maintenance sont disponibles lorsque l'extension Pro est active."
+      ]
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/atlas-plugins.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Network error. Please try again.": [
+        "Ağ hatası. Lütfen tekrar deneyin."
+      ],
+      "Go Pro": [
+        "Pro'ya Geç"
+      ],
+      "New": [
+        "Yeni"
+      ],
+      "You're here": [
+        "Buradasınız"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Recommended": [
+        "Önerilen"
+      ],
+      "active installs": [
+        "etkin kurulum"
+      ],
+      "Features": [
+        "Özellikler"
+      ],
+      "Active": [
+        "Etkin"
+      ],
+      "Activate": [
+        "Etkinleştir"
+      ],
+      "Configure": [
+        "Yapılandır"
+      ],
+      "Install Now": [
+        "Şimdi Kur"
+      ],
+      "Installing...": [
+        "Kuruluyor..."
+      ],
+      "Installation failed. Please try again.": [
+        "Kurulum başarısız oldu. Lütfen tekrar deneyin."
+      ],
+      "Learn More": [
+        "Daha Fazla Bilgi"
+      ],
+      "Start Trial": [
+        "Denemeyi Başlat"
+      ],
+      "Updated successfully!": [
+        "Başarıyla güncellendi!"
+      ],
+      "No updates found.": [
+        "Güncelleme bulunamadı."
+      ],
+      "Failed to parse response.": [
+        "Yanıt çözümlenemedi."
+      ],
+      "Request failed. Please try again.": [
+        "İstek başarısız oldu. Lütfen tekrar deneyin."
+      ],
+      "You're using": [
+        "Kullandığınız sürüm:"
+      ],
+      "Complete your AI toolkit with these complementary plugins by AtlasAiDev.": [
+        "AtlasAiDev'in bu tamamlayıcı eklentileriyle yapay zekâ araç setinizi tamamlayın."
+      ],
+      "Discover and install plugins by AtlasAiDev to enhance your WordPress site.": [
+        "WordPress sitenizi güçlendirmek için AtlasAiDev eklentilerini keşfedin ve kurun."
+      ],
+      "Check for Updates": [
+        "Güncellemeleri Denetle"
+      ]
+    }
+  }
+}

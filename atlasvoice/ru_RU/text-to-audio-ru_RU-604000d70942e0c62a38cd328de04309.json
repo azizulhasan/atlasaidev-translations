@@ -1,0 +1,74 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-listening.20f5841e183829c6.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Перейти на Pro"
+      ],
+      "Save": [
+        "Сохранить"
+      ],
+      "See AtlasVoice Pro in action": [
+        "Посмотрите AtlasVoice Pro в деле"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Послушайте более 200 ИИ-голосов, MP3-плееры и массовую генерацию на живой странице — без установки."
+      ],
+      "Watch the live demo": [
+        "Смотреть демо"
+      ],
+      "Try the live demo": [
+        "Попробовать демо"
+      ],
+      "Voice Language": [
+        "Язык голоса"
+      ],
+      "Default Listening Language": [
+        "Язык прослушивания по умолчанию"
+      ],
+      "Voice to speak": [
+        "Голос для озвучивания"
+      ],
+      "Default Listening Voice": [
+        "Голос прослушивания по умолчанию"
+      ],
+      "Hear 200+ Pro AI voices live": [
+        "Послушайте вживую более 200 ИИ-голосов Pro"
+      ],
+      "Voice Speed": [
+        "Скорость речи"
+      ],
+      "Voice Volume": [
+        "Громкость"
+      ],
+      "Voice Pitch": [
+        "Высота голоса"
+      ],
+      "Default Listening Pitch": [
+        "Высота голоса по умолчанию"
+      ],
+      "Listening Preferences": [
+        "Параметры прослушивания"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Задайте параметры прослушивания с разными голосами и языками."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Настройки прослушивания сохранены. Настройка завершена. Приятного использования!"
+      ],
+      "Multilingual Voice Mapping — Pro Feature": [
+        "Многоязычное сопоставление голосов — возможность Pro"
+      ],
+      "We detected an active translation plugin. Mapping a voice and language to each translated language is available in AtlasVoice Pro.": [
+        "Обнаружен активный плагин перевода. Сопоставление голоса и языка каждому переведённому языку доступно в AtlasVoice Pro."
+      ]
+    }
+  }
+}

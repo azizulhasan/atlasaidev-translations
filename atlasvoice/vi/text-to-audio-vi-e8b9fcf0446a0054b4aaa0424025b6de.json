@@ -1,0 +1,65 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-aliases.ef243b8b1f29588f.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Lưu"
+      ],
+      "Text to Speech Aliases": [
+        "Bí danh phát âm"
+      ],
+      "Actual Text": [
+        "Văn bản gốc"
+      ],
+      "To Read": [
+        "Đọc thành"
+      ],
+      "All fields must be filled!": [
+        "Phải điền đầy đủ các trường!"
+      ],
+      "Successfully Saved.": [
+        "Đã lưu thành công."
+      ],
+      "Buy Pro version": [
+        "Mua bản Pro"
+      ],
+      "Here a short text have to write to inform the user about this feature purpose": [
+        "Hãy viết ở đây một đoạn ngắn để giới thiệu cho người dùng về mục đích của tính năng này"
+      ],
+      "Write actual text": [
+        "Nhập văn bản gốc"
+      ],
+      "Write read aloud text": [
+        "Nhập văn bản sẽ được đọc"
+      ],
+      "More than 1 alias is available in the pro version. Please ": [
+        "Bản pro cho phép dùng nhiều hơn 1 bí danh. Vui lòng "
+      ],
+      "Add New": [
+        "Thêm mới"
+      ],
+      "Loading...": [
+        "Đang tải..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "Xem AtlasVoice Pro hoạt động"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Nghe hơn 200 giọng AI, trình phát MP3 và tính năng tạo hàng loạt ngay trên trang trực tiếp — không cần cài đặt."
+      ],
+      "Watch the live demo": [
+        "Xem bản demo trực tiếp"
+      ],
+      "Try the live demo": [
+        "Thử bản demo trực tiếp"
+      ]
+    }
+  }
+}

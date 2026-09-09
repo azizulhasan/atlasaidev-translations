@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:43:09+01:00",
+  "translation-revision-date": "2026-09-09T11:46:21+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepCustomize.js",
   "domain": "messages",
@@ -33,9 +33,6 @@
       "Live Preview": [
         "Live-Vorschau"
       ],
-      "Welcome to your site. Your visitors can now listen to your content with one click.": [
-        "Willkommen auf Ihrer Website. Ihre Besucher koennen jetzt Ihre Inhalte mit einem Klick anhoeren."
-      ],
       "You can fully customize the player anytime from the Customize tab — including size, position, margins, and custom CSS.": [
         "Sie koennen den Player jederzeit ueber die Registerkarte Anpassen vollstaendig konfigurieren — einschliesslich Groesse, Position, Raendern und benutzerdefiniertem CSS."
       ],
@@ -44,6 +41,9 @@
       ],
       "See Pro Player Designs": [
         "Pro-Player-Designs ansehen"
+      ],
+      "Welcome to your site. Your visitors can now listen to your content with one click.": [
+        "Willkommen auf Ihrer Website. Ihre Besucher koennen jetzt Ihre Inhalte mit einem Klick anhoeren."
       ]
     }
   }

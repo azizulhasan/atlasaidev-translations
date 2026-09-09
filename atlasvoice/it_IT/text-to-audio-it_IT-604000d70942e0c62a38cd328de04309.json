@@ -1,0 +1,74 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-listening.20f5841e183829c6.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Aggiorna a Pro"
+      ],
+      "Save": [
+        "Salva"
+      ],
+      "See AtlasVoice Pro in action": [
+        "Guarda AtlasVoice Pro in azione"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Ascolta oltre 200 voci AI, lettori MP3 e la generazione in blocco su una pagina reale — senza installare nulla."
+      ],
+      "Watch the live demo": [
+        "Guarda la demo dal vivo"
+      ],
+      "Try the live demo": [
+        "Prova la demo dal vivo"
+      ],
+      "Voice Language": [
+        "Lingua della Voce"
+      ],
+      "Default Listening Language": [
+        "Lingua di Ascolto Predefinita"
+      ],
+      "Voice to speak": [
+        "Voce per parlare"
+      ],
+      "Default Listening Voice": [
+        "Voce di Ascolto Predefinita"
+      ],
+      "Hear 200+ Pro AI voices live": [
+        "Ascolta dal vivo oltre 200 voci AI Pro"
+      ],
+      "Voice Speed": [
+        "Velocità della Voce"
+      ],
+      "Voice Volume": [
+        "Volume della Voce"
+      ],
+      "Voice Pitch": [
+        "Tonalità della Voce"
+      ],
+      "Default Listening Pitch": [
+        "Tonalità di Ascolto Predefinita"
+      ],
+      "Listening Preferences": [
+        "Preferenze di Ascolto"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Imposta le tue preferenze di ascolto con diverse voci e lingue."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Impostazioni di ascolto salvate. Configurazione completata. Buon ascolto"
+      ],
+      "Multilingual Voice Mapping — Pro Feature": [
+        "Mappatura vocale multilingue — funzione Pro"
+      ],
+      "We detected an active translation plugin. Mapping a voice and language to each translated language is available in AtlasVoice Pro.": [
+        "Abbiamo rilevato un plugin di traduzione attivo. Associare una voce e una lingua a ciascuna lingua tradotta è disponibile in AtlasVoice Pro."
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/build/blocks/blocks.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Listen": [
+        "Слушать"
+      ],
+      "Color Settings": [
+        "Настройки цвета"
+      ],
+      "Background Color": [
+        "Цвет фона"
+      ],
+      "Text Color": [
+        "Цвет текста"
+      ],
+      "Button Settings": [
+        "Настройки кнопки"
+      ],
+      "Button Width (%)": [
+        "Ширина кнопки (%)"
+      ],
+      "Custom CSS": [
+        "Свой CSS"
+      ],
+      "class selector .tta__listen_content": [
+        "селектор класса .tta__listen_content"
+      ],
+      "Text To Audio: Tap to listen post.": [
+        "Text To Audio: нажмите, чтобы прослушать запись."
+      ],
+      "Text to audio customize button.": [
+        "Настройка кнопки озвучивания текста."
+      ]
+    }
+  }
+}

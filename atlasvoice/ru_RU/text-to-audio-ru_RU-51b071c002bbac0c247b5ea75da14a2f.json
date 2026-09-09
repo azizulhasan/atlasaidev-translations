@@ -1,0 +1,86 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/text-to-audio-button.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Close": [
+        "Закрыть"
+      ],
+      "Listen": [
+        "Слушать"
+      ],
+      "Settings": [
+        "Настройки"
+      ],
+      "Loading": [
+        "Загрузка"
+      ],
+      "Player settings": [
+        "Настройки плеера"
+      ],
+      "Player Settings": [
+        "Настройки плеера"
+      ],
+      "Close settings": [
+        "Закрыть настройки"
+      ],
+      "Language": [
+        "Язык"
+      ],
+      "Voice": [
+        "Голос"
+      ],
+      "Speed": [
+        "Скорость"
+      ],
+      "Playback speed": [
+        "Скорость воспроизведения"
+      ],
+      "Pitch": [
+        "Высота"
+      ],
+      "Voice pitch": [
+        "Высота голоса"
+      ],
+      "Volume": [
+        "Громкость"
+      ],
+      "Unmute": [
+        "Включить звук"
+      ],
+      "Mute": [
+        "Выключить звук"
+      ],
+      "Unmute audio": [
+        "Включить звук"
+      ],
+      "Mute audio": [
+        "Выключить звук"
+      ],
+      "From here": [
+        "Отсюда"
+      ],
+      "Listen to the selected text": [
+        "Прослушать выделенный текст"
+      ],
+      "Listen from here to the end": [
+        "Прослушать отсюда до конца"
+      ],
+      "Tip: select any text in the article to listen to just that part.": [
+        "Совет: выделите любой фрагмент статьи, чтобы прослушать только его."
+      ],
+      "Select any text to listen to it": [
+        "Выделите любой текст, чтобы его прослушать"
+      ],
+      "Dismiss": [
+        "Закрыть"
+      ]
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:43:09+01:00",
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/WelcomeWizard.js",
   "domain": "messages",
@@ -11,6 +11,9 @@
       },
       "Saving...": [
         "Opslaan..."
+      ],
+      "Next": [
+        "Volgende"
       ],
       "There was an error saving your settings. Please try again.": [
         "Er is een fout opgetreden bij het opslaan van uw instellingen. Probeer het opnieuw."
@@ -24,14 +27,14 @@
       "Next: Hear the Difference": [
         "Volgende: Hoor het verschil"
       ],
+      "Next: Check Content": [
+        "Volgende: inhoud controleren"
+      ],
       "Next: Customize": [
         "Volgende: Aanpassen"
       ],
       "Next: Analytics": [
         "Volgende: Analyses"
-      ],
-      "Next": [
-        "Volgende"
       ],
       "AtlasVoice Setup": [
         "AtlasVoice-installatie"

@@ -1,0 +1,65 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-aliases.ef243b8b1f29588f.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "保存"
+      ],
+      "Text to Speech Aliases": [
+        "テキスト読み上げの別名設定"
+      ],
+      "Actual Text": [
+        "元のテキスト"
+      ],
+      "To Read": [
+        "読み方"
+      ],
+      "All fields must be filled!": [
+        "すべての項目を入力してください。"
+      ],
+      "Successfully Saved.": [
+        "保存しました。"
+      ],
+      "Buy Pro version": [
+        "Pro 版を購入"
+      ],
+      "Here a short text have to write to inform the user about this feature purpose": [
+        "この機能の目的をユーザーに伝える短い説明文をここに入力します"
+      ],
+      "Write actual text": [
+        "元のテキストを入力"
+      ],
+      "Write read aloud text": [
+        "読み上げるテキストを入力"
+      ],
+      "More than 1 alias is available in the pro version. Please ": [
+        "2 件以上の別名は Pro 版で利用できます。"
+      ],
+      "Add New": [
+        "新規追加"
+      ],
+      "Loading...": [
+        "読み込み中..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "AtlasVoice Pro の実力を体験"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "200 種類以上の AI 音声、MP3 プレーヤー、一括生成を実際のページで体験 — インストール不要です。"
+      ],
+      "Watch the live demo": [
+        "ライブデモを見る"
+      ],
+      "Try the live demo": [
+        "ライブデモを試す"
+      ]
+    }
+  }
+}

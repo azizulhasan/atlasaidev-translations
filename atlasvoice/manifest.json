@@ -5,10 +5,15 @@
     "locales": [
         "es_ES",
         "it_IT",
-        "pt_PT",
         "pt_BR",
+        "pt_PT",
         "de_DE",
         "fr_FR",
-        "nl_NL"
+        "nl_NL",
+        "ja",
+        "pl_PL",
+        "ru_RU",
+        "tr_TR",
+        "vi"
     ]
 }

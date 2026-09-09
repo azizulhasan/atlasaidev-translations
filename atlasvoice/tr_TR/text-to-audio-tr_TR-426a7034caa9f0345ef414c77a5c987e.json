@@ -1,0 +1,1748 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/text-to-audio-dashboard-ui.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Last 7 Days": [
+        "Son 7 Gün"
+      ],
+      "Upgrade to Pro": [
+        "Pro'ya Geç"
+      ],
+      "Cancel": [
+        "İptal"
+      ],
+      "Save": [
+        "Kaydet"
+      ],
+      "Pause": [
+        "Duraklat"
+      ],
+      "Default": [
+        "Varsayılan"
+      ],
+      "AtlasVoice Pro": [
+        "AtlasVoice Pro"
+      ],
+      "Text to Speech Aliases": [
+        "Metin Okuma Takma Adları"
+      ],
+      "Actual Text": [
+        "Gerçek Metin"
+      ],
+      "To Read": [
+        "Okunacak Şekli"
+      ],
+      "All fields must be filled!": [
+        "Tüm alanlar doldurulmalı!"
+      ],
+      "Successfully Saved.": [
+        "Kaydedildi."
+      ],
+      "Buy Pro version": [
+        "Pro sürümü satın al"
+      ],
+      "Click To Know How It Works?": [
+        "Nasıl çalıştığını görmek için tıklayın"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Background Color": [
+        "Arka Plan Rengi"
+      ],
+      "Text Color": [
+        "Metin Rengi"
+      ],
+      "Custom CSS": [
+        "Özel CSS"
+      ],
+      "Here a short text have to write to inform the user about this feature purpose": [
+        "Buraya, bu özelliğin amacını kullanıcıya anlatan kısa bir metin yazılmalı"
+      ],
+      "Write actual text": [
+        "Gerçek metni yazın"
+      ],
+      "Write read aloud text": [
+        "Sesli okunacak metni yazın"
+      ],
+      "More than 1 alias is available in the pro version. Please ": [
+        "Birden fazla takma ad pro sürümde kullanılabilir. Lütfen "
+      ],
+      "Add New": [
+        "Yeni Ekle"
+      ],
+      "Loading...": [
+        "Yükleniyor..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "AtlasVoice Pro'yu iş başında görün"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "200'den fazla yapay zekâ sesini, MP3 oynatıcılarını ve toplu üretimi canlı bir sayfada dinleyin — kurulum gerekmez."
+      ],
+      "Watch the live demo": [
+        "Canlı demoyu izleyin"
+      ],
+      "Try the live demo": [
+        "Canlı demoyu deneyin"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Ücretsiz sürümde düğmenin birden çok yazıda gösterilmesi desteklenmiyor."
+      ],
+      "Select Items...": [
+        "Ögeleri seçin..."
+      ],
+      "Pro feature. Upgrade to unlock.": [
+        "Pro özelliği. Açmak için Pro'ya geçin."
+      ],
+      "Pro Feature": [
+        "Pro Özelliği"
+      ],
+      "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
+        "Bu özelliği açmak ve gelişmiş analizlere erişmek için Pro'ya geçin."
+      ],
+      "Total Posts": [
+        "Toplam Yazı"
+      ],
+      "Total posts with TTS player": [
+        "TTS oynatıcısı olan yazılar"
+      ],
+      "Init": [
+        "Başlatma"
+      ],
+      "Player initialization count": [
+        "Oynatıcı başlatma sayısı"
+      ],
+      "Play": [
+        "Oynatma"
+      ],
+      "Total play button clicks": [
+        "Toplam oynat düğmesi tıklaması"
+      ],
+      "Time (Min)": [
+        "Süre (dk)"
+      ],
+      "Total listening time": [
+        "Toplam dinleme süresi"
+      ],
+      "Total pause actions": [
+        "Toplam duraklatma işlemi"
+      ],
+      "Download": [
+        "İndirme"
+      ],
+      "Total MP3 downloads": [
+        "Toplam MP3 indirmesi"
+      ],
+      "End": [
+        "Tamamlama"
+      ],
+      "Total completions": [
+        "Toplam tamamlanma"
+      ],
+      "Bounce Rate": [
+        "Hemen Çıkma Oranı"
+      ],
+      "Users who didn't complete the audio": [
+        "Sesi tamamlamayan kullanıcılar"
+      ],
+      "TTS Player Analytics Summary": [
+        "TTS Oynatıcı Analiz Özeti"
+      ],
+      "Total Interactions:": [
+        "Toplam Etkileşim:"
+      ],
+      "Last 30 Days": [
+        "Son 30 Gün"
+      ],
+      "Last 90 Days": [
+        "Son 90 Gün"
+      ],
+      "25%": [
+        "%25"
+      ],
+      "50%": [
+        "%50"
+      ],
+      "75%": [
+        "%75"
+      ],
+      "Engagement Funnel": [
+        "Etkileşim Hunisi"
+      ],
+      "Play Rate:": [
+        "Oynatma Oranı:"
+      ],
+      "Completion Rate:": [
+        "Tamamlanma Oranı:"
+      ],
+      "Biggest Drop:": [
+        "En Büyük Düşüş:"
+      ],
+      "50% → 75%": [
+        "%50 → %75"
+      ],
+      "New Listeners": [
+        "Yeni Dinleyiciler"
+      ],
+      "Returning": [
+        "Geri Dönenler"
+      ],
+      "Listener Segments": [
+        "Dinleyici Segmentleri"
+      ],
+      "New:": [
+        "Yeni:"
+      ],
+      "Returning:": [
+        "Geri dönen:"
+      ],
+      "New Listeners:": [
+        "Yeni Dinleyiciler:"
+      ],
+      "Avg Sessions/User:": [
+        "Kullanıcı Başına Ort. Oturum:"
+      ],
+      "Yesterday": [
+        "Dün"
+      ],
+      "OS": [
+        "İşletim Sistemi"
+      ],
+      "OS Breakdown": [
+        "İşletim Sistemi Dağılımı"
+      ],
+      "Device Types": [
+        "Cihaz Türleri"
+      ],
+      "Browser": [
+        "Tarayıcı"
+      ],
+      "Location": [
+        "Konum"
+      ],
+      "Top Countries": [
+        "En Çok Dinlenen Ülkeler"
+      ],
+      "Top Cities": [
+        "En Çok Dinlenen Şehirler"
+      ],
+      "Custom Range": [
+        "Özel Aralık"
+      ],
+      "Playing Quantity": [
+        "Oynatma Sayısı"
+      ],
+      "Playing Time (min)": [
+        "Oynatma Süresi (dk)"
+      ],
+      "Previous Period": [
+        "Önceki Dönem"
+      ],
+      "Playing Trend Analysis": [
+        "Oynatma Eğilimi Analizi"
+      ],
+      "Compare with Previous Period": [
+        "Önceki Dönemle Karşılaştır"
+      ],
+      "Quantity vs Date": [
+        "Tarihe Göre Sayı"
+      ],
+      "Playing Time(min)": [
+        "Oynatma Süresi (dk)"
+      ],
+      "Mon": [
+        "Pzt"
+      ],
+      "Tue": [
+        "Sal"
+      ],
+      "Wed": [
+        "Çar"
+      ],
+      "Thu": [
+        "Per"
+      ],
+      "Fri": [
+        "Cum"
+      ],
+      "Sat": [
+        "Cmt"
+      ],
+      "Sun": [
+        "Paz"
+      ],
+      "Peak Listening Hours": [
+        "En Yoğun Dinleme Saatleri"
+      ],
+      "Low": [
+        "Düşük"
+      ],
+      "Peak": [
+        "Zirve"
+      ],
+      "Insight:": [
+        "Değerlendirme:"
+      ],
+      "Your peak listening time is": [
+        "En yoğun dinleme saatiniz"
+      ],
+      "Peak Hours Heatmap": [
+        "Yoğun Saatler Isı Haritası"
+      ],
+      "Date Range is only available in Pro version": [
+        "Tarih Aralığı yalnızca Pro sürümde kullanılabilir"
+      ],
+      "Buy Now": [
+        "Şimdi Satın Al"
+      ],
+      "Please enable analytics first.": [
+        "Lütfen önce analizleri etkinleştirin."
+      ],
+      "Track Post IDs": [
+        "İzlenecek Yazı Kimlikleri"
+      ],
+      "You've reached the selection limit.": [
+        "Seçim sınırına ulaştınız."
+      ],
+      "Post ID": [
+        "Yazı Kimliği"
+      ],
+      "Custom Date Range": [
+        "Özel Tarih Aralığı"
+      ],
+      "Please provide a Post ID or date range.": [
+        "Lütfen bir yazı kimliği veya tarih aralığı girin."
+      ],
+      "Search": [
+        "Ara"
+      ],
+      "Clear": [
+        "Temizle"
+      ],
+      "Showing results for:": [
+        "Şunun için sonuçlar:"
+      ],
+      "Post ID:": [
+        "Yazı Kimliği:"
+      ],
+      "From:": [
+        "Başlangıç:"
+      ],
+      "To:": [
+        "Bitiş:"
+      ],
+      "Metric": [
+        "Ölçüt"
+      ],
+      "Value": [
+        "Değer"
+      ],
+      "Unlock custom date-range search with Pro": [
+        "Pro ile özel tarih aralığı aramasını açın"
+      ],
+      "Popular Post": [
+        "Popüler Yazı"
+      ],
+      "Rank": [
+        "Sıra"
+      ],
+      "Post Title": [
+        "Yazı Başlığı"
+      ],
+      "Total Interactions": [
+        "Toplam Etkileşim"
+      ],
+      "No data available yet. Start tracking posts to see analytics.": [
+        "Henüz veri yok. Analizleri görmek için yazıları izlemeye başlayın."
+      ],
+      "View All Posts": [
+        "Tüm Yazıları Görüntüle"
+      ],
+      "CSV export initiated. Check your downloads.": [
+        "CSV dışa aktarma başlatıldı. İndirilenler klasörünü kontrol edin."
+      ],
+      "Export failed. Please try again.": [
+        "Dışa aktarma başarısız oldu. Lütfen tekrar deneyin."
+      ],
+      "PDF export initiated. Check your downloads.": [
+        "PDF dışa aktarma başlatıldı. İndirilenler klasörünü kontrol edin."
+      ],
+      "Please enter at least one recipient email address.": [
+        "Lütfen en az bir alıcı e-posta adresi girin."
+      ],
+      "Report schedule saved successfully.": [
+        "Rapor zamanlaması kaydedildi."
+      ],
+      "Failed to save schedule settings.": [
+        "Zamanlama ayarları kaydedilemedi."
+      ],
+      "Please enter recipient email addresses first.": [
+        "Lütfen önce alıcı e-posta adreslerini girin."
+      ],
+      "Test report sent successfully! Check your inbox.": [
+        "Test raporu gönderildi! Gelen kutunuzu kontrol edin."
+      ],
+      "Failed to send test report.": [
+        "Test raporu gönderilemedi."
+      ],
+      "Failed to send test report. Please check your network connection.": [
+        "Test raporu gönderilemedi. Lütfen ağ bağlantınızı kontrol edin."
+      ],
+      "CSV": [
+        "CSV"
+      ],
+      "PDF": [
+        "PDF"
+      ],
+      "Schedule Report": [
+        "Raporu Zamanla"
+      ],
+      "Schedule Email Reports": [
+        "E-posta Raporlarını Zamanla"
+      ],
+      "Enable automated reports": [
+        "Otomatik raporları etkinleştir"
+      ],
+      "Recipients (comma separated)": [
+        "Alıcılar (virgülle ayrılmış)"
+      ],
+      "Frequency": [
+        "Sıklık"
+      ],
+      "Daily": [
+        "Günlük"
+      ],
+      "Weekly": [
+        "Haftalık"
+      ],
+      "Monthly": [
+        "Aylık"
+      ],
+      "Day": [
+        "Gün"
+      ],
+      "Monday": [
+        "Pazartesi"
+      ],
+      "Tuesday": [
+        "Salı"
+      ],
+      "Wednesday": [
+        "Çarşamba"
+      ],
+      "Thursday": [
+        "Perşembe"
+      ],
+      "Friday": [
+        "Cuma"
+      ],
+      "Saturday": [
+        "Cumartesi"
+      ],
+      "Sunday": [
+        "Pazar"
+      ],
+      "Time": [
+        "Saat"
+      ],
+      "Include in report:": [
+        "Rapora dahil et:"
+      ],
+      "Summary statistics": [
+        "Özet istatistikler"
+      ],
+      "Top 10 posts": [
+        "En iyi 10 yazı"
+      ],
+      "Geographic breakdown": [
+        "Coğrafi dağılım"
+      ],
+      "Trend chart": [
+        "Eğilim grafiği"
+      ],
+      "Device stats": [
+        "Cihaz istatistikleri"
+      ],
+      "Next scheduled report:": [
+        "Sonraki zamanlanmış rapor:"
+      ],
+      "Sending...": [
+        "Gönderiliyor..."
+      ],
+      "Send Test Report": [
+        "Test Raporu Gönder"
+      ],
+      "Saving...": [
+        "Kaydediliyor..."
+      ],
+      "Save Settings": [
+        "Ayarları Kaydet"
+      ],
+      "Export & Reports": [
+        "Dışa Aktarma ve Raporlar"
+      ],
+      "Last 14 Days": [
+        "Son 14 Gün"
+      ],
+      "All Time": [
+        "Tüm Zamanlar"
+      ],
+      "Getting more than 30 days data is pro feature. Please ": [
+        "30 günden fazla veri almak bir pro özelliğidir. Lütfen "
+      ],
+      "Quick Select": [
+        "Hızlı Seçim"
+      ],
+      "From": [
+        "Başlangıç"
+      ],
+      "To": [
+        "Bitiş"
+      ],
+      "Custom date select is only available in pro version. Please ": [
+        "Özel tarih seçimi yalnızca pro sürümde kullanılabilir. Lütfen "
+      ],
+      "Apply": [
+        "Uygula"
+      ],
+      "CSV exported successfully!": [
+        "CSV başarıyla dışa aktarıldı!"
+      ],
+      "Error exporting CSV": [
+        "CSV dışa aktarılırken hata oluştu"
+      ],
+      "PDF report opened. Use 'Save as PDF' in the print dialog.": [
+        "PDF raporu açıldı. Yazdırma penceresinde 'PDF olarak kaydet' seçeneğini kullanın."
+      ],
+      "Report downloaded as HTML. Open in browser and print to save as PDF.": [
+        "Rapor HTML olarak indirildi. Tarayıcıda açıp yazdırarak PDF olarak kaydedebilirsiniz."
+      ],
+      "Failed to generate PDF report.": [
+        "PDF raporu oluşturulamadı."
+      ],
+      "Error exporting PDF": [
+        "PDF dışa aktarılırken hata oluştu"
+      ],
+      "Analytics": [
+        "Analizler"
+      ],
+      "Track and analyze your TTS player engagement to understand listener behavior.": [
+        "Dinleyici davranışını anlamak için TTS oynatıcınızdaki etkileşimi izleyin ve çözümleyin."
+      ],
+      "Show listener location in analytics": [
+        "Analizlerde dinleyici konumunu göster"
+      ],
+      "Off by default. When on, listener IP addresses are sent to ip-api.com, ipinfo.io and icanhazip.com to resolve city / country for the Location chart. See \"External services\" in the plugin readme.": [
+        "Varsayılan olarak kapalı. Açık olduğunda, Konum grafiği için şehir ve ülke bilgisini çözümlemek üzere dinleyici IP adresleri ip-api.com, ipinfo.io ve icanhazip.com adreslerine gönderilir. Eklenti benioku dosyasındaki \"Dış hizmetler\" bölümüne bakın."
+      ],
+      "Export & Schedule Reports": [
+        "Raporları Dışa Aktarma ve Zamanlama"
+      ],
+      "Export CSV/PDF reports and schedule automated email digests.": [
+        "CSV/PDF raporlarını dışa aktarın ve otomatik e-posta özetleri zamanlayın."
+      ],
+      "Analytics is Currently Disabled": [
+        "Analizler Şu Anda Devre Dışı"
+      ],
+      "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
+        "TTS oynatıcı etkileşimlerini izlemeye başlamak ve ayrıntılı ölçütleri görmek için yukarıdaki anahtarla analizleri etkinleştirin."
+      ],
+      "Available Fields": [
+        "Kullanılabilir Alanlar"
+      ],
+      "Select All": [
+        "Tümünü Seç"
+      ],
+      "All fields selected": [
+        "Tüm alanlar seçildi"
+      ],
+      "No ACF fields found": [
+        "ACF alanı bulunamadı"
+      ],
+      "Selected (read order)": [
+        "Seçili (okuma sırası)"
+      ],
+      "Clear All": [
+        "Tümünü Temizle"
+      ],
+      "Click fields on the left to add": [
+        "Eklemek için soldaki alanlara tıklayın"
+      ],
+      "Move up": [
+        "Yukarı taşı"
+      ],
+      "Move down": [
+        "Aşağı taşı"
+      ],
+      "Remove": [
+        "Kaldır"
+      ],
+      "Use ▲ ▼ to reorder. Fields are read top to bottom.": [
+        "Sırayı değiştirmek için ▲ ▼ kullanın. Alanlar yukarıdan aşağıya okunur."
+      ],
+      "Compatibility Status": [
+        "Uyumluluk Durumu"
+      ],
+      "AtlasVoice automatically excludes its scripts from caching and optimization plugins to prevent conflicts.": [
+        "AtlasVoice, çakışmaları önlemek için betiklerini önbellekleme ve iyileştirme eklentilerinden otomatik olarak hariç tutar."
+      ],
+      "JS exclusion active": [
+        "JS hariç tutma etkin"
+      ],
+      "Detected but not handled — may cause conflicts": [
+        "Algılandı ama işlenmedi — çakışmalara yol açabilir"
+      ],
+      "Installed but not active": [
+        "Kurulu ama etkin değil"
+      ],
+      "Not installed": [
+        "Kurulu değil"
+      ],
+      "Add ACF Fields To Posts": [
+        "Yazılara ACF Alanları Ekle"
+      ],
+      "Adding more than 1  ACF field is a pro feature": [
+        "Birden fazla ACF alanı eklemek bir pro özelliğidir"
+      ],
+      "Adding more than 1 ACF field is a pro feature": [
+        "Birden fazla ACF alanı eklemek bir pro özelliğidir"
+      ],
+      "Use custom reading order": [
+        "Özel okuma sırası kullan"
+      ],
+      "When enabled, ACF fields are read in the order shown above. When disabled, fields are read in ACF's default field group order.": [
+        "Etkinleştirildiğinde ACF alanları yukarıda gösterilen sırayla okunur. Devre dışı bırakıldığında ACF'nin varsayılan alan grubu sırası kullanılır."
+      ],
+      "Selected fields are read after the main article content. If a field is already visible in your post content area, it may be read twice. For visible fields, use \"Include Content By CSS Selectors\" in Settings instead to control reading order.": [
+        "Seçili alanlar, ana makale içeriğinden sonra okunur. Bir alan yazı içerik alanınızda zaten görünüyorsa iki kez okunabilir. Görünür alanlar için okuma sırasını denetlemek üzere bunun yerine Ayarlar'daki \"CSS Seçicileriyle İçerik Dahil Et\" seçeneğini kullanın."
+      ],
+      "Loading": [
+        "Yükleniyor"
+      ],
+      "Before Content": [
+        "İçerikten Önce"
+      ],
+      "After Content": [
+        "İçerikten Sonra"
+      ],
+      "Bottom Full Width": [
+        "Altta Tam Genişlik"
+      ],
+      "Bottom Right": [
+        "Sağ Alt"
+      ],
+      "Bottom Left": [
+        "Sol Alt"
+      ],
+      "Sticky Top": [
+        "Üstte Sabit"
+      ],
+      "Select Player": [
+        "Oynatıcı Seç"
+      ],
+      "More players (AI voices, MP3) are available in": [
+        "Daha fazla oynatıcı (yapay zekâ sesleri, MP3) şurada mevcut:"
+      ],
+      "Hear the Pro players live": [
+        "Pro oynatıcıları canlı dinleyin"
+      ],
+      "Select Button Position": [
+        "Düğme Konumunu Seç"
+      ],
+      "Select where to display the player button": [
+        "Oynatıcı düğmesinin nerede görüneceğini seçin"
+      ],
+      "Floating Position": [
+        "Kayan Konum"
+      ],
+      "Where the player docks once the reader scrolls past it. Turn docking off entirely with \"When Scroll Down Stop Floating Player\" in Settings.": [
+        "Okur oynatıcıyı geçip kaydırdığında oynatıcının sabitleneceği yer. Sabitlemeyi tamamen kapatmak için Ayarlar'daki \"Aşağı Kaydırınca Kayan Oynatıcıyı Durdur\" seçeneğini kullanın."
+      ],
+      "Display Player To": [
+        "Oynatıcıyı Şuna Göster"
+      ],
+      "Choose who can see the player": [
+        "Oynatıcıyı kimlerin görebileceğini seçin"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "Oynatıcı gösterimini birden çok kullanıcı türüyle sınırlamak pro sürümde mevcuttur"
+      ],
+      "Who Can Download MP3 File": [
+        "MP3 Dosyasını Kimler İndirebilir"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "Yazının Yayın Tarihinden İtibaren MP3 Üretimi"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "MP3 dosyası üretimini belirli bir yayın tarihinden itibaren başlatın. Bunu yalnızca mp3 dosyalarını tarih aralığına göre üretmek istiyorsanız seçin."
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "MP3 Dosyası Üretim Başlangıcı"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "Yazının Yayın Tarihine Kadar MP3 Üretimi"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "MP3 dosyası üretimini belirli bir yayın tarihine kadar yapın. Bunu yalnızca mp3 dosyalarını tarih aralığına göre üretmek istiyorsanız seçin."
+      ],
+      "Generate MP3 File Date To": [
+        "MP3 Dosyası Üretim Bitişi"
+      ],
+      "Player Customization": [
+        "Oynatıcı Özelleştirme"
+      ],
+      "Choose icon": [
+        "Simge seç"
+      ],
+      "Presets": [
+        "Hazır Ayarlar"
+      ],
+      "Custom SVG": [
+        "Özel SVG"
+      ],
+      "<svg ...>...</svg>": [
+        "<svg ...>...</svg>"
+      ],
+      "Use this SVG": [
+        "Bu SVG'yi kullan"
+      ],
+      "Allowed: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Server sanitizes on save.": [
+        "İzin verilenler: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Sunucu kaydederken temizler."
+      ],
+      "Listen — initial state": [
+        "Dinle — başlangıç durumu"
+      ],
+      "Pause — while speaking": [
+        "Duraklat — okuma sırasında"
+      ],
+      "Resume — after user paused": [
+        "Devam Et — kullanıcı duraklattıktan sonra"
+      ],
+      "Replay — after speech finished": [
+        "Yeniden Oynat — okuma bittikten sonra"
+      ],
+      "Reset to default": [
+        "Varsayılana sıfırla"
+      ],
+      "Empty = use factory default": [
+        "Boş = fabrika varsayılanını kullan"
+      ],
+      "Hide tooltip": [
+        "İpucunu gizle"
+      ],
+      "Show tooltip (advanced)": [
+        "İpucunu göster (gelişmiş)"
+      ],
+      "Hover tooltip": [
+        "Üzerine gelince ipucu"
+      ],
+      "Default Pro": [
+        "Default Pro"
+      ],
+      "Button Texts & Icons — ": [
+        "Düğme Metinleri ve Simgeleri — "
+      ],
+      "Reset all to defaults": [
+        "Tümünü varsayılana sıfırla"
+      ],
+      "These labels and icons are shown on the front-end button as it cycles through states. Saved values for the inactive player are preserved if you switch players.": [
+        "Bu etiketler ve simgeler, ön yüzdeki düğme durumlar arasında geçiş yaparken görünür. Oynatıcıyı değiştirirseniz etkin olmayan oynatıcının kayıtlı değerleri korunur."
+      ],
+      "Choose player background color": [
+        "Oynatıcı arka plan rengini seçin"
+      ],
+      "Choose your color": [
+        "Renginizi seçin"
+      ],
+      "Hover BG Color": [
+        "Üzerine Gelince Arka Plan Rengi"
+      ],
+      "Choose your hover background color": [
+        "Üzerine gelince arka plan renginizi seçin"
+      ],
+      "Hover Text Color": [
+        "Üzerine Gelince Metin Rengi"
+      ],
+      "Choose your hover text color": [
+        "Üzerine gelince metin renginizi seçin"
+      ],
+      "Margin Size (Px)": [
+        "Kenar Boşluğu (px)"
+      ],
+      "Top": [
+        "Üst"
+      ],
+      "Margin Top": [
+        "Üst Boşluk"
+      ],
+      "Bottom": [
+        "Alt"
+      ],
+      "Margin Bottom": [
+        "Alt Boşluk"
+      ],
+      "Left": [
+        "Sol"
+      ],
+      "Margin Left": [
+        "Sol Boşluk"
+      ],
+      "Right": [
+        "Sağ"
+      ],
+      "Margin Right": [
+        "Sağ Boşluk"
+      ],
+      "Button Style": [
+        "Düğme Stili"
+      ],
+      "Height": [
+        "Yükseklik"
+      ],
+      "Button Height": [
+        "Düğme Yüksekliği"
+      ],
+      "Border": [
+        "Kenarlık"
+      ],
+      "Button Border": [
+        "Düğme Kenarlığı"
+      ],
+      "Border Color": [
+        "Kenarlık Rengi"
+      ],
+      "Font Size": [
+        "Yazı Boyutu"
+      ],
+      "Radius": [
+        "Yuvarlaklık"
+      ],
+      "Border Radius": [
+        "Kenar Yuvarlaklığı"
+      ],
+      "Button Properties": [
+        "Düğme Özellikleri"
+      ],
+      "Width": [
+        "Genişlik"
+      ],
+      "Button Width": [
+        "Düğme Genişliği"
+      ],
+      "Add custom styling for your player using the WordPress Customizer's Additional CSS editor.": [
+        "WordPress Özelleştirici'nin Ek CSS düzenleyicisiyle oynatıcınıza özel stiller ekleyin."
+      ],
+      "Open Appearance → Customize → Additional CSS": [
+        "Görünüm → Özelleştir → Ek CSS'yi aç"
+      ],
+      "Default player preview": [
+        "Varsayılan oynatıcı önizlemesi"
+      ],
+      "This is a preview of the player.": [
+        "Bu, oynatıcının bir önizlemesidir."
+      ],
+      "Player settings": [
+        "Oynatıcı ayarları"
+      ],
+      "Value should be between 0-100": [
+        "Değer 0-100 arasında olmalı"
+      ],
+      "Customization": [
+        "Özelleştirme"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "Oynatıcıyı ve tasarımı markanıza ve tercihlerinize göre özelleştirin."
+      ],
+      "Preview on Your Site": [
+        "Sitenizde Önizle"
+      ],
+      "Please fill the  field : ": [
+        "Lütfen şu alanı doldurun: "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "Bu oynatıcıyı seçmek için önce Entegrasyon menüsünden kimlik doğrulaması yapmalısınız"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "Google Cloud TTS oynatıcısı yalnızca pro sürümde kullanılabilir."
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "Bu oynatıcıyı seçmek için önce Entegrasyon menüsünden kimlik doğrulaması yapmanız gerekir"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "ChatGPT TTS oynatıcısı yalnızca pro sürümde kullanılabilir."
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "ElevenLabs TTS oynatıcısı yalnızca pro sürümde kullanılabilir."
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "Default Pro oynatıcısı yalnızca pro sürümde kullanılabilir."
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "AtlasVoice, ürettiği sesleri uploads klasöründe saklar. uploads klasörünüz yazılabilir değil. Eklentinin tüm özelliklerinden yararlanmak için lütfen uploads klasörünü yazılabilir yapın."
+      ],
+      "Customization saved.": [
+        "Özelleştirme kaydedildi."
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "Şimdi uygun dili ve sesi seçmek için \"Dinleme\" menüsüne gidin."
+      ],
+      "Write here something and click listen button": [
+        "Buraya bir şeyler yazın ve dinle düğmesine tıklayın"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " Metninizi buraya girin ve sesli duymak için dinle düğmesine tıklayın."
+      ],
+      "Watch Tutorial": [
+        "Eğitimi İzle"
+      ],
+      "Write here something and click listen button.": [
+        "Buraya bir şeyler yazın ve dinle düğmesine tıklayın."
+      ],
+      "Design Customization": [
+        "Tasarım Özelleştirme"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "Kısa Kod | Öznitelik değerleri çift tırnak ( \" ) içine alınmalıdır"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "Kısa Kod Kopyalandı"
+      ],
+      "Copy Shortcode": [
+        "Kısa Kodu Kopyala"
+      ],
+      "1. Browser support issues on Android and desktop": [
+        "1. Android ve masaüstünde tarayıcı desteği sorunları"
+      ],
+      "This plugin is built using the browser SpeechSynthesis API. No external API is used.": [
+        "Bu eklenti, tarayıcının SpeechSynthesis API'si kullanılarak geliştirilmiştir. Hiçbir dış API kullanılmaz."
+      ],
+      "View SpeechSynthesis documentation": [
+        "SpeechSynthesis belgelerini görüntüle"
+      ],
+      "Browser and device support varies, so available voices and languages may differ between desktop and mobile devices.": [
+        "Tarayıcı ve cihaz desteği değişiklik gösterir; bu nedenle kullanılabilir sesler ve diller masaüstü ile mobil cihazlar arasında farklılık gösterebilir."
+      ],
+      "Submit a support ticket": [
+        "Destek talebi gönder"
+      ],
+      "There are no browser limitations in the Pro version.": [
+        "Pro sürümde tarayıcı kısıtlaması yoktur."
+      ],
+      "2. Different voices or languages on mobile": [
+        "2. Mobilde farklı sesler veya diller"
+      ],
+      "SpeechSynthesis support varies between browsers and devices. Some voices may be available on desktop but not on mobile.": [
+        "SpeechSynthesis desteği tarayıcılara ve cihazlara göre değişir. Bazı sesler masaüstünde bulunabilirken mobilde bulunmayabilir."
+      ],
+      "The Pro version does not have these limitations.": [
+        "Pro sürümde bu kısıtlamalar yoktur."
+      ],
+      "3. Can I exclude certain words from playback?": [
+        "3. Belirli kelimeleri oynatmadan hariç tutabilir miyim?"
+      ],
+      "Yes. You can exclude specific words or phrases in the Pro version.": [
+        "Evet. Pro sürümde belirli kelimeleri veya ifadeleri hariç tutabilirsiniz."
+      ],
+      "Use the pipe (|) symbol to separate multiple words or phrases.": [
+        "Birden çok kelimeyi veya ifadeyi ayırmak için dikey çizgi (|) kullanın."
+      ],
+      "4. Can I exclude specific HTML tags from playback?": [
+        "4. Belirli HTML etiketlerini oynatmadan hariç tutabilir miyim?"
+      ],
+      "The Pro version allows excluding content wrapped in specific HTML tags.": [
+        "Pro sürüm, belirli HTML etiketleri içindeki içeriği hariç tutmanıza olanak tanır."
+      ],
+      "Use the pipe (|) symbol to exclude multiple tags.": [
+        "Birden çok etiketi hariç tutmak için dikey çizgi (|) kullanın."
+      ],
+      "5. How can I change button text?": [
+        "5. Düğme metnini nasıl değiştirebilirim?"
+      ],
+      "Button text can be changed using shortcode attributes or filters. Filters always override shortcode values.": [
+        "Düğme metni, kısa kod öznitelikleri veya filtreler kullanılarak değiştirilebilir. Filtreler her zaman kısa kod değerlerinin önüne geçer."
+      ],
+      "6. How do I add a custom CSS class to the button?": [
+        "6. Düğmeye nasıl özel bir CSS sınıfı eklerim?"
+      ],
+      "7. Backend filters (Free version)": [
+        "7. Arka uç filtreleri (Ücretsiz sürüm)"
+      ],
+      "Filter": [
+        "Filtre"
+      ],
+      "Arguments": [
+        "Bağımsız değişkenler"
+      ],
+      "8. Scripts blocked by CORS policy when using a CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)": [
+        "8. CDN kullanırken CORS politikası tarafından engellenen betikler (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)"
+      ],
+      "Symptom:": [
+        "Belirti:"
+      ],
+      "The browser console shows errors like “Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.” The player never loads.": [
+        "Tarayıcı konsolunda \"Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.\" gibi hatalar görünür. Oynatıcı hiçbir zaman yüklenmez."
+      ],
+      "Why this happens:": [
+        "Bunun nedeni:"
+      ],
+      "Your CDN is serving our plugin's JavaScript files, but your origin server isn't sending an Access-Control-Allow-Origin header. CDNs are pull caches — they only return what the origin gives them. When WP Rocket's Delay JavaScript (or a similar optimizer) adds a crossorigin attribute to the script tag, the browser then enforces CORS and blocks the load. This is a server configuration on your site, not a plugin bug.": [
+        "CDN'niz eklentimizin JavaScript dosyalarını sunuyor, ancak kaynak sunucunuz Access-Control-Allow-Origin başlığını göndermiyor. CDN'ler çekme önbellekleridir — yalnızca kaynağın verdiğini döndürürler. WP Rocket'ın JavaScript Geciktirme özelliği (veya benzer bir iyileştirici) betik etiketine crossorigin özniteliği eklediğinde tarayıcı CORS'u uygular ve yüklemeyi engeller. Bu, sitenizdeki bir sunucu yapılandırmasıdır, eklenti hatası değildir."
+      ],
+      "Fix — Apache (.htaccess):": [
+        "Çözüm — Apache (.htaccess):"
+      ],
+      "Add the block below to the .htaccess in your WordPress root (same folder as wp-config.php), above the # BEGIN WP Rocket and # BEGIN WordPress sections.": [
+        "Aşağıdaki bloğu WordPress kök dizinindeki (wp-config.php ile aynı klasör) .htaccess dosyasına, # BEGIN WP Rocket ve # BEGIN WordPress bölümlerinin üzerine ekleyin."
+      ],
+      "Fix — nginx:": [
+        "Çözüm — nginx:"
+      ],
+      "Add this location block inside your server {} block, then reload nginx (sudo nginx -s reload).": [
+        "Bu location bloğunu server {} bloğunuzun içine ekleyin, ardından nginx'i yeniden yükleyin (sudo nginx -s reload)."
+      ],
+      "Then — purge your CDN cache:": [
+        "Ardından — CDN önbelleğinizi temizleyin:"
+      ],
+      "WP Rocket → Settings → CDN → Clear all cache files. (Or purge from your CDN dashboard directly.) Until you purge, the CDN keeps serving the old response without the new header.": [
+        "WP Rocket → Ayarlar → CDN → Tüm önbellek dosyalarını temizle. (Veya doğrudan CDN panelinizden temizleyin.) Temizleyene kadar CDN, yeni başlık olmadan eski yanıtı sunmaya devam eder."
+      ],
+      "Verify:": [
+        "Doğrulama:"
+      ],
+      "Run this in a terminal and confirm access-control-allow-origin: * appears in the response headers:": [
+        "Bunu bir terminalde çalıştırın ve yanıt başlıklarında access-control-allow-origin: * göründüğünü doğrulayın:"
+      ],
+      "Optional:": [
+        "İsteğe bağlı:"
+      ],
+      "If you'd rather avoid CORS altogether, exclude our plugin's script handles (text-to-audio-*, plyr) from WP Rocket → File Optimization → Delay JavaScript execution. That prevents the crossorigin attribute from being added in the first place. Fixing the header is still the more durable solution.": [
+        "CORS ile hiç uğraşmak istemiyorsanız, eklentimizin betik tanıtıcılarını (text-to-audio-*, plyr) WP Rocket → Dosya İyileştirme → JavaScript yürütmesini geciktir bölümünden hariç tutun. Böylece crossorigin özniteliği en baştan eklenmez. Yine de başlığı düzeltmek daha kalıcı bir çözümdür."
+      ],
+      "Read the full guide on atlasaidev.com →": [
+        "Tüm rehberi atlasaidev.com adresinde okuyun →"
+      ],
+      "9. The player or markers are missing inside post cards, related posts or widgets": [
+        "9. Yazı kartlarında, ilgili yazılarda veya bileşenlerde oynatıcı ya da işaretçiler görünmüyor"
+      ],
+      "By default the player button and the AtlasVoice markers/wrapper are emitted only on the main content of the post or page being viewed — never inside a secondary loop such as an Avada \"Post Cards\" grid, a \"Related Posts\" block, or a widget. This is intentional: it prevents the content wrapper from being injected into your theme's grid markup and breaking the layout.": [
+        "Varsayılan olarak oynatıcı düğmesi ile AtlasVoice işaretçileri/sarmalayıcısı yalnızca görüntülenen yazının veya sayfanın ana içeriğinde oluşturulur — Avada \"Post Cards\" ızgarası, \"İlgili Yazılar\" bloğu veya bir bileşen gibi ikincil bir döngünün içinde asla oluşturulmaz. Bu bilinçli bir tercihtir: içerik sarmalayıcısının temanızın ızgara işaretlemesine eklenip düzeni bozmasını önler."
+      ],
+      "If you deliberately want the player to render inside a secondary loop, override the tts_is_secondary_loop filter. It receives the computed boolean, the current loop post ID, and the queried object ID.": [
+        "Oynatıcının ikincil bir döngü içinde de görünmesini bilerek istiyorsanız tts_is_secondary_loop filtresini geçersiz kılın. Bu filtre, hesaplanan mantıksal değeri, geçerli döngü yazı kimliğini ve sorgulanan nesne kimliğini alır."
+      ],
+      "Allow the player everywhere, including post cards:": [
+        "Yazı kartları dahil her yerde oynatıcıya izin ver:"
+      ],
+      "Allow it only for a specific post type:": [
+        "Yalnızca belirli bir yazı türü için izin ver:"
+      ],
+      "Read-Along Highlight": [
+        "Okuma Sırasında Vurgulama"
+      ],
+      "Highlight the word and/or sentence being spoken while the post is read aloud.": [
+        "Yazı sesli okunurken söylenen kelimeyi ve/veya cümleyi vurgulayın."
+      ],
+      "speechSynthesis limitation:": [
+        "speechSynthesis kısıtlaması:"
+      ],
+      "Word-level highlighting relies on the browser's speechSynthesis “boundary” events, which only fire for local (offline) device voices. Remote voices (e.g. the “Google …” voices) and some browsers (notably Firefox) fire no word boundaries, so word highlighting can't track them. When that happens the player automatically falls back to sentence highlighting. Sentence highlighting works with every voice and browser — it's the recommended default.": [
+        "Kelime düzeyinde vurgulama, tarayıcının speechSynthesis \"boundary\" olaylarına dayanır; bu olaylar yalnızca cihazdaki yerel (çevrimdışı) sesler için tetiklenir. Uzak sesler (örn. \"Google …\" sesleri) ve bazı tarayıcılar (özellikle Firefox) kelime sınırı bildirmez, bu yüzden kelime vurgulaması onları takip edemez. Böyle durumlarda oynatıcı otomatik olarak cümle vurgulamasına geçer. Cümle vurgulaması her ses ve tarayıcıda çalışır — önerilen varsayılan budur."
+      ],
+      "Precise word timing:": [
+        "Hassas kelime zamanlaması:"
+      ],
+      "This player generates audio with real per-word timing, so word-by-word highlighting is accurate and works in every browser — no local-voice requirement and no fallback.": [
+        "Bu oynatıcı, gerçek kelime bazlı zamanlamayla ses üretir; bu nedenle kelime kelime vurgulama isabetlidir ve her tarayıcıda çalışır — yerel ses gerekmez, yedek moda düşülmez."
+      ],
+      "Already-generated audio:": [
+        "Daha önce üretilmiş ses:"
+      ],
+      "Word timing is captured while the audio is being generated, so posts whose MP3 was created before highlighting was enabled have no timing data — they will use sentence highlighting until their audio is regenerated. To upgrade them, regenerate the audio with the Bulk MP3 tool (or regenerate an individual post). Note: regeneration sends the post content to your TTS provider (Google Cloud / ElevenLabs) again, so it consumes provider characters/credits just like the first generation — word timing can only be produced by the provider during synthesis, which is why it isn't added to existing files automatically.": [
+        "Kelime zamanlaması, ses üretilirken kaydedilir; bu nedenle MP3'ü vurgulama etkinleştirilmeden önce oluşturulan yazılarda zamanlama verisi yoktur — sesleri yeniden üretilene kadar cümle vurgulaması kullanılır. Bunları güncellemek için sesi Toplu MP3 aracıyla yeniden üretin (veya tek bir yazıyı yeniden üretin). Not: yeniden üretim, yazı içeriğini TTS sağlayıcınıza (Google Cloud / ElevenLabs) tekrar gönderir; bu nedenle ilk üretimde olduğu gibi sağlayıcı karakter/kredi tüketir — kelime zamanlaması yalnızca sentez sırasında sağlayıcı tarafından üretilebildiğinden mevcut dosyalara otomatik olarak eklenemez."
+      ],
+      "Successfully Saved...": [
+        "Başarıyla Kaydedildi..."
+      ],
+      "Enable highlighting": [
+        "Vurgulamayı etkinleştir"
+      ],
+      "Turn read-along highlighting on or off for the browser players.": [
+        "Tarayıcı oynatıcıları için okuma sırasında vurgulamayı açın veya kapatın."
+      ],
+      "Highlight mode": [
+        "Vurgulama kipi"
+      ],
+      "“Sentence only” works with any voice. “Word” and “Word + Sentence” need a local voice that fires boundary events, and fall back to sentence highlighting otherwise.": [
+        "\"Yalnızca cümle\" her sesle çalışır. \"Kelime\" ve \"Kelime + Cümle\", sınır olayları tetikleyen yerel bir ses gerektirir; aksi hâlde cümle vurgulamasına geçilir."
+      ],
+      "Sentence only (recommended)": [
+        "Yalnızca cümle (önerilen)"
+      ],
+      "Word only": [
+        "Yalnızca kelime"
+      ],
+      "Word + Sentence": [
+        "Kelime + Cümle"
+      ],
+      "The current player uses generated audio, so read-along highlighting is sentence-level. Word-level options don't apply here.": [
+        "Geçerli oynatıcı üretilmiş ses kullandığından okuma vurgulaması cümle düzeyindedir. Kelime düzeyindeki seçenekler burada geçerli değildir."
+      ],
+      "Word highlight color": [
+        "Kelime vurgu rengi"
+      ],
+      "Background color painted behind the word currently being spoken.": [
+        "O anda söylenen kelimenin arkasına uygulanan arka plan rengi."
+      ],
+      "Word text color": [
+        "Kelime metin rengi"
+      ],
+      "Text color of the spoken word, for contrast against the highlight color.": [
+        "Vurgu rengiyle karşıtlık oluşturması için söylenen kelimenin metin rengi."
+      ],
+      "Sentence highlight color": [
+        "Cümle vurgu rengi"
+      ],
+      "Softer background painted behind the whole sentence being read.": [
+        "Okunan cümlenin tamamının arkasına uygulanan daha yumuşak arka plan."
+      ],
+      "Dim the rest of the article": [
+        "Makalenin geri kalanını soluklaştır"
+      ],
+      "Fade the surrounding text while reading so the spoken word/sentence stands out.": [
+        "Söylenen kelimenin/cümlenin öne çıkması için okuma sırasında çevredeki metni soluklaştırın."
+      ],
+      "Dimmed text opacity": [
+        "Soluk metin saydamlığı"
+      ],
+      "How visible the dimmed (non-spoken) text stays. Lower = more dimmed.": [
+        "Soluklaştırılan (söylenmeyen) metnin ne kadar görünür kalacağı. Düşük değer = daha fazla soluklaşma."
+      ],
+      "Listen to selected text": [
+        "Seçili metni dinle"
+      ],
+      "Show a small “Listen” control when a reader selects text in the article, to read only the selection — or from the selected word to the end. On the browser players the selection is spoken directly; on MP3 players the audio jumps to the matching position (precise on Google Cloud/ElevenLabs with word timing, approximate otherwise).": [
+        "Okur makalede bir metin seçtiğinde küçük bir \"Dinle\" denetimi göstererek yalnızca seçimin — ya da seçilen kelimeden sona kadarki bölümün — okunmasını sağlar. Tarayıcı oynatıcılarında seçim doğrudan seslendirilir; MP3 oynatıcılarında ses ilgili konuma atlar (kelime zamanlaması olan Google Cloud/ElevenLabs'ta hassas, diğerlerinde yaklaşık)."
+      ],
+      "Announce selection listening": [
+        "Seçim dinlemeyi duyur"
+      ],
+      "How readers learn the feature exists. The one-time tip appears under the player after their first play and never returns once dismissed. The floating side badge sits collapsed on the left edge and expands on hover; closing it hides it for the visitor's session.": [
+        "Okurların bu özelliği nasıl keşfedeceği. Tek seferlik ipucu, ilk oynatmadan sonra oynatıcının altında görünür ve kapatıldığında bir daha gelmez. Kayan yan rozet sol kenarda katlanmış durur ve üzerine gelindiğinde açılır; kapatılırsa ziyaretçinin oturumu boyunca gizlenir."
+      ],
+      "One-time tip after first play (recommended)": [
+        "İlk oynatmadan sonra tek seferlik ipucu (önerilen)"
+      ],
+      "Floating side badge": [
+        "Kayan yan rozet"
+      ],
+      "Both": [
+        "Her ikisi"
+      ],
+      "Off — discover by selecting": [
+        "Kapalı — seçerek keşfetsinler"
+      ],
+      "Auto-scroll to follow": [
+        "Takip için otomatik kaydırma"
+      ],
+      "Smoothly scroll the page to keep the spoken word in view. Turn off if scrolling is distracting.": [
+        "Söylenen kelimenin görünür kalması için sayfayı akıcı biçimde kaydırın. Kaydırma dikkat dağıtıyorsa kapatın."
+      ],
+      "Saving…": [
+        "Kaydediliyor…"
+      ],
+      "Save Changes": [
+        "Değişiklikleri Kaydet"
+      ],
+      "Help information about this setting": [
+        "Bu ayar hakkında yardım bilgisi"
+      ],
+      "Read the full documentation": [
+        "Tüm belgeleri okuyun"
+      ],
+      "Integration Setup": [
+        "Entegrasyon Kurulumu"
+      ],
+      "Connect premium AI voice providers to generate natural MP3 audio.": [
+        "Doğal MP3 sesi üretmek için premium yapay zekâ ses sağlayıcılarını bağlayın."
+      ],
+      "Voice Integrations — Pro Feature": [
+        "Ses Entegrasyonları — Pro Özelliği"
+      ],
+      "Google Cloud TTS, ChatGPT, and ElevenLabs integrations are available in AtlasVoice Pro. The free plugin uses your browser's built-in voices.": [
+        "Google Cloud TTS, ChatGPT ve ElevenLabs entegrasyonları AtlasVoice Pro'da mevcuttur. Ücretsiz eklenti tarayıcınızın yerleşik seslerini kullanır."
+      ],
+      "Voice Language": [
+        "Ses Dili"
+      ],
+      "Default Listening Language": [
+        "Varsayılan Dinleme Dili"
+      ],
+      "Voice to speak": [
+        "Konuşacak ses"
+      ],
+      "Default Listening Voice": [
+        "Varsayılan Dinleme Sesi"
+      ],
+      "Hear 200+ Pro AI voices live": [
+        "200'den fazla Pro yapay zekâ sesini canlı dinleyin"
+      ],
+      "Voice Speed": [
+        "Ses Hızı"
+      ],
+      "Voice Volume": [
+        "Ses Düzeyi"
+      ],
+      "Voice Pitch": [
+        "Ses Perdesi"
+      ],
+      "Default Listening Pitch": [
+        "Varsayılan Dinleme Perdesi"
+      ],
+      "Listening Preferences": [
+        "Dinleme Tercihleri"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Farklı sesler ve dillerle dinleme tercihlerinizi belirleyin."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Dinleme ayarları kaydedildi. Kurulum tamamlandı. İyi eğlenceler!"
+      ],
+      "Multilingual Voice Mapping — Pro Feature": [
+        "Çok Dilli Ses Eşleştirme — Pro Özelliği"
+      ],
+      "We detected an active translation plugin. Mapping a voice and language to each translated language is available in AtlasVoice Pro.": [
+        "Etkin bir çeviri eklentisi algıladık. Her çevrilmiş dile bir ses ve dil eşlemek AtlasVoice Pro'da mevcuttur."
+      ],
+      "Scan failed.": [
+        "Tarama başarısız oldu."
+      ],
+      "Scan failed: ": [
+        "Tarama başarısız oldu: "
+      ],
+      "No files selected.": [
+        "Hiçbir dosya seçilmedi."
+      ],
+      "Deleted": [
+        "Silindi"
+      ],
+      "Freed": [
+        "Boşaltıldı"
+      ],
+      "Deletion failed.": [
+        "Silme başarısız oldu."
+      ],
+      "Deletion failed: ": [
+        "Silme başarısız oldu: "
+      ],
+      "Maintenance": [
+        "Bakım"
+      ],
+      "⚠ Destructive action.": [
+        "⚠ Geri alınamaz işlem."
+      ],
+      "This tool permanently deletes leftover per-batch MP3 chunks (files like title-1.mp3, title-2.mp3) from uploads/TTA_Pro/. Only files that meet all of the following are listed:": [
+        "Bu araç, uploads/TTA_Pro/ klasöründe kalan toplu iş parçası MP3'lerini (başlik-1.mp3, başlik-2.mp3 gibi dosyaları) kalıcı olarak siler. Yalnızca aşağıdakilerin tamamını sağlayan dosyalar listelenir:"
+      ],
+      "Filename ends with -N.mp3 where N is a number": [
+        "Dosya adı, N bir sayı olmak üzere -N.mp3 ile biter"
+      ],
+      "The final concatenated file (title.mp3) already exists in the same folder": [
+        "Nihai birleştirilmiş dosya (başlik.mp3) aynı klasörde zaten mevcuttur"
+      ],
+      "The file is older than 1 hour (so an in-flight batch is never affected)": [
+        "Dosya 1 saatten eskidir (böylece süren bir toplu iş asla etkilenmez)"
+      ],
+      "The file sits under wp-uploads/TTA_Pro/ (path traversal is rejected)": [
+        "Dosya wp-uploads/TTA_Pro/ altındadır (dizin dışına çıkma reddedilir)"
+      ],
+      "⚠ Reduced safety margin.": [
+        "⚠ Azaltılmış güvenlik payı."
+      ],
+      "You have lowered the age threshold below the 1-hour safe default. Files created by an in-flight batch could match. Only use this if no generation is currently running.": [
+        "Yaş eşiğini güvenli varsayılan olan 1 saatin altına indirdiniz. Süren bir toplu işin oluşturduğu dosyalar eşleşebilir. Bunu yalnızca şu anda üretim çalışmıyorsa kullanın."
+      ],
+      "Include files older than:": [
+        "Şundan eski dosyaları dahil et:"
+      ],
+      "Scanning…": [
+        "Taranıyor…"
+      ],
+      "Scan for orphan files": [
+        "Artık dosyaları tara"
+      ],
+      "Per page:": [
+        "Sayfa başına:"
+      ],
+      "Delete selected": [
+        "Seçilenleri sil"
+      ],
+      "Delete all": [
+        "Tümünü sil"
+      ],
+      "Total orphans:": [
+        "Toplam artık dosya:"
+      ],
+      "Disk usage:": [
+        "Disk kullanımı:"
+      ],
+      "Nothing to clean — no orphan temp files found.": [
+        "Temizlenecek bir şey yok — artık geçici dosya bulunamadı."
+      ],
+      "All": [
+        "Tüm"
+      ],
+      "orphan files": [
+        "artık dosya"
+      ],
+      "across all pages are selected.": [
+        "tüm sayfalarda seçildi."
+      ],
+      "Clear selection": [
+        "Seçimi temizle"
+      ],
+      "files on this page are selected.": [
+        "dosya bu sayfada seçildi."
+      ],
+      "Select all": [
+        "Tümünü seç"
+      ],
+      "files across all pages": [
+        "tüm sayfalardaki dosya"
+      ],
+      "File": [
+        "Dosya"
+      ],
+      "Provider": [
+        "Sağlayıcı"
+      ],
+      "Size": [
+        "Boyut"
+      ],
+      "Modified": [
+        "Değiştirilme"
+      ],
+      "Previous": [
+        "Önceki"
+      ],
+      "Page": [
+        "Sayfa"
+      ],
+      "Next": [
+        "Sonraki"
+      ],
+      "Confirm deletion": [
+        "Silmeyi onayla"
+      ],
+      "You are about to permanently delete": [
+        "Şunu kalıcı olarak silmek üzeresiniz:"
+      ],
+      "files": [
+        "dosya"
+      ],
+      "This cannot be undone. Server-side safety rules will re-validate each file before deletion.": [
+        "Bu geri alınamaz. Sunucu tarafındaki güvenlik kuralları, silmeden önce her dosyayı yeniden doğrular."
+      ],
+      "Type ": [
+        "Onaylamak için "
+      ],
+      " to confirm:": [
+        " yazın:"
+      ],
+      "Deleting…": [
+        "Siliniyor…"
+      ],
+      "Permanently delete": [
+        "Kalıcı olarak sil"
+      ],
+      "Maintenance tools are available with the Pro plugin active.": [
+        "Bakım araçları, Pro eklentisi etkinken kullanılabilir."
+      ],
+      "Include Content By CSS Selectors": [
+        "CSS Seçicileriyle İçerik Dahil Et"
+      ],
+      "e.g. div.entry-content (multi-line allowed)": [
+        "örn. div.entry-content (birden çok satır olabilir)"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "CSS Seçicileriyle İçerik Hariç Tut"
+      ],
+      "e.g. .share-bar, .related-posts": [
+        "örn. .share-bar, .related-posts"
+      ],
+      "Exclude HTML Tags To Speak": [
+        "Okunmayacak HTML Etiketleri"
+      ],
+      "Pipe-separated. e.g. blockquote|figure": [
+        "Dikey çizgiyle ayrılır. örn. blockquote|figure"
+      ],
+      "Exclude Texts To Speak": [
+        "Okunmayacak Metinler"
+      ],
+      "Pipe-separated. e.g. Read more...|Advertisement": [
+        "Dikey çizgiyle ayrılır. örn. Devamını oku...|Reklam"
+      ],
+      "Could not find a post matching that ID or slug.": [
+        "Bu kimliğe veya kısa ada uyan bir yazı bulunamadı."
+      ],
+      "No published post available to launch the picker on.": [
+        "Seçiciyi başlatmak için yayımlanmış bir yazı yok."
+      ],
+      "Picker launch failed.": [
+        "Seçici başlatılamadı."
+      ],
+      "Opening…": [
+        "Açılıyor…"
+      ],
+      "Pick Visually": [
+        "Görsel Olarak Seç"
+      ],
+      "Excludes are a Pro feature": [
+        "Hariç tutmalar bir Pro özelliğidir"
+      ],
+      "On Free you can set the Include Content By CSS Selectors rule below. Excluding content by CSS selectors, HTML tags, or text — plus per-post and per-post-type targeting — are AtlasVoice Pro features.": [
+        "Ücretsiz sürümde aşağıdaki \"CSS Seçicileriyle İçerik Dahil Et\" kuralını belirleyebilirsiniz. İçeriği CSS seçicileri, HTML etiketleri veya metinle hariç tutmak — ayrıca yazı ve yazı türü bazında hedefleme — AtlasVoice Pro özellikleridir."
+      ],
+      "Pro feature — value won't be saved on Free. Upgrade to enable.": [
+        "Pro özelliği — değer ücretsiz sürümde kaydedilmez. Etkinleştirmek için Pro'ya geçin."
+      ],
+      "Pick visually for the global rule": [
+        "Genel kural için görsel olarak seç"
+      ],
+      "Pick visually for this post type": [
+        "Bu yazı türü için görsel olarak seç"
+      ],
+      "Global": [
+        "Genel"
+      ],
+      "Post type:": [
+        "Yazı türü:"
+      ],
+      "Manual post (optional)": [
+        "Elle yazı (isteğe bağlı)"
+      ],
+      "Slug or post ID — leave blank to use a sample": [
+        "Kısa ad veya yazı kimliği — örnek kullanmak için boş bırakın"
+      ],
+      "Configure Settings": [
+        "Ayarları Yapılandır"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "Metin okuma oynatıcısının davranışını ve içerik seçimini yapılandırın"
+      ],
+      "Run Setup Wizard": [
+        "Kurulum Sihirbazını Çalıştır"
+      ],
+      "All cache deleted": [
+        "Tüm önbellek silindi"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "Başarıyla kaydedildi. Şimdi \"Özelleştirme\" menüsüne gidin."
+      ],
+      "Some Pro-only fields were skipped — upgrade to enable them.": [
+        "Yalnızca Pro'ya özel bazı alanlar atlandı — etkinleştirmek için Pro'ya geçin."
+      ],
+      "Add Button or Player Automatically": [
+        "Düğmeyi veya Oynatıcıyı Otomatik Ekle"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "\"Düğmeyi veya Oynatıcıyı Otomatik Ekle\" özelliği, AtlasVoice'un yazılarınıza veya sayfalarınıza elle kurulum gerekmeden otomatik olarak bir oynat düğmesi ya da ses oynatıcısı eklemesini sağlar."
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "Başka Bir Sekmeye Geçince Okumaya Devam Et"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "Etkinleştirildiğinde, geçerli sekmeden ayrılsanız bile metin okuma çalmaya devam eder"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "TTS Sekmesine Dönünce Otomatik Oynatmayı Durdur"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "Başka bir sekmeden TTS sekmesine dönerken oynatmayı otomatik olarak duraklat"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "Aşağı Kaydırınca Kayan Oynatıcıyı Durdur"
+      ],
+      "Turn this on to keep the player in place instead of floating it when readers scroll past. Applies to the Bottom positions in Customization.": [
+        "Okurlar oynatıcıyı geçip kaydırdığında oynatıcının kaymak yerine yerinde kalması için bunu açın. Özelleştirme'deki Alt konumlar için geçerlidir."
+      ],
+      "Apply number format": [
+        "Sayı biçimini uygula"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "Sayıları söylenen kelimelere dönüştürür (örn. '123' → 'yüz yirmi üç')"
+      ],
+      "Read Content From Dom": [
+        "İçeriği DOM'dan Oku"
+      ],
+      "Add Post Title To Read": [
+        "Yazı Başlığını Okumaya Ekle"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "Ana içerik okunmadan önce yazı başlığını sese dahil eder"
+      ],
+      "Add Post Excerpt To Read": [
+        "Yazı Özetini Okumaya Ekle"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "Ana içerik okunmadan önce yazı özetini sese dahil eder"
+      ],
+      "Enable TTS Status": [
+        "TTS Durumunu Etkinleştir"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "Yazı sayfasında TTS durumunu etkinleştir."
+      ],
+      "Emit Content Wrapper": [
+        "İçerik Sarmalayıcısı Oluştur"
+      ],
+      "Wrap rendered post content in a stable `tts_content_wrapper_<N>` div so the picker / runtime extractor can reliably find it across all posts. Turn off only if your theme's layout breaks on the wrapper.": [
+        "Oluşturulan yazı içeriğini kararlı bir `tts_content_wrapper_<N>` div'i içine alır; böylece seçici / çalışma zamanı ayıklayıcısı onu tüm yazılarda güvenilir biçimde bulabilir. Yalnızca temanızın düzeni sarmalayıcı yüzünden bozuluyorsa kapatın."
+      ],
+      "Add Text Before Content(intro)": [
+        "İçerikten Önce Metin Ekle (giriş)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "Ana içerik başlamadan önce sesli okunacak özel metin"
+      ],
+      "Add Text Before Content": [
+        "İçerikten Önce Metin Ekle"
+      ],
+      "Add Text After Content(outro)": [
+        "İçerikten Sonra Metin Ekle (kapanış)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "Ana içerik bittikten sonra sesli okunacak özel metin"
+      ],
+      "Add Text After Content": [
+        "İçerikten Sonra Metin Ekle"
+      ],
+      "Allow Listening For Post Type": [
+        "Şu Yazı Türü İçin Dinlemeye İzin Ver"
+      ],
+      "Show on-page content selector": [
+        "Sayfa üzerinde içerik seçiciyi göster"
+      ],
+      "Adds the AtlasVoice Selector tabs on the front end for admins so you can pick what gets read aloud right on the post page. Off by default; even when on, it only opens from the “Pick visually” links and never appears on a plain page.": [
+        "Yöneticiler için ön yüze AtlasVoice Selector sekmelerini ekler; böylece neyin sesli okunacağını doğrudan yazı sayfasında seçebilirsiniz. Varsayılan olarak kapalıdır; açık olsa bile yalnızca \"Görsel olarak seç\" bağlantılarından açılır ve sıradan bir sayfada asla görünmez."
+      ],
+      "Full details: on-page content selector & Staging / Live": [
+        "Tüm ayrıntılar: sayfa üzerinde içerik seçici ve Deneme / Yayın"
+      ],
+      "Show Staging / Live indicator in toolbar": [
+        "Araç çubuğunda Deneme / Yayın göstergesini göster"
+      ],
+      "Shows the AtlasVoice mode (Staging or Live) in the WordPress admin bar so you can tell at a glance whether saved rules are driving visitor audio. It is always shown while the on-page content selector is open.": [
+        "WordPress yönetim çubuğunda AtlasVoice kipini (Deneme veya Yayın) gösterir; böylece kaydedilen kuralların ziyaretçi sesini yönetip yönetmediğini bir bakışta anlarsınız. Sayfa üzerindeki içerik seçici açıkken her zaman görünür."
+      ],
+      "Content Selection Rules": [
+        "İçerik Seçim Kuralları"
+      ],
+      "Control which part of your content is read aloud. Set a rule for the whole site (Global) below.": [
+        "İçeriğinizin hangi bölümünün sesli okunacağını belirleyin. Aşağıdan tüm site için (Genel) bir kural ayarlayın."
+      ],
+      "Allow Listening For Post Status": [
+        "Şu Yazı Durumu İçin Dinlemeye İzin Ver"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "Ücretsiz sürümde yalnızca 1 yazı türü seçebilirsiniz."
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "Okumadan Hariç Tutulacak Yazı Kimlikleri"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "5'ten fazla kimliği hariç tutmak bir pro özelliğidir"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "Birden çok kimlik virgülle (,) ayrılır."
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "5'ten fazla kimliği hariç tutmak bir pro özelliğidir. Birden çok kimlik virgülle (,) ayrılır."
+      ],
+      "Exclude Categories To Speak": [
+        "Okumadan Hariç Tutulacak Kategoriler"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "Birden fazla kategoriyi hariç tutmak bir pro özelliğidir"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "Ücretsiz sürümde yalnızca 1 kategori seçebilirsiniz."
+      ],
+      "Exclude Tags To Speak": [
+        "Okumadan Hariç Tutulacak Etiketler"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "Birden fazla etiketi hariç tutmak bir pro özelliğidir"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "Ücretsiz sürümde yalnızca 1 etiket seçebilirsiniz."
+      ],
+      "Enable Button Icon": [
+        "Düğme Simgesini Etkinleştir"
+      ],
+      "Show per-post player toggle in toolbar": [
+        "Araç çubuğunda yazı bazında oynatıcı anahtarını göster"
+      ],
+      "Adds a “Toggle AtlasVoice audio player for this post” control to the WordPress admin bar on front-end pages.": [
+        "Ön yüz sayfalarında WordPress yönetim çubuğuna \"Bu yazı için AtlasVoice ses oynatıcısını aç/kapat\" denetimini ekler."
+      ],
+      "Show dashboard widget": [
+        "Kontrol paneli bileşenini göster"
+      ],
+      "Display the AtlasVoice Quick Stats widget on the WordPress admin dashboard.": [
+        "AtlasVoice Hızlı İstatistikler bileşenini WordPress yönetim panosunda gösterir."
+      ],
+      "Clear all cache": [
+        "Tüm önbelleği temizle"
+      ],
+      "Delete all data on uninstall": [
+        "Kaldırırken tüm verileri sil"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "Etkinleştirildiğinde, eklenti kaldırıldığında tüm eklenti verileri (ayarlar, analizler, üretilen ses dosyaları) kalıcı olarak silinir. Yeniden kurmayı planlıyorsanız veya hata ayıklıyorsanız bunu KAPALI bırakın."
+      ],
+      "⚠️ WARNING: Enabling this will permanently delete ALL plugin data (settings, analytics, generated audio files) when you uninstall the plugin. This action cannot be undone.\n\nAre you sure you want to enable this?": [
+        "⚠️ UYARI: Bunu etkinleştirmek, eklentiyi kaldırdığınızda TÜM eklenti verilerini (ayarlar, analizler, üretilen ses dosyaları) kalıcı olarak siler. Bu işlem geri alınamaz.\n\nEtkinleştirmek istediğinizden emin misiniz?"
+      ],
+      "⚠ Warning:": [
+        "⚠ Uyarı:"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "Kaldırdığınızda tüm eklenti verileri kalıcı olarak silinir. Yeniden kurmayı, hata ayıklamayı veya sürüm değiştirmeyi planlıyorsanız bunu KAPATIN."
+      ],
+      "Danger zone — reset all plugin data": [
+        "Tehlikeli bölge — tüm eklenti verilerini sıfırla"
+      ],
+      "Permanently deletes every AtlasVoice option, transient, post-meta entry, cron event, and the analytics database table. The plugin stays active and boots as a fresh install on the next page load. This action cannot be undone.": [
+        "Tüm AtlasVoice seçeneklerini, geçici verileri, yazı meta kayıtlarını, cron olaylarını ve analiz veritabanı tablosunu kalıcı olarak siler. Eklenti etkin kalır ve bir sonraki sayfa yüklemesinde yeni kurulum gibi başlar. Bu işlem geri alınamaz."
+      ],
+      "Type": [
+        "Yazın:"
+      ],
+      "to confirm:": [
+        "onaylamak için:"
+      ],
+      "All plugin data has been reset. Reloading…": [
+        "Tüm eklenti verileri sıfırlandı. Yenileniyor…"
+      ],
+      "Reset failed.": [
+        "Sıfırlama başarısız oldu."
+      ],
+      "Resetting…": [
+        "Sıfırlanıyor…"
+      ],
+      "Reset all plugin data": [
+        "Tüm eklenti verilerini sıfırla"
+      ],
+      "Save All": [
+        "Tümünü Kaydet"
+      ],
+      "No IDs selected": [
+        "Hiçbir kimlik seçilmedi"
+      ],
+      "Select IDs": [
+        "Kimlikleri Seç"
+      ],
+      "Native speaker": [
+        "Ana dili konuşan"
+      ],
+      "Slow and clear": [
+        "Yavaş ve net"
+      ],
+      "Warm and friendly": [
+        "Sıcak ve samimi"
+      ],
+      "Professional newsreader": [
+        "Profesyonel haber sunucusu"
+      ],
+      "Storyteller": [
+        "Hikâye anlatıcısı"
+      ],
+      "Custom": [
+        "Özel"
+      ],
+      "Live demo": [
+        "Canlı demo"
+      ],
+      "Recording Data Saved": [
+        "Kayıt Verileri Kaydedildi"
+      ],
+      "No published post found to launch the picker.": [
+        "Seçiciyi başlatmak için yayımlanmış bir yazı bulunamadı."
+      ],
+      "Could not open the picker: ": [
+        "Seçici açılamadı: "
+      ],
+      "Pick visually with AtlasVoiceSelector": [
+        "AtlasVoiceSelector ile görsel olarak seçin"
+      ],
+      "Opens a sample post in a new tab. Pick / drag in the rail and click Save to update all four fields below.": [
+        "Yeni bir sekmede örnek bir yazı açar. Çubukta seçim yapın / sürükleyin ve aşağıdaki dört alanı güncellemek için Kaydet'e tıklayın."
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "CSS Seçicileriyle İçerik Dahil Et özelliği pro sürümde mevcuttur"
+      ],
+      "Multiple selector will be multiline.": [
+        "Birden çok seçici ayrı satırlara yazılır."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Bazı içerikler eksik olabilir; css seçicileriyle bulunabilir"
+      ],
+      "Add CSS selectors for the content areas the player should read. One selector per line. Only target post/page body content. If left empty, the player automatically detects the content area.": [
+        "Oynatıcının okuması gereken içerik alanları için CSS seçicileri ekleyin. Her satıra bir seçici. Yalnızca yazı/sayfa gövde içeriğini hedefleyin. Boş bırakılırsa oynatıcı içerik alanını otomatik olarak algılar."
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "CSS Seçicileriyle İçerik Hariç Tut özelliği pro sürümde mevcuttur"
+      ],
+      "Exclude content by CSS selectors": [
+        "İçeriği CSS seçicileriyle hariç tut"
+      ],
+      "You can add \".atlasvoice_no_read\" class to exclude content.": [
+        "İçeriği hariç tutmak için \".atlasvoice_no_read\" sınıfını ekleyebilirsiniz."
+      ],
+      "Remove specific elements within the included content areas above. One selector per line. Example: .social-share, .related-posts, .author-bio": [
+        "Yukarıda dahil edilen içerik alanlarındaki belirli ögeleri kaldırın. Her satıra bir seçici. Örnek: .social-share, .related-posts, .author-bio"
+      ],
+      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Etiketleri hariç tutun; böylece içerikleri atlanır. (Alt simge, üst simge vb.) Bu bir pro özelliğidir."
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Birden çok etiket dikey çizgiyle (|) ayrılır."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Etiketleri hariç tutmak bir pro özelliğidir."
+      ],
+      "HTML tags to skip within the included content. Pipe-separated. script, style, figure, and figcaption are always excluded automatically. Example: sub|sup|blockquote": [
+        "Dahil edilen içerik içinde atlanacak HTML etiketleri. Dikey çizgiyle ayrılır. script, style, figure ve figcaption her zaman otomatik olarak hariç tutulur. Örnek: sub|sup|blockquote"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Okunacak metinleri hariç tutmak bir pro özelliğidir."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Birden çok metin dikey çizgiyle (|) ayrılır."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Metinleri hariç tutmak bir pro özelliğidir."
+      ],
+      "Exact text patterns to remove from the spoken content. Pipe-separated. Applied after all CSS and tag exclusions. Example: Read more...|Advertisement|Sponsored Content": [
+        "Sesli okunan içerikten kaldırılacak birebir metin kalıpları. Dikey çizgiyle ayrılır. Tüm CSS ve etiket hariç tutmalarından sonra uygulanır. Örnek: Devamını oku...|Reklam|Sponsorlu İçerik"
+      ],
+      "See the Pro demo": [
+        "Pro demosunu görün"
+      ]
+    }
+  }
+}

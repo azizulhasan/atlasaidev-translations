@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:43:09+01:00",
+  "translation-revision-date": "2026-09-09T11:46:21+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/chunks/tab-listening.chunk.js",
   "domain": "messages",
@@ -9,18 +9,6 @@
         "domain": "messages",
         "plural": "nplurals=1; plural=0;"
       },
-      "Save": [
-        "Speichern"
-      ],
-      "Low": [
-        "Niedrig"
-      ],
-      "Speed": [
-        "Geschwindigkeit"
-      ],
-      "Please fill the  field : ": [
-        "Bitte fuellen Sie das Feld aus: "
-      ],
       "TTS-1": [
         "TTS-1"
       ],
@@ -51,17 +39,8 @@
       "Voice Model": [
         "Stimmmodell"
       ],
-      "Voice Language": [
-        "Stimmsprache"
-      ],
-      "Default Listening Language": [
-        "Standard-Wiedergabesprache"
-      ],
       "Voice to Speak": [
         "Stimme zum Sprechen"
-      ],
-      "Default Listening Voice": [
-        "Standard-Wiedergabestimme"
       ],
       "Voice Instructions": [
         "Stimmanweisungen"
@@ -78,32 +57,8 @@
       "Enter custom instructions for the voice...": [
         "Geben Sie benutzerdefinierte Anweisungen fuer die Stimme ein..."
       ],
-      "Voice Speed": [
-        "Stimmgeschwindigkeit"
-      ],
       "Your browser does not support the audio element.": [
         "Ihr Browser unterstuetzt das Audio-Element nicht."
-      ],
-      "Listening Preferences": [
-        "Wiedergabeeinstellungen"
-      ],
-      "Set your listening preferences with different voices and languages.": [
-        "Legen Sie Ihre Wiedergabeeinstellungen mit verschiedenen Stimmen und Sprachen fest."
-      ],
-      "Listening settings saved. Now all setup done. Enjoy": [
-        "Wiedergabeeinstellungen gespeichert. Alle Einrichtungen abgeschlossen. Viel Spass"
-      ],
-      "Voice to speak": [
-        "Stimme zum Sprechen"
-      ],
-      "Voice Volume": [
-        "Stimmlautstaerke"
-      ],
-      "Voice Pitch": [
-        "Stimmtonhoehe"
-      ],
-      "Default Listening Pitch": [
-        "Standard-Wiedergabetonhoehe"
       ],
       "Model": [
         "Modell"

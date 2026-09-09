@@ -1,0 +1,32 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepPostType.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Where should the audio player appear?": [
+        "Trình phát âm thanh nên xuất hiện ở đâu?"
+      ],
+      "By default, the player is added to all your Posts. You can change it to any single post type:": [
+        "Theo mặc định, trình phát được thêm vào tất cả Bài viết của bạn. Bạn có thể đổi sang một loại bài viết bất kỳ:"
+      ],
+      "Post type selection": [
+        "Chọn loại bài viết"
+      ],
+      "(%d published)": [
+        "(%d đã đăng)"
+      ],
+      "Free version supports 1 post type. Need multiple post types?": [
+        "Bản miễn phí hỗ trợ 1 loại bài viết. Bạn cần nhiều loại bài viết?"
+      ],
+      "AtlasVoice Pro supports unlimited post types plus AI-powered voices.": [
+        "AtlasVoice Pro hỗ trợ không giới hạn loại bài viết cùng các giọng đọc AI."
+      ]
+    }
+  }
+}

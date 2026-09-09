@@ -1,0 +1,56 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepContentCheck.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Opening…": [
+        "A abrir…"
+      ],
+      "No published post is available to preview yet. Publish a post first, then verify.": [
+        "Ainda não há nenhum artigo publicado para pré-visualizar. Publica primeiro um artigo e depois confirma."
+      ],
+      "Could not open the content preview. Please try again.": [
+        "Não foi possível abrir a pré-visualização do conteúdo. Tenta novamente."
+      ],
+      "Check what gets read aloud": [
+        "Confirma o que é lido em voz alta"
+      ],
+      "Before going live, make sure the player reads the right part of your content — and skips menus, sidebars, and footers. AtlasVoice starts in Staging (hidden from visitors) so you can verify it first, before the player goes live.": [
+        "Antes de publicares, certifica-te de que o leitor lê a parte certa do teu conteúdo — e ignora menus, barras laterais e rodapés. O AtlasVoice começa em Staging (oculto aos visitantes) para que possas confirmar primeiro, antes de o leitor ficar publicado."
+      ],
+      "Click “Open content preview” — a sample post opens in a new tab with the AtlasVoice Selector.": [
+        "Clica em “Abrir a pré-visualização do conteúdo” — abre-se um artigo de exemplo num novo separador com o AtlasVoice Selector."
+      ],
+      "Open “Preview Content” on the right to see exactly what will be read. Adjust the content region if needed.": [
+        "Abre “Pré-visualizar o conteúdo” à direita para veres exatamente o que será lido. Ajusta a zona de conteúdo se for preciso."
+      ],
+      "Come back to this tab and continue — you’ll choose to Go Live on the last step.": [
+        "Volta a este separador e continua — vais escolher se queres publicar no último passo."
+      ],
+      "Open content preview again": [
+        "Abrir novamente a pré-visualização do conteúdo"
+      ],
+      "Open content preview": [
+        "Abrir a pré-visualização do conteúdo"
+      ],
+      "Opened in a new tab. Verify it reads correctly, then return here and click Next.": [
+        "Aberto num novo separador. Confirma que é lido corretamente, volta aqui e clica em Seguinte."
+      ],
+      "This is optional but recommended. You can always re-run it later from the dashboard.": [
+        "É opcional, mas recomendado. Podes sempre repetir mais tarde a partir do painel."
+      ],
+      "Learn how the Staging → Live workflow works →": [
+        "Descobre como funciona o fluxo de Staging a Publicado →"
+      ],
+      "Tip: the player stays hidden from visitors while you’re in Staging, so you can verify it safely first.": [
+        "Sugestão: o leitor continua oculto aos visitantes enquanto estiveres em Staging, para poderes confirmar com tranquilidade."
+      ]
+    }
+  }
+}

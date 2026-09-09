@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:43:09+01:00",
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepFinish.js",
   "domain": "messages",
@@ -9,17 +9,44 @@
         "domain": "messages",
         "plural": "nplurals=1; plural=0;"
       },
-      "Learn More": [
-        "Meer informatie"
+      "Could not go live. Please try from the dashboard.": [
+        "Live gaan is niet gelukt. Probeer het vanuit het dashboard."
       ],
-      "Analytics": [
-        "Analyses"
+      "You’re live! 🎉": [
+        "Je staat live! 🎉"
       ],
-      "Voice": [
-        "Stem"
+      "The audio player is now visible to visitors on all your %s.": [
+        "De audiospeler is nu zichtbaar voor bezoekers op al je %s."
       ],
-      "Default": [
-        "Standaard"
+      "View Player on Your Site": [
+        "Speler op uw site bekijken"
+      ],
+      "Go to Dashboard": [
+        "Naar dashboard"
+      ],
+      "Hear the live demo": [
+        "Beluister de live demo"
+      ],
+      "Setup complete — you’re in Staging": [
+        "Instellen voltooid — je zit in staging"
+      ],
+      "Your settings are saved, but the player is still hidden from visitors. When you’re happy with how your content reads, Go Live to show the player on your site.": [
+        "Je instellingen zijn opgeslagen, maar de speler is nog verborgen voor bezoekers. Ben je tevreden over hoe je inhoud wordt voorgelezen, zet hem dan live om de speler op je site te tonen."
+      ],
+      "Going live…": [
+        "Bezig met live gaan…"
+      ],
+      "Go Live now": [
+        "Nu live zetten"
+      ],
+      "Stay in Staging": [
+        "In staging blijven"
+      ],
+      "How does Staging → Live work? →": [
+        "Hoe werkt de route van staging naar live? →"
+      ],
+      "Explore all AtlasAiDev plugins": [
+        "Ontdek alle plugins van AtlasAiDev"
       ],
       "%d %s": [
         "%d %s"
@@ -33,17 +60,8 @@
       "Your audio player is now live on all your %s.": [
         "Uw audiospeler is nu actief op al uw %s."
       ],
-      "View Player on Your Site": [
-        "Speler op uw site bekijken"
-      ],
-      "Go to Dashboard": [
-        "Naar dashboard"
-      ],
       "Your Setup": [
         "Uw instellingen"
-      ],
-      "Player": [
-        "Speler"
       ],
       "Customized": [
         "Aangepast"
@@ -71,9 +89,6 @@
       ],
       "Listening time, top posts, device breakdown, geographic insights & CSV export.": [
         "Luistertijd, topberichten, apparaatverdeling, geografische inzichten & CSV-export."
-      ],
-      "Explore Pro Plans": [
-        "Pro-abonnementen bekijken"
       ],
       "AI Workflow Automation — AI Agent Hub": [
         "AI Workflow Automatisering — AI Agent Hub"

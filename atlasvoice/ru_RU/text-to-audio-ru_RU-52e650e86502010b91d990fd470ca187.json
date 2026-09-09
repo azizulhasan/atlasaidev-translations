@@ -1,0 +1,512 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-analytics.47d54d2778284f4f.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Last 7 Days": [
+        "Последние 7 дней"
+      ],
+      "Upgrade to Pro": [
+        "Перейти на Pro"
+      ],
+      "Save": [
+        "Сохранить"
+      ],
+      "Pause": [
+        "Пауза"
+      ],
+      "Successfully Saved.": [
+        "Сохранено."
+      ],
+      "Buy Pro version": [
+        "Купить версию Pro"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Loading...": [
+        "Загрузка..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "Посмотрите AtlasVoice Pro в деле"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Послушайте более 200 ИИ-голосов, MP3-плееры и массовую генерацию на живой странице — без установки."
+      ],
+      "Watch the live demo": [
+        "Смотреть демо"
+      ],
+      "Try the live demo": [
+        "Попробовать демо"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Показ кнопки на нескольких записях не поддерживается в бесплатной версии."
+      ],
+      "Select Items...": [
+        "Выберите элементы..."
+      ],
+      "Pro feature. Upgrade to unlock.": [
+        "Возможность версии Pro. Перейдите на Pro, чтобы её открыть."
+      ],
+      "Pro Feature": [
+        "Возможность Pro"
+      ],
+      "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
+        "Перейдите на Pro, чтобы открыть эту возможность и получить доступ к расширенной статистике."
+      ],
+      "Total Posts": [
+        "Всего записей"
+      ],
+      "Total posts with TTS player": [
+        "Записей с плеером TTS"
+      ],
+      "Init": [
+        "Инициализации"
+      ],
+      "Player initialization count": [
+        "Число инициализаций плеера"
+      ],
+      "Play": [
+        "Прослушивания"
+      ],
+      "Total play button clicks": [
+        "Всего нажатий кнопки воспроизведения"
+      ],
+      "Time (Min)": [
+        "Время (мин)"
+      ],
+      "Total listening time": [
+        "Общее время прослушивания"
+      ],
+      "Total pause actions": [
+        "Всего пауз"
+      ],
+      "Download": [
+        "Загрузки"
+      ],
+      "Total MP3 downloads": [
+        "Всего загрузок MP3"
+      ],
+      "End": [
+        "Завершения"
+      ],
+      "Total completions": [
+        "Всего дослушано до конца"
+      ],
+      "Bounce Rate": [
+        "Показатель отказов"
+      ],
+      "Users who didn't complete the audio": [
+        "Пользователи, не дослушавшие аудио"
+      ],
+      "TTS Player Analytics Summary": [
+        "Сводка статистики плеера TTS"
+      ],
+      "Total Interactions:": [
+        "Всего взаимодействий:"
+      ],
+      "Last 30 Days": [
+        "Последние 30 дней"
+      ],
+      "Last 90 Days": [
+        "Последние 90 дней"
+      ],
+      "25%": [
+        "25%"
+      ],
+      "50%": [
+        "50%"
+      ],
+      "75%": [
+        "75%"
+      ],
+      "Engagement Funnel": [
+        "Воронка вовлечённости"
+      ],
+      "Play Rate:": [
+        "Доля прослушиваний:"
+      ],
+      "Completion Rate:": [
+        "Доля завершений:"
+      ],
+      "Biggest Drop:": [
+        "Наибольший спад:"
+      ],
+      "50% → 75%": [
+        "50% → 75%"
+      ],
+      "New Listeners": [
+        "Новые слушатели"
+      ],
+      "Returning": [
+        "Вернувшиеся"
+      ],
+      "Listener Segments": [
+        "Сегменты слушателей"
+      ],
+      "New:": [
+        "Новые:"
+      ],
+      "Returning:": [
+        "Вернувшиеся:"
+      ],
+      "New Listeners:": [
+        "Новые слушатели:"
+      ],
+      "Avg Sessions/User:": [
+        "Сред. число сессий на пользователя:"
+      ],
+      "Yesterday": [
+        "Вчера"
+      ],
+      "OS": [
+        "ОС"
+      ],
+      "OS Breakdown": [
+        "Разбивка по ОС"
+      ],
+      "Device Types": [
+        "Типы устройств"
+      ],
+      "Browser": [
+        "Браузер"
+      ],
+      "Location": [
+        "Местоположение"
+      ],
+      "Top Countries": [
+        "Основные страны"
+      ],
+      "Top Cities": [
+        "Основные города"
+      ],
+      "Custom Range": [
+        "Свой период"
+      ],
+      "Playing Quantity": [
+        "Число прослушиваний"
+      ],
+      "Playing Time (min)": [
+        "Время прослушивания (мин)"
+      ],
+      "Previous Period": [
+        "Предыдущий период"
+      ],
+      "Playing Trend Analysis": [
+        "Анализ динамики прослушиваний"
+      ],
+      "Compare with Previous Period": [
+        "Сравнить с предыдущим периодом"
+      ],
+      "Quantity vs Date": [
+        "Количество по датам"
+      ],
+      "Playing Time(min)": [
+        "Время прослушивания (мин)"
+      ],
+      "Mon": [
+        "Пн"
+      ],
+      "Tue": [
+        "Вт"
+      ],
+      "Wed": [
+        "Ср"
+      ],
+      "Thu": [
+        "Чт"
+      ],
+      "Fri": [
+        "Пт"
+      ],
+      "Sat": [
+        "Сб"
+      ],
+      "Sun": [
+        "Вс"
+      ],
+      "Peak Listening Hours": [
+        "Часы пиковых прослушиваний"
+      ],
+      "Low": [
+        "Мало"
+      ],
+      "Peak": [
+        "Пик"
+      ],
+      "Insight:": [
+        "Вывод:"
+      ],
+      "Your peak listening time is": [
+        "Пик прослушиваний приходится на"
+      ],
+      "Peak Hours Heatmap": [
+        "Тепловая карта пиковых часов"
+      ],
+      "Date Range is only available in Pro version": [
+        "Выбор периода доступен только в версии Pro"
+      ],
+      "Buy Now": [
+        "Купить"
+      ],
+      "Please enable analytics first.": [
+        "Сначала включите статистику."
+      ],
+      "Track Post IDs": [
+        "Отслеживаемые ID записей"
+      ],
+      "You've reached the selection limit.": [
+        "Достигнут предел выбора."
+      ],
+      "Post ID": [
+        "ID записи"
+      ],
+      "Custom Date Range": [
+        "Свой диапазон дат"
+      ],
+      "Please provide a Post ID or date range.": [
+        "Укажите ID записи или диапазон дат."
+      ],
+      "Search": [
+        "Поиск"
+      ],
+      "Clear": [
+        "Очистить"
+      ],
+      "Showing results for:": [
+        "Результаты для:"
+      ],
+      "Post ID:": [
+        "ID записи:"
+      ],
+      "From:": [
+        "С:"
+      ],
+      "To:": [
+        "По:"
+      ],
+      "Metric": [
+        "Показатель"
+      ],
+      "Value": [
+        "Значение"
+      ],
+      "Unlock custom date-range search with Pro": [
+        "Откройте поиск по своему диапазону дат с Pro"
+      ],
+      "Popular Post": [
+        "Популярная запись"
+      ],
+      "Rank": [
+        "Место"
+      ],
+      "Post Title": [
+        "Заголовок записи"
+      ],
+      "Total Interactions": [
+        "Всего взаимодействий"
+      ],
+      "No data available yet. Start tracking posts to see analytics.": [
+        "Данных пока нет. Начните отслеживать записи, чтобы увидеть статистику."
+      ],
+      "View All Posts": [
+        "Показать все записи"
+      ],
+      "CSV export initiated. Check your downloads.": [
+        "Экспорт в CSV начат. Проверьте загрузки."
+      ],
+      "Export failed. Please try again.": [
+        "Не удалось выполнить экспорт. Попробуйте ещё раз."
+      ],
+      "PDF export initiated. Check your downloads.": [
+        "Экспорт в PDF начат. Проверьте загрузки."
+      ],
+      "Please enter at least one recipient email address.": [
+        "Укажите хотя бы один адрес получателя."
+      ],
+      "Report schedule saved successfully.": [
+        "Расписание отчётов сохранено."
+      ],
+      "Failed to save schedule settings.": [
+        "Не удалось сохранить настройки расписания."
+      ],
+      "Please enter recipient email addresses first.": [
+        "Сначала укажите адреса получателей."
+      ],
+      "Test report sent successfully! Check your inbox.": [
+        "Тестовый отчёт отправлен! Проверьте почту."
+      ],
+      "Failed to send test report.": [
+        "Не удалось отправить тестовый отчёт."
+      ],
+      "Failed to send test report. Please check your network connection.": [
+        "Не удалось отправить тестовый отчёт. Проверьте подключение к сети."
+      ],
+      "CSV": [
+        "CSV"
+      ],
+      "PDF": [
+        "PDF"
+      ],
+      "Schedule Report": [
+        "Запланировать отчёт"
+      ],
+      "Schedule Email Reports": [
+        "Запланировать отчёты по эл. почте"
+      ],
+      "Enable automated reports": [
+        "Включить автоматические отчёты"
+      ],
+      "Recipients (comma separated)": [
+        "Получатели (через запятую)"
+      ],
+      "Frequency": [
+        "Частота"
+      ],
+      "Daily": [
+        "Ежедневно"
+      ],
+      "Weekly": [
+        "Еженедельно"
+      ],
+      "Monthly": [
+        "Ежемесячно"
+      ],
+      "Day": [
+        "День"
+      ],
+      "Monday": [
+        "Понедельник"
+      ],
+      "Tuesday": [
+        "Вторник"
+      ],
+      "Wednesday": [
+        "Среда"
+      ],
+      "Thursday": [
+        "Четверг"
+      ],
+      "Friday": [
+        "Пятница"
+      ],
+      "Saturday": [
+        "Суббота"
+      ],
+      "Sunday": [
+        "Воскресенье"
+      ],
+      "Time": [
+        "Время"
+      ],
+      "Include in report:": [
+        "Включить в отчёт:"
+      ],
+      "Summary statistics": [
+        "Сводную статистику"
+      ],
+      "Top 10 posts": [
+        "10 лучших записей"
+      ],
+      "Geographic breakdown": [
+        "Разбивку по регионам"
+      ],
+      "Trend chart": [
+        "График динамики"
+      ],
+      "Device stats": [
+        "Статистику устройств"
+      ],
+      "Next scheduled report:": [
+        "Следующий запланированный отчёт:"
+      ],
+      "Sending...": [
+        "Отправка..."
+      ],
+      "Send Test Report": [
+        "Отправить тестовый отчёт"
+      ],
+      "Saving...": [
+        "Сохранение..."
+      ],
+      "Save Settings": [
+        "Сохранить настройки"
+      ],
+      "Export & Reports": [
+        "Экспорт и отчёты"
+      ],
+      "Last 14 Days": [
+        "Последние 14 дней"
+      ],
+      "All Time": [
+        "За всё время"
+      ],
+      "Getting more than 30 days data is pro feature. Please ": [
+        "Получение данных более чем за 30 дней — возможность pro. Пожалуйста, "
+      ],
+      "Quick Select": [
+        "Быстрый выбор"
+      ],
+      "From": [
+        "С"
+      ],
+      "To": [
+        "По"
+      ],
+      "Custom date select is only available in pro version. Please ": [
+        "Выбор произвольных дат доступен только в версии pro. Пожалуйста, "
+      ],
+      "Apply": [
+        "Применить"
+      ],
+      "CSV exported successfully!": [
+        "CSV успешно экспортирован!"
+      ],
+      "Error exporting CSV": [
+        "Ошибка при экспорте CSV"
+      ],
+      "PDF report opened. Use 'Save as PDF' in the print dialog.": [
+        "Отчёт PDF открыт. Выберите «Сохранить как PDF» в окне печати."
+      ],
+      "Report downloaded as HTML. Open in browser and print to save as PDF.": [
+        "Отчёт скачан в формате HTML. Откройте его в браузере и отправьте на печать, чтобы сохранить как PDF."
+      ],
+      "Failed to generate PDF report.": [
+        "Не удалось создать отчёт PDF."
+      ],
+      "Error exporting PDF": [
+        "Ошибка при экспорте PDF"
+      ],
+      "Analytics": [
+        "Статистика"
+      ],
+      "Track and analyze your TTS player engagement to understand listener behavior.": [
+        "Отслеживайте и анализируйте вовлечённость в плеере TTS, чтобы понимать поведение слушателей."
+      ],
+      "Show listener location in analytics": [
+        "Показывать местоположение слушателей в статистике"
+      ],
+      "Off by default. When on, listener IP addresses are sent to ip-api.com, ipinfo.io and icanhazip.com to resolve city / country for the Location chart. See \"External services\" in the plugin readme.": [
+        "По умолчанию выключено. При включении IP-адреса слушателей отправляются на ip-api.com, ipinfo.io и icanhazip.com для определения города и страны на графике местоположения. См. раздел «Внешние сервисы» в файле readme плагина."
+      ],
+      "Export & Schedule Reports": [
+        "Экспорт и планирование отчётов"
+      ],
+      "Export CSV/PDF reports and schedule automated email digests.": [
+        "Экспортируйте отчёты в CSV/PDF и планируйте автоматические рассылки."
+      ],
+      "Analytics is Currently Disabled": [
+        "Статистика сейчас отключена"
+      ],
+      "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
+        "Включите статистику переключателем выше, чтобы начать фиксировать взаимодействия с плеером TTS и смотреть подробные показатели."
+      ]
+    }
+  }
+}

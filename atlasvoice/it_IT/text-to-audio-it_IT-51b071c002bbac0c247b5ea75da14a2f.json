@@ -1,0 +1,89 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/text-to-audio-button.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Close": [
+        "Chiudi"
+      ],
+      "Listen": [
+        "Ascolta"
+      ],
+      "Settings": [
+        "Impostazioni"
+      ],
+      "Loading": [
+        "Caricamento"
+      ],
+      "Player settings": [
+        "Impostazioni del lettore"
+      ],
+      "Player Settings": [
+        "Impostazioni del Lettore"
+      ],
+      "Close settings": [
+        "Chiudi impostazioni"
+      ],
+      "Language": [
+        "Lingua"
+      ],
+      "Voice": [
+        "Voce"
+      ],
+      "Speed": [
+        "Velocità"
+      ],
+      "Playback speed": [
+        "Velocità di riproduzione"
+      ],
+      "Pitch": [
+        "Tonalità"
+      ],
+      "Voice pitch": [
+        "Tonalità della voce"
+      ],
+      "Volume": [
+        "Volume"
+      ],
+      "Unmute": [
+        "Riattiva audio"
+      ],
+      "Mute": [
+        "Disattiva audio"
+      ],
+      "Unmute audio": [
+        "Riattiva audio"
+      ],
+      "Mute audio": [
+        "Disattiva audio"
+      ],
+      "From here": [
+        "Da qui"
+      ],
+      "Listen to the selected text": [
+        "Ascolta il testo selezionato"
+      ],
+      "Listen from here to the end": [
+        "Ascolta da qui alla fine"
+      ],
+      "Tip: select any text in the article to listen to just that part.": [
+        "Suggerimento: seleziona un testo qualsiasi nell'articolo per ascoltare solo quella parte."
+      ],
+      "Select any text to listen to it": [
+        "Seleziona un testo per ascoltarlo"
+      ],
+      "Dismiss": [
+        "Chiudi"
+      ],
+      "Click to seek": [
+        "Clicca per cercare"
+      ]
+    }
+  }
+}

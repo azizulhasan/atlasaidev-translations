@@ -1,0 +1,47 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepCustomize.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Listen": [
+        "Dinle"
+      ],
+      "Background Color": [
+        "Arka Plan Rengi"
+      ],
+      "Text Color": [
+        "Metin Rengi"
+      ],
+      "Border Color": [
+        "Kenarlık Rengi"
+      ],
+      "Border Radius": [
+        "Kenar Yuvarlaklığı"
+      ],
+      "Customize the player to match your theme": [
+        "Oynatıcıyı temanıza uyacak şekilde özelleştirin"
+      ],
+      "Pick colors and shape for the audio player button. Changes are previewed in real time below.": [
+        "Ses oynatıcı düğmesinin renklerini ve biçimini seçin. Değişiklikler aşağıda anında önizlenir."
+      ],
+      "Live Preview": [
+        "Canlı Önizleme"
+      ],
+      "You can fully customize the player anytime from the Customize tab — including size, position, margins, and custom CSS.": [
+        "Oynatıcıyı boyut, konum, kenar boşlukları ve özel CSS dahil olmak üzere Özelleştir sekmesinden istediğiniz zaman tamamen özelleştirebilirsiniz."
+      ],
+      "AtlasVoice Pro unlocks additional player designs, floating player positions, and MP3 downloads for visitors.": [
+        "AtlasVoice Pro; ek oynatıcı tasarımlarını, kayan oynatıcı konumlarını ve ziyaretçiler için MP3 indirmeyi açar."
+      ],
+      "See Pro Player Designs": [
+        "Pro Oynatıcı Tasarımlarını Gör"
+      ]
+    }
+  }
+}

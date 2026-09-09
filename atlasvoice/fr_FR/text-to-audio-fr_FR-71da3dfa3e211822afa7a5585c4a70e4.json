@@ -1,0 +1,155 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-highlight.5d733dfd1bbfeb49.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Click To Know How It Works?": [
+        "Cliquez pour savoir comment ça fonctionne ?"
+      ],
+      "Loading...": [
+        "Chargement..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "Voir AtlasVoice Pro à l'œuvre"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Écoutez plus de 200 voix IA, les lecteurs MP3 et la génération en lot sur une page réelle — sans rien installer."
+      ],
+      "Watch the live demo": [
+        "Voir la démo en direct"
+      ],
+      "Try the live demo": [
+        "Essayer la démo en direct"
+      ],
+      "Read-Along Highlight": [
+        "Surlignage pendant la lecture"
+      ],
+      "Highlight the word and/or sentence being spoken while the post is read aloud.": [
+        "Surligne le mot et/ou la phrase prononcés pendant la lecture de l'article."
+      ],
+      "speechSynthesis limitation:": [
+        "Limite de speechSynthesis :"
+      ],
+      "Word-level highlighting relies on the browser's speechSynthesis “boundary” events, which only fire for local (offline) device voices. Remote voices (e.g. the “Google …” voices) and some browsers (notably Firefox) fire no word boundaries, so word highlighting can't track them. When that happens the player automatically falls back to sentence highlighting. Sentence highlighting works with every voice and browser — it's the recommended default.": [
+        "Le surlignage mot à mot repose sur les événements « boundary » de speechSynthesis, qui ne sont déclenchés que par les voix locales (hors ligne) de l'appareil. Les voix distantes (par ex. les voix « Google … ») et certains navigateurs (Firefox notamment) n'émettent aucune limite de mot, le surlignage mot à mot ne peut donc pas les suivre. Dans ce cas, le lecteur bascule automatiquement sur le surlignage par phrase. Le surlignage par phrase fonctionne avec toutes les voix et tous les navigateurs — c'est la valeur par défaut recommandée."
+      ],
+      "Precise word timing:": [
+        "Synchronisation précise des mots :"
+      ],
+      "This player generates audio with real per-word timing, so word-by-word highlighting is accurate and works in every browser — no local-voice requirement and no fallback.": [
+        "Ce lecteur génère l'audio avec la synchronisation réelle de chaque mot : le surlignage mot à mot est donc exact et fonctionne dans tous les navigateurs — sans voix locale requise et sans solution de repli."
+      ],
+      "Already-generated audio:": [
+        "Audio déjà généré :"
+      ],
+      "Word timing is captured while the audio is being generated, so posts whose MP3 was created before highlighting was enabled have no timing data — they will use sentence highlighting until their audio is regenerated. To upgrade them, regenerate the audio with the Bulk MP3 tool (or regenerate an individual post). Note: regeneration sends the post content to your TTS provider (Google Cloud / ElevenLabs) again, so it consumes provider characters/credits just like the first generation — word timing can only be produced by the provider during synthesis, which is why it isn't added to existing files automatically.": [
+        "La synchronisation des mots est enregistrée pendant la génération de l'audio. Les articles dont le MP3 a été créé avant l'activation du surlignage n'ont donc aucune donnée de synchronisation — ils utiliseront le surlignage par phrase tant que leur audio n'est pas régénéré. Pour les mettre à niveau, régénérez l'audio avec l'outil MP3 en lot (ou régénérez un article isolé). À noter : la régénération renvoie le contenu de l'article à votre fournisseur TTS (Google Cloud / ElevenLabs) et consomme donc des caractères ou des crédits comme la première génération — seule la synthèse chez le fournisseur peut produire la synchronisation des mots, c'est pourquoi elle n'est pas ajoutée automatiquement aux fichiers existants."
+      ],
+      "Successfully Saved...": [
+        "Enregistré avec succès..."
+      ],
+      "Enable highlighting": [
+        "Activer le surlignage"
+      ],
+      "Turn read-along highlighting on or off for the browser players.": [
+        "Active ou désactive le surlignage pendant la lecture pour les lecteurs du navigateur."
+      ],
+      "Highlight mode": [
+        "Mode de surlignage"
+      ],
+      "“Sentence only” works with any voice. “Word” and “Word + Sentence” need a local voice that fires boundary events, and fall back to sentence highlighting otherwise.": [
+        "« Phrase uniquement » fonctionne avec toutes les voix. « Mot » et « Mot + phrase » nécessitent une voix locale émettant des événements boundary, sinon le surlignage par phrase prend le relais."
+      ],
+      "Sentence only (recommended)": [
+        "Phrase uniquement (recommandé)"
+      ],
+      "Word only": [
+        "Mot uniquement"
+      ],
+      "Word + Sentence": [
+        "Mot + phrase"
+      ],
+      "The current player uses generated audio, so read-along highlighting is sentence-level. Word-level options don't apply here.": [
+        "Le lecteur actuel utilise de l'audio généré : le surlignage pendant la lecture se fait donc au niveau de la phrase. Les options au niveau du mot ne s'appliquent pas ici."
+      ],
+      "Word highlight color": [
+        "Couleur de surlignage du mot"
+      ],
+      "Background color painted behind the word currently being spoken.": [
+        "Couleur de fond appliquée derrière le mot en cours de lecture."
+      ],
+      "Word text color": [
+        "Couleur du texte du mot"
+      ],
+      "Text color of the spoken word, for contrast against the highlight color.": [
+        "Couleur du texte du mot prononcé, pour qu'il contraste avec la couleur de surlignage."
+      ],
+      "Sentence highlight color": [
+        "Couleur de surlignage de la phrase"
+      ],
+      "Softer background painted behind the whole sentence being read.": [
+        "Fond plus doux appliqué derrière la phrase entière en cours de lecture."
+      ],
+      "Dim the rest of the article": [
+        "Atténuer le reste de l'article"
+      ],
+      "Fade the surrounding text while reading so the spoken word/sentence stands out.": [
+        "Estompe le texte environnant pendant la lecture pour faire ressortir le mot ou la phrase prononcés."
+      ],
+      "Dimmed text opacity": [
+        "Opacité du texte atténué"
+      ],
+      "How visible the dimmed (non-spoken) text stays. Lower = more dimmed.": [
+        "Le degré de visibilité du texte atténué (non prononcé). Plus la valeur est basse, plus il est estompé."
+      ],
+      "Listen to selected text": [
+        "Écouter le texte sélectionné"
+      ],
+      "Show a small “Listen” control when a reader selects text in the article, to read only the selection — or from the selected word to the end. On the browser players the selection is spoken directly; on MP3 players the audio jumps to the matching position (precise on Google Cloud/ElevenLabs with word timing, approximate otherwise).": [
+        "Affiche un petit bouton « Écouter » lorsqu'un lecteur sélectionne du texte dans l'article, afin de lire uniquement la sélection — ou du mot sélectionné jusqu'à la fin. Sur les lecteurs du navigateur, la sélection est prononcée directement ; sur les lecteurs MP3, l'audio saute à la position correspondante (précise avec Google Cloud/ElevenLabs grâce à la synchronisation des mots, approximative sinon)."
+      ],
+      "Announce selection listening": [
+        "Signaler l'écoute de la sélection"
+      ],
+      "How readers learn the feature exists. The one-time tip appears under the player after their first play and never returns once dismissed. The floating side badge sits collapsed on the left edge and expands on hover; closing it hides it for the visitor's session.": [
+        "La façon dont les lecteurs découvrent la fonctionnalité. L'astuce unique apparaît sous le lecteur après leur première écoute et ne revient plus une fois fermée. Le badge latéral flottant reste replié sur le bord gauche et se déplie au survol ; s'il est fermé, il reste masqué pour la session du visiteur."
+      ],
+      "One-time tip after first play (recommended)": [
+        "Astuce unique après la première écoute (recommandé)"
+      ],
+      "Floating side badge": [
+        "Badge latéral flottant"
+      ],
+      "Both": [
+        "Les deux"
+      ],
+      "Off — discover by selecting": [
+        "Désactivé — à découvrir en sélectionnant"
+      ],
+      "Auto-scroll to follow": [
+        "Défilement automatique pour suivre"
+      ],
+      "Smoothly scroll the page to keep the spoken word in view. Turn off if scrolling is distracting.": [
+        "Fait défiler la page en douceur pour garder le mot prononcé visible. Désactivez-le si le défilement vous gêne."
+      ],
+      "Saving…": [
+        "Enregistrement…"
+      ],
+      "Save Changes": [
+        "Enregistrer les modifications"
+      ],
+      "Help information about this setting": [
+        "Informations d'aide sur ce paramètre"
+      ],
+      "Read the full documentation": [
+        "Lire la documentation complète"
+      ]
+    }
+  }
+}

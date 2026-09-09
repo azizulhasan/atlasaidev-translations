@@ -1,0 +1,65 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-aliases.ef243b8b1f29588f.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Salva"
+      ],
+      "Text to Speech Aliases": [
+        "Alias Testo in Voce"
+      ],
+      "Actual Text": [
+        "Testo Reale"
+      ],
+      "To Read": [
+        "Da Leggere"
+      ],
+      "All fields must be filled!": [
+        "Tutti i campi devono essere compilati!"
+      ],
+      "Successfully Saved.": [
+        "Salvato con successo."
+      ],
+      "Buy Pro version": [
+        "Acquista versione Pro"
+      ],
+      "Here a short text have to write to inform the user about this feature purpose": [
+        "Qui deve essere scritto un breve testo per informare l'utente sullo scopo di questa funzionalità"
+      ],
+      "Write actual text": [
+        "Scrivi testo reale"
+      ],
+      "Write read aloud text": [
+        "Scrivi testo da leggere ad alta voce"
+      ],
+      "More than 1 alias is available in the pro version. Please ": [
+        "Più di 1 alias è disponibile nella versione pro. Per favore "
+      ],
+      "Add New": [
+        "Aggiungi Nuovo"
+      ],
+      "Loading...": [
+        "Caricamento..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "Guarda AtlasVoice Pro in azione"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Ascolta oltre 200 voci AI, lettori MP3 e la generazione in blocco su una pagina reale — senza installare nulla."
+      ],
+      "Watch the live demo": [
+        "Guarda la demo dal vivo"
+      ],
+      "Try the live demo": [
+        "Prova la demo dal vivo"
+      ]
+    }
+  }
+}

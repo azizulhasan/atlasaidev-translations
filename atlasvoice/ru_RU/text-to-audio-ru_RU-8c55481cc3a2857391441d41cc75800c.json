@@ -1,0 +1,161 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-maintenance.d2fe32095cac3d8f.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Cancel": [
+        "Отмена"
+      ],
+      "Scan failed.": [
+        "Не удалось выполнить сканирование."
+      ],
+      "Scan failed: ": [
+        "Не удалось выполнить сканирование: "
+      ],
+      "No files selected.": [
+        "Файлы не выбраны."
+      ],
+      "Deleted": [
+        "Удалено"
+      ],
+      "Freed": [
+        "Освобождено"
+      ],
+      "Deletion failed.": [
+        "Не удалось удалить."
+      ],
+      "Deletion failed: ": [
+        "Не удалось удалить: "
+      ],
+      "Maintenance": [
+        "Обслуживание"
+      ],
+      "⚠ Destructive action.": [
+        "⚠ Необратимое действие."
+      ],
+      "This tool permanently deletes leftover per-batch MP3 chunks (files like title-1.mp3, title-2.mp3) from uploads/TTA_Pro/. Only files that meet all of the following are listed:": [
+        "Этот инструмент безвозвратно удаляет оставшиеся фрагменты MP3 по партиям (файлы вида title-1.mp3, title-2.mp3) из uploads/TTA_Pro/. В списке показываются только файлы, отвечающие всем условиям:"
+      ],
+      "Filename ends with -N.mp3 where N is a number": [
+        "Имя файла оканчивается на -N.mp3, где N — число"
+      ],
+      "The final concatenated file (title.mp3) already exists in the same folder": [
+        "Итоговый объединённый файл (title.mp3) уже есть в той же папке"
+      ],
+      "The file is older than 1 hour (so an in-flight batch is never affected)": [
+        "Файл старше 1 часа (чтобы выполняющаяся партия никогда не пострадала)"
+      ],
+      "The file sits under wp-uploads/TTA_Pro/ (path traversal is rejected)": [
+        "Файл находится внутри wp-uploads/TTA_Pro/ (выход за пределы каталога отклоняется)"
+      ],
+      "⚠ Reduced safety margin.": [
+        "⚠ Уменьшенный запас безопасности."
+      ],
+      "You have lowered the age threshold below the 1-hour safe default. Files created by an in-flight batch could match. Only use this if no generation is currently running.": [
+        "Вы снизили порог возраста ниже безопасного значения по умолчанию в 1 час. Под условие могут попасть файлы выполняющейся партии. Используйте это, только если сейчас не идёт создание аудио."
+      ],
+      "Include files older than:": [
+        "Включать файлы старше:"
+      ],
+      "Scanning…": [
+        "Сканирование…"
+      ],
+      "Scan for orphan files": [
+        "Найти осиротевшие файлы"
+      ],
+      "Per page:": [
+        "На странице:"
+      ],
+      "Delete selected": [
+        "Удалить выбранные"
+      ],
+      "Delete all": [
+        "Удалить все"
+      ],
+      "Total orphans:": [
+        "Всего осиротевших файлов:"
+      ],
+      "Disk usage:": [
+        "Занято на диске:"
+      ],
+      "Nothing to clean — no orphan temp files found.": [
+        "Очищать нечего — осиротевших временных файлов не найдено."
+      ],
+      "All": [
+        "Все"
+      ],
+      "orphan files": [
+        "осиротевших файлов"
+      ],
+      "across all pages are selected.": [
+        "на всех страницах выбрано."
+      ],
+      "Clear selection": [
+        "Снять выделение"
+      ],
+      "files on this page are selected.": [
+        "файлов на этой странице выбрано."
+      ],
+      "Select all": [
+        "Выбрать все"
+      ],
+      "files across all pages": [
+        "файлов на всех страницах"
+      ],
+      "File": [
+        "Файл"
+      ],
+      "Provider": [
+        "Поставщик"
+      ],
+      "Size": [
+        "Размер"
+      ],
+      "Modified": [
+        "Изменён"
+      ],
+      "Previous": [
+        "Назад"
+      ],
+      "Page": [
+        "Страница"
+      ],
+      "Next": [
+        "Вперёд"
+      ],
+      "Confirm deletion": [
+        "Подтвердите удаление"
+      ],
+      "You are about to permanently delete": [
+        "Вы собираетесь безвозвратно удалить"
+      ],
+      "files": [
+        "файлов"
+      ],
+      "This cannot be undone. Server-side safety rules will re-validate each file before deletion.": [
+        "Это действие нельзя отменить. Перед удалением серверные правила безопасности повторно проверят каждый файл."
+      ],
+      "Type ": [
+        "Введите "
+      ],
+      " to confirm:": [
+        " для подтверждения:"
+      ],
+      "Deleting…": [
+        "Удаление…"
+      ],
+      "Permanently delete": [
+        "Удалить безвозвратно"
+      ],
+      "Maintenance tools are available with the Pro plugin active.": [
+        "Инструменты обслуживания доступны при включённом плагине Pro."
+      ]
+    }
+  }
+}

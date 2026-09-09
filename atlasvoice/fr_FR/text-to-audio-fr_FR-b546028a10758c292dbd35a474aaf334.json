@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:43:09+01:00",
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/steps/StepAnalytics.js",
   "domain": "messages",
@@ -9,6 +9,9 @@
         "domain": "messages",
         "plural": "nplurals=1; plural=0;"
       },
+      "Select All": [
+        "Tout sélectionner"
+      ],
       "Track your audio player performance": [
         "Suivez les performances de votre lecteur audio"
       ],
@@ -21,11 +24,8 @@
       "No published posts found. Analytics will start tracking once you publish content.": [
         "Aucun article publié trouvé. Les analyses commenceront le suivi une fois que vous aurez publié du contenu."
       ],
-      "Select posts to track (up to %d in free version):": [
-        "Sélectionnez les articles à suivre (jusqu'à %d dans la version gratuite) :"
-      ],
-      "Select All": [
-        "Tout sélectionner"
+      "All posts are tracked by default. Pick specific posts below to track only those:": [
+        "Par défaut, tous les articles sont suivis. Choisissez ci-dessous des articles précis pour ne suivre que ceux-là :"
       ],
       "Deselect All": [
         "Tout désélectionner"
@@ -33,14 +33,26 @@
       "Posts to track": [
         "Articles à suivre"
       ],
+      "All posts will be tracked": [
+        "Tous les articles seront suivis"
+      ],
+      "selected": [
+        "sélectionnés"
+      ],
+      "AtlasVoice Pro adds geographic insights, device analytics, custom date ranges, and CSV/PDF exports.": [
+        "AtlasVoice Pro ajoute des données géographiques, des statistiques par appareil, des plages de dates personnalisées et des exports CSV/PDF."
+      ],
+      "Learn about Pro Analytics": [
+        "En savoir plus sur les analyses Pro"
+      ],
+      "Select posts to track (up to %d in free version):": [
+        "Sélectionnez les articles à suivre (jusqu'à %d dans la version gratuite) :"
+      ],
       "of %d selected": [
         "sur %d sélectionnés"
       ],
       "AtlasVoice Pro unlocks unlimited post tracking, geographic insights, device analytics, and CSV exports.": [
         "AtlasVoice Pro débloque le suivi illimité des articles, les informations géographiques, les analyses par appareil et les exports CSV."
-      ],
-      "Learn about Pro Analytics": [
-        "En savoir plus sur les analyses Pro"
       ]
     }
   }

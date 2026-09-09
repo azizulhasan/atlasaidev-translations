@@ -1,0 +1,161 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-maintenance.d2fe32095cac3d8f.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Cancel": [
+        "İptal"
+      ],
+      "Scan failed.": [
+        "Tarama başarısız oldu."
+      ],
+      "Scan failed: ": [
+        "Tarama başarısız oldu: "
+      ],
+      "No files selected.": [
+        "Hiçbir dosya seçilmedi."
+      ],
+      "Deleted": [
+        "Silindi"
+      ],
+      "Freed": [
+        "Boşaltıldı"
+      ],
+      "Deletion failed.": [
+        "Silme başarısız oldu."
+      ],
+      "Deletion failed: ": [
+        "Silme başarısız oldu: "
+      ],
+      "Maintenance": [
+        "Bakım"
+      ],
+      "⚠ Destructive action.": [
+        "⚠ Geri alınamaz işlem."
+      ],
+      "This tool permanently deletes leftover per-batch MP3 chunks (files like title-1.mp3, title-2.mp3) from uploads/TTA_Pro/. Only files that meet all of the following are listed:": [
+        "Bu araç, uploads/TTA_Pro/ klasöründe kalan toplu iş parçası MP3'lerini (başlik-1.mp3, başlik-2.mp3 gibi dosyaları) kalıcı olarak siler. Yalnızca aşağıdakilerin tamamını sağlayan dosyalar listelenir:"
+      ],
+      "Filename ends with -N.mp3 where N is a number": [
+        "Dosya adı, N bir sayı olmak üzere -N.mp3 ile biter"
+      ],
+      "The final concatenated file (title.mp3) already exists in the same folder": [
+        "Nihai birleştirilmiş dosya (başlik.mp3) aynı klasörde zaten mevcuttur"
+      ],
+      "The file is older than 1 hour (so an in-flight batch is never affected)": [
+        "Dosya 1 saatten eskidir (böylece süren bir toplu iş asla etkilenmez)"
+      ],
+      "The file sits under wp-uploads/TTA_Pro/ (path traversal is rejected)": [
+        "Dosya wp-uploads/TTA_Pro/ altındadır (dizin dışına çıkma reddedilir)"
+      ],
+      "⚠ Reduced safety margin.": [
+        "⚠ Azaltılmış güvenlik payı."
+      ],
+      "You have lowered the age threshold below the 1-hour safe default. Files created by an in-flight batch could match. Only use this if no generation is currently running.": [
+        "Yaş eşiğini güvenli varsayılan olan 1 saatin altına indirdiniz. Süren bir toplu işin oluşturduğu dosyalar eşleşebilir. Bunu yalnızca şu anda üretim çalışmıyorsa kullanın."
+      ],
+      "Include files older than:": [
+        "Şundan eski dosyaları dahil et:"
+      ],
+      "Scanning…": [
+        "Taranıyor…"
+      ],
+      "Scan for orphan files": [
+        "Artık dosyaları tara"
+      ],
+      "Per page:": [
+        "Sayfa başına:"
+      ],
+      "Delete selected": [
+        "Seçilenleri sil"
+      ],
+      "Delete all": [
+        "Tümünü sil"
+      ],
+      "Total orphans:": [
+        "Toplam artık dosya:"
+      ],
+      "Disk usage:": [
+        "Disk kullanımı:"
+      ],
+      "Nothing to clean — no orphan temp files found.": [
+        "Temizlenecek bir şey yok — artık geçici dosya bulunamadı."
+      ],
+      "All": [
+        "Tüm"
+      ],
+      "orphan files": [
+        "artık dosya"
+      ],
+      "across all pages are selected.": [
+        "tüm sayfalarda seçildi."
+      ],
+      "Clear selection": [
+        "Seçimi temizle"
+      ],
+      "files on this page are selected.": [
+        "dosya bu sayfada seçildi."
+      ],
+      "Select all": [
+        "Tümünü seç"
+      ],
+      "files across all pages": [
+        "tüm sayfalardaki dosya"
+      ],
+      "File": [
+        "Dosya"
+      ],
+      "Provider": [
+        "Sağlayıcı"
+      ],
+      "Size": [
+        "Boyut"
+      ],
+      "Modified": [
+        "Değiştirilme"
+      ],
+      "Previous": [
+        "Önceki"
+      ],
+      "Page": [
+        "Sayfa"
+      ],
+      "Next": [
+        "Sonraki"
+      ],
+      "Confirm deletion": [
+        "Silmeyi onayla"
+      ],
+      "You are about to permanently delete": [
+        "Şunu kalıcı olarak silmek üzeresiniz:"
+      ],
+      "files": [
+        "dosya"
+      ],
+      "This cannot be undone. Server-side safety rules will re-validate each file before deletion.": [
+        "Bu geri alınamaz. Sunucu tarafındaki güvenlik kuralları, silmeden önce her dosyayı yeniden doğrular."
+      ],
+      "Type ": [
+        "Onaylamak için "
+      ],
+      " to confirm:": [
+        " yazın:"
+      ],
+      "Deleting…": [
+        "Siliniyor…"
+      ],
+      "Permanently delete": [
+        "Kalıcı olarak sil"
+      ],
+      "Maintenance tools are available with the Pro plugin active.": [
+        "Bakım araçları, Pro eklentisi etkinken kullanılabilir."
+      ]
+    }
+  }
+}

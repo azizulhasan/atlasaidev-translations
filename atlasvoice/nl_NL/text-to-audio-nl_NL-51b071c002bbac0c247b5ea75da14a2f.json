@@ -1,0 +1,89 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/text-to-audio-button.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Close": [
+        "Sluiten"
+      ],
+      "Listen": [
+        "Luisteren"
+      ],
+      "Settings": [
+        "Instellingen"
+      ],
+      "Loading": [
+        "Laden"
+      ],
+      "Player settings": [
+        "Spelerinstellingen"
+      ],
+      "Player Settings": [
+        "Spelerinstellingen"
+      ],
+      "Close settings": [
+        "Instellingen sluiten"
+      ],
+      "Language": [
+        "Taal"
+      ],
+      "Voice": [
+        "Stem"
+      ],
+      "Speed": [
+        "Snelheid"
+      ],
+      "Playback speed": [
+        "Afspeelsnelheid"
+      ],
+      "Pitch": [
+        "Toonhoogte"
+      ],
+      "Voice pitch": [
+        "Toonhoogte van de stem"
+      ],
+      "Volume": [
+        "Volume"
+      ],
+      "Unmute": [
+        "Dempen opheffen"
+      ],
+      "Mute": [
+        "Dempen"
+      ],
+      "Unmute audio": [
+        "Geluid aanzetten"
+      ],
+      "Mute audio": [
+        "Geluid dempen"
+      ],
+      "From here": [
+        "Vanaf hier"
+      ],
+      "Listen to the selected text": [
+        "De geselecteerde tekst beluisteren"
+      ],
+      "Listen from here to the end": [
+        "Vanaf hier tot het einde beluisteren"
+      ],
+      "Tip: select any text in the article to listen to just that part.": [
+        "Tip: selecteer een stuk tekst in het artikel om alleen dat deel te beluisteren."
+      ],
+      "Select any text to listen to it": [
+        "Selecteer een stuk tekst om het te beluisteren"
+      ],
+      "Dismiss": [
+        "Sluiten"
+      ],
+      "Click to seek": [
+        "Klik om te zoeken"
+      ]
+    }
+  }
+}

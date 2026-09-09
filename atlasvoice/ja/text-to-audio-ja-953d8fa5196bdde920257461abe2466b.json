@@ -1,0 +1,59 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepVoice.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Pro にアップグレード"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Language": [
+        "言語"
+      ],
+      "Voice": [
+        "音声"
+      ],
+      "Choose your voice and language": [
+        "音声と言語を選択"
+      ],
+      "Select a browser voice for your audio player. Visitors will hear content read aloud using the Web Speech API.": [
+        "音声プレーヤーで使うブラウザー音声を選びます。訪問者は Web Speech API を使った読み上げでコンテンツを聴きます。"
+      ],
+      "All Languages": [
+        "すべての言語"
+      ],
+      "Loading voices...": [
+        "音声を読み込んでいます..."
+      ],
+      "Stop Preview": [
+        "プレビューを停止"
+      ],
+      "Preview Voice": [
+        "音声をプレビュー"
+      ],
+      "Currently Active": [
+        "現在有効"
+      ],
+      "Browser Voices (Free)": [
+        "ブラウザー音声 (無料)"
+      ],
+      "Good for basic accessibility. Quality depends on visitor's browser and device.": [
+        "基本的なアクセシビリティに適しています。品質は訪問者のブラウザーやデバイスによって異なります。"
+      ],
+      "AI Voices — Natural & Consistent": [
+        "AI 音声 — 自然で安定した品質"
+      ],
+      "Google Cloud TTS, ElevenLabs, ChatGPT TTS. 200+ premium voices. Same quality for every visitor.": [
+        "Google Cloud TTS、ElevenLabs、ChatGPT TTS。200 種類以上のプレミアム音声。すべての訪問者に同じ品質でお届けします。"
+      ]
+    }
+  }
+}

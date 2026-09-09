@@ -1,0 +1,131 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/build/pricing/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Single site": [
+        "Site único"
+      ],
+      "1 site": [
+        "1 site"
+      ],
+      "5 sites": [
+        "5 sites"
+      ],
+      "Up to 5 sites": [
+        "Até 5 sites"
+      ],
+      "10 sites": [
+        "10 sites"
+      ],
+      "Up to 10 sites": [
+        "Até 10 sites"
+      ],
+      "Read-along highlighting — words and sentences light up as they are spoken": [
+        "Destaque durante a leitura — as palavras e as frases acendem-se à medida que são lidas"
+      ],
+      "4 AI voice engines — AtlasVoice AI, Google Cloud, OpenAI (ChatGPT) and ElevenLabs": [
+        "4 motores de vozes de IA — AtlasVoice AI, Google Cloud, OpenAI (ChatGPT) e ElevenLabs"
+      ],
+      "AtlasVoice AI voices — 80+ languages, included at no extra cost": [
+        "Vozes AtlasVoice AI — mais de 80 idiomas, incluídas sem custo adicional"
+      ],
+      "300+ Google Cloud voices across 90+ languages": [
+        "Mais de 300 vozes do Google Cloud em mais de 90 idiomas"
+      ],
+      "Ultra-realistic ElevenLabs and OpenAI HD voices": [
+        "Vozes ultrarrealistas da ElevenLabs e da OpenAI HD"
+      ],
+      "Bulk MP3 generation — unlimited characters, hundreds of posts": [
+        "Geração de MP3 em massa — caracter ilimitados, centenas de arvocêgos"
+      ],
+      "Unlimited MP3 downloads for you and your visitors": [
+        "Downloads de MP3 ilimitadas para você e para os seus visitantes"
+      ],
+      "Save MP3s to Google Cloud Storage": [
+        "Guarda os MP3 no Google Cloud Storage"
+      ],
+      "6 player styles plus floating / sticky player": [
+        "6 esvocêlos de leitor mais o leitor flusuante / fixo"
+      ],
+      "CSS-selector targeting and exclude by category, tag or ID": [
+        "Segmentação por seletores CSS e exclusão por categoria, evocêqueta ou ID"
+      ],
+      "WPML, GTranslate and TranslatePress — full multilingual support": [
+        "WPML, GTranslate e TranslatePress — suporte mulvocêlingue completo"
+      ],
+      "ACF, SCF and page-builder compatible": [
+        "Compatível com ACF, SCF e construtores de páginas"
+      ],
+      "Advanced analytics plus Audio Schema for SEO rich results": [
+        "Análise avançada e Audio Schema para os resultados enriquecidos de SEO"
+      ],
+      "Text aliases plus priority support (1-hour) and live setup help": [
+        "Aliases de texto, suporte prioritário (1 hora) e ajuda ao vivo na configuração"
+      ],
+      "Bring your own provider keys: AtlasVoice AI voices are included free. Google Cloud, OpenAI (ChatGPT) and ElevenLabs connect to your own provider account, so their usage is billed by the provider — not by us.": [
+        "Use as suas próprias chaves de fornecedor: as vozes AtlasVoice AI estão incluídas gratuitamente. O Google Cloud, a OpenAI (ChatGPT) e a ElevenLabs conectam-se à sua própria conta de fornecedor, por isso a uvocêlização é faturada pelo fornecedor — não por nós."
+      ],
+      "Refunds cover an unresolved bug that leaves the plugin inoperable, requested within 14 days of purchase, after giving us a chance to fix it. Not covered: missing features, third-party plugin conflicts, change of mind, or subscription renewals.": [
+        "Os reembolsos cobrem um erro por resolver que deixe o plugin inuvocêlizável, pedidos no prazo de 14 dias após a compra e depois de nos dares a oportunidade de o corrigir. Não estão cobertos: funcionalidades em falta, conflitos com plugins de terceiros, mudança de ideias ou renovações da assinatura."
+      ],
+      "Yearly": [
+        "Anual"
+      ],
+      "Lifetime": [
+        "Vitalício"
+      ],
+      "one-time": [
+        "pagamento único"
+      ],
+      "/ year": [
+        "/ ano"
+      ],
+      "Most popular": [
+        "O mais popular"
+      ],
+      "Get": [
+        "Comprar"
+      ],
+      "Upgrade to AtlasVoice Pro": [
+        "Passar para o AtlasVoice Pro"
+      ],
+      "4 AI voice engines, 80+ languages, MP3 export and read-along highlighting — one plugin, every site you own.": [
+        "4 motores de vozes de IA, mais de 80 idiomas, exportação para MP3 e destaque durante a leitura — um só plugin, para todos os sites que vocêver."
+      ],
+      "Pay once, own it forever.": [
+        "Pagas uma vez e é seu para sempre."
+      ],
+      "Billed yearly, renews automatically.": [
+        "Faturado anualmente, renova automavocêcamente."
+      ],
+      "14-day money-back guarantee": [
+        "Garanvocêa de devolução do dinheiro em 14 dias"
+      ],
+      "conditions apply ↗": [
+        "aplicam-se condições ↗"
+      ],
+      "See the live demo ↗": [
+        "Ver a demonstração ao vivo ↗"
+      ],
+      "Everything in Pro": [
+        "Tudo o que o Pro inclui"
+      ],
+      "See the full comparison, reviews and FAQ ↗": [
+        "Ver a comparação completa, as avaliações e as perguntas frequentes ↗"
+      ],
+      "You're on AtlasVoice Pro": [
+        "Está a usar o AtlasVoice Pro"
+      ],
+      "Thanks for upgrading. Manage your license from the Pro plugin settings.": [
+        "Obrigado pela asualização. Gere a sua licença nas configurações do plugin Pro."
+      ]
+    }
+  }
+}

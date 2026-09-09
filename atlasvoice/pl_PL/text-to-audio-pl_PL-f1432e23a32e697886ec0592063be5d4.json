@@ -1,0 +1,47 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepCustomize.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Listen": [
+        "Słuchaj"
+      ],
+      "Background Color": [
+        "Kolor tła"
+      ],
+      "Text Color": [
+        "Kolor tekstu"
+      ],
+      "Border Color": [
+        "Kolor obramowania"
+      ],
+      "Border Radius": [
+        "Promień zaokrąglenia"
+      ],
+      "Customize the player to match your theme": [
+        "Dostosuj odtwarzacz do swojego motywu"
+      ],
+      "Pick colors and shape for the audio player button. Changes are previewed in real time below.": [
+        "Wybierz kolory i kształt przycisku odtwarzacza audio. Zmiany są od razu widoczne w podglądzie poniżej."
+      ],
+      "Live Preview": [
+        "Podgląd na żywo"
+      ],
+      "You can fully customize the player anytime from the Customize tab — including size, position, margins, and custom CSS.": [
+        "Odtwarzacz możesz w każdej chwili dowolnie dostosować na karcie Personalizacja — łącznie z rozmiarem, położeniem, marginesami i własnym CSS."
+      ],
+      "AtlasVoice Pro unlocks additional player designs, floating player positions, and MP3 downloads for visitors.": [
+        "AtlasVoice Pro odblokowuje dodatkowe wzory odtwarzacza, pływające położenia oraz pobieranie MP3 przez odwiedzających."
+      ],
+      "See Pro Player Designs": [
+        "Zobacz wzory odtwarzaczy Pro"
+      ]
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-docs.2aff582aa4df64b0.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "See AtlasVoice Pro in action": [
+        "Zie AtlasVoice Pro in actie"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Beluister meer dan 200 AI-stemmen, MP3-spelers en het genereren in bulk op een echte pagina — zonder iets te installeren."
+      ],
+      "Watch the live demo": [
+        "Bekijk de live demo"
+      ],
+      "Try the live demo": [
+        "Probeer de live demo"
+      ],
+      "1. Browser support issues on Android and desktop": [
+        "1. Problemen met browserondersteuning op Android en desktop"
+      ],
+      "This plugin is built using the browser SpeechSynthesis API. No external API is used.": [
+        "Deze plugin is gebouwd met de browser SpeechSynthesis API. Er wordt geen externe API gebruikt."
+      ],
+      "View SpeechSynthesis documentation": [
+        "SpeechSynthesis-documentatie bekijken"
+      ],
+      "Browser and device support varies, so available voices and languages may differ between desktop and mobile devices.": [
+        "Browser- en apparaatondersteuning verschilt, dus beschikbare stemmen en talen kunnen verschillen tussen desktop en mobiele apparaten."
+      ],
+      "Submit a support ticket": [
+        "Een ondersteuningsticket indienen"
+      ],
+      "There are no browser limitations in the Pro version.": [
+        "Er zijn geen browserbeperkingen in de Pro-versie."
+      ],
+      "2. Different voices or languages on mobile": [
+        "2. Verschillende stemmen of talen op mobiel"
+      ],
+      "SpeechSynthesis support varies between browsers and devices. Some voices may be available on desktop but not on mobile.": [
+        "SpeechSynthesis-ondersteuning verschilt tussen browsers en apparaten. Sommige stemmen zijn mogelijk beschikbaar op desktop maar niet op mobiel."
+      ],
+      "The Pro version does not have these limitations.": [
+        "De Pro-versie heeft deze beperkingen niet."
+      ],
+      "3. Can I exclude certain words from playback?": [
+        "3. Kan ik bepaalde woorden uitsluiten van afspelen?"
+      ],
+      "Yes. You can exclude specific words or phrases in the Pro version.": [
+        "Ja. U kunt specifieke woorden of zinnen uitsluiten in de Pro-versie."
+      ],
+      "Use the pipe (|) symbol to separate multiple words or phrases.": [
+        "Gebruik het pipe-symbool (|) om meerdere woorden of zinnen te scheiden."
+      ],
+      "4. Can I exclude specific HTML tags from playback?": [
+        "4. Kan ik specifieke HTML-tags uitsluiten van afspelen?"
+      ],
+      "The Pro version allows excluding content wrapped in specific HTML tags.": [
+        "De Pro-versie maakt het mogelijk om inhoud in specifieke HTML-tags uit te sluiten."
+      ],
+      "Use the pipe (|) symbol to exclude multiple tags.": [
+        "Gebruik het pipe-symbool (|) om meerdere tags uit te sluiten."
+      ],
+      "5. How can I change button text?": [
+        "5. Hoe kan ik de knoptekst wijzigen?"
+      ],
+      "Button text can be changed using shortcode attributes or filters. Filters always override shortcode values.": [
+        "Knoptekst kan gewijzigd worden met shortcode-attributen of filters. Filters overschrijven altijd shortcode-waarden."
+      ],
+      "6. How do I add a custom CSS class to the button?": [
+        "6. Hoe voeg ik een aangepaste CSS-klasse toe aan de knop?"
+      ],
+      "7. Backend filters (Free version)": [
+        "7. Backend-filters (gratis versie)"
+      ],
+      "Filter": [
+        "Filter"
+      ],
+      "Arguments": [
+        "Argumenten"
+      ],
+      "8. Scripts blocked by CORS policy when using a CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)": [
+        "8. Scripts geblokkeerd door het CORS-beleid bij gebruik van een CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)"
+      ],
+      "Symptom:": [
+        "Symptoom:"
+      ],
+      "The browser console shows errors like “Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.” The player never loads.": [
+        "De browserconsole toont fouten zoals “Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.” De speler laadt nooit."
+      ],
+      "Why this happens:": [
+        "Waarom dit gebeurt:"
+      ],
+      "Your CDN is serving our plugin's JavaScript files, but your origin server isn't sending an Access-Control-Allow-Origin header. CDNs are pull caches — they only return what the origin gives them. When WP Rocket's Delay JavaScript (or a similar optimizer) adds a crossorigin attribute to the script tag, the browser then enforces CORS and blocks the load. This is a server configuration on your site, not a plugin bug.": [
+        "Je CDN levert de JavaScript-bestanden van onze plugin, maar je oorspronkelijke server stuurt geen Access-Control-Allow-Origin-header mee. CDN's zijn pull-caches — ze geven alleen terug wat de oorsprong hun geeft. Zodra Delay JavaScript van WP Rocket (of een vergelijkbare optimalisatie) een crossorigin-attribuut aan de scripttag toevoegt, gaat de browser CORS afdwingen en blokkeert hij het laden. Dit is een serverinstelling op je site, geen fout in de plugin."
+      ],
+      "Fix — Apache (.htaccess):": [
+        "Oplossing — Apache (.htaccess):"
+      ],
+      "Add the block below to the .htaccess in your WordPress root (same folder as wp-config.php), above the # BEGIN WP Rocket and # BEGIN WordPress sections.": [
+        "Voeg het blok hieronder toe aan de .htaccess in de hoofdmap van WordPress (dezelfde map als wp-config.php), boven de secties # BEGIN WP Rocket en # BEGIN WordPress."
+      ],
+      "Fix — nginx:": [
+        "Oplossing — nginx:"
+      ],
+      "Add this location block inside your server {} block, then reload nginx (sudo nginx -s reload).": [
+        "Voeg dit location-blok toe binnen je server {}-blok en herlaad daarna nginx (sudo nginx -s reload)."
+      ],
+      "Then — purge your CDN cache:": [
+        "Daarna — leeg de cache van je CDN:"
+      ],
+      "WP Rocket → Settings → CDN → Clear all cache files. (Or purge from your CDN dashboard directly.) Until you purge, the CDN keeps serving the old response without the new header.": [
+        "WP Rocket → Instellingen → CDN → Alle cachebestanden wissen. (Of leeg de cache rechtstreeks vanuit je CDN-dashboard.) Zolang je dat niet doet, blijft het CDN het oude antwoord zonder de nieuwe header leveren."
+      ],
+      "Verify:": [
+        "Controleren:"
+      ],
+      "Run this in a terminal and confirm access-control-allow-origin: * appears in the response headers:": [
+        "Voer dit uit in een terminal en controleer of access-control-allow-origin: * in de antwoordheaders staat:"
+      ],
+      "Optional:": [
+        "Optioneel:"
+      ],
+      "If you'd rather avoid CORS altogether, exclude our plugin's script handles (text-to-audio-*, plyr) from WP Rocket → File Optimization → Delay JavaScript execution. That prevents the crossorigin attribute from being added in the first place. Fixing the header is still the more durable solution.": [
+        "Wil je CORS liever helemaal vermijden, sluit dan de scripthandles van onze plugin (text-to-audio-*, plyr) uit bij WP Rocket → Bestandsoptimalisatie → Delay JavaScript execution. Zo wordt het crossorigin-attribuut om te beginnen al niet toegevoegd. De header corrigeren blijft wel de duurzamere oplossing."
+      ],
+      "Read the full guide on atlasaidev.com →": [
+        "Lees de volledige gids op atlasaidev.com →"
+      ],
+      "9. The player or markers are missing inside post cards, related posts or widgets": [
+        "9. De speler of de markeringen ontbreken in berichtkaarten, gerelateerde berichten of widgets"
+      ],
+      "By default the player button and the AtlasVoice markers/wrapper are emitted only on the main content of the post or page being viewed — never inside a secondary loop such as an Avada \"Post Cards\" grid, a \"Related Posts\" block, or a widget. This is intentional: it prevents the content wrapper from being injected into your theme's grid markup and breaking the layout.": [
+        "Standaard worden de spelerknop en de markeringen/wrapper van AtlasVoice alleen op de hoofdinhoud van het bekeken bericht of de bekeken pagina geplaatst — nooit binnen een secundaire loop zoals een “Post Cards”-raster van Avada, een blok “Gerelateerde berichten” of een widget. Dat is met opzet: zo wordt de inhoudswrapper niet in de rastermarkering van je thema geïnjecteerd en blijft de opmaak heel."
+      ],
+      "If you deliberately want the player to render inside a secondary loop, override the tts_is_secondary_loop filter. It receives the computed boolean, the current loop post ID, and the queried object ID.": [
+        "Wil je de speler bewust wél binnen een secundaire loop tonen, overschrijf dan de filter tts_is_secondary_loop. Die ontvangt de berekende booleaanse waarde, de bericht-ID van de huidige loop en de ID van het opgevraagde object."
+      ],
+      "Allow the player everywhere, including post cards:": [
+        "De speler overal toestaan, ook in berichtkaarten:"
+      ],
+      "Allow it only for a specific post type:": [
+        "Alleen toestaan voor een specifiek berichttype:"
+      ]
+    }
+  }
+}

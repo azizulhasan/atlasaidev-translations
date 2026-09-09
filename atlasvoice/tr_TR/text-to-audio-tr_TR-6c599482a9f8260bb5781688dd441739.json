@@ -1,0 +1,107 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/chunks/tab-compatibility.1454b47de8303d47.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Kaydet"
+      ],
+      "Successfully Saved.": [
+        "Kaydedildi."
+      ],
+      "Click To Know How It Works?": [
+        "Nasıl çalıştığını görmek için tıklayın"
+      ],
+      "See AtlasVoice Pro in action": [
+        "AtlasVoice Pro'yu iş başında görün"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "200'den fazla yapay zekâ sesini, MP3 oynatıcılarını ve toplu üretimi canlı bir sayfada dinleyin — kurulum gerekmez."
+      ],
+      "Watch the live demo": [
+        "Canlı demoyu izleyin"
+      ],
+      "Try the live demo": [
+        "Canlı demoyu deneyin"
+      ],
+      "Available Fields": [
+        "Kullanılabilir Alanlar"
+      ],
+      "Select All": [
+        "Tümünü Seç"
+      ],
+      "All fields selected": [
+        "Tüm alanlar seçildi"
+      ],
+      "No ACF fields found": [
+        "ACF alanı bulunamadı"
+      ],
+      "Selected (read order)": [
+        "Seçili (okuma sırası)"
+      ],
+      "Clear All": [
+        "Tümünü Temizle"
+      ],
+      "Click fields on the left to add": [
+        "Eklemek için soldaki alanlara tıklayın"
+      ],
+      "Move up": [
+        "Yukarı taşı"
+      ],
+      "Move down": [
+        "Aşağı taşı"
+      ],
+      "Remove": [
+        "Kaldır"
+      ],
+      "Use ▲ ▼ to reorder. Fields are read top to bottom.": [
+        "Sırayı değiştirmek için ▲ ▼ kullanın. Alanlar yukarıdan aşağıya okunur."
+      ],
+      "Compatibility Status": [
+        "Uyumluluk Durumu"
+      ],
+      "AtlasVoice automatically excludes its scripts from caching and optimization plugins to prevent conflicts.": [
+        "AtlasVoice, çakışmaları önlemek için betiklerini önbellekleme ve iyileştirme eklentilerinden otomatik olarak hariç tutar."
+      ],
+      "JS exclusion active": [
+        "JS hariç tutma etkin"
+      ],
+      "Detected but not handled — may cause conflicts": [
+        "Algılandı ama işlenmedi — çakışmalara yol açabilir"
+      ],
+      "Installed but not active": [
+        "Kurulu ama etkin değil"
+      ],
+      "Not installed": [
+        "Kurulu değil"
+      ],
+      "Add ACF Fields To Posts": [
+        "Yazılara ACF Alanları Ekle"
+      ],
+      "Adding more than 1  ACF field is a pro feature": [
+        "Birden fazla ACF alanı eklemek bir pro özelliğidir"
+      ],
+      "Adding more than 1 ACF field is a pro feature": [
+        "Birden fazla ACF alanı eklemek bir pro özelliğidir"
+      ],
+      "Use custom reading order": [
+        "Özel okuma sırası kullan"
+      ],
+      "When enabled, ACF fields are read in the order shown above. When disabled, fields are read in ACF's default field group order.": [
+        "Etkinleştirildiğinde ACF alanları yukarıda gösterilen sırayla okunur. Devre dışı bırakıldığında ACF'nin varsayılan alan grubu sırası kullanılır."
+      ],
+      "Selected fields are read after the main article content. If a field is already visible in your post content area, it may be read twice. For visible fields, use \"Include Content By CSS Selectors\" in Settings instead to control reading order.": [
+        "Seçili alanlar, ana makale içeriğinden sonra okunur. Bir alan yazı içerik alanınızda zaten görünüyorsa iki kez okunabilir. Görünür alanlar için okuma sırasını denetlemek üzere bunun yerine Ayarlar'daki \"CSS Seçicileriyle İçerik Dahil Et\" seçeneğini kullanın."
+      ],
+      "Loading": [
+        "Yükleniyor"
+      ]
+    }
+  }
+}

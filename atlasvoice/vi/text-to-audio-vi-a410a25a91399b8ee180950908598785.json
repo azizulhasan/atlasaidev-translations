@@ -1,0 +1,131 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/build/pricing/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Single site": [
+        "Một website"
+      ],
+      "1 site": [
+        "1 website"
+      ],
+      "5 sites": [
+        "5 website"
+      ],
+      "Up to 5 sites": [
+        "Tối đa 5 website"
+      ],
+      "10 sites": [
+        "10 website"
+      ],
+      "Up to 10 sites": [
+        "Tối đa 10 website"
+      ],
+      "Read-along highlighting — words and sentences light up as they are spoken": [
+        "Tô sáng khi đọc — từ và câu sáng lên theo lời đọc"
+      ],
+      "4 AI voice engines — AtlasVoice AI, Google Cloud, OpenAI (ChatGPT) and ElevenLabs": [
+        "4 bộ máy giọng AI — AtlasVoice AI, Google Cloud, OpenAI (ChatGPT) và ElevenLabs"
+      ],
+      "AtlasVoice AI voices — 80+ languages, included at no extra cost": [
+        "Giọng AtlasVoice AI — hơn 80 ngôn ngữ, đã bao gồm, không tính thêm phí"
+      ],
+      "300+ Google Cloud voices across 90+ languages": [
+        "Hơn 300 giọng Google Cloud với hơn 90 ngôn ngữ"
+      ],
+      "Ultra-realistic ElevenLabs and OpenAI HD voices": [
+        "Giọng ElevenLabs và OpenAI HD cực kỳ chân thực"
+      ],
+      "Bulk MP3 generation — unlimited characters, hundreds of posts": [
+        "Tạo MP3 hàng loạt — không giới hạn ký tự, hàng trăm bài viết"
+      ],
+      "Unlimited MP3 downloads for you and your visitors": [
+        "Tải MP3 không giới hạn cho bạn và khách truy cập"
+      ],
+      "Save MP3s to Google Cloud Storage": [
+        "Lưu MP3 lên Google Cloud Storage"
+      ],
+      "6 player styles plus floating / sticky player": [
+        "6 kiểu trình phát cùng trình phát nổi / cố định"
+      ],
+      "CSS-selector targeting and exclude by category, tag or ID": [
+        "Nhắm nội dung bằng bộ chọn CSS và loại trừ theo chuyên mục, thẻ hoặc ID"
+      ],
+      "WPML, GTranslate and TranslatePress — full multilingual support": [
+        "WPML, GTranslate và TranslatePress — hỗ trợ đa ngôn ngữ đầy đủ"
+      ],
+      "ACF, SCF and page-builder compatible": [
+        "Tương thích với ACF, SCF và các trình dựng trang"
+      ],
+      "Advanced analytics plus Audio Schema for SEO rich results": [
+        "Phân tích nâng cao cùng Audio Schema cho kết quả tìm kiếm nổi bật"
+      ],
+      "Text aliases plus priority support (1-hour) and live setup help": [
+        "Bí danh phát âm cùng hỗ trợ ưu tiên (trong 1 giờ) và trợ giúp cài đặt trực tiếp"
+      ],
+      "Bring your own provider keys: AtlasVoice AI voices are included free. Google Cloud, OpenAI (ChatGPT) and ElevenLabs connect to your own provider account, so their usage is billed by the provider — not by us.": [
+        "Dùng khóa nhà cung cấp của riêng bạn: giọng AtlasVoice AI được bao gồm miễn phí. Google Cloud, OpenAI (ChatGPT) và ElevenLabs kết nối tới tài khoản nhà cung cấp của bạn, nên chi phí sử dụng do nhà cung cấp tính — không phải chúng tôi."
+      ],
+      "Refunds cover an unresolved bug that leaves the plugin inoperable, requested within 14 days of purchase, after giving us a chance to fix it. Not covered: missing features, third-party plugin conflicts, change of mind, or subscription renewals.": [
+        "Chính sách hoàn tiền áp dụng cho lỗi chưa được khắc phục khiến plugin không dùng được, yêu cầu trong vòng 14 ngày kể từ khi mua và sau khi đã cho chúng tôi cơ hội sửa. Không áp dụng cho: thiếu tính năng, xung đột với plugin bên thứ ba, đổi ý hoặc gia hạn thuê bao."
+      ],
+      "Yearly": [
+        "Hằng năm"
+      ],
+      "Lifetime": [
+        "Trọn đời"
+      ],
+      "one-time": [
+        "trả một lần"
+      ],
+      "/ year": [
+        "/ năm"
+      ],
+      "Most popular": [
+        "Phổ biến nhất"
+      ],
+      "Get": [
+        "Chọn mua"
+      ],
+      "Upgrade to AtlasVoice Pro": [
+        "Nâng cấp lên AtlasVoice Pro"
+      ],
+      "4 AI voice engines, 80+ languages, MP3 export and read-along highlighting — one plugin, every site you own.": [
+        "4 bộ máy giọng AI, hơn 80 ngôn ngữ, xuất MP3 và tô sáng khi đọc — một plugin, dùng cho mọi website bạn sở hữu."
+      ],
+      "Pay once, own it forever.": [
+        "Trả một lần, sở hữu trọn đời."
+      ],
+      "Billed yearly, renews automatically.": [
+        "Thanh toán hằng năm, tự động gia hạn."
+      ],
+      "14-day money-back guarantee": [
+        "Bảo đảm hoàn tiền trong 14 ngày"
+      ],
+      "conditions apply ↗": [
+        "áp dụng điều kiện ↗"
+      ],
+      "See the live demo ↗": [
+        "Xem bản demo trực tiếp ↗"
+      ],
+      "Everything in Pro": [
+        "Mọi thứ có trong bản Pro"
+      ],
+      "See the full comparison, reviews and FAQ ↗": [
+        "Xem bảng so sánh đầy đủ, đánh giá và câu hỏi thường gặp ↗"
+      ],
+      "You're on AtlasVoice Pro": [
+        "Bạn đang dùng AtlasVoice Pro"
+      ],
+      "Thanks for upgrading. Manage your license from the Pro plugin settings.": [
+        "Cảm ơn bạn đã nâng cấp. Hãy quản lý giấy phép trong cài đặt của plugin Pro."
+      ]
+    }
+  }
+}

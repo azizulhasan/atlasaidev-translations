@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-27T11:30:33+01:00",
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
   "generator": "generate-translations.js",
   "source": "src/dashboard/welcome/WelcomeWizard.js",
   "domain": "messages",
@@ -11,6 +11,9 @@
       },
       "Saving...": [
         "Salvando..."
+      ],
+      "Next": [
+        "Próximo"
       ],
       "There was an error saving your settings. Please try again.": [
         "Houve um erro ao salvar suas configurações. Por favor, tente novamente."
@@ -24,14 +27,14 @@
       "Next: Hear the Difference": [
         "Próximo: Ouça a Diferença"
       ],
+      "Next: Check Content": [
+        "Seguinte: confirmar o conteúdo"
+      ],
       "Next: Customize": [
         "Próximo: Personalizar"
       ],
       "Next: Analytics": [
         "Próximo: Análises"
-      ],
-      "Next": [
-        "Próximo"
       ],
       "AtlasVoice Setup": [
         "Configuração do AtlasVoice"

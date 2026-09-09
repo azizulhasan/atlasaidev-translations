@@ -1,0 +1,1748 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/text-to-audio-dashboard-ui.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Last 7 Days": [
+        "過去 7 日間"
+      ],
+      "Upgrade to Pro": [
+        "Pro にアップグレード"
+      ],
+      "Cancel": [
+        "キャンセル"
+      ],
+      "Save": [
+        "保存"
+      ],
+      "Pause": [
+        "一時停止"
+      ],
+      "Default": [
+        "既定"
+      ],
+      "AtlasVoice Pro": [
+        "AtlasVoice Pro"
+      ],
+      "Text to Speech Aliases": [
+        "テキスト読み上げの別名設定"
+      ],
+      "Actual Text": [
+        "元のテキスト"
+      ],
+      "To Read": [
+        "読み方"
+      ],
+      "All fields must be filled!": [
+        "すべての項目を入力してください。"
+      ],
+      "Successfully Saved.": [
+        "保存しました。"
+      ],
+      "Buy Pro version": [
+        "Pro 版を購入"
+      ],
+      "Click To Know How It Works?": [
+        "使い方を見る"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Background Color": [
+        "背景色"
+      ],
+      "Text Color": [
+        "文字色"
+      ],
+      "Custom CSS": [
+        "カスタム CSS"
+      ],
+      "Here a short text have to write to inform the user about this feature purpose": [
+        "この機能の目的をユーザーに伝える短い説明文をここに入力します"
+      ],
+      "Write actual text": [
+        "元のテキストを入力"
+      ],
+      "Write read aloud text": [
+        "読み上げるテキストを入力"
+      ],
+      "More than 1 alias is available in the pro version. Please ": [
+        "2 件以上の別名は Pro 版で利用できます。"
+      ],
+      "Add New": [
+        "新規追加"
+      ],
+      "Loading...": [
+        "読み込み中..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "AtlasVoice Pro の実力を体験"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "200 種類以上の AI 音声、MP3 プレーヤー、一括生成を実際のページで体験 — インストール不要です。"
+      ],
+      "Watch the live demo": [
+        "ライブデモを見る"
+      ],
+      "Try the live demo": [
+        "ライブデモを試す"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "複数の投稿にボタンを表示する機能は無料版では利用できません。"
+      ],
+      "Select Items...": [
+        "項目を選択..."
+      ],
+      "Pro feature. Upgrade to unlock.": [
+        "Pro の機能です。アップグレードすると利用できます。"
+      ],
+      "Pro Feature": [
+        "Pro の機能"
+      ],
+      "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
+        "Pro にアップグレードすると、この機能と高度な分析を利用できます。"
+      ],
+      "Total Posts": [
+        "投稿総数"
+      ],
+      "Total posts with TTS player": [
+        "TTS プレーヤーがある投稿数"
+      ],
+      "Init": [
+        "初期化"
+      ],
+      "Player initialization count": [
+        "プレーヤーの初期化回数"
+      ],
+      "Play": [
+        "再生"
+      ],
+      "Total play button clicks": [
+        "再生ボタンのクリック総数"
+      ],
+      "Time (Min)": [
+        "時間 (分)"
+      ],
+      "Total listening time": [
+        "総視聴時間"
+      ],
+      "Total pause actions": [
+        "一時停止の総回数"
+      ],
+      "Download": [
+        "ダウンロード"
+      ],
+      "Total MP3 downloads": [
+        "MP3 ダウンロード総数"
+      ],
+      "End": [
+        "完了"
+      ],
+      "Total completions": [
+        "最後まで再生された回数"
+      ],
+      "Bounce Rate": [
+        "離脱率"
+      ],
+      "Users who didn't complete the audio": [
+        "最後まで聴かなかったユーザー"
+      ],
+      "TTS Player Analytics Summary": [
+        "TTS プレーヤー分析サマリー"
+      ],
+      "Total Interactions:": [
+        "総インタラクション数:"
+      ],
+      "Last 30 Days": [
+        "過去 30 日間"
+      ],
+      "Last 90 Days": [
+        "過去 90 日間"
+      ],
+      "25%": [
+        "25%"
+      ],
+      "50%": [
+        "50%"
+      ],
+      "75%": [
+        "75%"
+      ],
+      "Engagement Funnel": [
+        "エンゲージメントファネル"
+      ],
+      "Play Rate:": [
+        "再生率:"
+      ],
+      "Completion Rate:": [
+        "完了率:"
+      ],
+      "Biggest Drop:": [
+        "最大の離脱:"
+      ],
+      "50% → 75%": [
+        "50% → 75%"
+      ],
+      "New Listeners": [
+        "新規リスナー"
+      ],
+      "Returning": [
+        "リピーター"
+      ],
+      "Listener Segments": [
+        "リスナーの内訳"
+      ],
+      "New:": [
+        "新規:"
+      ],
+      "Returning:": [
+        "リピーター:"
+      ],
+      "New Listeners:": [
+        "新規リスナー:"
+      ],
+      "Avg Sessions/User:": [
+        "ユーザーあたり平均セッション数:"
+      ],
+      "Yesterday": [
+        "昨日"
+      ],
+      "OS": [
+        "OS"
+      ],
+      "OS Breakdown": [
+        "OS 別の内訳"
+      ],
+      "Device Types": [
+        "デバイスの種類"
+      ],
+      "Browser": [
+        "ブラウザー"
+      ],
+      "Location": [
+        "地域"
+      ],
+      "Top Countries": [
+        "上位の国"
+      ],
+      "Top Cities": [
+        "上位の都市"
+      ],
+      "Custom Range": [
+        "期間を指定"
+      ],
+      "Playing Quantity": [
+        "再生回数"
+      ],
+      "Playing Time (min)": [
+        "再生時間 (分)"
+      ],
+      "Previous Period": [
+        "前の期間"
+      ],
+      "Playing Trend Analysis": [
+        "再生傾向の分析"
+      ],
+      "Compare with Previous Period": [
+        "前の期間と比較"
+      ],
+      "Quantity vs Date": [
+        "回数と日付"
+      ],
+      "Playing Time(min)": [
+        "再生時間 (分)"
+      ],
+      "Mon": [
+        "月"
+      ],
+      "Tue": [
+        "火"
+      ],
+      "Wed": [
+        "水"
+      ],
+      "Thu": [
+        "木"
+      ],
+      "Fri": [
+        "金"
+      ],
+      "Sat": [
+        "土"
+      ],
+      "Sun": [
+        "日"
+      ],
+      "Peak Listening Hours": [
+        "視聴のピーク時間帯"
+      ],
+      "Low": [
+        "低"
+      ],
+      "Peak": [
+        "ピーク"
+      ],
+      "Insight:": [
+        "分析:"
+      ],
+      "Your peak listening time is": [
+        "視聴のピーク時間帯は"
+      ],
+      "Peak Hours Heatmap": [
+        "ピーク時間帯のヒートマップ"
+      ],
+      "Date Range is only available in Pro version": [
+        "期間の指定は Pro 版でのみ利用できます"
+      ],
+      "Buy Now": [
+        "今すぐ購入"
+      ],
+      "Please enable analytics first.": [
+        "先に分析を有効にしてください。"
+      ],
+      "Track Post IDs": [
+        "追跡する投稿 ID"
+      ],
+      "You've reached the selection limit.": [
+        "選択できる上限に達しました。"
+      ],
+      "Post ID": [
+        "投稿 ID"
+      ],
+      "Custom Date Range": [
+        "期間を指定"
+      ],
+      "Please provide a Post ID or date range.": [
+        "投稿 ID または期間を指定してください。"
+      ],
+      "Search": [
+        "検索"
+      ],
+      "Clear": [
+        "クリア"
+      ],
+      "Showing results for:": [
+        "検索条件:"
+      ],
+      "Post ID:": [
+        "投稿 ID:"
+      ],
+      "From:": [
+        "開始:"
+      ],
+      "To:": [
+        "終了:"
+      ],
+      "Metric": [
+        "指標"
+      ],
+      "Value": [
+        "値"
+      ],
+      "Unlock custom date-range search with Pro": [
+        "Pro で期間を指定した検索を利用しましょう"
+      ],
+      "Popular Post": [
+        "人気の投稿"
+      ],
+      "Rank": [
+        "順位"
+      ],
+      "Post Title": [
+        "投稿タイトル"
+      ],
+      "Total Interactions": [
+        "総インタラクション数"
+      ],
+      "No data available yet. Start tracking posts to see analytics.": [
+        "まだデータがありません。投稿の追跡を始めると分析が表示されます。"
+      ],
+      "View All Posts": [
+        "すべての投稿を表示"
+      ],
+      "CSV export initiated. Check your downloads.": [
+        "CSV エクスポートを開始しました。ダウンロードをご確認ください。"
+      ],
+      "Export failed. Please try again.": [
+        "エクスポートに失敗しました。もう一度お試しください。"
+      ],
+      "PDF export initiated. Check your downloads.": [
+        "PDF エクスポートを開始しました。ダウンロードをご確認ください。"
+      ],
+      "Please enter at least one recipient email address.": [
+        "送信先のメールアドレスを 1 件以上入力してください。"
+      ],
+      "Report schedule saved successfully.": [
+        "レポートのスケジュールを保存しました。"
+      ],
+      "Failed to save schedule settings.": [
+        "スケジュール設定を保存できませんでした。"
+      ],
+      "Please enter recipient email addresses first.": [
+        "先に送信先のメールアドレスを入力してください。"
+      ],
+      "Test report sent successfully! Check your inbox.": [
+        "テストレポートを送信しました。受信トレイをご確認ください。"
+      ],
+      "Failed to send test report.": [
+        "テストレポートを送信できませんでした。"
+      ],
+      "Failed to send test report. Please check your network connection.": [
+        "テストレポートを送信できませんでした。ネットワーク接続をご確認ください。"
+      ],
+      "CSV": [
+        "CSV"
+      ],
+      "PDF": [
+        "PDF"
+      ],
+      "Schedule Report": [
+        "レポートを予約"
+      ],
+      "Schedule Email Reports": [
+        "レポートのメール配信を予約"
+      ],
+      "Enable automated reports": [
+        "レポートの自動配信を有効にする"
+      ],
+      "Recipients (comma separated)": [
+        "送信先 (カンマ区切り)"
+      ],
+      "Frequency": [
+        "頻度"
+      ],
+      "Daily": [
+        "毎日"
+      ],
+      "Weekly": [
+        "毎週"
+      ],
+      "Monthly": [
+        "毎月"
+      ],
+      "Day": [
+        "曜日"
+      ],
+      "Monday": [
+        "月曜日"
+      ],
+      "Tuesday": [
+        "火曜日"
+      ],
+      "Wednesday": [
+        "水曜日"
+      ],
+      "Thursday": [
+        "木曜日"
+      ],
+      "Friday": [
+        "金曜日"
+      ],
+      "Saturday": [
+        "土曜日"
+      ],
+      "Sunday": [
+        "日曜日"
+      ],
+      "Time": [
+        "時刻"
+      ],
+      "Include in report:": [
+        "レポートに含める項目:"
+      ],
+      "Summary statistics": [
+        "サマリー統計"
+      ],
+      "Top 10 posts": [
+        "人気投稿トップ 10"
+      ],
+      "Geographic breakdown": [
+        "地域別の内訳"
+      ],
+      "Trend chart": [
+        "傾向グラフ"
+      ],
+      "Device stats": [
+        "デバイス統計"
+      ],
+      "Next scheduled report:": [
+        "次回のレポート配信:"
+      ],
+      "Sending...": [
+        "送信中..."
+      ],
+      "Send Test Report": [
+        "テストレポートを送信"
+      ],
+      "Saving...": [
+        "保存中..."
+      ],
+      "Save Settings": [
+        "設定を保存"
+      ],
+      "Export & Reports": [
+        "エクスポートとレポート"
+      ],
+      "Last 14 Days": [
+        "過去 14 日間"
+      ],
+      "All Time": [
+        "全期間"
+      ],
+      "Getting more than 30 days data is pro feature. Please ": [
+        "30 日を超えるデータの取得は Pro の機能です。"
+      ],
+      "Quick Select": [
+        "クイック選択"
+      ],
+      "From": [
+        "開始"
+      ],
+      "To": [
+        "終了"
+      ],
+      "Custom date select is only available in pro version. Please ": [
+        "期間の指定は Pro 版でのみ利用できます。"
+      ],
+      "Apply": [
+        "適用"
+      ],
+      "CSV exported successfully!": [
+        "CSV をエクスポートしました。"
+      ],
+      "Error exporting CSV": [
+        "CSV のエクスポート中にエラーが発生しました"
+      ],
+      "PDF report opened. Use 'Save as PDF' in the print dialog.": [
+        "PDF レポートを開きました。印刷ダイアログで「PDF として保存」を選択してください。"
+      ],
+      "Report downloaded as HTML. Open in browser and print to save as PDF.": [
+        "レポートを HTML でダウンロードしました。ブラウザーで開き、印刷して PDF として保存してください。"
+      ],
+      "Failed to generate PDF report.": [
+        "PDF レポートを生成できませんでした。"
+      ],
+      "Error exporting PDF": [
+        "PDF のエクスポート中にエラーが発生しました"
+      ],
+      "Analytics": [
+        "分析"
+      ],
+      "Track and analyze your TTS player engagement to understand listener behavior.": [
+        "TTS プレーヤーのエンゲージメントを計測・分析して、リスナーの行動を把握しましょう。"
+      ],
+      "Show listener location in analytics": [
+        "分析でリスナーの地域を表示する"
+      ],
+      "Off by default. When on, listener IP addresses are sent to ip-api.com, ipinfo.io and icanhazip.com to resolve city / country for the Location chart. See \"External services\" in the plugin readme.": [
+        "既定ではオフです。オンにすると、地域グラフ用に都市・国を特定するため、リスナーの IP アドレスが ip-api.com、ipinfo.io、icanhazip.com に送信されます。プラグインの readme の「外部サービス」をご覧ください。"
+      ],
+      "Export & Schedule Reports": [
+        "レポートのエクスポートと予約配信"
+      ],
+      "Export CSV/PDF reports and schedule automated email digests.": [
+        "CSV/PDF レポートをエクスポートし、メールダイジェストの自動配信を予約します。"
+      ],
+      "Analytics is Currently Disabled": [
+        "分析は現在無効です"
+      ],
+      "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
+        "上のスイッチで分析を有効にすると、TTS プレーヤーの操作状況の記録と詳細な指標の表示が始まります。"
+      ],
+      "Available Fields": [
+        "利用できる項目"
+      ],
+      "Select All": [
+        "すべて選択"
+      ],
+      "All fields selected": [
+        "すべての項目を選択中"
+      ],
+      "No ACF fields found": [
+        "ACF フィールドが見つかりません"
+      ],
+      "Selected (read order)": [
+        "選択済み (読み上げ順)"
+      ],
+      "Clear All": [
+        "すべてクリア"
+      ],
+      "Click fields on the left to add": [
+        "左側の項目をクリックして追加します"
+      ],
+      "Move up": [
+        "上へ"
+      ],
+      "Move down": [
+        "下へ"
+      ],
+      "Remove": [
+        "削除"
+      ],
+      "Use ▲ ▼ to reorder. Fields are read top to bottom.": [
+        "▲ ▼ で並べ替えます。項目は上から順に読み上げられます。"
+      ],
+      "Compatibility Status": [
+        "互換性の状態"
+      ],
+      "AtlasVoice automatically excludes its scripts from caching and optimization plugins to prevent conflicts.": [
+        "AtlasVoice は競合を防ぐため、キャッシュ系・最適化系プラグインから自動的にスクリプトを除外します。"
+      ],
+      "JS exclusion active": [
+        "JS の除外が有効"
+      ],
+      "Detected but not handled — may cause conflicts": [
+        "検出されましたが未対応です — 競合が起きる可能性があります"
+      ],
+      "Installed but not active": [
+        "インストール済みですが無効です"
+      ],
+      "Not installed": [
+        "未インストール"
+      ],
+      "Add ACF Fields To Posts": [
+        "投稿に ACF フィールドを追加"
+      ],
+      "Adding more than 1  ACF field is a pro feature": [
+        "2 つ以上の ACF フィールドの追加は Pro の機能です"
+      ],
+      "Adding more than 1 ACF field is a pro feature": [
+        "2 つ以上の ACF フィールドの追加は Pro の機能です"
+      ],
+      "Use custom reading order": [
+        "読み上げ順を指定する"
+      ],
+      "When enabled, ACF fields are read in the order shown above. When disabled, fields are read in ACF's default field group order.": [
+        "有効にすると、ACF フィールドは上に表示された順に読み上げられます。無効の場合は、ACF のフィールドグループの既定の順序で読み上げられます。"
+      ],
+      "Selected fields are read after the main article content. If a field is already visible in your post content area, it may be read twice. For visible fields, use \"Include Content By CSS Selectors\" in Settings instead to control reading order.": [
+        "選択したフィールドは、記事の本文の後に読み上げられます。投稿の本文領域にすでに表示されているフィールドは、二重に読み上げられる場合があります。表示されているフィールドについては、代わりに設定の「CSS セレクターでコンテンツを含める」を使って読み上げ順を指定してください。"
+      ],
+      "Loading": [
+        "読み込み中"
+      ],
+      "Before Content": [
+        "コンテンツの前"
+      ],
+      "After Content": [
+        "コンテンツの後"
+      ],
+      "Bottom Full Width": [
+        "下部・全幅"
+      ],
+      "Bottom Right": [
+        "右下"
+      ],
+      "Bottom Left": [
+        "左下"
+      ],
+      "Sticky Top": [
+        "上部に固定"
+      ],
+      "Select Player": [
+        "プレーヤーを選択"
+      ],
+      "More players (AI voices, MP3) are available in": [
+        "AI 音声や MP3 に対応したプレーヤーはこちらで利用できます:"
+      ],
+      "Hear the Pro players live": [
+        "Pro のプレーヤーを実際に聴く"
+      ],
+      "Select Button Position": [
+        "ボタンの位置を選択"
+      ],
+      "Select where to display the player button": [
+        "プレーヤーボタンを表示する位置を選びます"
+      ],
+      "Floating Position": [
+        "フローティング位置"
+      ],
+      "Where the player docks once the reader scrolls past it. Turn docking off entirely with \"When Scroll Down Stop Floating Player\" in Settings.": [
+        "読者がプレーヤーを通り過ぎてスクロールしたときに固定される位置です。固定を完全に無効にするには、設定の「下方向にスクロールしたらフローティングを停止」をご利用ください。"
+      ],
+      "Display Player To": [
+        "プレーヤーの表示対象"
+      ],
+      "Choose who can see the player": [
+        "プレーヤーを表示する相手を選びます"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "複数のユーザー種別へのプレーヤー表示制限は Pro 版で利用できます"
+      ],
+      "Who Can Download MP3 File": [
+        "MP3 ファイルをダウンロードできる人"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "投稿の公開日以降の MP3 を生成"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "指定した公開日以降の投稿から MP3 ファイルの生成を開始します。期間を指定して MP3 を生成したい場合のみ選択してください。"
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "MP3 を生成する開始日"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "投稿の公開日までの MP3 を生成"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "指定した公開日までの投稿について MP3 ファイルを生成します。期間を指定して MP3 を生成したい場合のみ選択してください。"
+      ],
+      "Generate MP3 File Date To": [
+        "MP3 を生成する終了日"
+      ],
+      "Player Customization": [
+        "プレーヤーのカスタマイズ"
+      ],
+      "Choose icon": [
+        "アイコンを選択"
+      ],
+      "Presets": [
+        "プリセット"
+      ],
+      "Custom SVG": [
+        "カスタム SVG"
+      ],
+      "<svg ...>...</svg>": [
+        "<svg ...>...</svg>"
+      ],
+      "Use this SVG": [
+        "この SVG を使用"
+      ],
+      "Allowed: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Server sanitizes on save.": [
+        "使用できる要素: <svg>、<g>、<path>、<circle>、<rect>、<line>、<polyline>、<polygon>、<ellipse>。保存時にサーバー側で無害化されます。"
+      ],
+      "Listen — initial state": [
+        "再生 — 初期状態"
+      ],
+      "Pause — while speaking": [
+        "一時停止 — 読み上げ中"
+      ],
+      "Resume — after user paused": [
+        "再開 — ユーザーが一時停止した後"
+      ],
+      "Replay — after speech finished": [
+        "もう一度再生 — 読み上げ終了後"
+      ],
+      "Reset to default": [
+        "既定に戻す"
+      ],
+      "Empty = use factory default": [
+        "空欄 = 初期値を使用"
+      ],
+      "Hide tooltip": [
+        "ツールチップを非表示"
+      ],
+      "Show tooltip (advanced)": [
+        "ツールチップを表示 (詳細設定)"
+      ],
+      "Hover tooltip": [
+        "ホバー時のツールチップ"
+      ],
+      "Default Pro": [
+        "Default Pro"
+      ],
+      "Button Texts & Icons — ": [
+        "ボタンのテキストとアイコン — "
+      ],
+      "Reset all to defaults": [
+        "すべて既定に戻す"
+      ],
+      "These labels and icons are shown on the front-end button as it cycles through states. Saved values for the inactive player are preserved if you switch players.": [
+        "これらのラベルとアイコンは、フロントエンドのボタンが状態を切り替えるときに表示されます。使用していないプレーヤーの保存済みの値も、プレーヤーを切り替えたときに保持されます。"
+      ],
+      "Choose player background color": [
+        "プレーヤーの背景色を選択"
+      ],
+      "Choose your color": [
+        "色を選択してください"
+      ],
+      "Hover BG Color": [
+        "ホバー時の背景色"
+      ],
+      "Choose your hover background color": [
+        "ホバー時の背景色を選択してください"
+      ],
+      "Hover Text Color": [
+        "ホバー時の文字色"
+      ],
+      "Choose your hover text color": [
+        "ホバー時の文字色を選択してください"
+      ],
+      "Margin Size (Px)": [
+        "余白のサイズ (px)"
+      ],
+      "Top": [
+        "上"
+      ],
+      "Margin Top": [
+        "上の余白"
+      ],
+      "Bottom": [
+        "下"
+      ],
+      "Margin Bottom": [
+        "下の余白"
+      ],
+      "Left": [
+        "左"
+      ],
+      "Margin Left": [
+        "左の余白"
+      ],
+      "Right": [
+        "右"
+      ],
+      "Margin Right": [
+        "右の余白"
+      ],
+      "Button Style": [
+        "ボタンのスタイル"
+      ],
+      "Height": [
+        "高さ"
+      ],
+      "Button Height": [
+        "ボタンの高さ"
+      ],
+      "Border": [
+        "枠線"
+      ],
+      "Button Border": [
+        "ボタンの枠線"
+      ],
+      "Border Color": [
+        "枠線の色"
+      ],
+      "Font Size": [
+        "文字サイズ"
+      ],
+      "Radius": [
+        "角丸"
+      ],
+      "Border Radius": [
+        "角丸の半径"
+      ],
+      "Button Properties": [
+        "ボタンのプロパティ"
+      ],
+      "Width": [
+        "幅"
+      ],
+      "Button Width": [
+        "ボタンの幅"
+      ],
+      "Add custom styling for your player using the WordPress Customizer's Additional CSS editor.": [
+        "WordPress カスタマイザーの「追加 CSS」エディターで、プレーヤーに独自のスタイルを追加できます。"
+      ],
+      "Open Appearance → Customize → Additional CSS": [
+        "外観 → カスタマイズ → 追加 CSS を開く"
+      ],
+      "Default player preview": [
+        "既定のプレーヤーのプレビュー"
+      ],
+      "This is a preview of the player.": [
+        "これはプレーヤーのプレビューです。"
+      ],
+      "Player settings": [
+        "プレーヤーの設定"
+      ],
+      "Value should be between 0-100": [
+        "値は 0〜100 の範囲で指定してください"
+      ],
+      "Customization": [
+        "カスタマイズ"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "ブランドやお好みに合わせて、プレーヤーとデザインをカスタマイズできます。"
+      ],
+      "Preview on Your Site": [
+        "サイトでプレビュー"
+      ],
+      "Please fill the  field : ": [
+        "この項目を入力してください: "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "このプレーヤーを選択するには、先に連携メニューから認証してください"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "Google Cloud TTS プレーヤーは Pro 版でのみ利用できます。"
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "このプレーヤーを選択するには、先に連携メニューから認証する必要があります"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "ChatGPT TTS プレーヤーは Pro 版でのみ利用できます。"
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "ElevenLabs TTS プレーヤーは Pro 版でのみ利用できます。"
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "Default Pro プレーヤーは Pro 版でのみ利用できます。"
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "AtlasVoice は合成した音声を uploads フォルダーに保存します。uploads フォルダーが書き込み可能になっていません。プラグインのすべての機能をご利用いただくため、uploads フォルダーを書き込み可能にしてください。"
+      ],
+      "Customization saved.": [
+        "カスタマイズを保存しました。"
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "次に「リスニング」メニューで、適切な言語と音声を選択してください。"
+      ],
+      "Write here something and click listen button": [
+        "ここに何か入力して再生ボタンをクリックしてください"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " ここにテキストを入力し、再生ボタンをクリックすると読み上げられます。"
+      ],
+      "Watch Tutorial": [
+        "チュートリアルを見る"
+      ],
+      "Write here something and click listen button.": [
+        "ここに何か入力して再生ボタンをクリックしてください。"
+      ],
+      "Design Customization": [
+        "デザインのカスタマイズ"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "ショートコード | 属性の値は二重引用符 ( \" ) で囲む必要があります"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "ショートコードをコピーしました"
+      ],
+      "Copy Shortcode": [
+        "ショートコードをコピー"
+      ],
+      "1. Browser support issues on Android and desktop": [
+        "1. Android とデスクトップにおけるブラウザー対応の問題"
+      ],
+      "This plugin is built using the browser SpeechSynthesis API. No external API is used.": [
+        "このプラグインはブラウザーの SpeechSynthesis API を利用して作られています。外部 API は使用していません。"
+      ],
+      "View SpeechSynthesis documentation": [
+        "SpeechSynthesis のドキュメントを見る"
+      ],
+      "Browser and device support varies, so available voices and languages may differ between desktop and mobile devices.": [
+        "ブラウザーやデバイスによって対応状況が異なるため、利用できる音声や言語はデスクトップとモバイルで違う場合があります。"
+      ],
+      "Submit a support ticket": [
+        "サポートチケットを送信"
+      ],
+      "There are no browser limitations in the Pro version.": [
+        "Pro 版にはブラウザーによる制限はありません。"
+      ],
+      "2. Different voices or languages on mobile": [
+        "2. モバイルで音声や言語が異なる"
+      ],
+      "SpeechSynthesis support varies between browsers and devices. Some voices may be available on desktop but not on mobile.": [
+        "SpeechSynthesis の対応状況はブラウザーやデバイスによって異なります。デスクトップでは使える音声でも、モバイルでは使えない場合があります。"
+      ],
+      "The Pro version does not have these limitations.": [
+        "Pro 版にはこうした制限はありません。"
+      ],
+      "3. Can I exclude certain words from playback?": [
+        "3. 特定の単語を読み上げから除外できますか?"
+      ],
+      "Yes. You can exclude specific words or phrases in the Pro version.": [
+        "はい。Pro 版では特定の単語や語句を除外できます。"
+      ],
+      "Use the pipe (|) symbol to separate multiple words or phrases.": [
+        "複数の単語や語句を区切るにはパイプ記号 (|) を使用します。"
+      ],
+      "4. Can I exclude specific HTML tags from playback?": [
+        "4. 特定の HTML タグを読み上げから除外できますか?"
+      ],
+      "The Pro version allows excluding content wrapped in specific HTML tags.": [
+        "Pro 版では、特定の HTML タグで囲まれたコンテンツを除外できます。"
+      ],
+      "Use the pipe (|) symbol to exclude multiple tags.": [
+        "複数のタグを除外するにはパイプ記号 (|) を使用します。"
+      ],
+      "5. How can I change button text?": [
+        "5. ボタンのテキストはどうすれば変更できますか?"
+      ],
+      "Button text can be changed using shortcode attributes or filters. Filters always override shortcode values.": [
+        "ボタンのテキストは、ショートコードの属性またはフィルターで変更できます。フィルターは常にショートコードの値より優先されます。"
+      ],
+      "6. How do I add a custom CSS class to the button?": [
+        "6. ボタンに独自の CSS クラスを追加するには?"
+      ],
+      "7. Backend filters (Free version)": [
+        "7. バックエンドのフィルター (無料版)"
+      ],
+      "Filter": [
+        "フィルター"
+      ],
+      "Arguments": [
+        "引数"
+      ],
+      "8. Scripts blocked by CORS policy when using a CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)": [
+        "8. CDN 利用時に CORS ポリシーでスクリプトがブロックされる (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)"
+      ],
+      "Symptom:": [
+        "症状:"
+      ],
+      "The browser console shows errors like “Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.” The player never loads.": [
+        "ブラウザーのコンソールに「Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.」のようなエラーが表示され、プレーヤーが読み込まれません。"
+      ],
+      "Why this happens:": [
+        "原因:"
+      ],
+      "Your CDN is serving our plugin's JavaScript files, but your origin server isn't sending an Access-Control-Allow-Origin header. CDNs are pull caches — they only return what the origin gives them. When WP Rocket's Delay JavaScript (or a similar optimizer) adds a crossorigin attribute to the script tag, the browser then enforces CORS and blocks the load. This is a server configuration on your site, not a plugin bug.": [
+        "CDN が当プラグインの JavaScript ファイルを配信していますが、オリジンサーバーが Access-Control-Allow-Origin ヘッダーを送信していません。CDN はプル型のキャッシュであり、オリジンが返した内容をそのまま返すだけです。WP Rocket の「JavaScript の遅延読み込み」(または類似の最適化機能) が script タグに crossorigin 属性を追加すると、ブラウザーが CORS を適用して読み込みをブロックします。これはお使いのサイトのサーバー設定の問題であり、プラグインの不具合ではありません。"
+      ],
+      "Fix — Apache (.htaccess):": [
+        "対処法 — Apache (.htaccess):"
+      ],
+      "Add the block below to the .htaccess in your WordPress root (same folder as wp-config.php), above the # BEGIN WP Rocket and # BEGIN WordPress sections.": [
+        "WordPress のルート (wp-config.php と同じフォルダー) にある .htaccess の、# BEGIN WP Rocket と # BEGIN WordPress のセクションより上に、以下のブロックを追加してください。"
+      ],
+      "Fix — nginx:": [
+        "対処法 — nginx:"
+      ],
+      "Add this location block inside your server {} block, then reload nginx (sudo nginx -s reload).": [
+        "server {} ブロック内に次の location ブロックを追加し、nginx を再読み込みしてください (sudo nginx -s reload)。"
+      ],
+      "Then — purge your CDN cache:": [
+        "次に — CDN のキャッシュを削除:"
+      ],
+      "WP Rocket → Settings → CDN → Clear all cache files. (Or purge from your CDN dashboard directly.) Until you purge, the CDN keeps serving the old response without the new header.": [
+        "WP Rocket → 設定 → CDN → すべてのキャッシュファイルを削除。(または CDN のダッシュボードから直接削除します。) 削除するまで、CDN は新しいヘッダーのない古いレスポンスを返し続けます。"
+      ],
+      "Verify:": [
+        "確認:"
+      ],
+      "Run this in a terminal and confirm access-control-allow-origin: * appears in the response headers:": [
+        "ターミナルで次のコマンドを実行し、レスポンスヘッダーに access-control-allow-origin: * が含まれることを確認してください:"
+      ],
+      "Optional:": [
+        "任意:"
+      ],
+      "If you'd rather avoid CORS altogether, exclude our plugin's script handles (text-to-audio-*, plyr) from WP Rocket → File Optimization → Delay JavaScript execution. That prevents the crossorigin attribute from being added in the first place. Fixing the header is still the more durable solution.": [
+        "CORS そのものを避けたい場合は、WP Rocket → ファイルの最適化 → JavaScript の遅延読み込みで、当プラグインのスクリプトハンドル (text-to-audio-*、plyr) を除外してください。そうすれば crossorigin 属性が追加されなくなります。ただし、ヘッダーを修正するほうがより確実な解決策です。"
+      ],
+      "Read the full guide on atlasaidev.com →": [
+        "atlasaidev.com で詳しいガイドを読む →"
+      ],
+      "9. The player or markers are missing inside post cards, related posts or widgets": [
+        "9. 投稿カード・関連記事・ウィジェット内にプレーヤーやマーカーが表示されない"
+      ],
+      "By default the player button and the AtlasVoice markers/wrapper are emitted only on the main content of the post or page being viewed — never inside a secondary loop such as an Avada \"Post Cards\" grid, a \"Related Posts\" block, or a widget. This is intentional: it prevents the content wrapper from being injected into your theme's grid markup and breaking the layout.": [
+        "既定では、プレーヤーボタンと AtlasVoice のマーカー/ラッパーは、表示中の投稿またはページの本文にのみ出力され、Avada の「Post Cards」グリッド、「関連記事」ブロック、ウィジェットなどのサブループ内には出力されません。これは意図的な仕様で、テーマのグリッドのマークアップにコンテンツラッパーが挿入されてレイアウトが崩れるのを防ぐためです。"
+      ],
+      "If you deliberately want the player to render inside a secondary loop, override the tts_is_secondary_loop filter. It receives the computed boolean, the current loop post ID, and the queried object ID.": [
+        "意図的にサブループ内でもプレーヤーを表示したい場合は、tts_is_secondary_loop フィルターを上書きしてください。このフィルターは、算出された真偽値、現在のループの投稿 ID、クエリ対象のオブジェクト ID を受け取ります。"
+      ],
+      "Allow the player everywhere, including post cards:": [
+        "投稿カードを含め、どこでもプレーヤーを表示する:"
+      ],
+      "Allow it only for a specific post type:": [
+        "特定の投稿タイプでのみ表示する:"
+      ],
+      "Read-Along Highlight": [
+        "読み上げ位置のハイライト"
+      ],
+      "Highlight the word and/or sentence being spoken while the post is read aloud.": [
+        "投稿の読み上げ中に、発話している単語や文をハイライトします。"
+      ],
+      "speechSynthesis limitation:": [
+        "speechSynthesis の制限:"
+      ],
+      "Word-level highlighting relies on the browser's speechSynthesis “boundary” events, which only fire for local (offline) device voices. Remote voices (e.g. the “Google …” voices) and some browsers (notably Firefox) fire no word boundaries, so word highlighting can't track them. When that happens the player automatically falls back to sentence highlighting. Sentence highlighting works with every voice and browser — it's the recommended default.": [
+        "単語単位のハイライトは、ブラウザーの speechSynthesis の「boundary」イベントに依存しており、このイベントはデバイス内蔵 (オフライン) の音声でしか発生しません。リモート音声 (「Google …」系の音声など) や一部のブラウザー (特に Firefox) では単語の区切りが通知されないため、単語ハイライトは追従できません。その場合、プレーヤーは自動的に文単位のハイライトに切り替わります。文単位のハイライトはすべての音声とブラウザーで動作するため、こちらが推奨の既定値です。"
+      ],
+      "Precise word timing:": [
+        "正確な単語タイミング:"
+      ],
+      "This player generates audio with real per-word timing, so word-by-word highlighting is accurate and works in every browser — no local-voice requirement and no fallback.": [
+        "このプレーヤーは単語ごとの実際のタイミング情報付きで音声を生成するため、単語単位のハイライトが正確で、すべてのブラウザーで動作します。内蔵音声も不要で、代替動作に切り替わることもありません。"
+      ],
+      "Already-generated audio:": [
+        "生成済みの音声について:"
+      ],
+      "Word timing is captured while the audio is being generated, so posts whose MP3 was created before highlighting was enabled have no timing data — they will use sentence highlighting until their audio is regenerated. To upgrade them, regenerate the audio with the Bulk MP3 tool (or regenerate an individual post). Note: regeneration sends the post content to your TTS provider (Google Cloud / ElevenLabs) again, so it consumes provider characters/credits just like the first generation — word timing can only be produced by the provider during synthesis, which is why it isn't added to existing files automatically.": [
+        "単語のタイミングは音声の生成時に記録されるため、ハイライトを有効にする前に MP3 を作成した投稿にはタイミング情報がなく、音声を再生成するまでは文単位のハイライトが使われます。更新するには、一括 MP3 ツールで音声を再生成してください (個別の投稿の再生成も可能です)。注意: 再生成すると投稿の内容が TTS プロバイダー (Google Cloud / ElevenLabs) に再送信されるため、初回生成時と同様にプロバイダーの文字数/クレジットを消費します。単語タイミングは合成時にプロバイダーが生成するものであるため、既存のファイルに自動的に追加することはできません。"
+      ],
+      "Successfully Saved...": [
+        "保存しました..."
+      ],
+      "Enable highlighting": [
+        "ハイライトを有効にする"
+      ],
+      "Turn read-along highlighting on or off for the browser players.": [
+        "ブラウザー系プレーヤーで、読み上げ位置のハイライトのオン/オフを切り替えます。"
+      ],
+      "Highlight mode": [
+        "ハイライトのモード"
+      ],
+      "“Sentence only” works with any voice. “Word” and “Word + Sentence” need a local voice that fires boundary events, and fall back to sentence highlighting otherwise.": [
+        "「文のみ」はどの音声でも動作します。「単語」と「単語 + 文」は boundary イベントを発生させる内蔵音声が必要で、条件を満たさない場合は文単位のハイライトに切り替わります。"
+      ],
+      "Sentence only (recommended)": [
+        "文のみ (推奨)"
+      ],
+      "Word only": [
+        "単語のみ"
+      ],
+      "Word + Sentence": [
+        "単語 + 文"
+      ],
+      "The current player uses generated audio, so read-along highlighting is sentence-level. Word-level options don't apply here.": [
+        "現在のプレーヤーは生成済み音声を使用するため、読み上げハイライトは文単位になります。単語単位のオプションはここでは適用されません。"
+      ],
+      "Word highlight color": [
+        "単語のハイライト色"
+      ],
+      "Background color painted behind the word currently being spoken.": [
+        "現在発話している単語の背景に表示される色です。"
+      ],
+      "Word text color": [
+        "単語の文字色"
+      ],
+      "Text color of the spoken word, for contrast against the highlight color.": [
+        "発話中の単語の文字色です。ハイライト色とのコントラストを確保します。"
+      ],
+      "Sentence highlight color": [
+        "文のハイライト色"
+      ],
+      "Softer background painted behind the whole sentence being read.": [
+        "読み上げ中の文全体の背景に表示される、控えめな色です。"
+      ],
+      "Dim the rest of the article": [
+        "記事の他の部分を暗くする"
+      ],
+      "Fade the surrounding text while reading so the spoken word/sentence stands out.": [
+        "読み上げ中に周囲のテキストを薄く表示し、発話中の単語や文を目立たせます。"
+      ],
+      "Dimmed text opacity": [
+        "暗くしたテキストの不透明度"
+      ],
+      "How visible the dimmed (non-spoken) text stays. Lower = more dimmed.": [
+        "暗くした (発話していない) テキストをどの程度見えるようにするかを指定します。値が小さいほど暗くなります。"
+      ],
+      "Listen to selected text": [
+        "選択したテキストを読み上げる"
+      ],
+      "Show a small “Listen” control when a reader selects text in the article, to read only the selection — or from the selected word to the end. On the browser players the selection is spoken directly; on MP3 players the audio jumps to the matching position (precise on Google Cloud/ElevenLabs with word timing, approximate otherwise).": [
+        "読者が記事内のテキストを選択したときに、小さな「再生」ボタンを表示します。選択部分だけ、または選択した単語から末尾までを読み上げられます。ブラウザー系プレーヤーでは選択部分をそのまま読み上げ、MP3 系プレーヤーでは該当位置に音声がジャンプします (単語タイミングのある Google Cloud/ElevenLabs では正確に、それ以外ではおおよその位置になります)。"
+      ],
+      "Announce selection listening": [
+        "選択読み上げの案内"
+      ],
+      "How readers learn the feature exists. The one-time tip appears under the player after their first play and never returns once dismissed. The floating side badge sits collapsed on the left edge and expands on hover; closing it hides it for the visitor's session.": [
+        "この機能の存在を読者に知らせる方法です。一度きりのヒントは、初回再生後にプレーヤーの下に表示され、閉じると二度と表示されません。フローティングのサイドバッジは画面左端に折りたたまれた状態で表示され、カーソルを合わせると開きます。閉じると、その訪問者のセッション中は非表示になります。"
+      ],
+      "One-time tip after first play (recommended)": [
+        "初回再生後に一度だけヒントを表示 (推奨)"
+      ],
+      "Floating side badge": [
+        "フローティングのサイドバッジ"
+      ],
+      "Both": [
+        "両方"
+      ],
+      "Off — discover by selecting": [
+        "オフ — 選択して自分で発見してもらう"
+      ],
+      "Auto-scroll to follow": [
+        "自動スクロールで追従"
+      ],
+      "Smoothly scroll the page to keep the spoken word in view. Turn off if scrolling is distracting.": [
+        "発話中の単語が見えるように、ページをなめらかにスクロールします。スクロールが気になる場合はオフにしてください。"
+      ],
+      "Saving…": [
+        "保存中…"
+      ],
+      "Save Changes": [
+        "変更を保存"
+      ],
+      "Help information about this setting": [
+        "この設定に関するヘルプ情報"
+      ],
+      "Read the full documentation": [
+        "詳しいドキュメントを読む"
+      ],
+      "Integration Setup": [
+        "連携の設定"
+      ],
+      "Connect premium AI voice providers to generate natural MP3 audio.": [
+        "プレミアムな AI 音声プロバイダーと連携して、自然な MP3 音声を生成しましょう。"
+      ],
+      "Voice Integrations — Pro Feature": [
+        "音声連携 — Pro の機能"
+      ],
+      "Google Cloud TTS, ChatGPT, and ElevenLabs integrations are available in AtlasVoice Pro. The free plugin uses your browser's built-in voices.": [
+        "Google Cloud TTS、ChatGPT、ElevenLabs との連携は AtlasVoice Pro で利用できます。無料版はブラウザー内蔵の音声を使用します。"
+      ],
+      "Voice Language": [
+        "音声の言語"
+      ],
+      "Default Listening Language": [
+        "既定のリスニング言語"
+      ],
+      "Voice to speak": [
+        "読み上げる音声"
+      ],
+      "Default Listening Voice": [
+        "既定のリスニング音声"
+      ],
+      "Hear 200+ Pro AI voices live": [
+        "200 種類以上の Pro AI 音声を実際に聴く"
+      ],
+      "Voice Speed": [
+        "読み上げ速度"
+      ],
+      "Voice Volume": [
+        "音量"
+      ],
+      "Voice Pitch": [
+        "声の高さ"
+      ],
+      "Default Listening Pitch": [
+        "既定の声の高さ"
+      ],
+      "Listening Preferences": [
+        "リスニングの設定"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "さまざまな音声と言語で、リスニングの好みを設定します。"
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "リスニングの設定を保存しました。これで設定は完了です。お楽しみください。"
+      ],
+      "Multilingual Voice Mapping — Pro Feature": [
+        "多言語の音声マッピング — Pro の機能"
+      ],
+      "We detected an active translation plugin. Mapping a voice and language to each translated language is available in AtlasVoice Pro.": [
+        "有効な翻訳プラグインを検出しました。翻訳された各言語に音声と言語を割り当てる機能は AtlasVoice Pro で利用できます。"
+      ],
+      "Scan failed.": [
+        "スキャンに失敗しました。"
+      ],
+      "Scan failed: ": [
+        "スキャンに失敗しました: "
+      ],
+      "No files selected.": [
+        "ファイルが選択されていません。"
+      ],
+      "Deleted": [
+        "削除しました"
+      ],
+      "Freed": [
+        "解放しました"
+      ],
+      "Deletion failed.": [
+        "削除に失敗しました。"
+      ],
+      "Deletion failed: ": [
+        "削除に失敗しました: "
+      ],
+      "Maintenance": [
+        "メンテナンス"
+      ],
+      "⚠ Destructive action.": [
+        "⚠ 取り消せない操作です。"
+      ],
+      "This tool permanently deletes leftover per-batch MP3 chunks (files like title-1.mp3, title-2.mp3) from uploads/TTA_Pro/. Only files that meet all of the following are listed:": [
+        "このツールは、uploads/TTA_Pro/ に残ったバッチごとの MP3 の断片ファイル (title-1.mp3、title-2.mp3 など) を完全に削除します。次のすべての条件を満たすファイルのみが一覧に表示されます:"
+      ],
+      "Filename ends with -N.mp3 where N is a number": [
+        "ファイル名が -N.mp3 (N は数字) で終わる"
+      ],
+      "The final concatenated file (title.mp3) already exists in the same folder": [
+        "結合後の最終ファイル (title.mp3) が同じフォルダーにすでに存在する"
+      ],
+      "The file is older than 1 hour (so an in-flight batch is never affected)": [
+        "ファイルが 1 時間より古い (処理中のバッチが影響を受けないようにするため)"
+      ],
+      "The file sits under wp-uploads/TTA_Pro/ (path traversal is rejected)": [
+        "ファイルが wp-uploads/TTA_Pro/ 配下にある (パストラバーサルは拒否されます)"
+      ],
+      "⚠ Reduced safety margin.": [
+        "⚠ 安全マージンが小さくなっています。"
+      ],
+      "You have lowered the age threshold below the 1-hour safe default. Files created by an in-flight batch could match. Only use this if no generation is currently running.": [
+        "経過時間のしきい値を、安全な既定値である 1 時間より短く設定しています。処理中のバッチが作成したファイルが該当する可能性があります。現在生成処理が実行されていない場合のみ使用してください。"
+      ],
+      "Include files older than:": [
+        "次の時間より古いファイルを含める:"
+      ],
+      "Scanning…": [
+        "スキャン中…"
+      ],
+      "Scan for orphan files": [
+        "孤立ファイルをスキャン"
+      ],
+      "Per page:": [
+        "1 ページあたり:"
+      ],
+      "Delete selected": [
+        "選択したものを削除"
+      ],
+      "Delete all": [
+        "すべて削除"
+      ],
+      "Total orphans:": [
+        "孤立ファイルの合計:"
+      ],
+      "Disk usage:": [
+        "ディスク使用量:"
+      ],
+      "Nothing to clean — no orphan temp files found.": [
+        "クリーンアップ不要です。孤立した一時ファイルはありませんでした。"
+      ],
+      "All": [
+        "すべての"
+      ],
+      "orphan files": [
+        "件の孤立ファイル"
+      ],
+      "across all pages are selected.": [
+        "をすべてのページで選択しました。"
+      ],
+      "Clear selection": [
+        "選択を解除"
+      ],
+      "files on this page are selected.": [
+        "件のファイルをこのページで選択しました。"
+      ],
+      "Select all": [
+        "すべて選択"
+      ],
+      "files across all pages": [
+        "件のファイルをすべてのページで"
+      ],
+      "File": [
+        "ファイル"
+      ],
+      "Provider": [
+        "プロバイダー"
+      ],
+      "Size": [
+        "サイズ"
+      ],
+      "Modified": [
+        "更新日時"
+      ],
+      "Previous": [
+        "前へ"
+      ],
+      "Page": [
+        "ページ"
+      ],
+      "Next": [
+        "次へ"
+      ],
+      "Confirm deletion": [
+        "削除の確認"
+      ],
+      "You are about to permanently delete": [
+        "次のファイルを完全に削除しようとしています:"
+      ],
+      "files": [
+        "件のファイル"
+      ],
+      "This cannot be undone. Server-side safety rules will re-validate each file before deletion.": [
+        "この操作は取り消せません。削除前にサーバー側の安全ルールで各ファイルが再検証されます。"
+      ],
+      "Type ": [
+        "確認のため "
+      ],
+      " to confirm:": [
+        " と入力してください:"
+      ],
+      "Deleting…": [
+        "削除中…"
+      ],
+      "Permanently delete": [
+        "完全に削除"
+      ],
+      "Maintenance tools are available with the Pro plugin active.": [
+        "メンテナンスツールは Pro プラグインが有効なときに利用できます。"
+      ],
+      "Include Content By CSS Selectors": [
+        "CSS セレクターでコンテンツを含める"
+      ],
+      "e.g. div.entry-content (multi-line allowed)": [
+        "例: div.entry-content (複数行可)"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "CSS セレクターでコンテンツを除外"
+      ],
+      "e.g. .share-bar, .related-posts": [
+        "例: .share-bar, .related-posts"
+      ],
+      "Exclude HTML Tags To Speak": [
+        "読み上げから除外する HTML タグ"
+      ],
+      "Pipe-separated. e.g. blockquote|figure": [
+        "パイプ区切り。例: blockquote|figure"
+      ],
+      "Exclude Texts To Speak": [
+        "読み上げから除外するテキスト"
+      ],
+      "Pipe-separated. e.g. Read more...|Advertisement": [
+        "パイプ区切り。例: 続きを読む...|広告"
+      ],
+      "Could not find a post matching that ID or slug.": [
+        "その ID またはスラッグに一致する投稿が見つかりませんでした。"
+      ],
+      "No published post available to launch the picker on.": [
+        "選択ツールを起動できる公開済みの投稿がありません。"
+      ],
+      "Picker launch failed.": [
+        "選択ツールを起動できませんでした。"
+      ],
+      "Opening…": [
+        "開いています…"
+      ],
+      "Pick Visually": [
+        "ビジュアルで選択"
+      ],
+      "Excludes are a Pro feature": [
+        "除外設定は Pro の機能です"
+      ],
+      "On Free you can set the Include Content By CSS Selectors rule below. Excluding content by CSS selectors, HTML tags, or text — plus per-post and per-post-type targeting — are AtlasVoice Pro features.": [
+        "無料版では、下の「CSS セレクターでコンテンツを含める」のルールを設定できます。CSS セレクター、HTML タグ、テキストによる除外に加え、投稿単位・投稿タイプ単位の指定は AtlasVoice Pro の機能です。"
+      ],
+      "Pro feature — value won't be saved on Free. Upgrade to enable.": [
+        "Pro の機能です — 無料版では値が保存されません。アップグレードすると利用できます。"
+      ],
+      "Pick visually for the global rule": [
+        "サイト全体のルールをビジュアルで選択"
+      ],
+      "Pick visually for this post type": [
+        "この投稿タイプのルールをビジュアルで選択"
+      ],
+      "Global": [
+        "サイト全体"
+      ],
+      "Post type:": [
+        "投稿タイプ:"
+      ],
+      "Manual post (optional)": [
+        "投稿を手動で指定 (任意)"
+      ],
+      "Slug or post ID — leave blank to use a sample": [
+        "スラッグまたは投稿 ID — 空欄の場合はサンプルを使用します"
+      ],
+      "Configure Settings": [
+        "設定を行う"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "テキスト読み上げプレーヤーの動作とコンテンツの選択方法を設定します"
+      ],
+      "Run Setup Wizard": [
+        "セットアップウィザードを実行"
+      ],
+      "All cache deleted": [
+        "すべてのキャッシュを削除しました"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "保存しました。次に「カスタマイズ」メニューに進んでください。"
+      ],
+      "Some Pro-only fields were skipped — upgrade to enable them.": [
+        "Pro 専用の項目は保存されませんでした — アップグレードすると利用できます。"
+      ],
+      "Add Button or Player Automatically": [
+        "ボタンまたはプレーヤーを自動で追加"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "「ボタンまたはプレーヤーを自動で追加」を有効にすると、手動での設定なしに、AtlasVoice が投稿やページに再生ボタンや音声プレーヤーを自動的に挿入します。"
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "別のタブに切り替えても読み上げを続ける"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "有効にすると、現在のタブから移動しても読み上げが継続されます"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "TTS のタブに戻ったら自動再生を停止"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "別のタブから TTS のタブに戻ったときに、自動的に再生を一時停止します"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "下方向にスクロールしたらフローティングを停止"
+      ],
+      "Turn this on to keep the player in place instead of floating it when readers scroll past. Applies to the Bottom positions in Customization.": [
+        "これをオンにすると、読者がスクロールして通り過ぎてもプレーヤーが浮かずにその場に留まります。カスタマイズの「下部」系の位置に適用されます。"
+      ],
+      "Apply number format": [
+        "数値の読み方を整形する"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "数字を読み上げ用の言葉に変換します (例:「123」→「百二十三」)"
+      ],
+      "Read Content From Dom": [
+        "DOM からコンテンツを読み取る"
+      ],
+      "Add Post Title To Read": [
+        "投稿タイトルを読み上げに含める"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "本文を読み上げる前に、投稿タイトルを音声に含めます"
+      ],
+      "Add Post Excerpt To Read": [
+        "投稿の抜粋を読み上げに含める"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "本文を読み上げる前に、投稿の抜粋・要約を音声に含めます"
+      ],
+      "Enable TTS Status": [
+        "TTS の状態表示を有効にする"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "投稿ページで TTS の状態を表示します。"
+      ],
+      "Emit Content Wrapper": [
+        "コンテンツラッパーを出力する"
+      ],
+      "Wrap rendered post content in a stable `tts_content_wrapper_<N>` div so the picker / runtime extractor can reliably find it across all posts. Turn off only if your theme's layout breaks on the wrapper.": [
+        "表示される投稿本文を、安定した `tts_content_wrapper_<N>` の div で囲みます。これにより、選択ツールや実行時のエクストラクターがすべての投稿で確実に本文を見つけられます。ラッパーによってテーマのレイアウトが崩れる場合のみオフにしてください。"
+      ],
+      "Add Text Before Content(intro)": [
+        "本文の前に読み上げるテキスト (イントロ)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "本文が始まる前に読み上げる独自のテキストです"
+      ],
+      "Add Text Before Content": [
+        "本文の前にテキストを追加"
+      ],
+      "Add Text After Content(outro)": [
+        "本文の後に読み上げるテキスト (アウトロ)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "本文が終わった後に読み上げる独自のテキストです"
+      ],
+      "Add Text After Content": [
+        "本文の後にテキストを追加"
+      ],
+      "Allow Listening For Post Type": [
+        "読み上げを許可する投稿タイプ"
+      ],
+      "Show on-page content selector": [
+        "ページ上のコンテンツセレクターを表示"
+      ],
+      "Adds the AtlasVoice Selector tabs on the front end for admins so you can pick what gets read aloud right on the post page. Off by default; even when on, it only opens from the “Pick visually” links and never appears on a plain page.": [
+        "フロントエンドに管理者向けの AtlasVoice Selector タブを追加し、投稿ページ上で読み上げ範囲を直接選択できるようにします。既定はオフです。オンにしても「ビジュアルで選択」のリンクからのみ開き、通常のページに表示されることはありません。"
+      ],
+      "Full details: on-page content selector & Staging / Live": [
+        "詳細: ページ上のコンテンツセレクターとステージング / 公開"
+      ],
+      "Show Staging / Live indicator in toolbar": [
+        "ツールバーにステージング / 公開の表示を出す"
+      ],
+      "Shows the AtlasVoice mode (Staging or Live) in the WordPress admin bar so you can tell at a glance whether saved rules are driving visitor audio. It is always shown while the on-page content selector is open.": [
+        "WordPress の管理バーに AtlasVoice のモード (ステージングまたは公開) を表示し、保存したルールが訪問者向けの音声に反映されているかを一目で確認できるようにします。ページ上のコンテンツセレクターを開いている間は常に表示されます。"
+      ],
+      "Content Selection Rules": [
+        "コンテンツ選択のルール"
+      ],
+      "Control which part of your content is read aloud. Set a rule for the whole site (Global) below.": [
+        "コンテンツのどの部分を読み上げるかを指定します。下でサイト全体のルールを設定してください。"
+      ],
+      "Allow Listening For Post Status": [
+        "読み上げを許可する投稿ステータス"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "無料版では投稿タイプを 1 つだけ選択できます。"
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "読み上げから除外する投稿 ID"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "6 件以上の ID の除外は Pro の機能です"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "複数の ID はカンマ (,) で区切ります。"
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "6 件以上の ID の除外は Pro の機能です。複数の ID はカンマ (,) で区切ります。"
+      ],
+      "Exclude Categories To Speak": [
+        "読み上げから除外するカテゴリー"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "2 件以上のカテゴリーの除外は Pro の機能です"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "無料版ではカテゴリーを 1 件だけ選択できます。"
+      ],
+      "Exclude Tags To Speak": [
+        "読み上げから除外するタグ"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "2 件以上のタグの除外は Pro の機能です"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "無料版ではタグを 1 件だけ選択できます。"
+      ],
+      "Enable Button Icon": [
+        "ボタンのアイコンを有効にする"
+      ],
+      "Show per-post player toggle in toolbar": [
+        "ツールバーに投稿ごとのプレーヤー切り替えを表示"
+      ],
+      "Adds a “Toggle AtlasVoice audio player for this post” control to the WordPress admin bar on front-end pages.": [
+        "フロントエンドのページで、WordPress の管理バーに「この投稿の AtlasVoice 音声プレーヤーを切り替える」を追加します。"
+      ],
+      "Show dashboard widget": [
+        "ダッシュボードウィジェットを表示"
+      ],
+      "Display the AtlasVoice Quick Stats widget on the WordPress admin dashboard.": [
+        "WordPress の管理画面ダッシュボードに AtlasVoice のクイック統計ウィジェットを表示します。"
+      ],
+      "Clear all cache": [
+        "すべてのキャッシュを削除"
+      ],
+      "Delete all data on uninstall": [
+        "アンインストール時にすべてのデータを削除する"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "有効にすると、プラグインをアンインストールしたときに、すべてのプラグインデータ (設定、分析、生成済みの音声ファイル) が完全に削除されます。再インストールの予定がある場合やデバッグ中は、オフのままにしてください。"
+      ],
+      "⚠️ WARNING: Enabling this will permanently delete ALL plugin data (settings, analytics, generated audio files) when you uninstall the plugin. This action cannot be undone.\n\nAre you sure you want to enable this?": [
+        "⚠️ 警告: これを有効にすると、プラグインをアンインストールしたときに、すべてのプラグインデータ (設定、分析、生成済みの音声ファイル) が完全に削除されます。この操作は取り消せません。\n\n本当に有効にしますか?"
+      ],
+      "⚠ Warning:": [
+        "⚠ 警告:"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "アンインストール時に、すべてのプラグインデータが完全に削除されます。再インストール、デバッグ、バージョンの切り替えを予定している場合はオフにしてください。"
+      ],
+      "Danger zone — reset all plugin data": [
+        "危険な操作 — すべてのプラグインデータをリセット"
+      ],
+      "Permanently deletes every AtlasVoice option, transient, post-meta entry, cron event, and the analytics database table. The plugin stays active and boots as a fresh install on the next page load. This action cannot be undone.": [
+        "AtlasVoice のすべてのオプション、トランジェント、投稿メタ、cron イベント、および分析用データベーステーブルを完全に削除します。プラグインは有効なまま残り、次のページ読み込み時に新規インストールとして起動します。この操作は取り消せません。"
+      ],
+      "Type": [
+        "確認のため"
+      ],
+      "to confirm:": [
+        "と入力してください:"
+      ],
+      "All plugin data has been reset. Reloading…": [
+        "すべてのプラグインデータをリセットしました。再読み込みしています…"
+      ],
+      "Reset failed.": [
+        "リセットに失敗しました。"
+      ],
+      "Resetting…": [
+        "リセット中…"
+      ],
+      "Reset all plugin data": [
+        "すべてのプラグインデータをリセット"
+      ],
+      "Save All": [
+        "すべて保存"
+      ],
+      "No IDs selected": [
+        "ID が選択されていません"
+      ],
+      "Select IDs": [
+        "ID を選択"
+      ],
+      "Native speaker": [
+        "ネイティブスピーカー"
+      ],
+      "Slow and clear": [
+        "ゆっくり明瞭に"
+      ],
+      "Warm and friendly": [
+        "温かくフレンドリー"
+      ],
+      "Professional newsreader": [
+        "プロのニュースキャスター"
+      ],
+      "Storyteller": [
+        "語り手"
+      ],
+      "Custom": [
+        "カスタム"
+      ],
+      "Live demo": [
+        "ライブデモ"
+      ],
+      "Recording Data Saved": [
+        "録音データを保存しました"
+      ],
+      "No published post found to launch the picker.": [
+        "選択ツールを起動できる公開済みの投稿が見つかりませんでした。"
+      ],
+      "Could not open the picker: ": [
+        "選択ツールを開けませんでした: "
+      ],
+      "Pick visually with AtlasVoiceSelector": [
+        "AtlasVoiceSelector でビジュアルに選択"
+      ],
+      "Opens a sample post in a new tab. Pick / drag in the rail and click Save to update all four fields below.": [
+        "新しいタブでサンプル投稿を開きます。レール上で選択・ドラッグして「保存」をクリックすると、下の 4 つの項目がまとめて更新されます。"
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "CSS セレクターでコンテンツを含める機能は Pro 版で利用できます"
+      ],
+      "Multiple selector will be multiline.": [
+        "複数のセレクターは改行で区切ります。"
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "一部のコンテンツが抜けている場合は、CSS セレクターで指定できます"
+      ],
+      "Add CSS selectors for the content areas the player should read. One selector per line. Only target post/page body content. If left empty, the player automatically detects the content area.": [
+        "プレーヤーに読み上げさせるコンテンツ領域の CSS セレクターを追加します。1 行に 1 つのセレクターを記述してください。投稿・ページの本文のみを対象にしてください。空欄の場合は、プレーヤーが自動的に本文領域を判別します。"
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "CSS セレクターでコンテンツを除外する機能は Pro 版で利用できます"
+      ],
+      "Exclude content by CSS selectors": [
+        "CSS セレクターでコンテンツを除外"
+      ],
+      "You can add \".atlasvoice_no_read\" class to exclude content.": [
+        "「.atlasvoice_no_read」クラスを追加してコンテンツを除外することもできます。"
+      ],
+      "Remove specific elements within the included content areas above. One selector per line. Example: .social-share, .related-posts, .author-bio": [
+        "上で指定した対象領域の中から、特定の要素を取り除きます。1 行に 1 つのセレクターを記述してください。例: .social-share, .related-posts, .author-bio"
+      ],
+      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "タグを除外して、その中身を読み飛ばします。(下付き文字、上付き文字など。) これは Pro の機能です。"
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "複数のタグはパイプ (|) で区切ります。"
+      ],
+      "Exclude tags is a pro feature.": [
+        "タグの除外は Pro の機能です。"
+      ],
+      "HTML tags to skip within the included content. Pipe-separated. script, style, figure, and figcaption are always excluded automatically. Example: sub|sup|blockquote": [
+        "対象領域内で読み飛ばす HTML タグです。パイプ区切り。script、style、figure、figcaption は常に自動的に除外されます。例: sub|sup|blockquote"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "読み上げるテキストの除外は Pro の機能です。"
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "複数のテキストはパイプ (|) で区切ります。"
+      ],
+      "Exclude texts is a pro feature.": [
+        "テキストの除外は Pro の機能です。"
+      ],
+      "Exact text patterns to remove from the spoken content. Pipe-separated. Applied after all CSS and tag exclusions. Example: Read more...|Advertisement|Sponsored Content": [
+        "読み上げ内容から取り除くテキストを完全一致で指定します。パイプ区切り。CSS とタグによる除外がすべて適用された後に処理されます。例: 続きを読む...|広告|PR"
+      ],
+      "See the Pro demo": [
+        "Pro のデモを見る"
+      ]
+    }
+  }
+}

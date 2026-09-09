@@ -1,0 +1,356 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-customize.f093072f9c101885.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Lưu"
+      ],
+      "Default": [
+        "Mặc định"
+      ],
+      "AtlasVoice Pro": [
+        "AtlasVoice Pro"
+      ],
+      "Click To Know How It Works?": [
+        "Nhấp để xem cách hoạt động"
+      ],
+      "Background Color": [
+        "Màu nền"
+      ],
+      "Text Color": [
+        "Màu chữ"
+      ],
+      "Custom CSS": [
+        "CSS tùy chỉnh"
+      ],
+      "Loading...": [
+        "Đang tải..."
+      ],
+      "See AtlasVoice Pro in action": [
+        "Xem AtlasVoice Pro hoạt động"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Nghe hơn 200 giọng AI, trình phát MP3 và tính năng tạo hàng loạt ngay trên trang trực tiếp — không cần cài đặt."
+      ],
+      "Watch the live demo": [
+        "Xem bản demo trực tiếp"
+      ],
+      "Try the live demo": [
+        "Thử bản demo trực tiếp"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "Bản miễn phí không hỗ trợ hiển thị nút trên nhiều bài viết."
+      ],
+      "Select Items...": [
+        "Chọn các mục..."
+      ],
+      "Buy Now": [
+        "Mua ngay"
+      ],
+      "Before Content": [
+        "Trước nội dung"
+      ],
+      "After Content": [
+        "Sau nội dung"
+      ],
+      "Bottom Full Width": [
+        "Dưới cùng, toàn chiều rộng"
+      ],
+      "Bottom Right": [
+        "Dưới bên phải"
+      ],
+      "Bottom Left": [
+        "Dưới bên trái"
+      ],
+      "Sticky Top": [
+        "Cố định trên cùng"
+      ],
+      "Select Player": [
+        "Chọn trình phát"
+      ],
+      "More players (AI voices, MP3) are available in": [
+        "Có thêm nhiều trình phát (giọng AI, MP3) trong"
+      ],
+      "Hear the Pro players live": [
+        "Nghe trực tiếp các trình phát Pro"
+      ],
+      "Select Button Position": [
+        "Chọn vị trí nút"
+      ],
+      "Select where to display the player button": [
+        "Chọn nơi hiển thị nút trình phát"
+      ],
+      "Floating Position": [
+        "Vị trí nổi"
+      ],
+      "Where the player docks once the reader scrolls past it. Turn docking off entirely with \"When Scroll Down Stop Floating Player\" in Settings.": [
+        "Nơi trình phát neo lại khi người đọc cuộn qua nó. Tắt hoàn toàn việc neo bằng tùy chọn \"Dừng trình phát nổi khi cuộn xuống\" trong Cài đặt."
+      ],
+      "Display Player To": [
+        "Hiển thị trình phát cho"
+      ],
+      "Choose who can see the player": [
+        "Chọn ai có thể thấy trình phát"
+      ],
+      "Player display restriction to multiple user type is available in the pro version": [
+        "Giới hạn hiển thị trình phát theo nhiều nhóm người dùng chỉ có ở bản pro"
+      ],
+      "Who Can Download MP3 File": [
+        "Ai được tải tệp MP3"
+      ],
+      "MP3 Generation From Post's Publish Date": [
+        "Tạo MP3 từ ngày đăng bài"
+      ],
+      "Start Generating MP3 file from an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Bắt đầu tạo tệp MP3 từ một ngày đăng bài cụ thể. Chỉ chọn mục này nếu bạn muốn tạo tệp mp3 theo khoảng thời gian."
+      ],
+      "?": [
+        "?"
+      ],
+      "Generate MP3 File Date From": [
+        "Tạo tệp MP3 từ ngày"
+      ],
+      "MP3 Generation Till Post's Publish Date": [
+        "Tạo MP3 đến ngày đăng bài"
+      ],
+      "Start Generating MP3 file till an specific post publish date. Select this only if you want to generate mp3 file based on date range.": [
+        "Tạo tệp MP3 cho các bài viết đăng đến một ngày cụ thể. Chỉ chọn mục này nếu bạn muốn tạo tệp mp3 theo khoảng thời gian."
+      ],
+      "Generate MP3 File Date To": [
+        "Tạo tệp MP3 đến ngày"
+      ],
+      "Player Customization": [
+        "Tùy chỉnh trình phát"
+      ],
+      "Choose icon": [
+        "Chọn biểu tượng"
+      ],
+      "Presets": [
+        "Mẫu có sẵn"
+      ],
+      "Custom SVG": [
+        "SVG tùy chỉnh"
+      ],
+      "<svg ...>...</svg>": [
+        "<svg ...>...</svg>"
+      ],
+      "Use this SVG": [
+        "Dùng SVG này"
+      ],
+      "Allowed: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Server sanitizes on save.": [
+        "Được phép: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Máy chủ sẽ làm sạch mã khi lưu."
+      ],
+      "Listen — initial state": [
+        "Nghe — trạng thái ban đầu"
+      ],
+      "Pause — while speaking": [
+        "Tạm dừng — khi đang đọc"
+      ],
+      "Resume — after user paused": [
+        "Tiếp tục — sau khi người dùng tạm dừng"
+      ],
+      "Replay — after speech finished": [
+        "Nghe lại — sau khi đọc xong"
+      ],
+      "Reset to default": [
+        "Đặt lại mặc định"
+      ],
+      "Empty = use factory default": [
+        "Để trống = dùng giá trị gốc"
+      ],
+      "Hide tooltip": [
+        "Ẩn chú giải"
+      ],
+      "Show tooltip (advanced)": [
+        "Hiện chú giải (nâng cao)"
+      ],
+      "Hover tooltip": [
+        "Chú giải khi rê chuột"
+      ],
+      "Default Pro": [
+        "Default Pro"
+      ],
+      "Button Texts & Icons — ": [
+        "Văn bản và biểu tượng nút — "
+      ],
+      "Reset all to defaults": [
+        "Đặt lại tất cả về mặc định"
+      ],
+      "These labels and icons are shown on the front-end button as it cycles through states. Saved values for the inactive player are preserved if you switch players.": [
+        "Các nhãn và biểu tượng này hiển thị trên nút ở giao diện người dùng khi nút chuyển qua các trạng thái. Giá trị đã lưu của trình phát không hoạt động vẫn được giữ nếu bạn đổi trình phát."
+      ],
+      "Choose player background color": [
+        "Chọn màu nền trình phát"
+      ],
+      "Choose your color": [
+        "Chọn màu của bạn"
+      ],
+      "Hover BG Color": [
+        "Màu nền khi rê chuột"
+      ],
+      "Choose your hover background color": [
+        "Chọn màu nền khi rê chuột"
+      ],
+      "Hover Text Color": [
+        "Màu chữ khi rê chuột"
+      ],
+      "Choose your hover text color": [
+        "Chọn màu chữ khi rê chuột"
+      ],
+      "Margin Size (Px)": [
+        "Khoảng cách lề (px)"
+      ],
+      "Top": [
+        "Trên"
+      ],
+      "Margin Top": [
+        "Lề trên"
+      ],
+      "Bottom": [
+        "Dưới"
+      ],
+      "Margin Bottom": [
+        "Lề dưới"
+      ],
+      "Left": [
+        "Trái"
+      ],
+      "Margin Left": [
+        "Lề trái"
+      ],
+      "Right": [
+        "Phải"
+      ],
+      "Margin Right": [
+        "Lề phải"
+      ],
+      "Button Style": [
+        "Kiểu nút"
+      ],
+      "Height": [
+        "Chiều cao"
+      ],
+      "Button Height": [
+        "Chiều cao nút"
+      ],
+      "Border": [
+        "Viền"
+      ],
+      "Button Border": [
+        "Viền nút"
+      ],
+      "Border Color": [
+        "Màu viền"
+      ],
+      "Font Size": [
+        "Cỡ chữ"
+      ],
+      "Radius": [
+        "Bo góc"
+      ],
+      "Border Radius": [
+        "Bán kính bo góc"
+      ],
+      "Button Properties": [
+        "Thuộc tính nút"
+      ],
+      "Width": [
+        "Chiều rộng"
+      ],
+      "Button Width": [
+        "Chiều rộng nút"
+      ],
+      "Add custom styling for your player using the WordPress Customizer's Additional CSS editor.": [
+        "Thêm kiểu dáng riêng cho trình phát bằng trình soạn CSS bổ sung trong công cụ tùy biến của WordPress."
+      ],
+      "Open Appearance → Customize → Additional CSS": [
+        "Mở Giao diện → Tùy biến → CSS bổ sung"
+      ],
+      "Default player preview": [
+        "Xem trước trình phát mặc định"
+      ],
+      "This is a preview of the player.": [
+        "Đây là bản xem trước của trình phát."
+      ],
+      "Player settings": [
+        "Cài đặt trình phát"
+      ],
+      "Value should be between 0-100": [
+        "Giá trị phải nằm trong khoảng 0-100"
+      ],
+      "Customization": [
+        "Tùy chỉnh"
+      ],
+      "Customize the player & design to match your brand and preferences.": [
+        "Tùy chỉnh trình phát và giao diện cho phù hợp với thương hiệu và sở thích của bạn."
+      ],
+      "Preview on Your Site": [
+        "Xem trước trên website của bạn"
+      ],
+      "Please fill the  field : ": [
+        "Vui lòng điền trường: "
+      ],
+      "To select this player, you must authenticate first from the Integration menu": [
+        "Để chọn trình phát này, trước tiên bạn phải xác thực từ menu Tích hợp"
+      ],
+      "Google Cloud TTS player is only available in the pro version.": [
+        "Trình phát Google Cloud TTS chỉ có ở bản pro."
+      ],
+      "To select this player you have to authenticate first from Integration menu": [
+        "Để chọn trình phát này, trước tiên bạn phải xác thực từ menu Tích hợp"
+      ],
+      "ChatGPT TTS player is only available in the pro version.": [
+        "Trình phát ChatGPT TTS chỉ có ở bản pro."
+      ],
+      "ElevenLabs TTS player is only available in the pro version.": [
+        "Trình phát ElevenLabs TTS chỉ có ở bản pro."
+      ],
+      "Default Pro player is only available in the pro version.": [
+        "Trình phát Default Pro chỉ có ở bản pro."
+      ],
+      "AtlasVoice stores synthesized content in the uploads folder. Your uploads folder is not writable. Please make the uploads folder writable to enjoy all features of the plugin.": [
+        "AtlasVoice lưu nội dung đã tổng hợp trong thư mục uploads. Thư mục uploads của bạn không cho phép ghi. Vui lòng cấp quyền ghi cho thư mục uploads để dùng đầy đủ tính năng của plugin."
+      ],
+      "Customization saved.": [
+        "Đã lưu tùy chỉnh."
+      ],
+      "Now go to the \"Listening\" menu to select proper language and voice.": [
+        "Bây giờ hãy vào menu \"Nghe\" để chọn ngôn ngữ và giọng đọc phù hợp."
+      ],
+      "Write here something and click listen button": [
+        "Hãy viết gì đó ở đây rồi nhấp nút nghe"
+      ],
+      " Enter your text here and click the listen button to hear it spoken aloud.": [
+        " Nhập văn bản của bạn tại đây rồi nhấp nút nghe để nghe đọc thành tiếng."
+      ],
+      "Watch Tutorial": [
+        "Xem hướng dẫn"
+      ],
+      "Write here something and click listen button.": [
+        "Hãy viết gì đó ở đây rồi nhấp nút nghe."
+      ],
+      "Design Customization": [
+        "Tùy chỉnh giao diện"
+      ],
+      "Short Code | Attributes value must be wrapped with double quotation ( \" )": [
+        "Shortcode | giá trị thuộc tính phải được đặt trong dấu nháy kép ( \" )"
+      ],
+      "tta_play_btn_shortcode": [
+        "tta_play_btn_shortcode"
+      ],
+      "Copied ShortCode": [
+        "Đã sao chép shortcode"
+      ],
+      "Copy Shortcode": [
+        "Sao chép shortcode"
+      ]
+    }
+  }
+}

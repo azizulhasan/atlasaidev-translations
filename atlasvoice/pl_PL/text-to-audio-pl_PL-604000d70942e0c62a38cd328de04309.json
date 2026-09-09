@@ -1,0 +1,74 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-listening.20f5841e183829c6.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Przejdź na Pro"
+      ],
+      "Save": [
+        "Zapisz"
+      ],
+      "See AtlasVoice Pro in action": [
+        "Zobacz AtlasVoice Pro w działaniu"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Posłuchaj ponad 200 głosów AI, odtwarzaczy MP3 i generowania zbiorczego na żywej stronie — bez instalacji."
+      ],
+      "Watch the live demo": [
+        "Obejrzyj demo na żywo"
+      ],
+      "Try the live demo": [
+        "Wypróbuj demo na żywo"
+      ],
+      "Voice Language": [
+        "Język głosu"
+      ],
+      "Default Listening Language": [
+        "Domyślny język odsłuchu"
+      ],
+      "Voice to speak": [
+        "Głos do odczytu"
+      ],
+      "Default Listening Voice": [
+        "Domyślny głos odsłuchu"
+      ],
+      "Hear 200+ Pro AI voices live": [
+        "Posłuchaj na żywo ponad 200 głosów AI w wersji Pro"
+      ],
+      "Voice Speed": [
+        "Szybkość mowy"
+      ],
+      "Voice Volume": [
+        "Głośność"
+      ],
+      "Voice Pitch": [
+        "Wysokość głosu"
+      ],
+      "Default Listening Pitch": [
+        "Domyślna wysokość głosu"
+      ],
+      "Listening Preferences": [
+        "Preferencje odsłuchu"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Ustaw swoje preferencje odsłuchu, wybierając różne głosy i języki."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Zapisano ustawienia odsłuchu. Konfiguracja zakończona. Miłego korzystania!"
+      ],
+      "Multilingual Voice Mapping — Pro Feature": [
+        "Wielojęzyczne przypisanie głosów — funkcja Pro"
+      ],
+      "We detected an active translation plugin. Mapping a voice and language to each translated language is available in AtlasVoice Pro.": [
+        "Wykryliśmy aktywną wtyczkę tłumaczeniową. Przypisywanie głosu i języka do każdego przetłumaczonego języka jest dostępne w AtlasVoice Pro."
+      ]
+    }
+  }
+}

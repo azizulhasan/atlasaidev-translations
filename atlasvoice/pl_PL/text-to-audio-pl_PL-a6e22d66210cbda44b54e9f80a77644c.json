@@ -1,0 +1,152 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "production/text-to-audio/admin/js/build/chunks/tab-docs.2aff582aa4df64b0.chunk.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "See AtlasVoice Pro in action": [
+        "Zobacz AtlasVoice Pro w działaniu"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Posłuchaj ponad 200 głosów AI, odtwarzaczy MP3 i generowania zbiorczego na żywej stronie — bez instalacji."
+      ],
+      "Watch the live demo": [
+        "Obejrzyj demo na żywo"
+      ],
+      "Try the live demo": [
+        "Wypróbuj demo na żywo"
+      ],
+      "1. Browser support issues on Android and desktop": [
+        "1. Problemy ze zgodnością przeglądarek na Androidzie i komputerach"
+      ],
+      "This plugin is built using the browser SpeechSynthesis API. No external API is used.": [
+        "Ta wtyczka korzysta z przeglądarkowego API SpeechSynthesis. Nie używamy żadnego zewnętrznego API."
+      ],
+      "View SpeechSynthesis documentation": [
+        "Zobacz dokumentację SpeechSynthesis"
+      ],
+      "Browser and device support varies, so available voices and languages may differ between desktop and mobile devices.": [
+        "Obsługa różni się w zależności od przeglądarki i urządzenia, więc dostępne głosy i języki mogą się różnić na komputerach i urządzeniach mobilnych."
+      ],
+      "Submit a support ticket": [
+        "Wyślij zgłoszenie do pomocy"
+      ],
+      "There are no browser limitations in the Pro version.": [
+        "W wersji Pro nie ma ograniczeń związanych z przeglądarką."
+      ],
+      "2. Different voices or languages on mobile": [
+        "2. Inne głosy lub języki na urządzeniach mobilnych"
+      ],
+      "SpeechSynthesis support varies between browsers and devices. Some voices may be available on desktop but not on mobile.": [
+        "Obsługa SpeechSynthesis różni się w zależności od przeglądarki i urządzenia. Niektóre głosy mogą być dostępne na komputerze, ale już nie na telefonie."
+      ],
+      "The Pro version does not have these limitations.": [
+        "Wersja Pro nie ma tych ograniczeń."
+      ],
+      "3. Can I exclude certain words from playback?": [
+        "3. Czy mogę wykluczyć niektóre słowa z odczytu?"
+      ],
+      "Yes. You can exclude specific words or phrases in the Pro version.": [
+        "Tak. W wersji Pro możesz wykluczyć określone słowa lub zwroty."
+      ],
+      "Use the pipe (|) symbol to separate multiple words or phrases.": [
+        "Użyj znaku pionowej kreski (|), aby oddzielić kilka słów lub zwrotów."
+      ],
+      "4. Can I exclude specific HTML tags from playback?": [
+        "4. Czy mogę wykluczyć z odczytu określone znaczniki HTML?"
+      ],
+      "The Pro version allows excluding content wrapped in specific HTML tags.": [
+        "Wersja Pro pozwala wykluczyć treść zawartą w określonych znacznikach HTML."
+      ],
+      "Use the pipe (|) symbol to exclude multiple tags.": [
+        "Użyj znaku pionowej kreski (|), aby wykluczyć kilka znaczników."
+      ],
+      "5. How can I change button text?": [
+        "5. Jak mogę zmienić tekst przycisku?"
+      ],
+      "Button text can be changed using shortcode attributes or filters. Filters always override shortcode values.": [
+        "Tekst przycisku można zmienić za pomocą atrybutów krótkiego kodu lub filtrów. Filtry zawsze mają pierwszeństwo przed wartościami krótkiego kodu."
+      ],
+      "6. How do I add a custom CSS class to the button?": [
+        "6. Jak dodać własną klasę CSS do przycisku?"
+      ],
+      "7. Backend filters (Free version)": [
+        "7. Filtry po stronie serwera (wersja darmowa)"
+      ],
+      "Filter": [
+        "Filtr"
+      ],
+      "Arguments": [
+        "Argumenty"
+      ],
+      "8. Scripts blocked by CORS policy when using a CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)": [
+        "8. Skrypty blokowane przez zasady CORS przy korzystaniu z CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)"
+      ],
+      "Symptom:": [
+        "Objaw:"
+      ],
+      "The browser console shows errors like “Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.” The player never loads.": [
+        "W konsoli przeglądarki pojawiają się błędy w rodzaju „Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.”. Odtwarzacz nigdy się nie ładuje."
+      ],
+      "Why this happens:": [
+        "Dlaczego tak się dzieje:"
+      ],
+      "Your CDN is serving our plugin's JavaScript files, but your origin server isn't sending an Access-Control-Allow-Origin header. CDNs are pull caches — they only return what the origin gives them. When WP Rocket's Delay JavaScript (or a similar optimizer) adds a crossorigin attribute to the script tag, the browser then enforces CORS and blocks the load. This is a server configuration on your site, not a plugin bug.": [
+        "Twój CDN serwuje pliki JavaScript naszej wtyczki, ale serwer źródłowy nie wysyła nagłówka Access-Control-Allow-Origin. Sieci CDN działają jak pamięci podręczne typu pull — zwracają tylko to, co dostaną ze źródła. Gdy funkcja opóźniania JavaScriptu w WP Rocket (lub podobny optymalizator) doda do znacznika skryptu atrybut crossorigin, przeglądarka zaczyna egzekwować CORS i blokuje wczytanie. To kwestia konfiguracji serwera w Twojej witrynie, a nie błąd wtyczki."
+      ],
+      "Fix — Apache (.htaccess):": [
+        "Rozwiązanie — Apache (.htaccess):"
+      ],
+      "Add the block below to the .htaccess in your WordPress root (same folder as wp-config.php), above the # BEGIN WP Rocket and # BEGIN WordPress sections.": [
+        "Dodaj poniższy blok do pliku .htaccess w katalogu głównym WordPressa (tam, gdzie wp-config.php), powyżej sekcji # BEGIN WP Rocket i # BEGIN WordPress."
+      ],
+      "Fix — nginx:": [
+        "Rozwiązanie — nginx:"
+      ],
+      "Add this location block inside your server {} block, then reload nginx (sudo nginx -s reload).": [
+        "Dodaj ten blok location wewnątrz bloku server {}, a następnie przeładuj nginx (sudo nginx -s reload)."
+      ],
+      "Then — purge your CDN cache:": [
+        "Następnie — wyczyść pamięć podręczną CDN:"
+      ],
+      "WP Rocket → Settings → CDN → Clear all cache files. (Or purge from your CDN dashboard directly.) Until you purge, the CDN keeps serving the old response without the new header.": [
+        "WP Rocket → Ustawienia → CDN → Wyczyść wszystkie pliki pamięci podręcznej. (Albo wyczyść ją bezpośrednio w panelu CDN.) Dopóki tego nie zrobisz, CDN będzie serwował starą odpowiedź bez nowego nagłówka."
+      ],
+      "Verify:": [
+        "Sprawdzenie:"
+      ],
+      "Run this in a terminal and confirm access-control-allow-origin: * appears in the response headers:": [
+        "Uruchom to polecenie w terminalu i upewnij się, że w nagłówkach odpowiedzi pojawia się access-control-allow-origin: *:"
+      ],
+      "Optional:": [
+        "Opcjonalnie:"
+      ],
+      "If you'd rather avoid CORS altogether, exclude our plugin's script handles (text-to-audio-*, plyr) from WP Rocket → File Optimization → Delay JavaScript execution. That prevents the crossorigin attribute from being added in the first place. Fixing the header is still the more durable solution.": [
+        "Jeśli wolisz całkowicie uniknąć CORS, wyklucz uchwyty skryptów naszej wtyczki (text-to-audio-*, plyr) w WP Rocket → Optymalizacja plików → Opóźnij wykonywanie JavaScriptu. Dzięki temu atrybut crossorigin w ogóle nie zostanie dodany. Poprawienie nagłówka pozostaje jednak trwalszym rozwiązaniem."
+      ],
+      "Read the full guide on atlasaidev.com →": [
+        "Przeczytaj pełny poradnik na atlasaidev.com →"
+      ],
+      "9. The player or markers are missing inside post cards, related posts or widgets": [
+        "9. Brak odtwarzacza lub znaczników w kartach wpisów, powiązanych wpisach albo widżetach"
+      ],
+      "By default the player button and the AtlasVoice markers/wrapper are emitted only on the main content of the post or page being viewed — never inside a secondary loop such as an Avada \"Post Cards\" grid, a \"Related Posts\" block, or a widget. This is intentional: it prevents the content wrapper from being injected into your theme's grid markup and breaking the layout.": [
+        "Domyślnie przycisk odtwarzacza oraz znaczniki i kontener AtlasVoice pojawiają się wyłącznie w głównej treści oglądanego wpisu lub strony — nigdy wewnątrz pętli pobocznej, takiej jak siatka „Post Cards” w Avadzie, blok „Powiązane wpisy” czy widżet. Jest to zamierzone: zapobiega wstrzykiwaniu kontenera treści w kod siatki Twojego motywu i psuciu układu."
+      ],
+      "If you deliberately want the player to render inside a secondary loop, override the tts_is_secondary_loop filter. It receives the computed boolean, the current loop post ID, and the queried object ID.": [
+        "Jeśli świadomie chcesz, aby odtwarzacz pojawiał się także w pętli pobocznej, nadpisz filtr tts_is_secondary_loop. Otrzymuje on wyliczoną wartość logiczną, identyfikator bieżącego wpisu pętli oraz identyfikator odpytywanego obiektu."
+      ],
+      "Allow the player everywhere, including post cards:": [
+        "Zezwól na odtwarzacz wszędzie, także w kartach wpisów:"
+      ],
+      "Allow it only for a specific post type:": [
+        "Zezwól tylko dla określonego typu treści:"
+      ]
+    }
+  }
+}

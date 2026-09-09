@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-03-28T11:43:09+01:00",
+  "translation-revision-date": "2026-09-09T11:46:23+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-dashboard-ui.js",
   "domain": "messages",
@@ -15,26 +15,20 @@
       "Upgrade to Pro": [
         "Passer à la version Pro"
       ],
-      "Device Types": [
-        "Types d'appareils"
+      "Cancel": [
+        "Annuler"
       ],
-      "Browser": [
-        "Navigateur"
-      ],
-      "OS": [
-        "SE"
-      ],
-      "Top Countries": [
-        "Principaux pays"
-      ],
-      "Post Title": [
-        "Titre de l'article"
+      "Save": [
+        "Enregistrer"
       ],
       "Pause": [
         "Pause"
       ],
-      "Save": [
-        "Enregistrer"
+      "Default": [
+        "Par défaut"
+      ],
+      "AtlasVoice Pro": [
+        "AtlasVoice Pro"
       ],
       "Text to Speech Aliases": [
         "Alias de synthèse vocale"
@@ -57,11 +51,8 @@
       "Click To Know How It Works?": [
         "Cliquez pour savoir comment ça fonctionne ?"
       ],
-      "Network error. Please try again.": [
-        "Erreur réseau. Veuillez réessayer."
-      ],
-      "Learn More": [
-        "En savoir plus"
+      "Pro": [
+        "Pro"
       ],
       "Background Color": [
         "Couleur d'arrière-plan"
@@ -90,14 +81,32 @@
       "Loading...": [
         "Chargement..."
       ],
+      "See AtlasVoice Pro in action": [
+        "Voir AtlasVoice Pro à l'œuvre"
+      ],
+      "Hear 200+ AI voices, MP3 players, and bulk generation on a live page — no install needed.": [
+        "Écoutez plus de 200 voix IA, les lecteurs MP3 et la génération en lot sur une page réelle — sans rien installer."
+      ],
+      "Watch the live demo": [
+        "Voir la démo en direct"
+      ],
+      "Try the live demo": [
+        "Essayer la démo en direct"
+      ],
+      "Showing button to multiple post is not supported in free version.": [
+        "L'affichage du bouton sur plusieurs articles n'est pas pris en charge dans la version gratuite."
+      ],
+      "Select Items...": [
+        "Sélectionner des éléments..."
+      ],
+      "Pro feature. Upgrade to unlock.": [
+        "Fonctionnalité Pro. Passez à Pro pour la débloquer."
+      ],
       "Pro Feature": [
         "Fonctionnalité Pro"
       ],
       "Upgrade to Pro to unlock this feature and get access to advanced analytics.": [
         "Passez à la version Pro pour débloquer cette fonctionnalité et accéder aux analyses avancées."
-      ],
-      "Pro": [
-        "Pro"
       ],
       "Total Posts": [
         "Total des articles"
@@ -204,20 +213,26 @@
       "Yesterday": [
         "Hier"
       ],
-      "more": [
-        "plus"
+      "OS": [
+        "SE"
       ],
-      "Browser Analytics": [
-        "Analyses du navigateur"
+      "OS Breakdown": [
+        "Répartition par système d'exploitation"
+      ],
+      "Device Types": [
+        "Types d'appareils"
+      ],
+      "Browser": [
+        "Navigateur"
       ],
       "Location": [
         "Localisation"
       ],
+      "Top Countries": [
+        "Principaux pays"
+      ],
       "Top Cities": [
         "Principales villes"
-      ],
-      "Unlock city-level analytics": [
-        "Débloquer les analyses au niveau des villes"
       ],
       "Custom Range": [
         "Période personnalisée"
@@ -236,9 +251,6 @@
       ],
       "Compare with Previous Period": [
         "Comparer avec la période précédente"
-      ],
-      "Enable comparison with previous period": [
-        "Activer la comparaison avec la période précédente"
       ],
       "Quantity vs Date": [
         "Quantité par date"
@@ -297,11 +309,14 @@
       "Track Post IDs": [
         "Suivre les IDs d'articles"
       ],
-      "Tracking more than 20 post IDs is a Pro feature": [
-        "Le suivi de plus de 20 ID d'articles est une fonctionnalité Pro"
+      "You've reached the selection limit.": [
+        "Vous avez atteint la limite de sélection."
       ],
       "Post ID": [
         "ID d'article"
+      ],
+      "Custom Date Range": [
+        "Plage de dates personnalisée"
       ],
       "Please provide a Post ID or date range.": [
         "Veuillez fournir un ID d'article ou une plage de dates."
@@ -330,8 +345,8 @@
       "Value": [
         "Valeur"
       ],
-      "Unlock 10+ more metrics with Pro": [
-        "Débloquez plus de 10 métriques supplémentaires avec Pro"
+      "Unlock custom date-range search with Pro": [
+        "Débloquez la recherche par plage de dates personnalisée avec Pro"
       ],
       "Popular Post": [
         "Article populaire"
@@ -339,17 +354,14 @@
       "Rank": [
         "Rang"
       ],
+      "Post Title": [
+        "Titre de l'article"
+      ],
       "Total Interactions": [
         "Total des interactions"
       ],
       "No data available yet. Start tracking posts to see analytics.": [
         "Aucune donnée disponible pour le moment. Commencez à suivre les articles pour voir les analyses."
-      ],
-      "View all": [
-        "Voir tout"
-      ],
-      "posts": [
-        "articles"
       ],
       "View All Posts": [
         "Voir tous les articles"
@@ -525,6 +537,12 @@
       "Track and analyze your TTS player engagement to understand listener behavior.": [
         "Suivez et analysez l'engagement de votre lecteur TTS pour comprendre le comportement des auditeurs."
       ],
+      "Show listener location in analytics": [
+        "Afficher la localisation des auditeurs dans les statistiques"
+      ],
+      "Off by default. When on, listener IP addresses are sent to ip-api.com, ipinfo.io and icanhazip.com to resolve city / country for the Location chart. See \"External services\" in the plugin readme.": [
+        "Désactivé par défaut. Lorsque l'option est active, les adresses IP des auditeurs sont envoyées à ip-api.com, ipinfo.io et icanhazip.com afin de déterminer la ville et le pays du graphique de localisation. Voir « Services externes » dans le readme de l'extension."
+      ],
       "Export & Schedule Reports": [
         "Exporter et planifier des rapports"
       ],
@@ -537,11 +555,38 @@
       "Enable analytics using the toggle above to start tracking your TTS player interactions and view detailed metrics.": [
         "Activez les analyses à l'aide du bouton ci-dessus pour commencer à suivre les interactions de votre lecteur TTS et afficher des métriques détaillées."
       ],
-      "Showing button to multiple post is not supported in free version.": [
-        "L'affichage du bouton sur plusieurs articles n'est pas pris en charge dans la version gratuite."
+      "Available Fields": [
+        "Champs disponibles"
       ],
-      "Select Items...": [
-        "Sélectionner des éléments..."
+      "Select All": [
+        "Tout sélectionner"
+      ],
+      "All fields selected": [
+        "Tous les champs sélectionnés"
+      ],
+      "No ACF fields found": [
+        "Aucun champ ACF trouvé"
+      ],
+      "Selected (read order)": [
+        "Sélectionnés (ordre de lecture)"
+      ],
+      "Clear All": [
+        "Tout effacer"
+      ],
+      "Click fields on the left to add": [
+        "Cliquez sur les champs à gauche pour les ajouter"
+      ],
+      "Move up": [
+        "Monter"
+      ],
+      "Move down": [
+        "Descendre"
+      ],
+      "Remove": [
+        "Retirer"
+      ],
+      "Use ▲ ▼ to reorder. Fields are read top to bottom.": [
+        "Utilisez ▲ ▼ pour réordonner. Les champs sont lus de haut en bas."
       ],
       "Compatibility Status": [
         "Statut de compatibilité"
@@ -567,11 +612,20 @@
       "Adding more than 1  ACF field is a pro feature": [
         "L'ajout de plus d'un champ ACF est une fonctionnalité pro"
       ],
+      "Adding more than 1 ACF field is a pro feature": [
+        "Ajouter plus d'un champ ACF est une fonctionnalité Pro"
+      ],
+      "Use custom reading order": [
+        "Utiliser un ordre de lecture personnalisé"
+      ],
+      "When enabled, ACF fields are read in the order shown above. When disabled, fields are read in ACF's default field group order.": [
+        "Lorsque l'option est active, les champs ACF sont lus dans l'ordre affiché ci-dessus. Sinon, ils suivent l'ordre par défaut du groupe de champs ACF."
+      ],
+      "Selected fields are read after the main article content. If a field is already visible in your post content area, it may be read twice. For visible fields, use \"Include Content By CSS Selectors\" in Settings instead to control reading order.": [
+        "Les champs sélectionnés sont lus après le contenu principal de l'article. Si un champ est déjà visible dans la zone de contenu de votre article, il risque d'être lu deux fois. Pour les champs visibles, utilisez plutôt « Inclure le contenu par sélecteurs CSS » dans les Réglages afin de maîtriser l'ordre de lecture."
+      ],
       "Loading": [
         "Chargement"
-      ],
-      "Speed": [
-        "Vitesse"
       ],
       "Before Content": [
         "Avant le contenu"
@@ -579,26 +633,38 @@
       "After Content": [
         "Après le contenu"
       ],
-      "Bottom Fixed (Pro)": [
-        "Bas fixe (Pro)"
+      "Bottom Full Width": [
+        "En bas sur toute la largeur"
       ],
-      "Bottom Left (Pro)": [
-        "Bas gauche (Pro)"
+      "Bottom Right": [
+        "En bas à droite"
       ],
-      "Bottom Right (Pro)": [
-        "Bas droit (Pro)"
+      "Bottom Left": [
+        "En bas à gauche"
       ],
-      "Bottom Center (Pro)": [
-        "Bas centré (Pro)"
+      "Sticky Top": [
+        "Fixé en haut"
       ],
       "Select Player": [
         "Sélectionner le lecteur"
+      ],
+      "More players (AI voices, MP3) are available in": [
+        "D'autres lecteurs (voix IA, MP3) sont disponibles dans"
+      ],
+      "Hear the Pro players live": [
+        "Écouter les lecteurs Pro en direct"
       ],
       "Select Button Position": [
         "Sélectionner la position du bouton"
       ],
       "Select where to display the player button": [
         "Sélectionnez où afficher le bouton du lecteur"
+      ],
+      "Floating Position": [
+        "Position flottante"
+      ],
+      "Where the player docks once the reader scrolls past it. Turn docking off entirely with \"When Scroll Down Stop Floating Player\" in Settings.": [
+        "L'endroit où le lecteur s'ancre une fois que le lecteur de la page l'a dépassé en défilant. Désactivez complètement l'ancrage avec « Arrêter le lecteur flottant au défilement » dans les Réglages."
       ],
       "Display Player To": [
         "Afficher le lecteur à"
@@ -635,6 +701,63 @@
       ],
       "Player Customization": [
         "Personnalisation du lecteur"
+      ],
+      "Choose icon": [
+        "Choisir une icône"
+      ],
+      "Presets": [
+        "Préréglages"
+      ],
+      "Custom SVG": [
+        "SVG personnalisé"
+      ],
+      "<svg ...>...</svg>": [
+        "<svg ...>...</svg>"
+      ],
+      "Use this SVG": [
+        "Utiliser ce SVG"
+      ],
+      "Allowed: <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Server sanitizes on save.": [
+        "Autorisés : <svg>, <g>, <path>, <circle>, <rect>, <line>, <polyline>, <polygon>, <ellipse>. Le serveur les nettoie à l'enregistrement."
+      ],
+      "Listen — initial state": [
+        "Écouter — état initial"
+      ],
+      "Pause — while speaking": [
+        "Pause — pendant la lecture"
+      ],
+      "Resume — after user paused": [
+        "Reprendre — après une pause de l'utilisateur"
+      ],
+      "Replay — after speech finished": [
+        "Réécouter — une fois la lecture terminée"
+      ],
+      "Reset to default": [
+        "Rétablir la valeur par défaut"
+      ],
+      "Empty = use factory default": [
+        "Vide = utiliser la valeur d'origine"
+      ],
+      "Hide tooltip": [
+        "Masquer l'infobulle"
+      ],
+      "Show tooltip (advanced)": [
+        "Afficher l'infobulle (avancé)"
+      ],
+      "Hover tooltip": [
+        "Infobulle au survol"
+      ],
+      "Default Pro": [
+        "Pro par défaut"
+      ],
+      "Button Texts & Icons — ": [
+        "Libellés et icônes du bouton — "
+      ],
+      "Reset all to defaults": [
+        "Tout rétablir aux valeurs par défaut"
+      ],
+      "These labels and icons are shown on the front-end button as it cycles through states. Saved values for the inactive player are preserved if you switch players.": [
+        "Ces libellés et icônes apparaissent sur le bouton du site à mesure qu'il change d'état. Les valeurs enregistrées du lecteur inactif sont conservées si vous changez de lecteur."
       ],
       "Choose player background color": [
         "Choisir la couleur d'arrière-plan du lecteur"
@@ -717,20 +840,23 @@
       "Button Width": [
         "Largeur du bouton"
       ],
-      "Enter Custom CSS here": [
-        "Entrez votre CSS personnalisé ici"
+      "Add custom styling for your player using the WordPress Customizer's Additional CSS editor.": [
+        "Personnalisez le style de votre lecteur avec l'éditeur « CSS additionnel » de l'outil de personnalisation de WordPress."
+      ],
+      "Open Appearance → Customize → Additional CSS": [
+        "Ouvrir Apparence → Personnaliser → CSS additionnel"
+      ],
+      "Default player preview": [
+        "Aperçu du lecteur par défaut"
+      ],
+      "This is a preview of the player.": [
+        "Ceci est un aperçu du lecteur."
+      ],
+      "Player settings": [
+        "Réglages du lecteur"
       ],
       "Value should be between 0-100": [
         "La valeur doit être comprise entre 0 et 100"
-      ],
-      "This option is only available for the pro version.": [
-        "Cette option n'est disponible que dans la version pro."
-      ],
-      "Default": [
-        "Par défaut"
-      ],
-      "Default Pro": [
-        "Pro par défaut"
       ],
       "Customization": [
         "Personnalisation"
@@ -782,9 +908,6 @@
       ],
       "Write here something and click listen button.": [
         "Écrivez quelque chose ici et cliquez sur le bouton écouter."
-      ],
-      "Text To Audio:  Tap to listen post.": [
-        "Text To Audio : Appuyez pour écouter l'article."
       ],
       "Design Customization": [
         "Personnalisation du design"
@@ -863,6 +986,804 @@
       ],
       "Arguments": [
         "Arguments"
+      ],
+      "8. Scripts blocked by CORS policy when using a CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)": [
+        "8. Scripts bloqués par la politique CORS lors de l'utilisation d'un CDN (WP Rocket / RocketCDN / Cloudflare / BunnyCDN)"
+      ],
+      "Symptom:": [
+        "Symptôme :"
+      ],
+      "The browser console shows errors like “Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.” The player never loads.": [
+        "La console du navigateur affiche des erreurs du type « Access to script at '…rocketcdn.me/…/text-to-audio-pro-button.min.js' from origin '…' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. » Le lecteur ne se charge jamais."
+      ],
+      "Why this happens:": [
+        "Pourquoi cela arrive :"
+      ],
+      "Your CDN is serving our plugin's JavaScript files, but your origin server isn't sending an Access-Control-Allow-Origin header. CDNs are pull caches — they only return what the origin gives them. When WP Rocket's Delay JavaScript (or a similar optimizer) adds a crossorigin attribute to the script tag, the browser then enforces CORS and blocks the load. This is a server configuration on your site, not a plugin bug.": [
+        "Votre CDN sert les fichiers JavaScript de notre extension, mais votre serveur d'origine n'envoie pas d'en-tête Access-Control-Allow-Origin. Les CDN sont des caches de type pull : ils ne renvoient que ce que l'origine leur fournit. Lorsque la fonction Delay JavaScript de WP Rocket (ou un optimiseur similaire) ajoute un attribut crossorigin à la balise script, le navigateur applique alors CORS et bloque le chargement. Il s'agit d'une configuration serveur de votre site, pas d'un bug de l'extension."
+      ],
+      "Fix — Apache (.htaccess):": [
+        "Correctif — Apache (.htaccess) :"
+      ],
+      "Add the block below to the .htaccess in your WordPress root (same folder as wp-config.php), above the # BEGIN WP Rocket and # BEGIN WordPress sections.": [
+        "Ajoutez le bloc ci-dessous au fichier .htaccess de la racine de WordPress (le même dossier que wp-config.php), au-dessus des sections # BEGIN WP Rocket et # BEGIN WordPress."
+      ],
+      "Fix — nginx:": [
+        "Correctif — nginx :"
+      ],
+      "Add this location block inside your server {} block, then reload nginx (sudo nginx -s reload).": [
+        "Ajoutez ce bloc location dans votre bloc server {}, puis rechargez nginx (sudo nginx -s reload)."
+      ],
+      "Then — purge your CDN cache:": [
+        "Ensuite — videz le cache de votre CDN :"
+      ],
+      "WP Rocket → Settings → CDN → Clear all cache files. (Or purge from your CDN dashboard directly.) Until you purge, the CDN keeps serving the old response without the new header.": [
+        "WP Rocket → Réglages → CDN → Vider tous les fichiers de cache. (Ou videz-le directement depuis le tableau de bord de votre CDN.) Tant que vous ne le faites pas, le CDN continue de servir l'ancienne réponse sans le nouvel en-tête."
+      ],
+      "Verify:": [
+        "Vérification :"
+      ],
+      "Run this in a terminal and confirm access-control-allow-origin: * appears in the response headers:": [
+        "Exécutez ceci dans un terminal et vérifiez que access-control-allow-origin: * apparaît dans les en-têtes de la réponse :"
+      ],
+      "Optional:": [
+        "Facultatif :"
+      ],
+      "If you'd rather avoid CORS altogether, exclude our plugin's script handles (text-to-audio-*, plyr) from WP Rocket → File Optimization → Delay JavaScript execution. That prevents the crossorigin attribute from being added in the first place. Fixing the header is still the more durable solution.": [
+        "Si vous préférez éviter CORS complètement, excluez les identifiants de script de notre extension (text-to-audio-*, plyr) dans WP Rocket → Optimisation des fichiers → Différer l'exécution du JavaScript. L'attribut crossorigin ne sera alors pas ajouté du tout. Corriger l'en-tête reste malgré tout la solution la plus durable."
+      ],
+      "Read the full guide on atlasaidev.com →": [
+        "Lire le guide complet sur atlasaidev.com →"
+      ],
+      "9. The player or markers are missing inside post cards, related posts or widgets": [
+        "9. Le lecteur ou les repères n'apparaissent pas dans les cartes d'articles, les articles similaires ou les widgets"
+      ],
+      "By default the player button and the AtlasVoice markers/wrapper are emitted only on the main content of the post or page being viewed — never inside a secondary loop such as an Avada \"Post Cards\" grid, a \"Related Posts\" block, or a widget. This is intentional: it prevents the content wrapper from being injected into your theme's grid markup and breaking the layout.": [
+        "Par défaut, le bouton du lecteur et les repères / le conteneur AtlasVoice ne sont insérés que dans le contenu principal de l'article ou de la page consultée — jamais dans une boucle secondaire comme une grille « Post Cards » d'Avada, un bloc d'articles similaires ou un widget. C'est volontaire : cela évite que le conteneur de contenu soit injecté dans le balisage de grille de votre thème et casse la mise en page."
+      ],
+      "If you deliberately want the player to render inside a secondary loop, override the tts_is_secondary_loop filter. It receives the computed boolean, the current loop post ID, and the queried object ID.": [
+        "Si vous souhaitez délibérément que le lecteur s'affiche dans une boucle secondaire, surchargez le filtre tts_is_secondary_loop. Il reçoit le booléen calculé, l'ID de l'article de la boucle en cours et l'ID de l'objet interrogé."
+      ],
+      "Allow the player everywhere, including post cards:": [
+        "Autoriser le lecteur partout, y compris dans les cartes d'articles :"
+      ],
+      "Allow it only for a specific post type:": [
+        "L'autoriser uniquement pour un type de contenu précis :"
+      ],
+      "Read-Along Highlight": [
+        "Surlignage pendant la lecture"
+      ],
+      "Highlight the word and/or sentence being spoken while the post is read aloud.": [
+        "Surligne le mot et/ou la phrase prononcés pendant la lecture de l'article."
+      ],
+      "speechSynthesis limitation:": [
+        "Limite de speechSynthesis :"
+      ],
+      "Word-level highlighting relies on the browser's speechSynthesis “boundary” events, which only fire for local (offline) device voices. Remote voices (e.g. the “Google …” voices) and some browsers (notably Firefox) fire no word boundaries, so word highlighting can't track them. When that happens the player automatically falls back to sentence highlighting. Sentence highlighting works with every voice and browser — it's the recommended default.": [
+        "Le surlignage mot à mot repose sur les événements « boundary » de speechSynthesis, qui ne sont déclenchés que par les voix locales (hors ligne) de l'appareil. Les voix distantes (par ex. les voix « Google … ») et certains navigateurs (Firefox notamment) n'émettent aucune limite de mot, le surlignage mot à mot ne peut donc pas les suivre. Dans ce cas, le lecteur bascule automatiquement sur le surlignage par phrase. Le surlignage par phrase fonctionne avec toutes les voix et tous les navigateurs — c'est la valeur par défaut recommandée."
+      ],
+      "Precise word timing:": [
+        "Synchronisation précise des mots :"
+      ],
+      "This player generates audio with real per-word timing, so word-by-word highlighting is accurate and works in every browser — no local-voice requirement and no fallback.": [
+        "Ce lecteur génère l'audio avec la synchronisation réelle de chaque mot : le surlignage mot à mot est donc exact et fonctionne dans tous les navigateurs — sans voix locale requise et sans solution de repli."
+      ],
+      "Already-generated audio:": [
+        "Audio déjà généré :"
+      ],
+      "Word timing is captured while the audio is being generated, so posts whose MP3 was created before highlighting was enabled have no timing data — they will use sentence highlighting until their audio is regenerated. To upgrade them, regenerate the audio with the Bulk MP3 tool (or regenerate an individual post). Note: regeneration sends the post content to your TTS provider (Google Cloud / ElevenLabs) again, so it consumes provider characters/credits just like the first generation — word timing can only be produced by the provider during synthesis, which is why it isn't added to existing files automatically.": [
+        "La synchronisation des mots est enregistrée pendant la génération de l'audio. Les articles dont le MP3 a été créé avant l'activation du surlignage n'ont donc aucune donnée de synchronisation — ils utiliseront le surlignage par phrase tant que leur audio n'est pas régénéré. Pour les mettre à niveau, régénérez l'audio avec l'outil MP3 en lot (ou régénérez un article isolé). À noter : la régénération renvoie le contenu de l'article à votre fournisseur TTS (Google Cloud / ElevenLabs) et consomme donc des caractères ou des crédits comme la première génération — seule la synthèse chez le fournisseur peut produire la synchronisation des mots, c'est pourquoi elle n'est pas ajoutée automatiquement aux fichiers existants."
+      ],
+      "Successfully Saved...": [
+        "Enregistré avec succès..."
+      ],
+      "Enable highlighting": [
+        "Activer le surlignage"
+      ],
+      "Turn read-along highlighting on or off for the browser players.": [
+        "Active ou désactive le surlignage pendant la lecture pour les lecteurs du navigateur."
+      ],
+      "Highlight mode": [
+        "Mode de surlignage"
+      ],
+      "“Sentence only” works with any voice. “Word” and “Word + Sentence” need a local voice that fires boundary events, and fall back to sentence highlighting otherwise.": [
+        "« Phrase uniquement » fonctionne avec toutes les voix. « Mot » et « Mot + phrase » nécessitent une voix locale émettant des événements boundary, sinon le surlignage par phrase prend le relais."
+      ],
+      "Sentence only (recommended)": [
+        "Phrase uniquement (recommandé)"
+      ],
+      "Word only": [
+        "Mot uniquement"
+      ],
+      "Word + Sentence": [
+        "Mot + phrase"
+      ],
+      "The current player uses generated audio, so read-along highlighting is sentence-level. Word-level options don't apply here.": [
+        "Le lecteur actuel utilise de l'audio généré : le surlignage pendant la lecture se fait donc au niveau de la phrase. Les options au niveau du mot ne s'appliquent pas ici."
+      ],
+      "Word highlight color": [
+        "Couleur de surlignage du mot"
+      ],
+      "Background color painted behind the word currently being spoken.": [
+        "Couleur de fond appliquée derrière le mot en cours de lecture."
+      ],
+      "Word text color": [
+        "Couleur du texte du mot"
+      ],
+      "Text color of the spoken word, for contrast against the highlight color.": [
+        "Couleur du texte du mot prononcé, pour qu'il contraste avec la couleur de surlignage."
+      ],
+      "Sentence highlight color": [
+        "Couleur de surlignage de la phrase"
+      ],
+      "Softer background painted behind the whole sentence being read.": [
+        "Fond plus doux appliqué derrière la phrase entière en cours de lecture."
+      ],
+      "Dim the rest of the article": [
+        "Atténuer le reste de l'article"
+      ],
+      "Fade the surrounding text while reading so the spoken word/sentence stands out.": [
+        "Estompe le texte environnant pendant la lecture pour faire ressortir le mot ou la phrase prononcés."
+      ],
+      "Dimmed text opacity": [
+        "Opacité du texte atténué"
+      ],
+      "How visible the dimmed (non-spoken) text stays. Lower = more dimmed.": [
+        "Le degré de visibilité du texte atténué (non prononcé). Plus la valeur est basse, plus il est estompé."
+      ],
+      "Listen to selected text": [
+        "Écouter le texte sélectionné"
+      ],
+      "Show a small “Listen” control when a reader selects text in the article, to read only the selection — or from the selected word to the end. On the browser players the selection is spoken directly; on MP3 players the audio jumps to the matching position (precise on Google Cloud/ElevenLabs with word timing, approximate otherwise).": [
+        "Affiche un petit bouton « Écouter » lorsqu'un lecteur sélectionne du texte dans l'article, afin de lire uniquement la sélection — ou du mot sélectionné jusqu'à la fin. Sur les lecteurs du navigateur, la sélection est prononcée directement ; sur les lecteurs MP3, l'audio saute à la position correspondante (précise avec Google Cloud/ElevenLabs grâce à la synchronisation des mots, approximative sinon)."
+      ],
+      "Announce selection listening": [
+        "Signaler l'écoute de la sélection"
+      ],
+      "How readers learn the feature exists. The one-time tip appears under the player after their first play and never returns once dismissed. The floating side badge sits collapsed on the left edge and expands on hover; closing it hides it for the visitor's session.": [
+        "La façon dont les lecteurs découvrent la fonctionnalité. L'astuce unique apparaît sous le lecteur après leur première écoute et ne revient plus une fois fermée. Le badge latéral flottant reste replié sur le bord gauche et se déplie au survol ; s'il est fermé, il reste masqué pour la session du visiteur."
+      ],
+      "One-time tip after first play (recommended)": [
+        "Astuce unique après la première écoute (recommandé)"
+      ],
+      "Floating side badge": [
+        "Badge latéral flottant"
+      ],
+      "Both": [
+        "Les deux"
+      ],
+      "Off — discover by selecting": [
+        "Désactivé — à découvrir en sélectionnant"
+      ],
+      "Auto-scroll to follow": [
+        "Défilement automatique pour suivre"
+      ],
+      "Smoothly scroll the page to keep the spoken word in view. Turn off if scrolling is distracting.": [
+        "Fait défiler la page en douceur pour garder le mot prononcé visible. Désactivez-le si le défilement vous gêne."
+      ],
+      "Saving…": [
+        "Enregistrement…"
+      ],
+      "Save Changes": [
+        "Enregistrer les modifications"
+      ],
+      "Help information about this setting": [
+        "Informations d'aide sur ce paramètre"
+      ],
+      "Read the full documentation": [
+        "Lire la documentation complète"
+      ],
+      "Integration Setup": [
+        "Configuration de l'intégration"
+      ],
+      "Connect premium AI voice providers to generate natural MP3 audio.": [
+        "Connectez des fournisseurs de voix IA premium pour générer un audio MP3 naturel."
+      ],
+      "Voice Integrations — Pro Feature": [
+        "Intégrations de voix — fonctionnalité Pro"
+      ],
+      "Google Cloud TTS, ChatGPT, and ElevenLabs integrations are available in AtlasVoice Pro. The free plugin uses your browser's built-in voices.": [
+        "Les intégrations Google Cloud TTS, ChatGPT et ElevenLabs sont disponibles dans AtlasVoice Pro. L'extension gratuite utilise les voix intégrées de votre navigateur."
+      ],
+      "Voice Language": [
+        "Langue de la voix"
+      ],
+      "Default Listening Language": [
+        "Langue d'écoute par défaut"
+      ],
+      "Voice to speak": [
+        "Voix pour parler"
+      ],
+      "Default Listening Voice": [
+        "Voix d'écoute par défaut"
+      ],
+      "Hear 200+ Pro AI voices live": [
+        "Écoutez en direct plus de 200 voix IA Pro"
+      ],
+      "Voice Speed": [
+        "Vitesse de la voix"
+      ],
+      "Voice Volume": [
+        "Volume de la voix"
+      ],
+      "Voice Pitch": [
+        "Tonalité de la voix"
+      ],
+      "Default Listening Pitch": [
+        "Tonalité d'écoute par défaut"
+      ],
+      "Listening Preferences": [
+        "Préférences d'écoute"
+      ],
+      "Set your listening preferences with different voices and languages.": [
+        "Définissez vos préférences d'écoute avec différentes voix et langues."
+      ],
+      "Listening settings saved. Now all setup done. Enjoy": [
+        "Paramètres d'écoute enregistrés. La configuration est terminée. Profitez-en"
+      ],
+      "Multilingual Voice Mapping — Pro Feature": [
+        "Association de voix multilingue — fonctionnalité Pro"
+      ],
+      "We detected an active translation plugin. Mapping a voice and language to each translated language is available in AtlasVoice Pro.": [
+        "Nous avons détecté une extension de traduction active. Associer une voix et une langue à chaque langue traduite est disponible dans AtlasVoice Pro."
+      ],
+      "Scan failed.": [
+        "L'analyse a échoué."
+      ],
+      "Scan failed: ": [
+        "L'analyse a échoué : "
+      ],
+      "No files selected.": [
+        "Aucun fichier sélectionné."
+      ],
+      "Deleted": [
+        "Supprimés"
+      ],
+      "Freed": [
+        "Libérés"
+      ],
+      "Deletion failed.": [
+        "La suppression a échoué."
+      ],
+      "Deletion failed: ": [
+        "La suppression a échoué : "
+      ],
+      "Maintenance": [
+        "Maintenance"
+      ],
+      "⚠ Destructive action.": [
+        "⚠ Action destructrice."
+      ],
+      "This tool permanently deletes leftover per-batch MP3 chunks (files like title-1.mp3, title-2.mp3) from uploads/TTA_Pro/. Only files that meet all of the following are listed:": [
+        "Cet outil supprime définitivement les fragments MP3 restants de chaque lot (des fichiers comme title-1.mp3, title-2.mp3) dans uploads/TTA_Pro/. Seuls les fichiers réunissant toutes les conditions suivantes sont listés :"
+      ],
+      "Filename ends with -N.mp3 where N is a number": [
+        "Le nom du fichier se termine par -N.mp3, où N est un nombre"
+      ],
+      "The final concatenated file (title.mp3) already exists in the same folder": [
+        "Le fichier final assemblé (title.mp3) existe déjà dans le même dossier"
+      ],
+      "The file is older than 1 hour (so an in-flight batch is never affected)": [
+        "Le fichier a plus d'une heure (ainsi un lot en cours n'est jamais touché)"
+      ],
+      "The file sits under wp-uploads/TTA_Pro/ (path traversal is rejected)": [
+        "Le fichier se trouve sous wp-uploads/TTA_Pro/ (la traversée de répertoire est refusée)"
+      ],
+      "⚠ Reduced safety margin.": [
+        "⚠ Marge de sécurité réduite."
+      ],
+      "You have lowered the age threshold below the 1-hour safe default. Files created by an in-flight batch could match. Only use this if no generation is currently running.": [
+        "Vous avez abaissé le seuil d'ancienneté sous la valeur sûre d'une heure. Des fichiers créés par un lot en cours pourraient correspondre. N'utilisez ceci que si aucune génération n'est en cours."
+      ],
+      "Include files older than:": [
+        "Inclure les fichiers de plus de :"
+      ],
+      "Scanning…": [
+        "Analyse…"
+      ],
+      "Scan for orphan files": [
+        "Rechercher les fichiers orphelins"
+      ],
+      "Per page:": [
+        "Par page :"
+      ],
+      "Delete selected": [
+        "Supprimer la sélection"
+      ],
+      "Delete all": [
+        "Tout supprimer"
+      ],
+      "Total orphans:": [
+        "Total des orphelins :"
+      ],
+      "Disk usage:": [
+        "Espace disque utilisé :"
+      ],
+      "Nothing to clean — no orphan temp files found.": [
+        "Rien à nettoyer — aucun fichier temporaire orphelin n'a été trouvé."
+      ],
+      "All": [
+        "Tous"
+      ],
+      "orphan files": [
+        "fichiers orphelins"
+      ],
+      "across all pages are selected.": [
+        "de toutes les pages sont sélectionnés."
+      ],
+      "Clear selection": [
+        "Effacer la sélection"
+      ],
+      "files on this page are selected.": [
+        "fichiers de cette page sont sélectionnés."
+      ],
+      "Select all": [
+        "Tout sélectionner"
+      ],
+      "files across all pages": [
+        "fichiers de toutes les pages"
+      ],
+      "File": [
+        "Fichier"
+      ],
+      "Provider": [
+        "Fournisseur"
+      ],
+      "Size": [
+        "Taille"
+      ],
+      "Modified": [
+        "Modifié"
+      ],
+      "Previous": [
+        "Précédent"
+      ],
+      "Page": [
+        "Page"
+      ],
+      "Next": [
+        "Suivant"
+      ],
+      "Confirm deletion": [
+        "Confirmer la suppression"
+      ],
+      "You are about to permanently delete": [
+        "Vous êtes sur le point de supprimer définitivement"
+      ],
+      "files": [
+        "fichiers"
+      ],
+      "This cannot be undone. Server-side safety rules will re-validate each file before deletion.": [
+        "Cette action est irréversible. Les règles de sécurité côté serveur revalideront chaque fichier avant la suppression."
+      ],
+      "Type ": [
+        "Saisissez "
+      ],
+      " to confirm:": [
+        " pour confirmer :"
+      ],
+      "Deleting…": [
+        "Suppression…"
+      ],
+      "Permanently delete": [
+        "Supprimer définitivement"
+      ],
+      "Maintenance tools are available with the Pro plugin active.": [
+        "Les outils de maintenance sont disponibles lorsque l'extension Pro est active."
+      ],
+      "Include Content By CSS Selectors": [
+        "Inclure le contenu par sélecteurs CSS"
+      ],
+      "e.g. div.entry-content (multi-line allowed)": [
+        "par ex. div.entry-content (plusieurs lignes autorisées)"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Exclure le contenu par sélecteurs CSS"
+      ],
+      "e.g. .share-bar, .related-posts": [
+        "par ex. .share-bar, .related-posts"
+      ],
+      "Exclude HTML Tags To Speak": [
+        "Exclure les balises HTML de la lecture"
+      ],
+      "Pipe-separated. e.g. blockquote|figure": [
+        "Séparés par une barre verticale. par ex. blockquote|figure"
+      ],
+      "Exclude Texts To Speak": [
+        "Exclure des textes de la lecture"
+      ],
+      "Pipe-separated. e.g. Read more...|Advertisement": [
+        "Séparés par une barre verticale. par ex. Lire la suite...|Publicité"
+      ],
+      "Could not find a post matching that ID or slug.": [
+        "Aucun article ne correspond à cet ID ou à ce slug."
+      ],
+      "No published post available to launch the picker on.": [
+        "Aucun article publié ne permet d'ouvrir le sélecteur."
+      ],
+      "Picker launch failed.": [
+        "L'ouverture du sélecteur a échoué."
+      ],
+      "Opening…": [
+        "Ouverture…"
+      ],
+      "Pick Visually": [
+        "Choisir visuellement"
+      ],
+      "Excludes are a Pro feature": [
+        "Les exclusions sont une fonctionnalité Pro"
+      ],
+      "On Free you can set the Include Content By CSS Selectors rule below. Excluding content by CSS selectors, HTML tags, or text — plus per-post and per-post-type targeting — are AtlasVoice Pro features.": [
+        "Dans la version gratuite, vous pouvez définir ci-dessous la règle « Inclure le contenu par sélecteurs CSS ». Exclure du contenu par sélecteurs CSS, balises HTML ou texte — ainsi que le ciblage par article et par type de contenu — sont des fonctionnalités d'AtlasVoice Pro."
+      ],
+      "Pro feature — value won't be saved on Free. Upgrade to enable.": [
+        "Fonctionnalité Pro — la valeur ne sera pas enregistrée dans la version gratuite. Passez à Pro pour l'activer."
+      ],
+      "Pick visually for the global rule": [
+        "Choisir visuellement pour la règle globale"
+      ],
+      "Pick visually for this post type": [
+        "Choisir visuellement pour ce type de contenu"
+      ],
+      "Global": [
+        "Global"
+      ],
+      "Post type:": [
+        "Type de contenu :"
+      ],
+      "Manual post (optional)": [
+        "Article saisi manuellement (facultatif)"
+      ],
+      "Slug or post ID — leave blank to use a sample": [
+        "Slug ou ID d'article — laissez vide pour utiliser un exemple"
+      ],
+      "Configure Settings": [
+        "Configurer les paramètres"
+      ],
+      "Configure text-to-speech player behavior and content selection": [
+        "Configurer le comportement du lecteur de synthèse vocale et la sélection du contenu"
+      ],
+      "Run Setup Wizard": [
+        "Lancer l'assistant de configuration"
+      ],
+      "All cache deleted": [
+        "Tout le cache supprimé"
+      ],
+      "Successfully Saved. Now go to the \"Customization\" menu.": [
+        "Enregistré avec succès. Allez maintenant au menu \"Personnalisation\"."
+      ],
+      "Some Pro-only fields were skipped — upgrade to enable them.": [
+        "Certains champs réservés à Pro ont été ignorés — passez à Pro pour les activer."
+      ],
+      "Add Button or Player Automatically": [
+        "Ajouter le bouton ou le lecteur automatiquement"
+      ],
+      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
+        "La fonctionnalité \"Ajouter le bouton ou le lecteur automatiquement\" permet à AtlasVoice d'insérer automatiquement un bouton de lecture ou un lecteur audio dans vos articles ou pages — sans aucune configuration manuelle."
+      ],
+      "Continue Reading After Switching To Another Tab": [
+        "Continuer la lecture après avoir changé d'onglet"
+      ],
+      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
+        "Lorsqu'activé, la synthèse vocale continuera de jouer même si vous quittez l'onglet actuel"
+      ],
+      "Stop Auto Play After Switching To TTS Tab": [
+        "Arrêter la lecture automatique après avoir basculé vers l'onglet TTS"
+      ],
+      "Automatically pause playback when switching back to the TTS tab from another tab": [
+        "Mettre automatiquement en pause la lecture lorsque vous revenez à l'onglet TTS depuis un autre onglet"
+      ],
+      "When Scroll Down Stop Floating Player": [
+        "Arrêter le lecteur flottant lors du défilement vers le bas"
+      ],
+      "Turn this on to keep the player in place instead of floating it when readers scroll past. Applies to the Bottom positions in Customization.": [
+        "Activez ceci pour garder le lecteur en place au lieu de le faire flotter quand les lecteurs le dépassent en défilant. S'applique aux positions « En bas » de la personnalisation."
+      ],
+      "Apply number format": [
+        "Appliquer le format numérique"
+      ],
+      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
+        "Convertir les nombres en mots parlés (ex. : « 123 » devient « cent vingt-trois »)"
+      ],
+      "Read Content From Dom": [
+        "Lire le contenu depuis le DOM"
+      ],
+      "Add Post Title To Read": [
+        "Ajouter le titre de l'article à la lecture"
+      ],
+      "Include the post title in the audio playback before reading the main content": [
+        "Inclure le titre de l'article dans la lecture audio avant le contenu principal"
+      ],
+      "Add Post Excerpt To Read": [
+        "Ajouter l'extrait de l'article à la lecture"
+      ],
+      "Include the post excerpt/summary in the audio playback before reading the main content": [
+        "Inclure l'extrait/résumé de l'article dans la lecture audio avant le contenu principal"
+      ],
+      "Enable TTS Status": [
+        "Activer le statut TTS"
+      ],
+      "Enable TTS Status In Post Page.": [
+        "Activer le statut TTS dans la page de l'article."
+      ],
+      "Emit Content Wrapper": [
+        "Émettre le conteneur de contenu"
+      ],
+      "Wrap rendered post content in a stable `tts_content_wrapper_<N>` div so the picker / runtime extractor can reliably find it across all posts. Turn off only if your theme's layout breaks on the wrapper.": [
+        "Enveloppe le contenu affiché de l'article dans un div `tts_content_wrapper_<N>` stable, afin que le sélecteur et l'extracteur le retrouvent de façon fiable sur tous les articles. Ne le désactivez que si la mise en page de votre thème se casse à cause du conteneur."
+      ],
+      "Add Text Before Content(intro)": [
+        "Ajouter du texte avant le contenu (introduction)"
+      ],
+      "Custom text that will be read aloud before the main content begins": [
+        "Texte personnalisé qui sera lu à voix haute avant le début du contenu principal"
+      ],
+      "Add Text Before Content": [
+        "Ajouter du texte avant le contenu"
+      ],
+      "Add Text After Content(outro)": [
+        "Ajouter du texte après le contenu (conclusion)"
+      ],
+      "Custom text that will be read aloud after the main content finishes": [
+        "Texte personnalisé qui sera lu à voix haute après la fin du contenu principal"
+      ],
+      "Add Text After Content": [
+        "Ajouter du texte après le contenu"
+      ],
+      "Allow Listening For Post Type": [
+        "Autoriser l'écoute pour le type de publication"
+      ],
+      "Show on-page content selector": [
+        "Afficher le sélecteur de contenu sur la page"
+      ],
+      "Adds the AtlasVoice Selector tabs on the front end for admins so you can pick what gets read aloud right on the post page. Off by default; even when on, it only opens from the “Pick visually” links and never appears on a plain page.": [
+        "Ajoute les onglets AtlasVoice Selector sur le site pour les administrateurs, afin que vous puissiez choisir ce qui est lu à voix haute directement sur la page de l'article. Désactivé par défaut ; même activé, il ne s'ouvre que depuis les liens « Choisir visuellement » et n'apparaît jamais sur une page ordinaire."
+      ],
+      "Full details: on-page content selector & Staging / Live": [
+        "Tous les détails : sélecteur de contenu sur la page et préproduction / mise en ligne"
+      ],
+      "Show Staging / Live indicator in toolbar": [
+        "Afficher l'indicateur préproduction / en ligne dans la barre d'outils"
+      ],
+      "Shows the AtlasVoice mode (Staging or Live) in the WordPress admin bar so you can tell at a glance whether saved rules are driving visitor audio. It is always shown while the on-page content selector is open.": [
+        "Affiche le mode d'AtlasVoice (préproduction ou en ligne) dans la barre d'administration de WordPress, pour savoir d'un coup d'œil si les règles enregistrées pilotent l'audio des visiteurs. Il est toujours affiché tant que le sélecteur de contenu est ouvert."
+      ],
+      "Content Selection Rules": [
+        "Règles de sélection du contenu"
+      ],
+      "Control which part of your content is read aloud. Set a rule for the whole site (Global) below.": [
+        "Déterminez quelle partie de votre contenu est lue à voix haute. Définissez ci-dessous une règle pour tout le site (globale)."
+      ],
+      "Allow Listening For Post Status": [
+        "Autoriser l'écoute pour le statut de publication"
+      ],
+      "On Free Version You Can Select Only 1 post type.": [
+        "Dans la version gratuite, vous ne pouvez sélectionner qu'un seul type de publication."
+      ],
+      "Exclude Posts By IDs To Speak": [
+        "Exclure des articles par IDs de la lecture"
+      ],
+      "Exclude more than 5 IDs is a pro feature": [
+        "L'exclusion de plus de 5 IDs est une fonctionnalité pro"
+      ],
+      "Multiple IDs Will Be Comma(,) Separated.": [
+        "Les IDs multiples seront séparés par des virgules (,)."
+      ],
+      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
+        "L'exclusion de plus de 5 IDs est une fonctionnalité pro. Les IDs multiples seront séparés par des virgules (,)."
+      ],
+      "Exclude Categories To Speak": [
+        "Exclure des catégories de la lecture"
+      ],
+      "Exclude more than 1 categories is a pro feature": [
+        "L'exclusion de plus d'une catégorie est une fonctionnalité pro"
+      ],
+      "On Free Version You Can Select Only 1 Category.": [
+        "Dans la version gratuite, vous ne pouvez sélectionner qu'une seule catégorie."
+      ],
+      "Exclude Tags To Speak": [
+        "Exclure des étiquettes de la lecture"
+      ],
+      "Exclude more than 1 tags is a pro feature": [
+        "L'exclusion de plus d'une étiquette est une fonctionnalité pro"
+      ],
+      "On Free Version You Can Select Only 1 Tag.": [
+        "Dans la version gratuite, vous ne pouvez sélectionner qu'une seule étiquette."
+      ],
+      "Enable Button Icon": [
+        "Activer l'icône du bouton"
+      ],
+      "Show per-post player toggle in toolbar": [
+        "Afficher l'interrupteur du lecteur par article dans la barre d'outils"
+      ],
+      "Adds a “Toggle AtlasVoice audio player for this post” control to the WordPress admin bar on front-end pages.": [
+        "Ajoute un bouton « Activer ou désactiver le lecteur audio AtlasVoice pour cet article » à la barre d'administration de WordPress sur les pages du site."
+      ],
+      "Show dashboard widget": [
+        "Afficher le widget du tableau de bord"
+      ],
+      "Display the AtlasVoice Quick Stats widget on the WordPress admin dashboard.": [
+        "Affiche le widget « Statistiques rapides » d'AtlasVoice sur le tableau de bord de WordPress."
+      ],
+      "Clear all cache": [
+        "Vider tout le cache"
+      ],
+      "Delete all data on uninstall": [
+        "Supprimer toutes les données lors de la désinstallation"
+      ],
+      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
+        "Lorsqu'elle est activée, toutes les données du plugin (paramètres, analyses, fichiers audio générés) seront définitivement supprimées lors de la désinstallation du plugin. Gardez cette option désactivée si vous prévoyez de réinstaller ou si vous déboguez."
+      ],
+      "⚠️ WARNING: Enabling this will permanently delete ALL plugin data (settings, analytics, generated audio files) when you uninstall the plugin. This action cannot be undone.\n\nAre you sure you want to enable this?": [
+        "⚠️ AVERTISSEMENT : en activant ceci, TOUTES les données de l'extension (réglages, statistiques, fichiers audio générés) seront définitivement supprimées lors de la désinstallation. Cette action est irréversible.\n\nVoulez-vous vraiment l'activer ?"
+      ],
+      "⚠ Warning:": [
+        "⚠ Avertissement :"
+      ],
+      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
+        "Toutes les données du plugin seront définitivement supprimées lors de la désinstallation. Désactivez cette option si vous prévoyez de réinstaller, déboguer ou changer de version."
+      ],
+      "Danger zone — reset all plugin data": [
+        "Zone dangereuse — réinitialiser toutes les données de l'extension"
+      ],
+      "Permanently deletes every AtlasVoice option, transient, post-meta entry, cron event, and the analytics database table. The plugin stays active and boots as a fresh install on the next page load. This action cannot be undone.": [
+        "Supprime définitivement chaque option, transient, métadonnée d'article et tâche cron d'AtlasVoice, ainsi que la table de statistiques de la base de données. L'extension reste active et démarre comme une nouvelle installation au chargement suivant. Cette action est irréversible."
+      ],
+      "Type": [
+        "Saisissez"
+      ],
+      "to confirm:": [
+        "pour confirmer :"
+      ],
+      "All plugin data has been reset. Reloading…": [
+        "Toutes les données de l'extension ont été réinitialisées. Rechargement…"
+      ],
+      "Reset failed.": [
+        "La réinitialisation a échoué."
+      ],
+      "Resetting…": [
+        "Réinitialisation…"
+      ],
+      "Reset all plugin data": [
+        "Réinitialiser toutes les données de l'extension"
+      ],
+      "Save All": [
+        "Tout enregistrer"
+      ],
+      "No IDs selected": [
+        "Aucun ID sélectionné"
+      ],
+      "Select IDs": [
+        "Sélectionner des IDs"
+      ],
+      "Native speaker": [
+        "Locuteur natif"
+      ],
+      "Slow and clear": [
+        "Lent et clair"
+      ],
+      "Warm and friendly": [
+        "Chaleureux et amical"
+      ],
+      "Professional newsreader": [
+        "Présentateur professionnel"
+      ],
+      "Storyteller": [
+        "Conteur"
+      ],
+      "Custom": [
+        "Personnalisé"
+      ],
+      "Live demo": [
+        "Démo en direct"
+      ],
+      "Recording Data Saved": [
+        "Données d'enregistrement sauvegardées"
+      ],
+      "No published post found to launch the picker.": [
+        "Aucun article publié n'a été trouvé pour ouvrir le sélecteur."
+      ],
+      "Could not open the picker: ": [
+        "Impossible d'ouvrir le sélecteur : "
+      ],
+      "Pick visually with AtlasVoiceSelector": [
+        "Choisir visuellement avec AtlasVoiceSelector"
+      ],
+      "Opens a sample post in a new tab. Pick / drag in the rail and click Save to update all four fields below.": [
+        "Ouvre un article d'exemple dans un nouvel onglet. Choisissez ou faites glisser dans le rail, puis cliquez sur Enregistrer pour mettre à jour les quatre champs ci-dessous."
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "La fonctionnalité Inclure le contenu par sélecteurs CSS est disponible dans la version pro"
+      ],
+      "Multiple selector will be multiline.": [
+        "Les sélecteurs multiples seront sur plusieurs lignes."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Du contenu peut manquer, il peut être trouvé par des sélecteurs CSS"
+      ],
+      "Add CSS selectors for the content areas the player should read. One selector per line. Only target post/page body content. If left empty, the player automatically detects the content area.": [
+        "Ajoutez les sélecteurs CSS des zones de contenu que le lecteur doit lire. Un sélecteur par ligne. Ne ciblez que le corps de l'article ou de la page. Si le champ reste vide, le lecteur détecte automatiquement la zone de contenu."
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "La fonctionnalité Exclure le contenu par sélecteurs CSS est disponible dans la version pro"
+      ],
+      "Exclude content by CSS selectors": [
+        "Exclure le contenu par sélecteurs CSS"
+      ],
+      "You can add \".atlasvoice_no_read\" class to exclude content.": [
+        "Vous pouvez ajouter la classe \".atlasvoice_no_read\" pour exclure du contenu."
+      ],
+      "Remove specific elements within the included content areas above. One selector per line. Example: .social-share, .related-posts, .author-bio": [
+        "Retirez des éléments précis à l'intérieur des zones de contenu incluses ci-dessus. Un sélecteur par ligne. Exemple : .social-share, .related-posts, .author-bio"
+      ],
+      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Exclure les balises. Pour que leur contenu soit ignoré. Comme (Subscript, Superscript, etc.) Ceci est une fonctionnalité pro."
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Les balises multiples seront séparées par un pipe (|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "L'exclusion de balises est une fonctionnalité pro."
+      ],
+      "HTML tags to skip within the included content. Pipe-separated. script, style, figure, and figcaption are always excluded automatically. Example: sub|sup|blockquote": [
+        "Balises HTML à ignorer dans le contenu inclus. Séparées par une barre verticale. script, style, figure et figcaption sont toujours exclues automatiquement. Exemple : sub|sup|blockquote"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "L'exclusion de textes à lire est une fonctionnalité pro."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Les textes multiples seront séparés par un pipe (|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "L'exclusion de textes est une fonctionnalité pro."
+      ],
+      "Exact text patterns to remove from the spoken content. Pipe-separated. Applied after all CSS and tag exclusions. Example: Read more...|Advertisement|Sponsored Content": [
+        "Textes exacts à retirer du contenu lu. Séparés par une barre verticale. Appliqués après toutes les exclusions CSS et de balises. Exemple : Lire la suite...|Publicité|Contenu sponsorisé"
+      ],
+      "See the Pro demo": [
+        "Voir la démo Pro"
+      ],
+      "more": [
+        "plus"
+      ],
+      "Browser Analytics": [
+        "Analyses du navigateur"
+      ],
+      "Unlock city-level analytics": [
+        "Débloquer les analyses au niveau des villes"
+      ],
+      "Enable comparison with previous period": [
+        "Activer la comparaison avec la période précédente"
+      ],
+      "Tracking more than 20 post IDs is a Pro feature": [
+        "Le suivi de plus de 20 ID d'articles est une fonctionnalité Pro"
+      ],
+      "Unlock 10+ more metrics with Pro": [
+        "Débloquez plus de 10 métriques supplémentaires avec Pro"
+      ],
+      "View all": [
+        "Voir tout"
+      ],
+      "Bottom Fixed (Pro)": [
+        "Bas fixe (Pro)"
+      ],
+      "Bottom Left (Pro)": [
+        "Bas gauche (Pro)"
+      ],
+      "Bottom Right (Pro)": [
+        "Bas droit (Pro)"
+      ],
+      "Bottom Center (Pro)": [
+        "Bas centré (Pro)"
+      ],
+      "Enter Custom CSS here": [
+        "Entrez votre CSS personnalisé ici"
+      ],
+      "This option is only available for the pro version.": [
+        "Cette option n'est disponible que dans la version pro."
+      ],
+      "Text To Audio:  Tap to listen post.": [
+        "Text To Audio : Appuyez pour écouter l'article."
       ],
       "Backup MP3 Files To Google Cloud Storage Can Be Enabled If Google Cloud TTS Is Authenticated.": [
         "La sauvegarde des fichiers MP3 vers Google Cloud Storage peut être activée si Google Cloud TTS est authentifié."
@@ -1104,9 +2025,6 @@
       "How to get ElevenLabs API key?": [
         "Comment obtenir la clé API ElevenLabs ?"
       ],
-      "Integration Setup": [
-        "Configuration de l'intégration"
-      ],
       "AtlasVoice Pro works fully fine even without Google TTS/ChatGPT integration.": [
         "AtlasVoice Pro fonctionne parfaitement même sans intégration Google TTS/ChatGPT."
       ],
@@ -1176,17 +2094,8 @@
       "Voice Model": [
         "Modèle de voix"
       ],
-      "Voice Language": [
-        "Langue de la voix"
-      ],
-      "Default Listening Language": [
-        "Langue d'écoute par défaut"
-      ],
       "Voice to Speak": [
         "Voix à utiliser"
-      ],
-      "Default Listening Voice": [
-        "Voix d'écoute par défaut"
       ],
       "Voice Instructions": [
         "Instructions vocales"
@@ -1203,32 +2112,8 @@
       "Enter custom instructions for the voice...": [
         "Saisissez des instructions personnalisées pour la voix..."
       ],
-      "Voice Speed": [
-        "Vitesse de la voix"
-      ],
       "Your browser does not support the audio element.": [
         "Votre navigateur ne prend pas en charge l'élément audio."
-      ],
-      "Listening Preferences": [
-        "Préférences d'écoute"
-      ],
-      "Set your listening preferences with different voices and languages.": [
-        "Définissez vos préférences d'écoute avec différentes voix et langues."
-      ],
-      "Listening settings saved. Now all setup done. Enjoy": [
-        "Paramètres d'écoute enregistrés. La configuration est terminée. Profitez-en"
-      ],
-      "Voice to speak": [
-        "Voix pour parler"
-      ],
-      "Voice Volume": [
-        "Volume de la voix"
-      ],
-      "Voice Pitch": [
-        "Tonalité de la voix"
-      ],
-      "Default Listening Pitch": [
-        "Tonalité d'écoute par défaut"
       ],
       "Model": [
         "Modèle"
@@ -1302,185 +2187,11 @@
       "Current Player Voice": [
         "Voix actuelle du lecteur"
       ],
-      "Help information about this setting": [
-        "Informations d'aide sur ce paramètre"
-      ],
-      "Configure Settings": [
-        "Configurer les paramètres"
-      ],
-      "Configure text-to-speech player behavior and content selection": [
-        "Configurer le comportement du lecteur de synthèse vocale et la sélection du contenu"
-      ],
-      "Run Setup Wizard": [
-        "Lancer l'assistant de configuration"
-      ],
-      "All cache deleted": [
-        "Tout le cache supprimé"
-      ],
-      "Successfully Saved. Now go to the \"Customization\" menu.": [
-        "Enregistré avec succès. Allez maintenant au menu \"Personnalisation\"."
-      ],
-      "Add Button or Player Automatically": [
-        "Ajouter le bouton ou le lecteur automatiquement"
-      ],
-      "The \"Add Button or Player Automatically\" feature allows AtlasVoice to automatically insert a play button or audio player into your posts or pages — without needing any manual setup.": [
-        "La fonctionnalité \"Ajouter le bouton ou le lecteur automatiquement\" permet à AtlasVoice d'insérer automatiquement un bouton de lecture ou un lecteur audio dans vos articles ou pages — sans aucune configuration manuelle."
-      ],
-      "Continue Reading After Switching To Another Tab": [
-        "Continuer la lecture après avoir changé d'onglet"
-      ],
-      "When enabled, text-to-speech will continue playing even if you navigate away from the current tab": [
-        "Lorsqu'activé, la synthèse vocale continuera de jouer même si vous quittez l'onglet actuel"
-      ],
-      "Stop Auto Play After Switching To TTS Tab": [
-        "Arrêter la lecture automatique après avoir basculé vers l'onglet TTS"
-      ],
-      "Automatically pause playback when switching back to the TTS tab from another tab": [
-        "Mettre automatiquement en pause la lecture lorsque vous revenez à l'onglet TTS depuis un autre onglet"
-      ],
-      "When Scroll Down Stop Floating Player": [
-        "Arrêter le lecteur flottant lors du défilement vers le bas"
-      ],
       "Automatically pause the floating player when users scroll down the page": [
         "Mettre automatiquement en pause le lecteur flottant lorsque les utilisateurs font défiler la page vers le bas"
       ],
-      "Apply number format": [
-        "Appliquer le format numérique"
-      ],
-      "Convert numbers to spoken words (e.g., '123' becomes 'one hundred twenty-three')": [
-        "Convertir les nombres en mots parlés (ex. : « 123 » devient « cent vingt-trois »)"
-      ],
-      "Read Content From Dom": [
-        "Lire le contenu depuis le DOM"
-      ],
       "Use Old Player UI": [
         "Utiliser l'ancienne interface du lecteur"
-      ],
-      "Add Post Title To Read": [
-        "Ajouter le titre de l'article à la lecture"
-      ],
-      "Include the post title in the audio playback before reading the main content": [
-        "Inclure le titre de l'article dans la lecture audio avant le contenu principal"
-      ],
-      "Add Post Excerpt To Read": [
-        "Ajouter l'extrait de l'article à la lecture"
-      ],
-      "Include the post excerpt/summary in the audio playback before reading the main content": [
-        "Inclure l'extrait/résumé de l'article dans la lecture audio avant le contenu principal"
-      ],
-      "Enable TTS Status": [
-        "Activer le statut TTS"
-      ],
-      "Enable TTS Status In Post Page.": [
-        "Activer le statut TTS dans la page de l'article."
-      ],
-      "Add Text Before Content(intro)": [
-        "Ajouter du texte avant le contenu (introduction)"
-      ],
-      "Custom text that will be read aloud before the main content begins": [
-        "Texte personnalisé qui sera lu à voix haute avant le début du contenu principal"
-      ],
-      "Add Text Before Content": [
-        "Ajouter du texte avant le contenu"
-      ],
-      "Add Text After Content(outro)": [
-        "Ajouter du texte après le contenu (conclusion)"
-      ],
-      "Custom text that will be read aloud after the main content finishes": [
-        "Texte personnalisé qui sera lu à voix haute après la fin du contenu principal"
-      ],
-      "Add Text After Content": [
-        "Ajouter du texte après le contenu"
-      ],
-      "Allow Listening For Post Type": [
-        "Autoriser l'écoute pour le type de publication"
-      ],
-      "Allow Listening For Post Status": [
-        "Autoriser l'écoute pour le statut de publication"
-      ],
-      "On Free Version You Can Select Only 1 post type.": [
-        "Dans la version gratuite, vous ne pouvez sélectionner qu'un seul type de publication."
-      ],
-      "Include Content By CSS Selectors": [
-        "Inclure le contenu par sélecteurs CSS"
-      ],
-      "Include Content By CSS Selectors feature is available in pro version": [
-        "La fonctionnalité Inclure le contenu par sélecteurs CSS est disponible dans la version pro"
-      ],
-      "Multiple selector will be multiline.": [
-        "Les sélecteurs multiples seront sur plusieurs lignes."
-      ],
-      "Some content may be missing, It can be found by css selectors": [
-        "Du contenu peut manquer, il peut être trouvé par des sélecteurs CSS"
-      ],
-      "Exclude Content By CSS Selectors": [
-        "Exclure le contenu par sélecteurs CSS"
-      ],
-      "Exclude Content By CSS Selectors feature is available in pro version": [
-        "La fonctionnalité Exclure le contenu par sélecteurs CSS est disponible dans la version pro"
-      ],
-      "Exclude content by CSS selectors": [
-        "Exclure le contenu par sélecteurs CSS"
-      ],
-      "You can add \".atlasvoice_no_read\" class to exclude content.": [
-        "Vous pouvez ajouter la classe \".atlasvoice_no_read\" pour exclure du contenu."
-      ],
-      "Exclude HTML Tags To Speak": [
-        "Exclure les balises HTML de la lecture"
-      ],
-      "Exclude Tags. So that its content skipped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
-        "Exclure les balises. Pour que leur contenu soit ignoré. Comme (Subscript, Superscript, etc.) Ceci est une fonctionnalité pro."
-      ],
-      "Multiple Tags Will Be Pipe(|) Separated.": [
-        "Les balises multiples seront séparées par un pipe (|)."
-      ],
-      "Exclude tags is a pro feature.": [
-        "L'exclusion de balises est une fonctionnalité pro."
-      ],
-      "Exclude Texts To Speak": [
-        "Exclure des textes de la lecture"
-      ],
-      "Excluding texts to be spoken is a pro feature.": [
-        "L'exclusion de textes à lire est une fonctionnalité pro."
-      ],
-      "Multiple Texts Will Be Pipe(|) Separated.": [
-        "Les textes multiples seront séparés par un pipe (|)."
-      ],
-      "Exclude texts is a pro feature.": [
-        "L'exclusion de textes est une fonctionnalité pro."
-      ],
-      "Exclude Posts By IDs To Speak": [
-        "Exclure des articles par IDs de la lecture"
-      ],
-      "Exclude more than 5 IDs is a pro feature": [
-        "L'exclusion de plus de 5 IDs est une fonctionnalité pro"
-      ],
-      "Multiple IDs Will Be Comma(,) Separated.": [
-        "Les IDs multiples seront séparés par des virgules (,)."
-      ],
-      "Excluding more than 5 IDs is a pro feature. Multiple IDs Will Be Comma(,) Separated.": [
-        "L'exclusion de plus de 5 IDs est une fonctionnalité pro. Les IDs multiples seront séparés par des virgules (,)."
-      ],
-      "Exclude Categories To Speak": [
-        "Exclure des catégories de la lecture"
-      ],
-      "Exclude more than 1 categories is a pro feature": [
-        "L'exclusion de plus d'une catégorie est une fonctionnalité pro"
-      ],
-      "On Free Version You Can Select Only 1 Category.": [
-        "Dans la version gratuite, vous ne pouvez sélectionner qu'une seule catégorie."
-      ],
-      "Exclude Tags To Speak": [
-        "Exclure des étiquettes de la lecture"
-      ],
-      "Exclude more than 1 tags is a pro feature": [
-        "L'exclusion de plus d'une étiquette est une fonctionnalité pro"
-      ],
-      "On Free Version You Can Select Only 1 Tag.": [
-        "Dans la version gratuite, vous ne pouvez sélectionner qu'une seule étiquette."
-      ],
-      "Enable Button Icon": [
-        "Activer l'icône du bouton"
       ],
       "Show admin bar toggle": [
         "Afficher le bouton dans la barre d'administration"
@@ -1488,53 +2199,8 @@
       "Show AtlasVoice on/off toggle in the WordPress admin bar on front-end pages.": [
         "Afficher le bouton d'activation/désactivation AtlasVoice dans la barre d'administration WordPress sur les pages publiques."
       ],
-      "Clear all cache": [
-        "Vider tout le cache"
-      ],
-      "Delete all data on uninstall": [
-        "Supprimer toutes les données lors de la désinstallation"
-      ],
-      "When enabled, all plugin data (settings, analytics, generated audio files) will be permanently deleted when the plugin is uninstalled. Keep this OFF if you plan to reinstall or are debugging.": [
-        "Lorsqu'elle est activée, toutes les données du plugin (paramètres, analyses, fichiers audio générés) seront définitivement supprimées lors de la désinstallation du plugin. Gardez cette option désactivée si vous prévoyez de réinstaller ou si vous déboguez."
-      ],
-      "⚠ Warning:": [
-        "⚠ Avertissement :"
-      ],
-      "All plugin data will be permanently deleted when you uninstall. Turn this OFF if you plan to reinstall, debug, or switch versions.": [
-        "Toutes les données du plugin seront définitivement supprimées lors de la désinstallation. Désactivez cette option si vous prévoyez de réinstaller, déboguer ou changer de version."
-      ],
-      "Save All": [
-        "Tout enregistrer"
-      ],
-      "No IDs selected": [
-        "Aucun ID sélectionné"
-      ],
-      "Select IDs": [
-        "Sélectionner des IDs"
-      ],
-      "Native speaker": [
-        "Locuteur natif"
-      ],
-      "Slow and clear": [
-        "Lent et clair"
-      ],
-      "Warm and friendly": [
-        "Chaleureux et amical"
-      ],
-      "Professional newsreader": [
-        "Présentateur professionnel"
-      ],
-      "Storyteller": [
-        "Conteur"
-      ],
-      "Custom": [
-        "Personnalisé"
-      ],
       "You are already authenticated": [
         "Vous êtes déjà authentifié"
-      ],
-      "Recording Data Saved": [
-        "Données d'enregistrement sauvegardées"
       ]
     }
   }

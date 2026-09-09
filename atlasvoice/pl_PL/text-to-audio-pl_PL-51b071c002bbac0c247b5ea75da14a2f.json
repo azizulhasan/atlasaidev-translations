@@ -1,0 +1,86 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:24+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/text-to-audio-button.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Close": [
+        "Zamknij"
+      ],
+      "Listen": [
+        "Słuchaj"
+      ],
+      "Settings": [
+        "Ustawienia"
+      ],
+      "Loading": [
+        "Wczytywanie"
+      ],
+      "Player settings": [
+        "Ustawienia odtwarzacza"
+      ],
+      "Player Settings": [
+        "Ustawienia odtwarzacza"
+      ],
+      "Close settings": [
+        "Zamknij ustawienia"
+      ],
+      "Language": [
+        "Język"
+      ],
+      "Voice": [
+        "Głos"
+      ],
+      "Speed": [
+        "Szybkość"
+      ],
+      "Playback speed": [
+        "Szybkość odtwarzania"
+      ],
+      "Pitch": [
+        "Wysokość"
+      ],
+      "Voice pitch": [
+        "Wysokość głosu"
+      ],
+      "Volume": [
+        "Głośność"
+      ],
+      "Unmute": [
+        "Wyłącz wyciszenie"
+      ],
+      "Mute": [
+        "Wycisz"
+      ],
+      "Unmute audio": [
+        "Wyłącz wyciszenie dźwięku"
+      ],
+      "Mute audio": [
+        "Wycisz dźwięk"
+      ],
+      "From here": [
+        "Od tego miejsca"
+      ],
+      "Listen to the selected text": [
+        "Odsłuchaj zaznaczony tekst"
+      ],
+      "Listen from here to the end": [
+        "Odsłuchaj od tego miejsca do końca"
+      ],
+      "Tip: select any text in the article to listen to just that part.": [
+        "Wskazówka: zaznacz dowolny fragment artykułu, aby odsłuchać tylko tę część."
+      ],
+      "Select any text to listen to it": [
+        "Zaznacz dowolny tekst, aby go odsłuchać"
+      ],
+      "Dismiss": [
+        "Zamknij"
+      ]
+    }
+  }
+}

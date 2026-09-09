@@ -1,0 +1,47 @@
+{
+  "translation-revision-date": "2026-09-09T11:46:25+01:00",
+  "generator": "generate-translations.js",
+  "source": "src/dashboard/welcome/steps/StepCustomize.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Listen": [
+        "Nghe"
+      ],
+      "Background Color": [
+        "Màu nền"
+      ],
+      "Text Color": [
+        "Màu chữ"
+      ],
+      "Border Color": [
+        "Màu viền"
+      ],
+      "Border Radius": [
+        "Bán kính bo góc"
+      ],
+      "Customize the player to match your theme": [
+        "Tùy chỉnh trình phát cho hợp với giao diện của bạn"
+      ],
+      "Pick colors and shape for the audio player button. Changes are previewed in real time below.": [
+        "Chọn màu sắc và hình dáng cho nút trình phát âm thanh. Thay đổi được xem trước ngay bên dưới."
+      ],
+      "Live Preview": [
+        "Xem trước trực tiếp"
+      ],
+      "You can fully customize the player anytime from the Customize tab — including size, position, margins, and custom CSS.": [
+        "Bạn có thể tùy chỉnh toàn bộ trình phát bất cứ lúc nào từ tab Tùy chỉnh — bao gồm kích thước, vị trí, lề và CSS tùy chỉnh."
+      ],
+      "AtlasVoice Pro unlocks additional player designs, floating player positions, and MP3 downloads for visitors.": [
+        "AtlasVoice Pro mở khóa thêm nhiều thiết kế trình phát, các vị trí trình phát nổi và cho phép khách truy cập tải MP3."
+      ],
+      "See Pro Player Designs": [
+        "Xem các thiết kế trình phát Pro"
+      ]
+    }
+  }
+}
