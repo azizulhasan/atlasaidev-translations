@@ -4,8 +4,8 @@
     "version": "1.0.0",
     "locales": {
         "es_ES": {
-            "po_md5": "44d3965890985c70f2a6d8a39a43c5df",
-            "updated": "2026-09-09 14:19+0000",
+            "po_md5": "c610042f0f1beffd69323261855403d0",
+            "updated": "2026-09-09 14:27+0000",
             "files": [
                 "text-to-audio-es_ES.po",
                 "text-to-audio-es_ES.mo",
@@ -53,8 +53,8 @@
             ]
         },
         "it_IT": {
-            "po_md5": "8d0134073ee3dd9af0010e7a43a211e7",
-            "updated": "2026-09-09 14:19+0000",
+            "po_md5": "63053cce64ad4e9072fc590babbfa00e",
+            "updated": "2026-09-09 14:27+0000",
             "files": [
                 "text-to-audio-it_IT.po",
                 "text-to-audio-it_IT.mo",
@@ -102,8 +102,8 @@
             ]
         },
         "pt_BR": {
-            "po_md5": "3fc98c5c1964affad7ab388c791a1b47",
-            "updated": "2026-09-09 14:19+0000",
+            "po_md5": "eb8ea94b346a0d7cac81add3e30f6aa2",
+            "updated": "2026-09-09 14:27+0000",
             "files": [
                 "text-to-audio-pt_BR.po",
                 "text-to-audio-pt_BR.mo",
@@ -156,8 +156,8 @@
             ]
         },
         "pt_PT": {
-            "po_md5": "b8ea362e39c95e6a43bc71420ea4ae8b",
-            "updated": "2026-09-09 14:19+0000",
+            "po_md5": "e72d6f89c74cd10f66b2cb8b5a3a9a48",
+            "updated": "2026-09-09 14:27+0000",
             "files": [
                 "text-to-audio-pt_PT.po",
                 "text-to-audio-pt_PT.mo",
@@ -205,8 +205,8 @@
             ]
         },
         "de_DE": {
-            "po_md5": "64277f5a3126cb0ddc74cf50470b6023",
-            "updated": "2026-09-09 14:19+0000",
+            "po_md5": "e74f9a1e21623289d7a475d0c0f05638",
+            "updated": "2026-09-09 14:27+0000",
             "files": [
                 "text-to-audio-de_DE.po",
                 "text-to-audio-de_DE.mo",
@@ -259,8 +259,8 @@
             ]
         },
         "fr_FR": {
-            "po_md5": "7ca2f4797c414a6d40a244a1f52efcd4",
-            "updated": "2026-09-09 14:19+0000",
+            "po_md5": "2cadb2eb95b858cf027457eab226de83",
+            "updated": "2026-09-09 14:27+0000",
             "files": [
                 "text-to-audio-fr_FR.po",
                 "text-to-audio-fr_FR.mo",
@@ -313,8 +313,8 @@
             ]
         },
         "nl_NL": {
-            "po_md5": "aba64f03e59b0c4c81fe3e8003da96f8",
-            "updated": "2026-09-09 14:19+0000",
+            "po_md5": "92def72e6d3102133a4dc61740e62613",
+            "updated": "2026-09-09 14:27+0000",
             "files": [
                 "text-to-audio-nl_NL.po",
                 "text-to-audio-nl_NL.mo",
@@ -367,8 +367,8 @@
             ]
         },
         "ja": {
-            "po_md5": "27f2971ff7581dd7d7836dc932d8da3b",
-            "updated": "2026-09-09 14:19+0000",
+            "po_md5": "d6ba746ffe0f5442d0f142c03a000ee7",
+            "updated": "2026-09-09 14:27+0000",
             "files": [
                 "text-to-audio-ja.po",
                 "text-to-audio-ja.mo",
@@ -416,8 +416,8 @@
             ]
         },
         "pl_PL": {
-            "po_md5": "dc911ff45ce13f011cb0dc7079650f8b",
-            "updated": "2026-09-09 14:19+0000",
+            "po_md5": "8a9a3adc6d5df849a82b4748606e29f4",
+            "updated": "2026-09-09 14:27+0000",
             "files": [
                 "text-to-audio-pl_PL.po",
                 "text-to-audio-pl_PL.mo",
@@ -465,8 +465,8 @@
             ]
         },
         "ru_RU": {
-            "po_md5": "ac245797e44356f5905e68cb07db759c",
-            "updated": "2026-09-09 14:19+0000",
+            "po_md5": "d292d9e2c452d38fb9de205d419af8ed",
+            "updated": "2026-09-09 14:27+0000",
             "files": [
                 "text-to-audio-ru_RU.po",
                 "text-to-audio-ru_RU.mo",
@@ -514,8 +514,8 @@
             ]
         },
         "tr_TR": {
-            "po_md5": "08620e5d4617b9508a98b13ae69a7c52",
-            "updated": "2026-09-09 14:19+0000",
+            "po_md5": "a32d58b481c4e8121e3700cfc607db8f",
+            "updated": "2026-09-09 14:27+0000",
             "files": [
                 "text-to-audio-tr_TR.po",
                 "text-to-audio-tr_TR.mo",
@@ -563,8 +563,8 @@
             ]
         },
         "vi": {
-            "po_md5": "b7e2c892b795d5658af9d70da84ceb95",
-            "updated": "2026-09-09 14:19+0000",
+            "po_md5": "2f4f6552ae12a06279c97667cca59166",
+            "updated": "2026-09-09 14:27+0000",
             "files": [
                 "text-to-audio-vi.po",
                 "text-to-audio-vi.mo",

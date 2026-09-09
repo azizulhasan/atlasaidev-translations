@@ -12,7 +12,7 @@ msgstr ""
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "POT-Creation-Date: 2026-03-27T11:51:40+01:00\n"
-"PO-Revision-Date: 2026-09-09 14:19+0000\n"
+"PO-Revision-Date: 2026-09-09 14:27+0000\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: text-to-audio\n"
 
@@ -238,9 +238,9 @@ msgid "Continue to Deactivate"
 msgstr "Doorgaan met deactiveren"
 
 #: admin/TTA_Admin.php:1576
-#: includes/TTA_Notices.php:1884
+#: includes/TTA_Notices.php:1906
 #: production/text-to-audio/admin/TTA_Admin.php:1576
-#: production/text-to-audio/includes/TTA_Notices.php:1880
+#: production/text-to-audio/includes/TTA_Notices.php:1883
 msgid "Permission denied."
 msgstr "Toegang geweigerd."
 
@@ -931,7 +931,7 @@ msgid "Open &amp; Pick"
 msgstr "Openen &amp; kiezen"
 
 #: includes/helpers.php:420
-#: production/text-to-audio/includes/helpers.php:417
+#: production/text-to-audio/includes/helpers.php:420
 msgid "Text to speech player"
 msgstr "Tekst-naar-spraak speler"
 
@@ -939,9 +939,9 @@ msgstr "Tekst-naar-spraak speler"
 #: includes/helpers.php:1109
 #: includes/TTA_Activator.php:211
 #: includes/TTA_Player_Icons.php:120
-#: production/text-to-audio/includes/helpers.php:706
-#: production/text-to-audio/includes/helpers.php:1105
-#: production/text-to-audio/includes/TTA_Activator.php:209
+#: production/text-to-audio/includes/helpers.php:709
+#: production/text-to-audio/includes/helpers.php:1109
+#: production/text-to-audio/includes/TTA_Activator.php:211
 #: production/text-to-audio/includes/TTA_Player_Icons.php:120
 #: admin/js/blocks/customize-button/customize-button.js:83
 #: admin/js/tts/selection-control.js:86
@@ -955,9 +955,9 @@ msgstr "Luisteren"
 #: includes/helpers.php:1110
 #: includes/TTA_Activator.php:212
 #: includes/TTA_Player_Icons.php:121
-#: production/text-to-audio/includes/helpers.php:707
-#: production/text-to-audio/includes/helpers.php:1106
-#: production/text-to-audio/includes/TTA_Activator.php:210
+#: production/text-to-audio/includes/helpers.php:710
+#: production/text-to-audio/includes/helpers.php:1110
+#: production/text-to-audio/includes/TTA_Activator.php:212
 #: production/text-to-audio/includes/TTA_Player_Icons.php:121
 #: admin/js/build/chunks/tab-analytics.47d54d2778284f4f.chunk.js:2
 #: production/text-to-audio/admin/js/build/chunks/tab-analytics.47d54d2778284f4f.chunk.js:2
@@ -969,9 +969,9 @@ msgstr "Pauze"
 #: includes/helpers.php:1111
 #: includes/TTA_Activator.php:213
 #: includes/TTA_Player_Icons.php:122
-#: production/text-to-audio/includes/helpers.php:708
-#: production/text-to-audio/includes/helpers.php:1107
-#: production/text-to-audio/includes/TTA_Activator.php:211
+#: production/text-to-audio/includes/helpers.php:711
+#: production/text-to-audio/includes/helpers.php:1111
+#: production/text-to-audio/includes/TTA_Activator.php:213
 #: production/text-to-audio/includes/TTA_Player_Icons.php:122
 msgid "Resume"
 msgstr "Hervatten"
@@ -980,9 +980,9 @@ msgstr "Hervatten"
 #: includes/helpers.php:1112
 #: includes/TTA_Activator.php:214
 #: includes/TTA_Player_Icons.php:123
-#: production/text-to-audio/includes/helpers.php:709
-#: production/text-to-audio/includes/helpers.php:1108
-#: production/text-to-audio/includes/TTA_Activator.php:212
+#: production/text-to-audio/includes/helpers.php:712
+#: production/text-to-audio/includes/helpers.php:1112
+#: production/text-to-audio/includes/TTA_Activator.php:214
 #: production/text-to-audio/includes/TTA_Player_Icons.php:123
 msgid "Replay"
 msgstr "Opnieuw afspelen"
@@ -990,18 +990,18 @@ msgstr "Opnieuw afspelen"
 #: includes/helpers.php:713
 #: includes/helpers.php:1113
 #: includes/TTA_Activator.php:215
-#: production/text-to-audio/includes/helpers.php:710
-#: production/text-to-audio/includes/helpers.php:1109
-#: production/text-to-audio/includes/TTA_Activator.php:213
+#: production/text-to-audio/includes/helpers.php:713
+#: production/text-to-audio/includes/helpers.php:1113
+#: production/text-to-audio/includes/TTA_Activator.php:215
 msgid "Start"
 msgstr "Start"
 
 #: includes/helpers.php:714
 #: includes/helpers.php:1114
 #: includes/TTA_Activator.php:216
-#: production/text-to-audio/includes/helpers.php:711
-#: production/text-to-audio/includes/helpers.php:1110
-#: production/text-to-audio/includes/TTA_Activator.php:214
+#: production/text-to-audio/includes/helpers.php:714
+#: production/text-to-audio/includes/helpers.php:1114
+#: production/text-to-audio/includes/TTA_Activator.php:216
 msgid "Stop"
 msgstr "Stop"
 
@@ -1720,39 +1720,55 @@ msgstr "Ongeldig mijlpaal-ID."
 msgid "Milestone dismissed."
 msgstr "Mijlpaal gesloten."
 
-#: includes/TTA_Notices.php:1847
-#: production/text-to-audio/includes/TTA_Notices.php:1843
+#: includes/TTA_Notices.php:1863
+msgid "AtlasVoice — Updated Translation Available"
+msgstr "AtlasVoice — Bijgewerkte vertaling beschikbaar"
+
+#: includes/TTA_Notices.php:1864
+#: production/text-to-audio/includes/TTA_Notices.php:1846
 msgid "AtlasVoice — Translation Available"
 msgstr "AtlasVoice — Vertaling beschikbaar"
 
 #. translators: %s: language name with locale code
-#: includes/TTA_Notices.php:1853
-#: production/text-to-audio/includes/TTA_Notices.php:1849
+#: includes/TTA_Notices.php:1871
+#, php-format
+msgid "A newer %s translation is available for AtlasVoice, with strings added since you last downloaded it. Click the button below to update it."
+msgstr "Er is een nieuwere %s-vertaling voor AtlasVoice beschikbaar, met teksten die zijn toegevoegd sinds je hem voor het laatst hebt gedownload. Klik op de knop hieronder om hem bij te werken."
+
+#. translators: %s: language name with locale code
+#: includes/TTA_Notices.php:1873
+#: production/text-to-audio/includes/TTA_Notices.php:1852
 #, php-format
 msgid "Your site language is set to %s. A translation pack is available for AtlasVoice. Click the button below to download and activate it."
 msgstr "Uw sitetaal is ingesteld op %s. Er is een vertaalpakket beschikbaar voor AtlasVoice. Klik op de onderstaande knop om het te downloaden en te activeren."
 
 #. translators: %s: language name
-#: includes/TTA_Notices.php:1862
-#: production/text-to-audio/includes/TTA_Notices.php:1858
+#: includes/TTA_Notices.php:1882
+#, php-format
+msgid "Update %s Translation"
+msgstr "%s-vertaling bijwerken"
+
+#. translators: %s: language name
+#: includes/TTA_Notices.php:1884
+#: production/text-to-audio/includes/TTA_Notices.php:1861
 #, php-format
 msgid "Download %s Translation"
 msgstr "Vertaling %s downloaden"
 
-#: includes/TTA_Notices.php:1890
-#: production/text-to-audio/includes/TTA_Notices.php:1886
+#: includes/TTA_Notices.php:1912
+#: production/text-to-audio/includes/TTA_Notices.php:1889
 msgid "Invalid locale."
 msgstr "Ongeldige taalinstelling."
 
 #. translators: %s: locale code
-#: includes/TTA_Notices.php:1902
-#: production/text-to-audio/includes/TTA_Notices.php:1898
+#: includes/TTA_Notices.php:1924
+#: production/text-to-audio/includes/TTA_Notices.php:1901
 #, php-format
 msgid "Translation files for %s downloaded successfully."
 msgstr "Vertaalbestanden voor %s succesvol gedownload."
 
-#: includes/TTA_Notices.php:1908
-#: production/text-to-audio/includes/TTA_Notices.php:1904
+#: includes/TTA_Notices.php:1930
+#: production/text-to-audio/includes/TTA_Notices.php:1907
 msgid "Failed to download translation files. Please try again later."
 msgstr "Vertaalbestanden downloaden mislukt. Probeer het later opnieuw."
 
