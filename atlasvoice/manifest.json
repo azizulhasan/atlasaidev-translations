@@ -2,18 +2,54 @@
     "plugin": "text-to-audio",
     "text_domain": "text-to-audio",
     "version": "1.0.0",
-    "locales": [
-        "es_ES",
-        "it_IT",
-        "pt_BR",
-        "pt_PT",
-        "de_DE",
-        "fr_FR",
-        "nl_NL",
-        "ja",
-        "pl_PL",
-        "ru_RU",
-        "tr_TR",
-        "vi"
-    ]
+    "locales": {
+        "es_ES": {
+            "po_md5": "21c08a6f7213ca89c00932304f9bef05",
+            "updated": "2026-09-09 14:14+0000"
+        },
+        "it_IT": {
+            "po_md5": "e95b38dd9ceca7d3e4e278c7c58f3886",
+            "updated": "2026-09-09 14:13+0000"
+        },
+        "pt_BR": {
+            "po_md5": "f1410a201e3ded30690b1fc2d4d6bda8",
+            "updated": "2026-09-09 14:13+0000"
+        },
+        "pt_PT": {
+            "po_md5": "16e28ce1b44eeb8606c657835428c441",
+            "updated": "2026-09-09 14:13+0000"
+        },
+        "de_DE": {
+            "po_md5": "72b1c49e7f57845be4d37dcad5f526df",
+            "updated": "2026-09-09 14:13+0000"
+        },
+        "fr_FR": {
+            "po_md5": "f3914d4d3fb9259afc5c97db69459e49",
+            "updated": "2026-09-09 14:13+0000"
+        },
+        "nl_NL": {
+            "po_md5": "4a3d09551422f315b5a8488a64ba9a67",
+            "updated": "2026-09-09 14:13+0000"
+        },
+        "ja": {
+            "po_md5": "37214147083e20aecb12270b7d01da27",
+            "updated": "2026-09-09 14:13+0000"
+        },
+        "pl_PL": {
+            "po_md5": "b40817e9642d3d7604fde26a05570b04",
+            "updated": "2026-09-09 14:13+0000"
+        },
+        "ru_RU": {
+            "po_md5": "a53639e5ff59a1a43429181f4da12f57",
+            "updated": "2026-09-09 14:13+0000"
+        },
+        "tr_TR": {
+            "po_md5": "13871a6afa81301a06a8dd0b124a4356",
+            "updated": "2026-09-09 14:13+0000"
+        },
+        "vi": {
+            "po_md5": "1e5a70d392695b20aaa05064fc5df526",
+            "updated": "2026-09-09 14:13+0000"
+        }
+    }
 }
