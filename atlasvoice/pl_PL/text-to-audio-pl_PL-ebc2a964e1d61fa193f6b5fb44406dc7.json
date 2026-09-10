@@ -1,0 +1,119 @@
+{
+  "translation-revision-date": "2026-09-10T07:03:26+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/tts-css-selectors.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Zapisz"
+      ],
+      "Click To Know How It Works?": [
+        "Kliknij, aby zobaczyć, jak to działa"
+      ],
+      "Loading...": [
+        "Wczytywanie..."
+      ],
+      "Include Content By CSS Selectors": [
+        "Uwzględnij treść według selektorów CSS"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Wyklucz treść według selektorów CSS"
+      ],
+      "Exclude HTML Tags To Speak": [
+        "Wyklucz znaczniki HTML z odczytu"
+      ],
+      "Exclude Texts To Speak": [
+        "Wyklucz teksty z odczytu"
+      ],
+      "Pick Visually": [
+        "Wybierz wizualnie"
+      ],
+      "Could not open the picker: ": [
+        "Nie udało się otworzyć narzędzia wyboru: "
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "Funkcja „Uwzględnij treść według selektorów CSS” jest dostępna w wersji pro"
+      ],
+      "Multiple selector will be multiline.": [
+        "Wiele selektorów zapisz w osobnych wierszach."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Część treści może być pomijana — możesz ją wskazać selektorami CSS"
+      ],
+      "Add CSS selectors for the content areas the player should read. One selector per line. Only target post/page body content. If left empty, the player automatically detects the content area.": [
+        "Dodaj selektory CSS obszarów treści, które odtwarzacz ma odczytywać. Jeden selektor w wierszu. Wskazuj wyłącznie treść wpisu lub strony. Jeśli zostawisz to pole puste, odtwarzacz sam wykryje obszar treści."
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "Funkcja „Wyklucz treść według selektorów CSS” jest dostępna w wersji pro"
+      ],
+      "Exclude content by CSS selectors": [
+        "Wyklucz treść według selektorów CSS"
+      ],
+      "Remove specific elements within the included content areas above. One selector per line. Example: .social-share, .related-posts, .author-bio": [
+        "Usuwa wybrane elementy z uwzględnionych powyżej obszarów treści. Jeden selektor w wierszu. Przykład: .social-share, .related-posts, .author-bio"
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Wiele znaczników rozdziel pionową kreską (|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Wykluczanie znaczników to funkcja pro."
+      ],
+      "HTML tags to skip within the included content. Pipe-separated. script, style, figure, and figcaption are always excluded automatically. Example: sub|sup|blockquote": [
+        "Znaczniki HTML pomijane w uwzględnionej treści. Rozdzielane pionową kreską. Znaczniki script, style, figure i figcaption są zawsze wykluczane automatycznie. Przykład: sub|sup|blockquote"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Wykluczanie tekstów z odczytu to funkcja pro."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Wiele tekstów rozdziel pionową kreską (|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Wykluczanie tekstów to funkcja pro."
+      ],
+      "Exact text patterns to remove from the spoken content. Pipe-separated. Applied after all CSS and tag exclusions. Example: Read more...|Advertisement|Sponsored Content": [
+        "Dokładne wzorce tekstu usuwane z odczytywanej treści. Rozdzielane pionową kreską. Stosowane po wszystkich wykluczeniach CSS i znaczników. Przykład: Czytaj dalej...|Reklama|Treść sponsorowana"
+      ],
+      "Please save the post then try to add custom CSS selectors.": [
+        "Zapisz wpis, a następnie spróbuj dodać własne selektory CSS."
+      ],
+      "Empty value can not be saved. You can uncheck the \"Use Own CSS Selectors\" Option.": [
+        "Nie można zapisać pustej wartości. Możesz odznaczyć opcję „Użyj własnych selektorów CSS”."
+      ],
+      "Settings Data Saved": [
+        "Zapisano dane ustawień"
+      ],
+      "Exclude Tags. So that its content skipped. Like (Subscript, Superscript etc.) This is a pro feature.": [
+        "Wyklucz znaczniki, aby pominąć ich zawartość. Na przykład (indeks dolny, indeks górny itp.) To funkcja pro."
+      ],
+      "CSS Selectors for This Post": [
+        "Selektory CSS dla tego wpisu"
+      ],
+      "Override global content extraction settings for this post only.": [
+        "Nadpisz globalne ustawienia pobierania treści tylko dla tego wpisu."
+      ],
+      "Open the visual picker for this post.": [
+        "Otwórz wizualne narzędzie wyboru dla tego wpisu."
+      ],
+      "Enable \"Use Own CSS Selectors\" to edit this post's rule.": [
+        "Włącz opcję „Użyj własnych selektorów CSS”, aby edytować regułę tego wpisu."
+      ],
+      "Could not resolve this post URL. Save the post first.": [
+        "Nie udało się ustalić adresu tego wpisu. Najpierw zapisz wpis."
+      ],
+      "Use Own CSS Selectors": [
+        "Użyj własnych selektorów CSS"
+      ],
+      "Per-post CSS selectors is a pro feature.": [
+        "Selektory CSS dla pojedynczego wpisu to funkcja pro."
+      ],
+      "When enabled, the selectors below override the global settings (Settings > CSS Selectors) for this post only. Only non-empty fields override — empty fields keep the global value.": [
+        "Po włączeniu poniższe selektory nadpisują ustawienia globalne (Ustawienia > Selektory CSS) wyłącznie dla tego wpisu. Nadpisywane są tylko wypełnione pola — puste zachowują wartość globalną."
+      ]
+    }
+  }
+}

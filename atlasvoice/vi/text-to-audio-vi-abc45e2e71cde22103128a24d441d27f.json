@@ -1,0 +1,305 @@
+{
+  "translation-revision-date": "2026-09-10T07:03:27+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/tts-welcome-wizard.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Nâng cấp lên Pro"
+      ],
+      "Listen": [
+        "Nghe"
+      ],
+      "Default": [
+        "Mặc định"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Background Color": [
+        "Màu nền"
+      ],
+      "Text Color": [
+        "Màu chữ"
+      ],
+      "Saving...": [
+        "Đang lưu..."
+      ],
+      "Select All": [
+        "Chọn tất cả"
+      ],
+      "Border Color": [
+        "Màu viền"
+      ],
+      "Border Radius": [
+        "Bán kính bo góc"
+      ],
+      "Next": [
+        "Sau"
+      ],
+      "Opening…": [
+        "Đang mở…"
+      ],
+      "Language": [
+        "Ngôn ngữ"
+      ],
+      "Voice": [
+        "Giọng đọc"
+      ],
+      "Track your audio player performance": [
+        "Theo dõi hiệu quả trình phát âm thanh của bạn"
+      ],
+      "See how visitors interact with your audio content. Analytics helps you understand what works.": [
+        "Xem cách khách truy cập tương tác với nội dung âm thanh của bạn. Phân tích giúp bạn hiểu điều gì đang hiệu quả."
+      ],
+      "Enable Analytics": [
+        "Bật phân tích"
+      ],
+      "No published posts found. Analytics will start tracking once you publish content.": [
+        "Không tìm thấy bài viết đã đăng nào. Phân tích sẽ bắt đầu ghi nhận khi bạn đăng nội dung."
+      ],
+      "All posts are tracked by default. Pick specific posts below to track only those:": [
+        "Mặc định tất cả bài viết đều được theo dõi. Hãy chọn các bài viết cụ thể bên dưới để chỉ theo dõi những bài đó:"
+      ],
+      "Deselect All": [
+        "Bỏ chọn tất cả"
+      ],
+      "Posts to track": [
+        "Bài viết cần theo dõi"
+      ],
+      "All posts will be tracked": [
+        "Tất cả bài viết sẽ được theo dõi"
+      ],
+      "selected": [
+        "đã chọn"
+      ],
+      "AtlasVoice Pro adds geographic insights, device analytics, custom date ranges, and CSV/PDF exports.": [
+        "AtlasVoice Pro bổ sung thông tin theo khu vực, phân tích thiết bị, khoảng thời gian tùy chỉnh và xuất CSV/PDF."
+      ],
+      "Learn about Pro Analytics": [
+        "Tìm hiểu về phân tích ở bản Pro"
+      ],
+      "No published post is available to preview yet. Publish a post first, then verify.": [
+        "Chưa có bài viết đã đăng nào để xem trước. Hãy đăng một bài viết trước, rồi kiểm tra lại."
+      ],
+      "Could not open the content preview. Please try again.": [
+        "Không mở được phần xem trước nội dung. Vui lòng thử lại."
+      ],
+      "Check what gets read aloud": [
+        "Kiểm tra nội dung sẽ được đọc"
+      ],
+      "Before going live, make sure the player reads the right part of your content — and skips menus, sidebars, and footers. AtlasVoice starts in Staging (hidden from visitors) so you can verify it first, before the player goes live.": [
+        "Trước khi phát hành, hãy đảm bảo trình phát đọc đúng phần nội dung của bạn — và bỏ qua menu, thanh bên và chân trang. AtlasVoice bắt đầu ở chế độ Thử nghiệm (ẩn với khách truy cập) để bạn kiểm tra trước khi trình phát ra mắt."
+      ],
+      "Click “Open content preview” — a sample post opens in a new tab with the AtlasVoice Selector.": [
+        "Nhấp \"Mở xem trước nội dung\" — một bài viết mẫu sẽ mở trong tab mới cùng AtlasVoice Selector."
+      ],
+      "Open “Preview Content” on the right to see exactly what will be read. Adjust the content region if needed.": [
+        "Mở \"Xem trước nội dung\" ở bên phải để thấy chính xác những gì sẽ được đọc. Điều chỉnh vùng nội dung nếu cần."
+      ],
+      "Come back to this tab and continue — you’ll choose to Go Live on the last step.": [
+        "Quay lại tab này và tiếp tục — bạn sẽ chọn Phát hành ở bước cuối cùng."
+      ],
+      "Open content preview again": [
+        "Mở lại xem trước nội dung"
+      ],
+      "Open content preview": [
+        "Mở xem trước nội dung"
+      ],
+      "Opened in a new tab. Verify it reads correctly, then return here and click Next.": [
+        "Đã mở trong tab mới. Hãy xác nhận nội dung được đọc đúng, sau đó quay lại đây và nhấp Tiếp theo."
+      ],
+      "This is optional but recommended. You can always re-run it later from the dashboard.": [
+        "Bước này là tùy chọn nhưng được khuyến nghị. Bạn luôn có thể chạy lại sau từ bảng điều khiển."
+      ],
+      "Learn how the Staging → Live workflow works →": [
+        "Tìm hiểu quy trình Thử nghiệm → Phát hành hoạt động ra sao →"
+      ],
+      "Tip: the player stays hidden from visitors while you’re in Staging, so you can verify it safely first.": [
+        "Mẹo: khi còn ở chế độ Thử nghiệm, trình phát vẫn ẩn với khách truy cập nên bạn có thể yên tâm kiểm tra trước."
+      ],
+      "Customize the player to match your theme": [
+        "Tùy chỉnh trình phát cho hợp với giao diện của bạn"
+      ],
+      "Pick colors and shape for the audio player button. Changes are previewed in real time below.": [
+        "Chọn màu sắc và hình dáng cho nút trình phát âm thanh. Thay đổi được xem trước ngay bên dưới."
+      ],
+      "Live Preview": [
+        "Xem trước trực tiếp"
+      ],
+      "You can fully customize the player anytime from the Customize tab — including size, position, margins, and custom CSS.": [
+        "Bạn có thể tùy chỉnh toàn bộ trình phát bất cứ lúc nào từ tab Tùy chỉnh — bao gồm kích thước, vị trí, lề và CSS tùy chỉnh."
+      ],
+      "AtlasVoice Pro unlocks additional player designs, floating player positions, and MP3 downloads for visitors.": [
+        "AtlasVoice Pro mở khóa thêm nhiều thiết kế trình phát, các vị trí trình phát nổi và cho phép khách truy cập tải MP3."
+      ],
+      "See Pro Player Designs": [
+        "Xem các thiết kế trình phát Pro"
+      ],
+      "Could not go live. Please try from the dashboard.": [
+        "Không phát hành được. Vui lòng thử từ bảng điều khiển."
+      ],
+      "You’re live! 🎉": [
+        "Bạn đã phát hành! 🎉"
+      ],
+      "The audio player is now visible to visitors on all your %s.": [
+        "Trình phát âm thanh giờ đã hiển thị với khách truy cập trên toàn bộ %s của bạn."
+      ],
+      "View Player on Your Site": [
+        "Xem trình phát trên website của bạn"
+      ],
+      "Go to Dashboard": [
+        "Đến bảng điều khiển"
+      ],
+      "Hear the live demo": [
+        "Nghe bản demo trực tiếp"
+      ],
+      "Setup complete — you’re in Staging": [
+        "Thiết lập hoàn tất — bạn đang ở chế độ Thử nghiệm"
+      ],
+      "Your settings are saved, but the player is still hidden from visitors. When you’re happy with how your content reads, Go Live to show the player on your site.": [
+        "Cài đặt của bạn đã được lưu, nhưng trình phát vẫn ẩn với khách truy cập. Khi bạn hài lòng với cách nội dung được đọc, hãy Phát hành để hiển thị trình phát trên website."
+      ],
+      "Going live…": [
+        "Đang phát hành…"
+      ],
+      "Go Live now": [
+        "Phát hành ngay"
+      ],
+      "Stay in Staging": [
+        "Ở lại chế độ Thử nghiệm"
+      ],
+      "How does Staging → Live work? →": [
+        "Quy trình Thử nghiệm → Phát hành hoạt động ra sao? →"
+      ],
+      "Explore all AtlasAiDev plugins": [
+        "Khám phá tất cả plugin của AtlasAiDev"
+      ],
+      "Hear the Difference": [
+        "Nghe sự khác biệt"
+      ],
+      "Compare your free browser voice with Pro AI voices. Same text, dramatically different quality.": [
+        "So sánh giọng trình duyệt miễn phí của bạn với giọng AI của bản Pro. Cùng một đoạn văn bản, chất lượng khác biệt rõ rệt."
+      ],
+      "Your Current Voice": [
+        "Giọng hiện tại của bạn"
+      ],
+      "Browser TTS": [
+        "TTS trình duyệt"
+      ],
+      "FREE": [
+        "MIỄN PHÍ"
+      ],
+      "VS": [
+        "SO VỚI"
+      ],
+      "PRO": [
+        "PRO"
+      ],
+      "Preview unavailable": [
+        "Không thể xem trước"
+      ],
+      "Unlock 200+ premium AI voices with Pro": [
+        "Mở khóa hơn 200 giọng AI cao cấp với bản Pro"
+      ],
+      "Every visitor hears the same high-quality audio. No browser dependency, consistent across all devices.": [
+        "Mọi khách truy cập đều nghe cùng một chất lượng âm thanh cao. Không phụ thuộc trình duyệt, đồng nhất trên mọi thiết bị."
+      ],
+      "Explore Pro Plans": [
+        "Khám phá các gói Pro"
+      ],
+      "Where should the audio player appear?": [
+        "Trình phát âm thanh nên xuất hiện ở đâu?"
+      ],
+      "By default, the player is added to all your Posts. You can change it to any single post type:": [
+        "Theo mặc định, trình phát được thêm vào tất cả Bài viết của bạn. Bạn có thể đổi sang một loại bài viết bất kỳ:"
+      ],
+      "Post type selection": [
+        "Chọn loại bài viết"
+      ],
+      "(%d published)": [
+        "(%d đã đăng)"
+      ],
+      "Free version supports 1 post type. Need multiple post types?": [
+        "Bản miễn phí hỗ trợ 1 loại bài viết. Bạn cần nhiều loại bài viết?"
+      ],
+      "AtlasVoice Pro supports unlimited post types plus AI-powered voices.": [
+        "AtlasVoice Pro hỗ trợ không giới hạn loại bài viết cùng các giọng đọc AI."
+      ],
+      "Choose your voice and language": [
+        "Chọn giọng đọc và ngôn ngữ"
+      ],
+      "Select a browser voice for your audio player. Visitors will hear content read aloud using the Web Speech API.": [
+        "Chọn một giọng trình duyệt cho trình phát âm thanh của bạn. Khách truy cập sẽ nghe nội dung được đọc bằng Web Speech API."
+      ],
+      "All Languages": [
+        "Tất cả ngôn ngữ"
+      ],
+      "Loading voices...": [
+        "Đang tải giọng đọc..."
+      ],
+      "Stop Preview": [
+        "Dừng nghe thử"
+      ],
+      "Preview Voice": [
+        "Nghe thử giọng"
+      ],
+      "Currently Active": [
+        "Đang hoạt động"
+      ],
+      "Browser Voices (Free)": [
+        "Giọng trình duyệt (miễn phí)"
+      ],
+      "Good for basic accessibility. Quality depends on visitor's browser and device.": [
+        "Phù hợp cho nhu cầu tiếp cận cơ bản. Chất lượng phụ thuộc vào trình duyệt và thiết bị của khách truy cập."
+      ],
+      "AI Voices — Natural & Consistent": [
+        "Giọng AI — tự nhiên và đồng nhất"
+      ],
+      "Google Cloud TTS, ElevenLabs, ChatGPT TTS. 200+ premium voices. Same quality for every visitor.": [
+        "Google Cloud TTS, ElevenLabs, ChatGPT TTS. Hơn 200 giọng cao cấp. Cùng một chất lượng cho mọi khách truy cập."
+      ],
+      "There was an error saving your settings. Please try again.": [
+        "Đã xảy ra lỗi khi lưu cài đặt. Vui lòng thử lại."
+      ],
+      "Finish Setup": [
+        "Hoàn tất thiết lập"
+      ],
+      "Next: Choose Voice": [
+        "Tiếp theo: Chọn giọng đọc"
+      ],
+      "Next: Hear the Difference": [
+        "Tiếp theo: Nghe sự khác biệt"
+      ],
+      "Next: Check Content": [
+        "Tiếp theo: Kiểm tra nội dung"
+      ],
+      "Next: Customize": [
+        "Tiếp theo: Tùy chỉnh"
+      ],
+      "Next: Analytics": [
+        "Tiếp theo: Phân tích"
+      ],
+      "AtlasVoice Setup": [
+        "Thiết lập AtlasVoice"
+      ],
+      "Step": [
+        "Bước"
+      ],
+      "of": [
+        "trên"
+      ],
+      "Skip Setup": [
+        "Bỏ qua thiết lập"
+      ],
+      "Back": [
+        "Quay lại"
+      ]
+    }
+  }
+}

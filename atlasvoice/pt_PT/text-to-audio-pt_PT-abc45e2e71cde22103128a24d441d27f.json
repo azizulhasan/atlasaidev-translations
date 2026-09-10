@@ -1,0 +1,305 @@
+{
+  "translation-revision-date": "2026-09-10T07:03:27+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/tts-welcome-wizard.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Atualizar para Pro"
+      ],
+      "Listen": [
+        "Ouvir"
+      ],
+      "Default": [
+        "Padrão"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Background Color": [
+        "Cor de Fundo"
+      ],
+      "Text Color": [
+        "Cor do Texto"
+      ],
+      "Saving...": [
+        "A guardar..."
+      ],
+      "Select All": [
+        "Selecionar tudo"
+      ],
+      "Border Color": [
+        "Cor da Borda"
+      ],
+      "Border Radius": [
+        "Raio da Borda"
+      ],
+      "Next": [
+        "Seguinte"
+      ],
+      "Opening…": [
+        "A abrir…"
+      ],
+      "Language": [
+        "Idioma"
+      ],
+      "Voice": [
+        "Voz"
+      ],
+      "Track your audio player performance": [
+        "Acompanha o desempenho do teu leitor de áudio"
+      ],
+      "See how visitors interact with your audio content. Analytics helps you understand what works.": [
+        "Vê como os visitantes interagem com o teu conteúdo em áudio. A análise ajuda-te a perceber o que funciona."
+      ],
+      "Enable Analytics": [
+        "Ativar a análise"
+      ],
+      "No published posts found. Analytics will start tracking once you publish content.": [
+        "Não foram encontrados artigos publicados. A análise começa a registar dados assim que publicares conteúdo."
+      ],
+      "All posts are tracked by default. Pick specific posts below to track only those:": [
+        "Por predefinição são registados todos os artigos. Escolhe abaixo artigos específicos para registares apenas esses:"
+      ],
+      "Deselect All": [
+        "Desmarcar tudo"
+      ],
+      "Posts to track": [
+        "Artigos a registar"
+      ],
+      "All posts will be tracked": [
+        "Serão registados todos os artigos"
+      ],
+      "selected": [
+        "selecionados"
+      ],
+      "AtlasVoice Pro adds geographic insights, device analytics, custom date ranges, and CSV/PDF exports.": [
+        "O AtlasVoice Pro acrescenta dados geográficos, análise de dispositivos, intervalos de datas personalizados e exportações CSV/PDF."
+      ],
+      "Learn about Pro Analytics": [
+        "Conhecer a análise do Pro"
+      ],
+      "No published post is available to preview yet. Publish a post first, then verify.": [
+        "Ainda não há nenhum artigo publicado para pré-visualizar. Publica primeiro um artigo e depois confirma."
+      ],
+      "Could not open the content preview. Please try again.": [
+        "Não foi possível abrir a pré-visualização do conteúdo. Tenta novamente."
+      ],
+      "Check what gets read aloud": [
+        "Confirma o que é lido em voz alta"
+      ],
+      "Before going live, make sure the player reads the right part of your content — and skips menus, sidebars, and footers. AtlasVoice starts in Staging (hidden from visitors) so you can verify it first, before the player goes live.": [
+        "Antes de publicares, certifica-te de que o leitor lê a parte certa do teu conteúdo — e ignora menus, barras laterais e rodapés. O AtlasVoice começa em Staging (oculto aos visitantes) para que possas confirmar primeiro, antes de o leitor ficar publicado."
+      ],
+      "Click “Open content preview” — a sample post opens in a new tab with the AtlasVoice Selector.": [
+        "Clica em “Abrir a pré-visualização do conteúdo” — abre-se um artigo de exemplo num novo separador com o AtlasVoice Selector."
+      ],
+      "Open “Preview Content” on the right to see exactly what will be read. Adjust the content region if needed.": [
+        "Abre “Pré-visualizar o conteúdo” à direita para veres exatamente o que será lido. Ajusta a zona de conteúdo se for preciso."
+      ],
+      "Come back to this tab and continue — you’ll choose to Go Live on the last step.": [
+        "Volta a este separador e continua — vais escolher se queres publicar no último passo."
+      ],
+      "Open content preview again": [
+        "Abrir novamente a pré-visualização do conteúdo"
+      ],
+      "Open content preview": [
+        "Abrir a pré-visualização do conteúdo"
+      ],
+      "Opened in a new tab. Verify it reads correctly, then return here and click Next.": [
+        "Aberto num novo separador. Confirma que é lido corretamente, volta aqui e clica em Seguinte."
+      ],
+      "This is optional but recommended. You can always re-run it later from the dashboard.": [
+        "É opcional, mas recomendado. Podes sempre repetir mais tarde a partir do painel."
+      ],
+      "Learn how the Staging → Live workflow works →": [
+        "Descobre como funciona o fluxo de Staging a Publicado →"
+      ],
+      "Tip: the player stays hidden from visitors while you’re in Staging, so you can verify it safely first.": [
+        "Sugestão: o leitor continua oculto aos visitantes enquanto estiveres em Staging, para poderes confirmar com tranquilidade."
+      ],
+      "Customize the player to match your theme": [
+        "Personaliza o leitor para combinar com o teu tema"
+      ],
+      "Pick colors and shape for the audio player button. Changes are previewed in real time below.": [
+        "Escolhe as cores e a forma do botão do leitor de áudio. As alterações são pré-visualizadas em tempo real abaixo."
+      ],
+      "Live Preview": [
+        "Pré-visualização ao vivo"
+      ],
+      "You can fully customize the player anytime from the Customize tab — including size, position, margins, and custom CSS.": [
+        "Podes personalizar o leitor por completo quando quiseres a partir do separador Personalizar — incluindo o tamanho, a posição, as margens e o CSS personalizado."
+      ],
+      "AtlasVoice Pro unlocks additional player designs, floating player positions, and MP3 downloads for visitors.": [
+        "O AtlasVoice Pro desbloqueia mais designs de leitor, posições flutuantes e transferências de MP3 para os visitantes."
+      ],
+      "See Pro Player Designs": [
+        "Ver os designs de leitor do Pro"
+      ],
+      "Could not go live. Please try from the dashboard.": [
+        "Não foi possível publicar. Tenta a partir do painel."
+      ],
+      "You’re live! 🎉": [
+        "Já está publicado! 🎉"
+      ],
+      "The audio player is now visible to visitors on all your %s.": [
+        "O leitor de áudio já está visível para os visitantes em todos os teus %s."
+      ],
+      "View Player on Your Site": [
+        "Ver o leitor no teu site"
+      ],
+      "Go to Dashboard": [
+        "Ir para o painel"
+      ],
+      "Hear the live demo": [
+        "Ouvir a demonstração ao vivo"
+      ],
+      "Setup complete — you’re in Staging": [
+        "Configuração concluída — estás em Staging"
+      ],
+      "Your settings are saved, but the player is still hidden from visitors. When you’re happy with how your content reads, Go Live to show the player on your site.": [
+        "As tuas definições estão guardadas, mas o leitor continua oculto aos visitantes. Quando estiveres satisfeito com a forma como o conteúdo é lido, publica para mostrares o leitor no teu site."
+      ],
+      "Going live…": [
+        "A publicar…"
+      ],
+      "Go Live now": [
+        "Publicar agora"
+      ],
+      "Stay in Staging": [
+        "Continuar em Staging"
+      ],
+      "How does Staging → Live work? →": [
+        "Como funciona a passagem de Staging a Publicado? →"
+      ],
+      "Explore all AtlasAiDev plugins": [
+        "Explorar todos os plugins da AtlasAiDev"
+      ],
+      "Hear the Difference": [
+        "Ouve a diferença"
+      ],
+      "Compare your free browser voice with Pro AI voices. Same text, dramatically different quality.": [
+        "Compara a voz gratuita do teu navegador com as vozes de IA do Pro. O mesmo texto, com uma qualidade muito diferente."
+      ],
+      "Your Current Voice": [
+        "A tua voz atual"
+      ],
+      "Browser TTS": [
+        "TTS do navegador"
+      ],
+      "FREE": [
+        "GRÁTIS"
+      ],
+      "VS": [
+        "VS"
+      ],
+      "PRO": [
+        "PRO"
+      ],
+      "Preview unavailable": [
+        "Pré-visualização indisponível"
+      ],
+      "Unlock 200+ premium AI voices with Pro": [
+        "Desbloqueia mais de 200 vozes de IA premium com o Pro"
+      ],
+      "Every visitor hears the same high-quality audio. No browser dependency, consistent across all devices.": [
+        "Todos os visitantes ouvem o mesmo áudio de alta qualidade. Sem depender do navegador e com resultados consistentes em todos os dispositivos."
+      ],
+      "Explore Pro Plans": [
+        "Explorar os planos Pro"
+      ],
+      "Where should the audio player appear?": [
+        "Onde deve aparecer o leitor de áudio?"
+      ],
+      "By default, the player is added to all your Posts. You can change it to any single post type:": [
+        "Por predefinição, o leitor é acrescentado a todos os teus artigos. Podes mudar para qualquer tipo de conteúdo:"
+      ],
+      "Post type selection": [
+        "Seleção do tipo de conteúdo"
+      ],
+      "(%d published)": [
+        "(%d publicados)"
+      ],
+      "Free version supports 1 post type. Need multiple post types?": [
+        "A versão gratuita suporta 1 tipo de conteúdo. Precisas de vários tipos de conteúdo?"
+      ],
+      "AtlasVoice Pro supports unlimited post types plus AI-powered voices.": [
+        "O AtlasVoice Pro suporta tipos de conteúdo ilimitados e vozes com IA."
+      ],
+      "Choose your voice and language": [
+        "Escolhe a tua voz e o teu idioma"
+      ],
+      "Select a browser voice for your audio player. Visitors will hear content read aloud using the Web Speech API.": [
+        "Seleciona uma voz do navegador para o teu leitor de áudio. Os visitantes vão ouvir o conteúdo lido em voz alta através da Web Speech API."
+      ],
+      "All Languages": [
+        "Todos os idiomas"
+      ],
+      "Loading voices...": [
+        "A carregar as vozes..."
+      ],
+      "Stop Preview": [
+        "Parar a pré-visualização"
+      ],
+      "Preview Voice": [
+        "Ouvir a voz"
+      ],
+      "Currently Active": [
+        "Ativa neste momento"
+      ],
+      "Browser Voices (Free)": [
+        "Vozes do navegador (gratuitas)"
+      ],
+      "Good for basic accessibility. Quality depends on visitor's browser and device.": [
+        "Boas para uma acessibilidade básica. A qualidade depende do navegador e do dispositivo do visitante."
+      ],
+      "AI Voices — Natural & Consistent": [
+        "Vozes de IA — naturais e consistentes"
+      ],
+      "Google Cloud TTS, ElevenLabs, ChatGPT TTS. 200+ premium voices. Same quality for every visitor.": [
+        "Google Cloud TTS, ElevenLabs, ChatGPT TTS. Mais de 200 vozes premium. A mesma qualidade para todos os visitantes."
+      ],
+      "There was an error saving your settings. Please try again.": [
+        "Ocorreu um erro ao guardar as tuas definições. Tenta novamente."
+      ],
+      "Finish Setup": [
+        "Concluir a configuração"
+      ],
+      "Next: Choose Voice": [
+        "Seguinte: escolher a voz"
+      ],
+      "Next: Hear the Difference": [
+        "Seguinte: ouvir a diferença"
+      ],
+      "Next: Check Content": [
+        "Seguinte: confirmar o conteúdo"
+      ],
+      "Next: Customize": [
+        "Seguinte: personalizar"
+      ],
+      "Next: Analytics": [
+        "Seguinte: análise"
+      ],
+      "AtlasVoice Setup": [
+        "Configuração do AtlasVoice"
+      ],
+      "Step": [
+        "Passo"
+      ],
+      "of": [
+        "de"
+      ],
+      "Skip Setup": [
+        "Ignorar a configuração"
+      ],
+      "Back": [
+        "Voltar"
+      ]
+    }
+  }
+}

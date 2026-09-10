@@ -1,0 +1,305 @@
+{
+  "translation-revision-date": "2026-09-10T07:03:27+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/tts-welcome-wizard.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Pro'ya Geç"
+      ],
+      "Listen": [
+        "Dinle"
+      ],
+      "Default": [
+        "Varsayılan"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Background Color": [
+        "Arka Plan Rengi"
+      ],
+      "Text Color": [
+        "Metin Rengi"
+      ],
+      "Saving...": [
+        "Kaydediliyor..."
+      ],
+      "Select All": [
+        "Tümünü Seç"
+      ],
+      "Border Color": [
+        "Kenarlık Rengi"
+      ],
+      "Border Radius": [
+        "Kenar Yuvarlaklığı"
+      ],
+      "Next": [
+        "Sonraki"
+      ],
+      "Opening…": [
+        "Açılıyor…"
+      ],
+      "Language": [
+        "Dil"
+      ],
+      "Voice": [
+        "Ses"
+      ],
+      "Track your audio player performance": [
+        "Ses oynatıcınızın başarımını izleyin"
+      ],
+      "See how visitors interact with your audio content. Analytics helps you understand what works.": [
+        "Ziyaretçilerin ses içeriğinizle nasıl etkileşim kurduğunu görün. Analizler, neyin işe yaradığını anlamanıza yardımcı olur."
+      ],
+      "Enable Analytics": [
+        "Analizleri Etkinleştir"
+      ],
+      "No published posts found. Analytics will start tracking once you publish content.": [
+        "Yayımlanmış yazı bulunamadı. İçerik yayımladığınızda analizler izlemeye başlayacak."
+      ],
+      "All posts are tracked by default. Pick specific posts below to track only those:": [
+        "Varsayılan olarak tüm yazılar izlenir. Yalnızca belirli yazıları izlemek için aşağıdan seçin:"
+      ],
+      "Deselect All": [
+        "Tüm Seçimi Kaldır"
+      ],
+      "Posts to track": [
+        "İzlenecek yazılar"
+      ],
+      "All posts will be tracked": [
+        "Tüm yazılar izlenecek"
+      ],
+      "selected": [
+        "seçildi"
+      ],
+      "AtlasVoice Pro adds geographic insights, device analytics, custom date ranges, and CSV/PDF exports.": [
+        "AtlasVoice Pro; coğrafi içgörüler, cihaz analizleri, özel tarih aralıkları ve CSV/PDF dışa aktarma ekler."
+      ],
+      "Learn about Pro Analytics": [
+        "Pro Analizler hakkında bilgi alın"
+      ],
+      "No published post is available to preview yet. Publish a post first, then verify.": [
+        "Önizlenecek yayımlanmış bir yazı henüz yok. Önce bir yazı yayımlayın, sonra doğrulayın."
+      ],
+      "Could not open the content preview. Please try again.": [
+        "İçerik önizlemesi açılamadı. Lütfen tekrar deneyin."
+      ],
+      "Check what gets read aloud": [
+        "Nelerin sesli okunduğunu denetleyin"
+      ],
+      "Before going live, make sure the player reads the right part of your content — and skips menus, sidebars, and footers. AtlasVoice starts in Staging (hidden from visitors) so you can verify it first, before the player goes live.": [
+        "Yayına almadan önce, oynatıcının içeriğinizin doğru bölümünü okuduğundan ve menüleri, kenar çubuklarını, alt bilgileri atladığından emin olun. AtlasVoice, Deneme kipinde başlar (ziyaretçilerden gizli); böylece oynatıcı yayına çıkmadan önce her şeyi doğrulayabilirsiniz."
+      ],
+      "Click “Open content preview” — a sample post opens in a new tab with the AtlasVoice Selector.": [
+        "\"İçerik önizlemesini aç\"a tıklayın — yeni bir sekmede AtlasVoice Selector ile birlikte örnek bir yazı açılır."
+      ],
+      "Open “Preview Content” on the right to see exactly what will be read. Adjust the content region if needed.": [
+        "Tam olarak neyin okunacağını görmek için sağdaki \"İçeriği Önizle\" bölümünü açın. Gerekirse içerik bölgesini ayarlayın."
+      ],
+      "Come back to this tab and continue — you’ll choose to Go Live on the last step.": [
+        "Bu sekmeye dönüp devam edin — Yayına Alma kararını son adımda vereceksiniz."
+      ],
+      "Open content preview again": [
+        "İçerik önizlemesini yeniden aç"
+      ],
+      "Open content preview": [
+        "İçerik önizlemesini aç"
+      ],
+      "Opened in a new tab. Verify it reads correctly, then return here and click Next.": [
+        "Yeni sekmede açıldı. Doğru okunduğunu doğrulayın, sonra buraya dönüp İleri'ye tıklayın."
+      ],
+      "This is optional but recommended. You can always re-run it later from the dashboard.": [
+        "Bu adım isteğe bağlıdır ama önerilir. Daha sonra kontrol panelinden istediğiniz zaman yeniden çalıştırabilirsiniz."
+      ],
+      "Learn how the Staging → Live workflow works →": [
+        "Deneme → Yayın akışının nasıl çalıştığını öğrenin →"
+      ],
+      "Tip: the player stays hidden from visitors while you’re in Staging, so you can verify it safely first.": [
+        "İpucu: Denemedeyken oynatıcı ziyaretçilerden gizli kalır; böylece önce güvenle doğrulayabilirsiniz."
+      ],
+      "Customize the player to match your theme": [
+        "Oynatıcıyı temanıza uyacak şekilde özelleştirin"
+      ],
+      "Pick colors and shape for the audio player button. Changes are previewed in real time below.": [
+        "Ses oynatıcı düğmesinin renklerini ve biçimini seçin. Değişiklikler aşağıda anında önizlenir."
+      ],
+      "Live Preview": [
+        "Canlı Önizleme"
+      ],
+      "You can fully customize the player anytime from the Customize tab — including size, position, margins, and custom CSS.": [
+        "Oynatıcıyı boyut, konum, kenar boşlukları ve özel CSS dahil olmak üzere Özelleştir sekmesinden istediğiniz zaman tamamen özelleştirebilirsiniz."
+      ],
+      "AtlasVoice Pro unlocks additional player designs, floating player positions, and MP3 downloads for visitors.": [
+        "AtlasVoice Pro; ek oynatıcı tasarımlarını, kayan oynatıcı konumlarını ve ziyaretçiler için MP3 indirmeyi açar."
+      ],
+      "See Pro Player Designs": [
+        "Pro Oynatıcı Tasarımlarını Gör"
+      ],
+      "Could not go live. Please try from the dashboard.": [
+        "Yayına alınamadı. Lütfen kontrol panelinden deneyin."
+      ],
+      "You’re live! 🎉": [
+        "Yayındasınız! 🎉"
+      ],
+      "The audio player is now visible to visitors on all your %s.": [
+        "Ses oynatıcısı artık tüm %s içeriğinizde ziyaretçilere görünüyor."
+      ],
+      "View Player on Your Site": [
+        "Oynatıcıyı Sitenizde Görün"
+      ],
+      "Go to Dashboard": [
+        "Kontrol Paneline Git"
+      ],
+      "Hear the live demo": [
+        "Canlı demoyu dinleyin"
+      ],
+      "Setup complete — you’re in Staging": [
+        "Kurulum tamamlandı — Denemedesiniz"
+      ],
+      "Your settings are saved, but the player is still hidden from visitors. When you’re happy with how your content reads, Go Live to show the player on your site.": [
+        "Ayarlarınız kaydedildi, ancak oynatıcı hâlâ ziyaretçilerden gizli. İçeriğinizin nasıl okunduğundan memnun kaldığınızda, oynatıcıyı sitenizde göstermek için Yayına Alın."
+      ],
+      "Going live…": [
+        "Yayına alınıyor…"
+      ],
+      "Go Live now": [
+        "Şimdi Yayına Al"
+      ],
+      "Stay in Staging": [
+        "Denemede Kal"
+      ],
+      "How does Staging → Live work? →": [
+        "Deneme → Yayın nasıl çalışır? →"
+      ],
+      "Explore all AtlasAiDev plugins": [
+        "Tüm AtlasAiDev eklentilerini keşfedin"
+      ],
+      "Hear the Difference": [
+        "Farkı Duyun"
+      ],
+      "Compare your free browser voice with Pro AI voices. Same text, dramatically different quality.": [
+        "Ücretsiz tarayıcı sesinizi Pro yapay zekâ sesleriyle karşılaştırın. Aynı metin, çok farklı kalite."
+      ],
+      "Your Current Voice": [
+        "Mevcut Sesiniz"
+      ],
+      "Browser TTS": [
+        "Tarayıcı TTS"
+      ],
+      "FREE": [
+        "ÜCRETSİZ"
+      ],
+      "VS": [
+        "KARŞI"
+      ],
+      "PRO": [
+        "PRO"
+      ],
+      "Preview unavailable": [
+        "Önizleme kullanılamıyor"
+      ],
+      "Unlock 200+ premium AI voices with Pro": [
+        "Pro ile 200'den fazla premium yapay zekâ sesini açın"
+      ],
+      "Every visitor hears the same high-quality audio. No browser dependency, consistent across all devices.": [
+        "Her ziyaretçi aynı yüksek kaliteli sesi duyar. Tarayıcıya bağımlılık yok, tüm cihazlarda tutarlı."
+      ],
+      "Explore Pro Plans": [
+        "Pro Planlarını İnceleyin"
+      ],
+      "Where should the audio player appear?": [
+        "Ses oynatıcısı nerede görünsün?"
+      ],
+      "By default, the player is added to all your Posts. You can change it to any single post type:": [
+        "Varsayılan olarak oynatıcı tüm Yazılarınıza eklenir. Bunu herhangi bir tek yazı türüyle değiştirebilirsiniz:"
+      ],
+      "Post type selection": [
+        "Yazı türü seçimi"
+      ],
+      "(%d published)": [
+        "(%d yayımlanmış)"
+      ],
+      "Free version supports 1 post type. Need multiple post types?": [
+        "Ücretsiz sürüm 1 yazı türünü destekler. Birden çok yazı türü mü gerekiyor?"
+      ],
+      "AtlasVoice Pro supports unlimited post types plus AI-powered voices.": [
+        "AtlasVoice Pro sınırsız yazı türünü ve yapay zekâ destekli sesleri destekler."
+      ],
+      "Choose your voice and language": [
+        "Sesinizi ve dilinizi seçin"
+      ],
+      "Select a browser voice for your audio player. Visitors will hear content read aloud using the Web Speech API.": [
+        "Ses oynatıcınız için bir tarayıcı sesi seçin. Ziyaretçiler içeriği Web Speech API ile sesli olarak duyacak."
+      ],
+      "All Languages": [
+        "Tüm Diller"
+      ],
+      "Loading voices...": [
+        "Sesler yükleniyor..."
+      ],
+      "Stop Preview": [
+        "Önizlemeyi Durdur"
+      ],
+      "Preview Voice": [
+        "Sesi Önizle"
+      ],
+      "Currently Active": [
+        "Şu Anda Etkin"
+      ],
+      "Browser Voices (Free)": [
+        "Tarayıcı Sesleri (Ücretsiz)"
+      ],
+      "Good for basic accessibility. Quality depends on visitor's browser and device.": [
+        "Temel erişilebilirlik için uygundur. Kalite, ziyaretçinin tarayıcısına ve cihazına bağlıdır."
+      ],
+      "AI Voices — Natural & Consistent": [
+        "Yapay Zekâ Sesleri — Doğal ve Tutarlı"
+      ],
+      "Google Cloud TTS, ElevenLabs, ChatGPT TTS. 200+ premium voices. Same quality for every visitor.": [
+        "Google Cloud TTS, ElevenLabs, ChatGPT TTS. 200'den fazla premium ses. Her ziyaretçi için aynı kalite."
+      ],
+      "There was an error saving your settings. Please try again.": [
+        "Ayarlarınız kaydedilirken bir hata oluştu. Lütfen tekrar deneyin."
+      ],
+      "Finish Setup": [
+        "Kurulumu Tamamla"
+      ],
+      "Next: Choose Voice": [
+        "Sonraki: Ses Seçimi"
+      ],
+      "Next: Hear the Difference": [
+        "Sonraki: Farkı Duyun"
+      ],
+      "Next: Check Content": [
+        "Sonraki: İçeriği Denetle"
+      ],
+      "Next: Customize": [
+        "Sonraki: Özelleştirme"
+      ],
+      "Next: Analytics": [
+        "Sonraki: Analizler"
+      ],
+      "AtlasVoice Setup": [
+        "AtlasVoice Kurulumu"
+      ],
+      "Step": [
+        "Adım"
+      ],
+      "of": [
+        "/"
+      ],
+      "Skip Setup": [
+        "Kurulumu Atla"
+      ],
+      "Back": [
+        "Geri"
+      ]
+    }
+  }
+}

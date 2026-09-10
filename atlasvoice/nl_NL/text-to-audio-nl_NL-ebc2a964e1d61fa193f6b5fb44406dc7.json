@@ -1,0 +1,122 @@
+{
+  "translation-revision-date": "2026-09-10T07:03:26+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/tts-css-selectors.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Opslaan"
+      ],
+      "Click To Know How It Works?": [
+        "Klik om te weten hoe het werkt?"
+      ],
+      "Loading...": [
+        "Laden..."
+      ],
+      "Include Content By CSS Selectors": [
+        "Inhoud opnemen met CSS-selectors"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Inhoud uitsluiten met CSS-selectors"
+      ],
+      "Exclude HTML Tags To Speak": [
+        "HTML-tags uitsluiten van voorlezen"
+      ],
+      "Exclude Texts To Speak": [
+        "Teksten uitsluiten van voorlezen"
+      ],
+      "Pick Visually": [
+        "Visueel kiezen"
+      ],
+      "Could not open the picker: ": [
+        "De kiezer kon niet worden geopend: "
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "De functie Inhoud opnemen met CSS-selectors is beschikbaar in de Pro-versie"
+      ],
+      "Multiple selector will be multiline.": [
+        "Meerdere selectors worden op aparte regels geplaatst."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Sommige inhoud kan ontbreken, deze kan gevonden worden met CSS-selectors"
+      ],
+      "Add CSS selectors for the content areas the player should read. One selector per line. Only target post/page body content. If left empty, the player automatically detects the content area.": [
+        "Voeg CSS-selectors toe voor de inhoudsgebieden die de speler moet voorlezen. Eén selector per regel. Richt je alleen op de hoofdtekst van berichten/pagina's. Laat je dit leeg, dan spoort de speler het inhoudsgebied automatisch op."
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "De functie Inhoud uitsluiten met CSS-selectors is beschikbaar in de Pro-versie"
+      ],
+      "Exclude content by CSS selectors": [
+        "Inhoud uitsluiten met CSS-selectors"
+      ],
+      "Remove specific elements within the included content areas above. One selector per line. Example: .social-share, .related-posts, .author-bio": [
+        "Verwijder specifieke elementen binnen de hierboven opgenomen inhoudsgebieden. Eén selector per regel. Voorbeeld: .social-share, .related-posts, .author-bio"
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "Meerdere tags worden gescheiden door Pipe(|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Tags uitsluiten is een Pro-functie."
+      ],
+      "HTML tags to skip within the included content. Pipe-separated. script, style, figure, and figcaption are always excluded automatically. Example: sub|sup|blockquote": [
+        "HTML-tags die binnen de opgenomen inhoud worden overgeslagen. Gescheiden door een verticale streep. script, style, figure en figcaption worden altijd automatisch uitgesloten. Voorbeeld: sub|sup|blockquote"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Teksten uitsluiten van voorlezen is een Pro-functie."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "Meerdere teksten worden gescheiden door Pipe(|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Teksten uitsluiten is een Pro-functie."
+      ],
+      "Exact text patterns to remove from the spoken content. Pipe-separated. Applied after all CSS and tag exclusions. Example: Read more...|Advertisement|Sponsored Content": [
+        "Exacte tekstpatronen die uit de gesproken inhoud worden gehaald. Gescheiden door een verticale streep. Worden toegepast na alle uitsluitingen op CSS en tags. Voorbeeld: Lees meer...|Advertentie|Gesponsorde inhoud"
+      ],
+      "Please save the post then try to add custom CSS selectors.": [
+        "Sla het bericht eerst op en probeer dan aangepaste CSS-selectors toe te voegen."
+      ],
+      "Empty value can not be saved. You can uncheck the \"Use Own CSS Selectors\" Option.": [
+        "Lege waarde kan niet worden opgeslagen. U kunt de optie \"Eigen CSS-selectors gebruiken\" uitvinken."
+      ],
+      "Settings Data Saved": [
+        "Instellingsgegevens opgeslagen"
+      ],
+      "Exclude Tags. So that its content skipped. Like (Subscript, Superscript etc.) This is a pro feature.": [
+        "Tags uitsluiten, zodat de inhoud ervan wordt overgeslagen. Zoals (subscript, superscript enz.) Dit is een Pro-functie."
+      ],
+      "CSS Selectors for This Post": [
+        "CSS-selectors voor dit bericht"
+      ],
+      "Override global content extraction settings for this post only.": [
+        "Overschrijf de algemene instellingen voor het ophalen van inhoud alleen voor dit bericht."
+      ],
+      "Open the visual picker for this post.": [
+        "Open de visuele kiezer voor dit bericht."
+      ],
+      "Enable \"Use Own CSS Selectors\" to edit this post's rule.": [
+        "Zet \"Eigen CSS-selectors gebruiken\" aan om de regel van dit bericht te bewerken."
+      ],
+      "Could not resolve this post URL. Save the post first.": [
+        "Deze bericht-URL kon niet worden herleid. Sla het bericht eerst op."
+      ],
+      "Use Own CSS Selectors": [
+        "Eigen CSS-selectors gebruiken"
+      ],
+      "Per-post CSS selectors is a pro feature.": [
+        "CSS-selectors per bericht is een Pro-functie."
+      ],
+      "When enabled, the selectors below override the global settings (Settings > CSS Selectors) for this post only. Only non-empty fields override — empty fields keep the global value.": [
+        "Als dit aanstaat, overschrijven de onderstaande selectors de algemene instellingen (Instellingen > CSS-selectors) alleen voor dit bericht. Alleen velden die zijn ingevuld overschrijven iets — lege velden houden de algemene waarde."
+      ],
+      "Exclude Tags. So that its content skiped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Tags uitsluiten. Zodat de inhoud ervan wordt overgeslagen. Zoals (Subscript, Superscript enz.) Dit is een Pro-functie."
+      ]
+    }
+  }
+}

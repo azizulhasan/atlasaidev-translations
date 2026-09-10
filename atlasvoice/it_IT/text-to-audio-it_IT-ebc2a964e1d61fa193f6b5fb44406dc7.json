@@ -1,0 +1,122 @@
+{
+  "translation-revision-date": "2026-09-10T07:03:26+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/tts-css-selectors.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Save": [
+        "Salva"
+      ],
+      "Click To Know How It Works?": [
+        "Clicca per sapere come funziona?"
+      ],
+      "Loading...": [
+        "Caricamento..."
+      ],
+      "Include Content By CSS Selectors": [
+        "Includi Contenuto per Selettori CSS"
+      ],
+      "Exclude Content By CSS Selectors": [
+        "Escludi Contenuto per Selettori CSS"
+      ],
+      "Exclude HTML Tags To Speak": [
+        "Escludi Tag HTML dalla Lettura"
+      ],
+      "Exclude Texts To Speak": [
+        "Escludi Testi dalla Lettura"
+      ],
+      "Pick Visually": [
+        "Scegli visivamente"
+      ],
+      "Could not open the picker: ": [
+        "Impossibile aprire il selettore: "
+      ],
+      "Include Content By CSS Selectors feature is available in pro version": [
+        "La funzionalità Includi Contenuto per Selettori CSS è disponibile nella versione pro"
+      ],
+      "Multiple selector will be multiline.": [
+        "I selettori multipli saranno su più righe."
+      ],
+      "Some content may be missing, It can be found by css selectors": [
+        "Alcuni contenuti potrebbero mancare, possono essere trovati tramite selettori CSS"
+      ],
+      "Add CSS selectors for the content areas the player should read. One selector per line. Only target post/page body content. If left empty, the player automatically detects the content area.": [
+        "Aggiungi i selettori CSS delle aree di contenuto che il lettore deve leggere. Un selettore per riga. Indica solo il corpo dell'articolo o della pagina. Se lasci vuoto, il lettore rileva automaticamente l'area del contenuto."
+      ],
+      "Exclude Content By CSS Selectors feature is available in pro version": [
+        "La funzionalità Escludi Contenuto per Selettori CSS è disponibile nella versione pro"
+      ],
+      "Exclude content by CSS selectors": [
+        "Escludi contenuto per selettori CSS"
+      ],
+      "Remove specific elements within the included content areas above. One selector per line. Example: .social-share, .related-posts, .author-bio": [
+        "Rimuovi elementi specifici all'interno delle aree di contenuto incluse sopra. Un selettore per riga. Esempio: .social-share, .related-posts, .author-bio"
+      ],
+      "Multiple Tags Will Be Pipe(|) Separated.": [
+        "I Tag multipli saranno separati da Pipe(|)."
+      ],
+      "Exclude tags is a pro feature.": [
+        "Escludere tag è una funzionalità pro."
+      ],
+      "HTML tags to skip within the included content. Pipe-separated. script, style, figure, and figcaption are always excluded automatically. Example: sub|sup|blockquote": [
+        "Tag HTML da saltare all'interno del contenuto incluso. Separati da barra verticale. script, style, figure e figcaption sono sempre esclusi automaticamente. Esempio: sub|sup|blockquote"
+      ],
+      "Excluding texts to be spoken is a pro feature.": [
+        "Escludere testi dalla lettura è una funzionalità pro."
+      ],
+      "Multiple Texts Will Be Pipe(|) Separated.": [
+        "I Testi multipli saranno separati da Pipe(|)."
+      ],
+      "Exclude texts is a pro feature.": [
+        "Escludere testi è una funzionalità pro."
+      ],
+      "Exact text patterns to remove from the spoken content. Pipe-separated. Applied after all CSS and tag exclusions. Example: Read more...|Advertisement|Sponsored Content": [
+        "Testi esatti da rimuovere dal contenuto pronunciato. Separati da barra verticale. Applicati dopo tutte le esclusioni di CSS e tag. Esempio: Leggi di più...|Pubblicità|Contenuto sponsorizzato"
+      ],
+      "Please save the post then try to add custom CSS selectors.": [
+        "Salva l'articolo e poi prova ad aggiungere selettori CSS personalizzati."
+      ],
+      "Empty value can not be saved. You can uncheck the \"Use Own CSS Selectors\" Option.": [
+        "Il valore vuoto non può essere salvato. Puoi deselezionare l'opzione \"Usa Selettori CSS Propri\"."
+      ],
+      "Settings Data Saved": [
+        "Dati Impostazioni Salvati"
+      ],
+      "Exclude Tags. So that its content skipped. Like (Subscript, Superscript etc.) This is a pro feature.": [
+        "Escludi i tag, così il loro contenuto viene saltato. Come (pedice, apice ecc.) Questa è una funzione Pro."
+      ],
+      "CSS Selectors for This Post": [
+        "Selettori CSS per questo articolo"
+      ],
+      "Override global content extraction settings for this post only.": [
+        "Sovrascrivi le impostazioni globali di estrazione del contenuto solo per questo articolo."
+      ],
+      "Open the visual picker for this post.": [
+        "Apri il selettore visivo per questo articolo."
+      ],
+      "Enable \"Use Own CSS Selectors\" to edit this post's rule.": [
+        "Attiva \"Usa selettori CSS personalizzati\" per modificare la regola di questo articolo."
+      ],
+      "Could not resolve this post URL. Save the post first.": [
+        "Impossibile determinare l'URL di questo articolo. Salvalo prima."
+      ],
+      "Use Own CSS Selectors": [
+        "Usa Selettori CSS Propri"
+      ],
+      "Per-post CSS selectors is a pro feature.": [
+        "I selettori CSS per singolo articolo sono una funzione Pro."
+      ],
+      "When enabled, the selectors below override the global settings (Settings > CSS Selectors) for this post only. Only non-empty fields override — empty fields keep the global value.": [
+        "Se attivo, i selettori qui sotto sovrascrivono le impostazioni globali (Impostazioni > Selettori CSS) solo per questo articolo. Sovrascrivono solo i campi non vuoti — i campi vuoti mantengono il valore globale."
+      ],
+      "Exclude Tags. So that its content skiped. Like ( Subscript, Superscript etc.) This is a pro feature.": [
+        "Escludi Tag. In modo che il loro contenuto venga saltato. Come (Subscript, Superscript ecc.) Questa è una funzionalità pro."
+      ]
+    }
+  }
+}

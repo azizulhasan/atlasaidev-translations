@@ -1,0 +1,305 @@
+{
+  "translation-revision-date": "2026-09-10T07:03:26+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/tts-welcome-wizard.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Upgrade to Pro": [
+        "Pro にアップグレード"
+      ],
+      "Listen": [
+        "再生"
+      ],
+      "Default": [
+        "既定"
+      ],
+      "Pro": [
+        "Pro"
+      ],
+      "Background Color": [
+        "背景色"
+      ],
+      "Text Color": [
+        "文字色"
+      ],
+      "Saving...": [
+        "保存中..."
+      ],
+      "Select All": [
+        "すべて選択"
+      ],
+      "Border Color": [
+        "枠線の色"
+      ],
+      "Border Radius": [
+        "角丸の半径"
+      ],
+      "Next": [
+        "次へ"
+      ],
+      "Opening…": [
+        "開いています…"
+      ],
+      "Language": [
+        "言語"
+      ],
+      "Voice": [
+        "音声"
+      ],
+      "Track your audio player performance": [
+        "音声プレーヤーの成果を計測"
+      ],
+      "See how visitors interact with your audio content. Analytics helps you understand what works.": [
+        "訪問者が音声コンテンツをどのように利用しているかを確認できます。分析を使えば、何が効果的かを把握できます。"
+      ],
+      "Enable Analytics": [
+        "分析を有効にする"
+      ],
+      "No published posts found. Analytics will start tracking once you publish content.": [
+        "公開済みの投稿が見つかりません。コンテンツを公開すると、分析の記録が始まります。"
+      ],
+      "All posts are tracked by default. Pick specific posts below to track only those:": [
+        "既定ではすべての投稿が追跡対象です。特定の投稿だけを追跡する場合は、下で選択してください:"
+      ],
+      "Deselect All": [
+        "すべて解除"
+      ],
+      "Posts to track": [
+        "追跡する投稿"
+      ],
+      "All posts will be tracked": [
+        "すべての投稿が追跡されます"
+      ],
+      "selected": [
+        "件選択中"
+      ],
+      "AtlasVoice Pro adds geographic insights, device analytics, custom date ranges, and CSV/PDF exports.": [
+        "AtlasVoice Pro では、地域別の分析、デバイス分析、期間の指定、CSV/PDF エクスポートが追加されます。"
+      ],
+      "Learn about Pro Analytics": [
+        "Pro の分析機能について知る"
+      ],
+      "No published post is available to preview yet. Publish a post first, then verify.": [
+        "プレビューできる公開済みの投稿がまだありません。先に投稿を公開してから確認してください。"
+      ],
+      "Could not open the content preview. Please try again.": [
+        "コンテンツのプレビューを開けませんでした。もう一度お試しください。"
+      ],
+      "Check what gets read aloud": [
+        "読み上げられる内容を確認しましょう"
+      ],
+      "Before going live, make sure the player reads the right part of your content — and skips menus, sidebars, and footers. AtlasVoice starts in Staging (hidden from visitors) so you can verify it first, before the player goes live.": [
+        "公開する前に、プレーヤーがコンテンツの正しい部分を読み上げ、メニュー・サイドバー・フッターを読み飛ばすことを確認してください。AtlasVoice はステージング (訪問者からは非表示) の状態で始まるため、公開前に安全に確認できます。"
+      ],
+      "Click “Open content preview” — a sample post opens in a new tab with the AtlasVoice Selector.": [
+        "「コンテンツのプレビューを開く」をクリックすると、AtlasVoice Selector 付きのサンプル投稿が新しいタブで開きます。"
+      ],
+      "Open “Preview Content” on the right to see exactly what will be read. Adjust the content region if needed.": [
+        "右側の「コンテンツをプレビュー」を開くと、実際に読み上げられる内容を確認できます。必要に応じてコンテンツ領域を調整してください。"
+      ],
+      "Come back to this tab and continue — you’ll choose to Go Live on the last step.": [
+        "このタブに戻って先へ進んでください。公開するかどうかは最後のステップで選択します。"
+      ],
+      "Open content preview again": [
+        "コンテンツのプレビューをもう一度開く"
+      ],
+      "Open content preview": [
+        "コンテンツのプレビューを開く"
+      ],
+      "Opened in a new tab. Verify it reads correctly, then return here and click Next.": [
+        "新しいタブで開きました。正しく読み上げられることを確認したら、ここに戻って「次へ」をクリックしてください。"
+      ],
+      "This is optional but recommended. You can always re-run it later from the dashboard.": [
+        "この手順は任意ですが、実施をおすすめします。あとからダッシュボードでいつでもやり直せます。"
+      ],
+      "Learn how the Staging → Live workflow works →": [
+        "ステージング → 公開のワークフローについて知る →"
+      ],
+      "Tip: the player stays hidden from visitors while you’re in Staging, so you can verify it safely first.": [
+        "ヒント: ステージング中はプレーヤーが訪問者から見えないため、安心して先に確認できます。"
+      ],
+      "Customize the player to match your theme": [
+        "テーマに合わせてプレーヤーをカスタマイズ"
+      ],
+      "Pick colors and shape for the audio player button. Changes are previewed in real time below.": [
+        "音声プレーヤーのボタンの色と形を選びます。変更は下でリアルタイムにプレビューされます。"
+      ],
+      "Live Preview": [
+        "ライブプレビュー"
+      ],
+      "You can fully customize the player anytime from the Customize tab — including size, position, margins, and custom CSS.": [
+        "サイズ、位置、余白、カスタム CSS など、プレーヤーは「カスタマイズ」タブからいつでも細かく調整できます。"
+      ],
+      "AtlasVoice Pro unlocks additional player designs, floating player positions, and MP3 downloads for visitors.": [
+        "AtlasVoice Pro では、追加のプレーヤーデザイン、フローティングプレーヤーの位置、訪問者向けの MP3 ダウンロードが利用できます。"
+      ],
+      "See Pro Player Designs": [
+        "Pro のプレーヤーデザインを見る"
+      ],
+      "Could not go live. Please try from the dashboard.": [
+        "公開できませんでした。ダッシュボードからお試しください。"
+      ],
+      "You’re live! 🎉": [
+        "公開しました! 🎉"
+      ],
+      "The audio player is now visible to visitors on all your %s.": [
+        "音声プレーヤーが、すべての%sで訪問者に表示されるようになりました。"
+      ],
+      "View Player on Your Site": [
+        "サイトでプレーヤーを見る"
+      ],
+      "Go to Dashboard": [
+        "ダッシュボードへ移動"
+      ],
+      "Hear the live demo": [
+        "ライブデモを聴く"
+      ],
+      "Setup complete — you’re in Staging": [
+        "設定が完了しました — 現在はステージングです"
+      ],
+      "Your settings are saved, but the player is still hidden from visitors. When you’re happy with how your content reads, Go Live to show the player on your site.": [
+        "設定は保存されましたが、プレーヤーはまだ訪問者から見えません。コンテンツの読み上げに満足できたら、公開してサイトにプレーヤーを表示しましょう。"
+      ],
+      "Going live…": [
+        "公開しています…"
+      ],
+      "Go Live now": [
+        "今すぐ公開"
+      ],
+      "Stay in Staging": [
+        "ステージングのままにする"
+      ],
+      "How does Staging → Live work? →": [
+        "ステージング → 公開の仕組みとは? →"
+      ],
+      "Explore all AtlasAiDev plugins": [
+        "AtlasAiDev のプラグインをすべて見る"
+      ],
+      "Hear the Difference": [
+        "違いを聴き比べる"
+      ],
+      "Compare your free browser voice with Pro AI voices. Same text, dramatically different quality.": [
+        "無料のブラウザー音声と Pro の AI 音声を比べてみましょう。同じテキストでも、品質は大きく異なります。"
+      ],
+      "Your Current Voice": [
+        "現在の音声"
+      ],
+      "Browser TTS": [
+        "ブラウザー TTS"
+      ],
+      "FREE": [
+        "無料"
+      ],
+      "VS": [
+        "VS"
+      ],
+      "PRO": [
+        "PRO"
+      ],
+      "Preview unavailable": [
+        "プレビューを利用できません"
+      ],
+      "Unlock 200+ premium AI voices with Pro": [
+        "Pro で 200 種類以上のプレミアム AI 音声を利用しましょう"
+      ],
+      "Every visitor hears the same high-quality audio. No browser dependency, consistent across all devices.": [
+        "どの訪問者にも同じ高品質な音声が届きます。ブラウザーに依存せず、すべてのデバイスで一貫した品質です。"
+      ],
+      "Explore Pro Plans": [
+        "Pro のプランを見る"
+      ],
+      "Where should the audio player appear?": [
+        "音声プレーヤーをどこに表示しますか?"
+      ],
+      "By default, the player is added to all your Posts. You can change it to any single post type:": [
+        "既定では、プレーヤーはすべての投稿に追加されます。任意の投稿タイプ 1 つに変更できます:"
+      ],
+      "Post type selection": [
+        "投稿タイプの選択"
+      ],
+      "(%d published)": [
+        "(公開済み %d 件)"
+      ],
+      "Free version supports 1 post type. Need multiple post types?": [
+        "無料版では投稿タイプを 1 つ利用できます。複数の投稿タイプが必要ですか?"
+      ],
+      "AtlasVoice Pro supports unlimited post types plus AI-powered voices.": [
+        "AtlasVoice Pro なら投稿タイプは無制限で、AI 音声も利用できます。"
+      ],
+      "Choose your voice and language": [
+        "音声と言語を選択"
+      ],
+      "Select a browser voice for your audio player. Visitors will hear content read aloud using the Web Speech API.": [
+        "音声プレーヤーで使うブラウザー音声を選びます。訪問者は Web Speech API を使った読み上げでコンテンツを聴きます。"
+      ],
+      "All Languages": [
+        "すべての言語"
+      ],
+      "Loading voices...": [
+        "音声を読み込んでいます..."
+      ],
+      "Stop Preview": [
+        "プレビューを停止"
+      ],
+      "Preview Voice": [
+        "音声をプレビュー"
+      ],
+      "Currently Active": [
+        "現在有効"
+      ],
+      "Browser Voices (Free)": [
+        "ブラウザー音声 (無料)"
+      ],
+      "Good for basic accessibility. Quality depends on visitor's browser and device.": [
+        "基本的なアクセシビリティに適しています。品質は訪問者のブラウザーやデバイスによって異なります。"
+      ],
+      "AI Voices — Natural & Consistent": [
+        "AI 音声 — 自然で安定した品質"
+      ],
+      "Google Cloud TTS, ElevenLabs, ChatGPT TTS. 200+ premium voices. Same quality for every visitor.": [
+        "Google Cloud TTS、ElevenLabs、ChatGPT TTS。200 種類以上のプレミアム音声。すべての訪問者に同じ品質でお届けします。"
+      ],
+      "There was an error saving your settings. Please try again.": [
+        "設定の保存中にエラーが発生しました。もう一度お試しください。"
+      ],
+      "Finish Setup": [
+        "設定を完了"
+      ],
+      "Next: Choose Voice": [
+        "次へ: 音声を選択"
+      ],
+      "Next: Hear the Difference": [
+        "次へ: 違いを聴き比べる"
+      ],
+      "Next: Check Content": [
+        "次へ: コンテンツを確認"
+      ],
+      "Next: Customize": [
+        "次へ: カスタマイズ"
+      ],
+      "Next: Analytics": [
+        "次へ: 分析"
+      ],
+      "AtlasVoice Setup": [
+        "AtlasVoice のセットアップ"
+      ],
+      "Step": [
+        "ステップ"
+      ],
+      "of": [
+        "/"
+      ],
+      "Skip Setup": [
+        "セットアップをスキップ"
+      ],
+      "Back": [
+        "戻る"
+      ]
+    }
+  }
+}
