@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-09-09T14:27:19+01:00",
+  "translation-revision-date": "2026-09-10T04:48:50+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-dashboard-ui.js",
   "domain": "messages",
@@ -9,6 +9,12 @@
         "domain": "messages",
         "plural": "nplurals=1; plural=0;"
       },
+      "Our Plugins": [
+        "Os nossos plugins"
+      ],
+      "Pricing": [
+        "Preços"
+      ],
       "Last 7 Days": [
         "Últimos 7 Dias"
       ],
@@ -17,6 +23,9 @@
       ],
       "Cancel": [
         "Cancelar"
+      ],
+      "Docs": [
+        "Documentação"
       ],
       "Save": [
         "Salvar"
@@ -50,6 +59,9 @@
       ],
       "Click To Know How It Works?": [
         "Clique Para Saber Como Funciona?"
+      ],
+      "Settings": [
+        "Configurações"
       ],
       "Pro": [
         "Pro"
@@ -1673,6 +1685,21 @@
       ],
       "Custom": [
         "Personalizado"
+      ],
+      "Integrations": [
+        "Integrações"
+      ],
+      "Listening": [
+        "Audição"
+      ],
+      "Highlight": [
+        "Destaque"
+      ],
+      "Compatibility": [
+        "Compatibilidade"
+      ],
+      "Aliases": [
+        "Aliases"
       ],
       "Live demo": [
         "Demonstração ao vivo"

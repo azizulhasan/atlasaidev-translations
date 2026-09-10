@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-09-09T14:27:19+01:00",
+  "translation-revision-date": "2026-09-10T04:48:51+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-dashboard-ui.js",
   "domain": "messages",
@@ -9,6 +9,12 @@
         "domain": "messages",
         "plural": "nplurals=1; plural=0;"
       },
+      "Our Plugins": [
+        "Eklentilerimiz"
+      ],
+      "Pricing": [
+        "Fiyatlandırma"
+      ],
       "Last 7 Days": [
         "Son 7 Gün"
       ],
@@ -17,6 +23,9 @@
       ],
       "Cancel": [
         "İptal"
+      ],
+      "Docs": [
+        "Belgeler"
       ],
       "Save": [
         "Kaydet"
@@ -50,6 +59,9 @@
       ],
       "Click To Know How It Works?": [
         "Nasıl çalıştığını görmek için tıklayın"
+      ],
+      "Settings": [
+        "Ayarlar"
       ],
       "Pro": [
         "Pro"
@@ -1673,6 +1685,21 @@
       ],
       "Custom": [
         "Özel"
+      ],
+      "Integrations": [
+        "Entegrasyonlar"
+      ],
+      "Listening": [
+        "Dinleme"
+      ],
+      "Highlight": [
+        "Vurgulama"
+      ],
+      "Compatibility": [
+        "Uyumluluk"
+      ],
+      "Aliases": [
+        "Takma adlar"
       ],
       "Live demo": [
         "Canlı demo"

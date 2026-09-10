@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-09-09T14:27:17+01:00",
+  "translation-revision-date": "2026-09-10T04:48:48+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-button.js",
   "domain": "messages",
@@ -23,6 +23,18 @@
       ],
       "Player settings": [
         "Player-Einstellungen"
+      ],
+      "Unmute audio": [
+        "Ton einschalten"
+      ],
+      "Mute audio": [
+        "Ton stummschalten"
+      ],
+      "Unmute": [
+        "Stummschaltung aufheben"
+      ],
+      "Mute": [
+        "Stummschalten"
       ],
       "Player Settings": [
         "Player-Einstellungen"
@@ -50,18 +62,6 @@
       ],
       "Volume": [
         "Lautstaerke"
-      ],
-      "Unmute": [
-        "Stummschaltung aufheben"
-      ],
-      "Mute": [
-        "Stummschalten"
-      ],
-      "Unmute audio": [
-        "Ton einschalten"
-      ],
-      "Mute audio": [
-        "Ton stummschalten"
       ],
       "From here": [
         "Ab hier"

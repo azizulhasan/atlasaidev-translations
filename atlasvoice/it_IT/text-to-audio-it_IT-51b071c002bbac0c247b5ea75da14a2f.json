@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-09-09T14:27:18+01:00",
+  "translation-revision-date": "2026-09-10T04:48:49+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-button.js",
   "domain": "messages",
@@ -23,6 +23,18 @@
       ],
       "Player settings": [
         "Impostazioni del lettore"
+      ],
+      "Unmute audio": [
+        "Riattiva audio"
+      ],
+      "Mute audio": [
+        "Disattiva audio"
+      ],
+      "Unmute": [
+        "Riattiva audio"
+      ],
+      "Mute": [
+        "Disattiva audio"
       ],
       "Player Settings": [
         "Impostazioni del Lettore"
@@ -50,18 +62,6 @@
       ],
       "Volume": [
         "Volume"
-      ],
-      "Unmute": [
-        "Riattiva audio"
-      ],
-      "Mute": [
-        "Disattiva audio"
-      ],
-      "Unmute audio": [
-        "Riattiva audio"
-      ],
-      "Mute audio": [
-        "Disattiva audio"
       ],
       "From here": [
         "Da qui"

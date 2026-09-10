@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-09-09T14:27:19+01:00",
+  "translation-revision-date": "2026-09-10T04:48:50+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-button.js",
   "domain": "messages",
@@ -23,6 +23,18 @@
       ],
       "Player settings": [
         "Configurações do leitor"
+      ],
+      "Unmute audio": [
+        "Avocêvar o som"
+      ],
+      "Mute audio": [
+        "Silenciar o som"
+      ],
+      "Unmute": [
+        "Ativar Som"
+      ],
+      "Mute": [
+        "Silenciar"
       ],
       "Player Settings": [
         "Configurações do Player"
@@ -50,18 +62,6 @@
       ],
       "Volume": [
         "Volume"
-      ],
-      "Unmute": [
-        "Ativar Som"
-      ],
-      "Mute": [
-        "Silenciar"
-      ],
-      "Unmute audio": [
-        "Avocêvar o som"
-      ],
-      "Mute audio": [
-        "Silenciar o som"
       ],
       "From here": [
         "A parvocêr daqui"

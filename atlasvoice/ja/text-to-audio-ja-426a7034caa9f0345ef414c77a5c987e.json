@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-09-09T14:27:18+01:00",
+  "translation-revision-date": "2026-09-10T04:48:49+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-dashboard-ui.js",
   "domain": "messages",
@@ -9,6 +9,12 @@
         "domain": "messages",
         "plural": "nplurals=1; plural=0;"
       },
+      "Our Plugins": [
+        "プラグイン一覧"
+      ],
+      "Pricing": [
+        "料金プラン"
+      ],
       "Last 7 Days": [
         "過去 7 日間"
       ],
@@ -17,6 +23,9 @@
       ],
       "Cancel": [
         "キャンセル"
+      ],
+      "Docs": [
+        "ドキュメント"
       ],
       "Save": [
         "保存"
@@ -50,6 +59,9 @@
       ],
       "Click To Know How It Works?": [
         "使い方を見る"
+      ],
+      "Settings": [
+        "設定"
       ],
       "Pro": [
         "Pro"
@@ -1673,6 +1685,21 @@
       ],
       "Custom": [
         "カスタム"
+      ],
+      "Integrations": [
+        "連携"
+      ],
+      "Listening": [
+        "読み上げ"
+      ],
+      "Highlight": [
+        "ハイライト"
+      ],
+      "Compatibility": [
+        "互換性"
+      ],
+      "Aliases": [
+        "別名設定"
       ],
       "Live demo": [
         "ライブデモ"

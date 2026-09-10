@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-09-09T14:27:20+01:00",
+  "translation-revision-date": "2026-09-10T04:48:51+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-button.js",
   "domain": "messages",
@@ -23,6 +23,18 @@
       ],
       "Player settings": [
         "Cài đặt trình phát"
+      ],
+      "Unmute audio": [
+        "Bật tiếng"
+      ],
+      "Mute audio": [
+        "Tắt tiếng"
+      ],
+      "Unmute": [
+        "Bật tiếng"
+      ],
+      "Mute": [
+        "Tắt tiếng"
       ],
       "Player Settings": [
         "Cài đặt trình phát"
@@ -50,18 +62,6 @@
       ],
       "Volume": [
         "Âm lượng"
-      ],
-      "Unmute": [
-        "Bật tiếng"
-      ],
-      "Mute": [
-        "Tắt tiếng"
-      ],
-      "Unmute audio": [
-        "Bật tiếng"
-      ],
-      "Mute audio": [
-        "Tắt tiếng"
       ],
       "From here": [
         "Từ đây"

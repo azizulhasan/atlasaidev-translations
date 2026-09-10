@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-09-09T14:27:20+01:00",
+  "translation-revision-date": "2026-09-10T04:48:51+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-dashboard-ui.js",
   "domain": "messages",
@@ -9,6 +9,12 @@
         "domain": "messages",
         "plural": "nplurals=1; plural=0;"
       },
+      "Our Plugins": [
+        "Plugin của chúng tôi"
+      ],
+      "Pricing": [
+        "Bảng giá"
+      ],
       "Last 7 Days": [
         "7 ngày qua"
       ],
@@ -17,6 +23,9 @@
       ],
       "Cancel": [
         "Hủy"
+      ],
+      "Docs": [
+        "Tài liệu"
       ],
       "Save": [
         "Lưu"
@@ -50,6 +59,9 @@
       ],
       "Click To Know How It Works?": [
         "Nhấp để xem cách hoạt động"
+      ],
+      "Settings": [
+        "Cài đặt"
       ],
       "Pro": [
         "Pro"
@@ -1673,6 +1685,21 @@
       ],
       "Custom": [
         "Tùy chỉnh"
+      ],
+      "Integrations": [
+        "Tích hợp"
+      ],
+      "Listening": [
+        "Nghe"
+      ],
+      "Highlight": [
+        "Tô sáng"
+      ],
+      "Compatibility": [
+        "Tương thích"
+      ],
+      "Aliases": [
+        "Bí danh"
       ],
       "Live demo": [
         "Bản demo trực tiếp"

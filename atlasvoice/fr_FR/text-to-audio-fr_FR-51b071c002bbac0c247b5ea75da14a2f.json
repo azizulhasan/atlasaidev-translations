@@ -1,5 +1,5 @@
 {
-  "translation-revision-date": "2026-09-09T14:27:18+01:00",
+  "translation-revision-date": "2026-09-10T04:48:48+01:00",
   "generator": "generate-translations.js",
   "source": "admin/js/build/text-to-audio-button.js",
   "domain": "messages",
@@ -23,6 +23,18 @@
       ],
       "Player settings": [
         "Réglages du lecteur"
+      ],
+      "Unmute audio": [
+        "Rétablir le son"
+      ],
+      "Mute audio": [
+        "Couper le son"
+      ],
+      "Unmute": [
+        "Réactiver le son"
+      ],
+      "Mute": [
+        "Couper le son"
       ],
       "Player Settings": [
         "Paramètres du lecteur"
@@ -50,18 +62,6 @@
       ],
       "Volume": [
         "Volume"
-      ],
-      "Unmute": [
-        "Réactiver le son"
-      ],
-      "Mute": [
-        "Couper le son"
-      ],
-      "Unmute audio": [
-        "Rétablir le son"
-      ],
-      "Mute audio": [
-        "Couper le son"
       ],
       "From here": [
         "À partir d'ici"
