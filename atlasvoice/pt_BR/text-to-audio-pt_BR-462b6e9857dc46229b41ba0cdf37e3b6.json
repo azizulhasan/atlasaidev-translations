@@ -1,0 +1,35 @@
+{
+  "translation-revision-date": "2026-09-10T06:53:39+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/TextToSpeech.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Listen": [
+        "Ouvir"
+      ],
+      "From here": [
+        "A parvocêr daqui"
+      ],
+      "Listen to the selected text": [
+        "Ouvir o texto selecionado"
+      ],
+      "Listen from here to the end": [
+        "Ouvir daqui até ao fim"
+      ],
+      "Tip: select any text in the article to listen to just that part.": [
+        "Sugestão: seleciona qualquer texto do arvocêgo para ouvir apenas essa parte."
+      ],
+      "Select any text to listen to it": [
+        "Selecione qualquer texto para o ouvir"
+      ],
+      "Dismiss": [
+        "Dispensar"
+      ]
+    }
+  }
+}

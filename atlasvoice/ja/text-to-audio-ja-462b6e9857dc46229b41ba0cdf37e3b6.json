@@ -1,0 +1,35 @@
+{
+  "translation-revision-date": "2026-09-10T06:53:38+01:00",
+  "generator": "generate-translations.js",
+  "source": "admin/js/build/TextToSpeech.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural": "nplurals=1; plural=0;"
+      },
+      "Listen": [
+        "再生"
+      ],
+      "From here": [
+        "ここから"
+      ],
+      "Listen to the selected text": [
+        "選択したテキストを読み上げる"
+      ],
+      "Listen from here to the end": [
+        "ここから最後まで読み上げる"
+      ],
+      "Tip: select any text in the article to listen to just that part.": [
+        "ヒント: 記事内のテキストを選択すると、その部分だけを聴くことができます。"
+      ],
+      "Select any text to listen to it": [
+        "テキストを選択すると読み上げられます"
+      ],
+      "Dismiss": [
+        "閉じる"
+      ]
+    }
+  }
+}
